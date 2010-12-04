@@ -1,0 +1,44 @@
+Update on my Pro-Jection system:
+
+     So far everything has been great. It's been eight months since I first installed the Pro-
+Jection and I have been very happy with it. I have gotten everything I expected, but I went in
+search of a little better gas mileage and tweaking tips. I called Holley and spoke with Jimmy
+who is their main guy on the Pro-Jection kits. He gave me a few things to check fix and assured
+me it would make a great difference. First of all I asked him about the closed loop kit option that
+could be added on. He told me that this is not a cure for problems, rather a fine tuner. It doesn't
+affect choke operation or anything above 3/4 throttle. I decide than to work on the other things
+he told me and forget about the closed loop kit right now. He said the most important thing to
+the operation of the unit is a properly functioning 195 degree thermostat. Since I had never
+changed/checked mine when I swapped motors this is where I started. When I got inside, I found
+out I had a 180 thermostat, so I got a new 195 and installed it. One by product of this was much
+better heat in the truck. I also seems to cool better as well. Second is to check the TPS (throttle
+position sensor). It needs to be at 0.68 volts at idle. Mine was set at .73 so I adjusted it. The
+adjustment involves loosening the mounting screws ans rotating the sensor sightly until the
+desire voltage is obtained across the black and dark blue wires. After this, the truck ran smoother
+at idle. Last but not least was to check the fuel pressure. He said for this application to set it at
+13 lbs. I installed a fuel pressure gauge in line since there is not test port and discovered that my
+fuel pressure was at 10 lbs. By turning the screw on top of the regulator at the throttle body I was
+able to obtain the 13 lbs. reading. So, you ask, how did all this affect performance/driveability?
+Well, I got everything back together and took it for a spin. I though it ran good before, but now
+it's even better. It starts easier than before, and the power is dramatically increased, especially
+off-idle. I just filled up right after making these adjustments, so if I can keep my foot out of it, I
+expect better mileage. Hopefully this helps anyone who may read this article and install the kit.
+As before, feel free to email me with any questions you may have.
+
+From: Jeff Wilson [mailto:jwilson@shore.intercom.net]
+Sent: Wednesday, October 22, 1997 8:38 PM
+To: dgray@off-road.com
+Subject: Re: Holley Pro-Jection review I wrote
+
+
+Here is the tech stuff. The attached file is called pjtech.txt. If you want
+a picture of my fuel pressure gauge setup I installed let me know and I'll
+take one and email it to you. I finally got a scanner, so I can scan them my
+self now.
+
+Jeff Wilson 82 CJ-7 -- 258 w/Pro-Jection
+jwilson@shore.intercom.net
+http://www.intercom.net/user/jwilson/jeep.htm
+member, Eastern Shore Jeep Association
+
+

@@ -1,0 +1,56 @@
+
+
+<table>
+<tr><th colspan=4 align=center><font size=4>Bolt Grade/Tensil Strength</font></th></tr>
+<tr><th>Grade</th><th>Dia(in)</th><th>Coarse(lbs)</th><th>Fine(lbs)</th></tr>
+	
+<tr><td>2</td><td>1/4</td><td>2350</td><td>2700</td></tr>
+<tr><td></td><td>5/16</td><td>3900</td><td>4300</td></tr>
+<tr><td></td><td>7/16</td><td>7850</td><td>8800</td></tr>
+<tr><td></td><td>1/2</td><td>10500</td><td>11800</td></tr>
+<tr><td></td><td>9/16</td><td>13500</td><td>15000</td></tr>
+<tr><td></td><td>5/8</td><td>16700</td><td>18900</td></tr>
+<tr><td></td><td>3/4</td><td>24700</td><td>27600</td></tr>
+<tr><td>5</td><td>1/4</td><td>3800</td><td>4350</td></tr>
+<tr><td></td><td>5/16</td><td>6300</td><td>6950</td></tr>
+<tr><td></td><td>7/16</td><td>12800</td><td>14400</td></tr>
+<tr><td></td><td>1/2</td><td>17000</td><td>19200</td></tr>
+<tr><td></td><td>9/16</td><td>21800</td><td>24400</td></tr>
+<tr><td></td><td>5/8</td><td>27100</td><td>30700</td></tr>
+<tr><td></td><td>3/4</td><td>40100</td><td>44800</td></tr>
+<tr><td>8</td><td>1/4</td><td>4750</td><td>5450</td></tr>
+<tr><td></td><td>5/16</td><td>7850</td><td>8700</td></tr>
+<tr><td></td><td>7/16</td><td>15900</td><td>17800</td></tr>
+<tr><td></td><td>1/2</td><td>21300</td><td>24000</td></tr>
+<tr><td></td><td>9/16</td><td>27300</td><td>30400</td></tr>
+<tr><td></td><td>5/8</td><td>33900</td><td>38400</td></tr>
+<tr><td></td><td>3/4</td><td>50100</td><td>56000</td></tr>
+</table>
+<p>
+Note: NOT shear strength!
+
+<p>
+<table>
+<tr><th colspan=5 align=center><font size=4>Nominal Assembly Torque Coarse Thread Bolts (ft-lbs)</font></th></tr>
+<tr><th>Dia.(in.)</th><th>Grade 2</th><th>Grade 5</th><th>Grade 8</th><th>Grade 9</th></tr>
+<tr><td>1/4C</td><td>5.5</td><td>8</td><td>12</td><td>11</td></tr>
+<tr><td>5/16C</td><td>11</td><td>17</td><td>24</td><td>21</td></tr>
+<tr><td>7/16C</td><td>32</td><td>50</td><td>70</td><td>60</td></tr>
+<tr><td>1/2C</td><td>50</td><td>75</td><td>110</td><td>95</td></tr>
+<tr><td>9/16C</td><td>70</td><td>110</td><td>150</td><td>140</td></tr>
+<tr><td>5/8C</td><td>100</td><td>150</td><td>210</td><td>185</td></tr>
+<tr><td>3/4C</td><td>175</td><td>260</td><td>380</td><td>290</td></tr>
+</table>
+
+<table>
+<tr><th colspan=5 align=center><font size=4>Nominal Assembly Torque Fine Thread Bolts (ft-lbs)</font></th></tr>
+<tr><th>Dia.(in.)</th><th>Grade 2</th><th>Grade 5</th><th>Grade 8</th><th>Grade 9</th></tr>
+<tr><td>1/4F</td><td>6.3</td><td>10</td><td>14</td><td>13</td></tr>
+<tr><td>5/16F</td><td>12</td><td>19</td><td>27</td><td>23</td></tr>
+<tr><td>7/16F</td><td>36</td><td>55</td><td>80</td><td>65</td></tr>
+<tr><td>1/2F</td><td>55</td><td>85</td><td>120</td><td>105</td></tr>
+<tr><td>9/16F</td><td>80</td><td>120</td><td>170</td><td>150</td></tr>
+<tr><td>5/8F</td><td>110</td><td>170</td><td>240</td><td>205</td></tr>
+<tr><td>3/4F</td><td>200</td><td>300</td><td>420</td><td>355</td></tr>
+</table>
+
