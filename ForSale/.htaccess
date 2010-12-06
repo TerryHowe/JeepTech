@@ -1,3 +1,0 @@
-<Files ~ "\.(inc|class)$">
-   Deny from all
-</Files>
