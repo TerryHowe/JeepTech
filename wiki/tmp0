@@ -1,8 +1,0 @@
-                /* TLH insert ad here */
-                if (@include(getenv('DOCUMENT_ROOT').'/phpAdsNew/phpadsnew.inc.php')) {
-                    if (!isset($phpAds_context)) $phpAds_context = array();
-                    $phpAds_raw = view_raw ('zone:1', 0, '_blank', 'JeepTech.com', '0', $phpAds_context);
-                    $s .= "\n";
-                    $s .= $phpAds_raw['html'];
-                    $s .= "\n<br clear=\"all\">\n";
-                }

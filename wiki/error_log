@@ -1,3 +1,0 @@
-[19-Jul-2004 21:56:42] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/jeeptech/public_html/wiki/includes/Database.php on line 196
-[19-Jul-2004 23:17:32] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/jeeptech/public_html/wiki/includes/Database.php on line 196
-[19-Jul-2004 23:25:43] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/jeeptech/public_html/wiki/includes/Database.php on line 196
