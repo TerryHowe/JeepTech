@@ -5,7 +5,7 @@ echo <<<END
 <html lang="en"><head><title>$title</title>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
 <meta name="robots" content="index,follow">
-<link rel="shortcut icon" href="/favicon.ico">
+<link rel="icon" href="/favicon.ico">
 <script type="text/javascript" src="/wiki/stylesheets/wikibits.js"></script>
 <style type='text/css'><!--
 @import url("/wiki/stylesheets/wikistandard.css");
