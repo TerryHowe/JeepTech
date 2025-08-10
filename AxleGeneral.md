@@ -5,24 +5,8 @@ author: "Terry L. Howe"
 description: "The definitive Jeep axle page and generatl information about axles."
 ---
 
-# Jeep Tech: Axles
-## General Information
-### Contents
-- What are hubs?</a>
-- What is Open Knuckle vs. Closed Knuckle</a>
-- What are Cardon Cross, Birfield, and Rzeppa Joints?</a>
-- What is the difference between semi- and full-floating axles?</a>
-- What is a C-clip axle?</a>
-- What is the difference between one piece and two piece shafts?</a>
-- Differentials: Open, Limited Slip & Locking</a>
-- How do I Determine if I have a Locker?</a>
-- What is the meaning of the Ring and Pinion Ratio?</a>
-- Why did Engineers Pick These Weird Ring and Pinion Ratios?</a>
-- Why are High R&P Gears Stronger than Low R&P Gears?</a>
-- How do I Determine the Ratio of my Ring and Pinion?</a>
-- How do I waterproof my Jeep?</a>
-- Are My Breather Hoses Long Enough?</a>
-- How to Service Manual Hubs and Wheel Bearings</a>
+# Jeep Tech: Axles General Information
+
 ### What are hubs?
 The term hub is used for several different things when it comes to
 axles.  Normally when people refer to a hub, they mean the lock-out
@@ -68,12 +52,11 @@ each of the hubs to lock or unlock it. You can leave the hubs locked
 even when in 2WD and the effect will be similar to the permanently
 locked hubs. Many people do this during the winter or when off-road
 all day.
-![](/axle/hubs_.jpg)
-[Jeep Hubs](/axle/hubs.html):
-This article covers everything you could possibly want to know about
+
+[Jeep Hubs](/axle/hubs.html): This article covers everything you could possibly want to know about
 hubs (aka lock-outs) and other axle disconnect systems for short wheel
 base Jeeps.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### What is Open Knuckle vs. Closed Knuckle
 The knuckle of a front axle is the part that enables the front
 axle to steer.  There are upper and lower joints that the knuckle
@@ -89,13 +72,10 @@ harder to maintain since the knuckle must be sealed.  Closed
 knuckle axle shaft joints either run in gear lube or in grease in
 the knuckle, and the lubricant tends to leak out of the knuckle.
 The open knuckle axles used a sealed cardon cross joint.
-[![Close Knuckle Dana 25](/axle/d25opt.jpg)](/axle/d25op.jpg)
-|  | Closed knuckle Dana 25 front axle ('50 CJ-3A). |
-| --- | --- |
-|  | Open knuckle Dana 30 front axle ('93 Wrangler). |
 
-Open knuckle Dana 30 front axle ('93 Wrangler).
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+| [![Close Knuckle Dana 25](/axle/d25opt.jpg)](/axle/d25op.jpg) | Closed knuckle Dana 25 front axle ('50 CJ-3A). |
+| [![Open Knuckle Dana 30](/axle/d30opt.jpg)](/axle/d30op.jpg)  | Open knuckle Dana 30 front axle ('93 Wrangler). |
+
 ### What are Cardon Cross, Birfield, and Rzeppa Joints?
 Three types of joints have been used in Jeep axles: Cardon Cross,
 Birfield, and Rzeppa.  The joints allow the power to be
@@ -103,7 +83,7 @@ transferred to the front wheels and the front wheels to turn.
 They are all types of universal joints and the Cardon Cross are
 the best.  All Jeeps built today used Cardon Cross joints in the
 front axle shafts.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### What is the difference between semi- and full-floating axles?
 There are two basic types of rear axles used in Jeeps, semi-floating
 and full-floating.  The only 1/4 ton Jeeps that were equipped with a
@@ -136,7 +116,7 @@ A semi-floating axle floats on the differential side, meaning
 it just slides into the differential housing.  On the outside
 end of the shaft is a bearing that is pressed on.  Here the
 axle shaft bears the weight of the vehicle.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### What is a C-clip axle?
 There are some basic variations in the semi floating axles used
 in Jeep vehicles.  One of those variations is the use of the
@@ -158,7 +138,7 @@ if the shaft breaks.  If the shaft breaks between the differential
 and bearing on a non-C-clip axle, there is a good chance the wheel
 will not fall off unless the backing plate breaks loose or the
 bearing slides off the axle shaft.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### What is the difference between one piece and two piece shafts?
 Another variation with semi-floating axles is in the shafts.  There
 are one piece, or flanged, shafts and two piece shafts.  The one piece
@@ -195,11 +175,11 @@ used in '76-'86 CJs.  The solution is normally to upgrade to after
 market one piece shafts.  Some people have reported that torquing
 the shaft nut way beyond specification will help prevent the hub
 from spinning on the shaft.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### Differentials: Open, Limited Slip & Locking
 - [Open, Limited Slip, and Locking Differentials](http://www.off-road.com/4x4web/faqs/diffs.html): General
 information about the different types of differentials.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### How do I Determine if I have a Locker?
 If you don't know if you have a locker, you probably don't.  A Jeep
 vehicle has never come from the factory with a true locker, although
@@ -216,7 +196,7 @@ the opposite direction, you are open.  If it turns in the same
 direction, you are locked or have a limited slip.  If you have a
 true locker, with one wheel raised, the engine off, and the
 transmission and transfer case in gear, the wheel should not turn.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### What is the meaning of the Ring and Pinion Ratio?
 The confusing thing about axle ratios is, they higher the number,
 the lower the gearing.  The ratio is an approximation of the
@@ -235,7 +215,7 @@ The way the ratios are calculated is by dividing the number of teeth
 on the ring gear by the number of teeth on the pinion gear.  For
 example, if you have an 11 tooth pinion and a 47 tooth ring gear,
 47/11 is approximately 4.27, or 4.27:1 gears.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### Why did Engineers Pick These Weird Ring and Pinion Ratios?
 The reason R&P ratios come in such odd numbers is so that the ring
 and pinion do not develop a regular wear pattern.  If the same
@@ -247,7 +227,7 @@ teeth on the ring gear every revolution.  If an odd ratio is chosen,
 the teeth are meshing with different teeth all the time and no regular
 wear pattern develops.  Despite this logic, R&P in even ratios such as
 3.00:1, 4.00:1, 3.50:1, 4.50:1, etc exist for several axles.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### Why are High R&P Gears Stronger than Low R&P Gears?
 The reason lower R&P gear sets are weaker than high R&P gear sets
 is that lower R&P gear sets use a smaller pinion.  A differential
@@ -258,7 +238,7 @@ is in relation to the ring gear.  You may never have had a problem
 with your Dana 35c with 3.07s, until you swapped in 4.56s.  Your
 Jeep is doing great off-road, but you are breaking teeth.  This
 is why sometimes it pays to do an axle swap.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### How do I Determine the Ratio of my Ring and Pinion?
 The sure way to determine the ratio of you ring and pinion is to
 remove the differential cover and count the teeth or find the tooth
@@ -293,14 +273,9 @@ the yoke.
 - The number of revolutions of the yoke will be the ratio.  For
 example, if you count 3 3/4 revolutions, the ratio is probably
 3.73:1.
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
+
 ### How do I waterproof my Jeep?
 ### How to Service Manual Hubs and Wheel Bearings
-[![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
-### Contributors
-The Jeep Tech Axle General Information section was written by
-[Terry L. Howe]().
-Thanks for help from Stefan Roth and others.
 <!--
 #### Advantages/Disadvantages
 The front axles are full-floating axles, meaning that the wheels are
