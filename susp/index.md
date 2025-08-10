@@ -9,8 +9,20 @@ description: "Jeep suspension information covering upgrades, factory options, an
 ## Upgrades
 ### Suspension Tricks
 ![](/toc/ubolt_toc.jpg)
-[Flip Your U-Bolts](/susp/ubolt.html):
+|  | [Flip Your U-Bolts](/susp/ubolt.html):
 Are you tired yet of dragging, bending, and breaking your axle
+u-bolts on rocks?  Well flip your u-bolts to gain ground clearance
+and protect them from damge. |
+| --- | --- |
+|  | [3/4 Elliptical Suspension](/susp/elliptical.html):
+Craig Meyer's 3/4 elliptical suspension is surprisingly simple and
+elegant. The tools to build it can be found in most garages and the
+parts won't cost an arm and a leg. |
+|  | [Big Tire, Little Lift](/tire/fit33.html):
+The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size.  Here's how to optimize. |
+|  | [Wrangler YJ Travel Trick](/susp/yjsh.html):
+This simple trick can increase the travel of your Jeep Wrangler's rear axle. |
+
 u-bolts on rocks?  Well flip your u-bolts to gain ground clearance
 and protect them from damge.
 ![](/toc/elliptoc.jpg)
@@ -33,8 +45,21 @@ suspension is not radical, but it is practical and should
 perform well.
 ### Installing a Spring Over Lift Kit
 ![SOA YJ](/convaxle/fordeb/hutflx1_.jpg)
-[Wrangler Axle Swap and SOA](/convaxle/fordeb/):
+|  | [Wrangler Axle Swap and SOA](/convaxle/fordeb/):
 Chris Waterman tells us how he swapped an early Bronco Ford 9"
+and Dana 44 into his Wrangler YJ.  The transformation was enhanced
+with a spring over axle lift at the same time. |
+| --- | --- |
+|  | [Scout Dana 44s under a YJ](/convaxle/ihscout/):
+When evaluated as a hard-core off-road vehicle, the Jeep YJ is
+often praised for its excellent fuel-injected motor and panned for
+its weak axles and low, limited-articulation suspension.  This
+is nothing a spring over with Scout Dana 44s won't cure. |
+|  | [CJ Spring Over Axle](/susp/cjsoa.html):
+John Nutter explains how he did a spring over axle lift
+on his CJ using YJ springs.  His Jeep now easily ramps
+over 1000 and he saved cash for other upgrades. |
+
 and Dana 44 into his Wrangler YJ.  The transformation was enhanced
 with a spring over axle lift at the same time.
 ![44ed YJ](/convaxle/ihscout/ss18_toc.jpg)

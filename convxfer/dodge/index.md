@@ -13,8 +13,16 @@ less desirable.  One problem is Dodge parts tend to be more expensive
 and harder to find than Chevy or Ford parts.
 ## Identification
 [Dodge NP241](/convxfer/dodge/dodgenp241id.html): The
-Dodge NP241 might be useful in a Jeep truck.
-[Dodge NP208](/convxfer/dodge/dodgenp208id.html): The
+|  | [Dodge NP241](/convxfer/dodge/dodgenp241id.html): The
+[Dodge NP241](/convxfer/dodge/dodgenp241id.html) might be useful in a Jeep truck. |
+| --- | --- |
+|  | [Dodge NP208](/convxfer/dodge/dodgenp208id.html): The
+[Dodge NP208](/convxfer/dodge/dodgenp208id.html) might be useful in a Jeep truck. |
+|  | [Dodge NP205](/convxfer/dodge/dodgenp205id.html): The
+[Dodge NP205](/convxfer/dodge/dodgenp205id.html) might be useful in a Jeep truck. |
+|  | [Dodge NP203](/convxfer/dodge/dodgenp203id.html): The
+[Dodge NP203](/convxfer/dodge/dodgenp203id.html) would not be useful in a Jeep truck. |
+
 Dodge NP208 might be useful in a Jeep truck.
 [Dodge NP205](/convxfer/dodge/dodgenp205id.html): The
 Dodge NP205 might be useful in a Jeep truck.

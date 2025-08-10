@@ -40,8 +40,14 @@ The [Dana 30](/axle/d30.html) was always used in the CJ-8.
 The CJ-8 used the [AMC 20](/axle/amc20.html) rear axle.
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1981 | xxx - xxx | ppp |
+| 1982 | xxx - xxx | ppp |
+| 1983 | xxx - xxx | ppp |
+| 1984 | xxx - xxx | ppp |
+| 1985 | xxx - xxx | ppp |
+
 1981
 xxx - xxx
 ppp

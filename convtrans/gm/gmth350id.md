@@ -75,5 +75,6 @@ on the top.  The dual pattern transmission in the picture on the right
 has both patterns.  You can see the valley and peak.  Each set of
 bolts  around the top is in a pair.  The alignment pin and
 the lower bolt is the same.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-TH350 2.52 1.52 1.00   NA
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| TH3502.521.521.00NA | 2.52 | 1.52 | 1.00 |  |  | NA |

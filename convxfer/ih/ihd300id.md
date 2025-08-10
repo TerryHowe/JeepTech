@@ -19,8 +19,10 @@ that was the only year the Scout had square head lights.  I wouldn't
 use the headlights as the only guideline, but they will give you
 a good idea.
 [![A 1970s Scout II](/convxfer/scout70t.jpg)](/convxfer/scout70.jpg)
-A late 70s Scout II with round head lights.
-[![Ken Farmer](/convxfer/scout80t.jpg)](/convxfer/scout80.jpg)
+|  | A late 70s Scout II with round head lights. |
+| --- | --- |
+|  | Ken Farmer's 1980 Scout II with square head lights |
+
 Ken Farmer's 1980 Scout II with square head lights
 The head light trick is good for spotting a Scout Dana 300 from a
 distance, but it doesn't give positive identification.  It won't

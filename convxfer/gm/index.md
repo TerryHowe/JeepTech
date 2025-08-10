@@ -12,7 +12,17 @@ but just provide some tips on what to look for in what trucks
 and only stuff that would be of interest to a Jeep owner.
 ## Identification
 [GM NP241](/convxfer/gm/gmnp241id.html): The
-GM NP241 can be an excellent transfer case to swap into a Jeep
+|  | [GM NP241](/convxfer/gm/gmnp241id.html): The
+[GM NP241](/convxfer/gm/gmnp241id.html) can be an excellent transfer case to swap into a Jeep
+vehicle. |
+| --- | --- |
+|  | [GM NP208](/convxfer/gm/gmnp208id.html): The
+[GM NP208](/convxfer/gm/gmnp208id.html) might be useful in a Jeep. |
+|  | [GM NP205](/convxfer/gm/gmnp205id.html): The
+[GM NP205](/convxfer/gm/gmnp205id.html) is a very strong transfer case with a poor low range. |
+|  | [GM NP203](/convxfer/gm/gmnp203id.html): The
+[GM NP203](/convxfer/gm/gmnp203id.html) is a fairly useless transfer case for the Jeeper. |
+
 vehicle.
 [GM NP208](/convxfer/gm/gmnp208id.html): The
 GM NP208 might be useful in a Jeep.

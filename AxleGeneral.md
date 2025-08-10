@@ -90,8 +90,10 @@ knuckle axle shaft joints either run in gear lube or in grease in
 the knuckle, and the lubricant tends to leak out of the knuckle.
 The open knuckle axles used a sealed cardon cross joint.
 [![Close Knuckle Dana 25](/axle/d25opt.jpg)](/axle/d25op.jpg)
-Closed knuckle Dana 25 front axle ('50 CJ-3A).
-[![Open Knuckle Dana 30](/axle/d30opt.jpg)](/axle/d30op.jpg)
+|  | Closed knuckle Dana 25 front axle ('50 CJ-3A). |
+| --- | --- |
+|  | Open knuckle Dana 30 front axle ('93 Wrangler). |
+
 Open knuckle Dana 30 front axle ('93 Wrangler).
 [![](/images/go_up_bt.gif)](/AxleGeneral.html#Essentials)
 ### What are Cardon Cross, Birfield, and Rzeppa Joints?
@@ -164,8 +166,16 @@ shafts have the bearing pressed on from the differential side and
 the two piece shafts have the bearing pressed on from the outside
 after the hub of the shaft is removed.
 [![One Piece (flanged) Semi Floating](/axle/onesemit.jpg)](/axle/onesemi.jpg)
-This is a picture of my '81 CJ-7 with a Commando Dana 44 rear end that
+|  | This is a picture of my '81 CJ-7 with a Commando Dana 44 rear end that
 has one piece or flanged shafts.  The end of the shaft is visible and
+as you can see there is no nut or hub on the end of the shaft.  The
+dark semi-circle on the edge is an access hole to
+remove the brake backing plate. |
+| --- | --- |
+|  | The picture on the left is a of a '77 CJ-7
+with an AMC 20 rear axle with two piece shafts.  The shaft nut is
+protected with a small cap in this case. |
+
 as you can see there is no nut or hub on the end of the shaft.  The
 dark semi-circle on the edge is an access hole to
 remove the brake backing plate.

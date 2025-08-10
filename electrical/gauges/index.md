@@ -117,8 +117,13 @@ The sending unit can be checked with the following resistances between
 the post and ground...
 Totally Coldhigh resistance
 Slightly Warm73 ohms
-Beginning of Band36 ohms
-End of Band13 ohms
+| Totally Cold | high resistance |
+| --- | --- |
+| Slightly Warm | 73 ohms |
+| Beginning of Band | 36 ohms |
+| End of Band | 13 ohms |
+| Hot | 9 ohms |
+
 Hot9 ohms
 If an appropriate resistor is connected to the S terminal of the
 temperature gauge and to ground, the above restances can be used to

@@ -1,6 +1,15 @@
 ---
-title: "Jeep Engine: Dauntless Buick 350 V8"
-keywords: "Jeep, engine, Dauntless, Buick, 350, V8"
+| Dauntless Buick 350 V8 |
+| --- |
+| Bore x Stroke | 3.80" x 3.85" |
+| Displacement | 350(5.73L) |
+| Compression Ratio | 9.0:1 |
+| Horsepower (gross) | 230@4400 |
+| Torque (gross) | 350@2400 |
+| Main Bearings | 5 |
+| Valve Configuration | OHV |
+| Fuel | 2bbl |
+
 author: "Terry L. Howe"
 description: "All about the Jeep Dauntless Buick 350 V8 engine."
 ---

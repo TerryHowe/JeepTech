@@ -1,6 +1,25 @@
 ---
-title: "Jeep Engine: Super Hurricane L-Head 226 I6"
-keywords: "Jeep, engine, Willys, Super Hurricane, Hurricane, L-Head, 226, I6"
+| Super Hurricane L-Head 226 I6 |
+| --- |
+| Bore x Stroke | 3.94" x 4.375" |
+| Displacement | 226.2 Cubic Inches |
+| Compression Ratio | 6.861:1 |
+| Horsepower (gross) | 105@3600rpm |
+| Torque (gross) | 190@1400 |
+| Main Bearings | 4 |
+| Valve Configuration | L-head |
+| Fuel | 1-bbl Carter |
+
+| --- |
+| Bore x Stroke | 3.94" x 4.375" |
+| Displacement | 226.2 Cubic Inches |
+| Compression Ratio | 6.861:1 |
+| Horsepower (gross) | 115@3800rpm |
+| Torque (gross) | 190@1800 |
+| Main Bearings | 4 |
+| Valve Configuration | L-head |
+| Fuel | 1-bbl Carter |
+
 author: "Terry L. Howe"
 description: "All about the Jeep Super Hurricane L-Head 226 I6 engine."
 ---

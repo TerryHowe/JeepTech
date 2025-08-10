@@ -1,6 +1,15 @@
 ---
-title: "Jeep Engine: Dauntless Buick 225 V6"
-keywords: "Jeep, engine, Dauntless, Buick, 225, V6, Kaiser"
+| Dauntless Buick 225 V6 |
+| --- |
+| Bore x Stroke | 3.75" x 3.40" |
+| Displacement | 225 (3.68L) |
+| Compression Ratio | 9.0:1 |
+| Horsepower (net) | 160@4200 |
+| Torque (net) | 235@2400 |
+| Main Bearings | 3 |
+| Valve Configuration | OHV |
+| Fuel | 2bbl |
+
 author: "Terry L. Howe"
 description: "All about the Jeep Dauntless Buick 225 V6 engine."
 ---

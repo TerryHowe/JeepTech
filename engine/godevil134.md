@@ -27,8 +27,37 @@ Willys Pickup, CJ-3A, M38, and DJ-3A.  The specifications are slightly
 different presumably due to carburetor and compression differences
 between the engines.  The L-Head used in '45-'50 CJ-2As and '49-'50
 CJ-3As is rated the same.
-L-Head 134 4 Cylinder
-Bore x Stroke3.125" x 4.375"
+| L-Head 134 4 Cylinder |
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 7.0:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 106@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter 626 1bbl |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 6.47:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 106@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter 626 1bbl |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 6.48:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 105@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter WO-596S 1bbl downdraft |
+
 Displacement134.2 ci(2.2L)
 Compression Ratio6.48:1
 Horsepower (gross)60@4000rpm

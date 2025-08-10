@@ -58,8 +58,23 @@ Next thing I know, I've purchased the axles and I'm planning a
 spring over axle conversion.
 ![Ford vs. Dana](rearcmptocj_.jpg)
 [Ford 9"](/convaxle/fordeb/f9.html):
+|  | [Ford 9"](/convaxle/fordeb/f9.html):
 Preparation and installation of the Ford 9" rear from an Early
 Bronco into a Wrangler YJ.  The Ford 9" is massive compared to
+the stock Dana 35c. |
+| --- | --- |
+|  | [Dana 44](/convaxle/fordeb/d44.html):
+The early Bronco Dana 44 had 30 spline shafts, 8.5" ring
+gear, and real hubs.  There are many advantages of a Dana 44 front
+end in a Wrangler or CJ. |
+|  | [Spring Over](/convaxle/fordeb/soa.html):
+Doing a spring over conversion on a Wrangler YJ for maximum
+articulation.  The conversion is a bit more work than a normal
+lift, but the results are amazing. |
+|  | [Final Notes](/convaxle/fordeb/conclude.html):
+Some final notes on the spring over axle swap and early Bronco axle
+swap.  Important things like wheel bolt patterns must be considered. |
+
 the stock Dana 35c.
 ![Dana 44](nodngltoc_.jpg)
 [Dana 44](/convaxle/fordeb/d44.html):

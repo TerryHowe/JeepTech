@@ -26,8 +26,20 @@ illustrate how it attaches.
 Matt O'Brien sent some pictures from
 his CJ-p5 that show his adapter bolted to a Dana 20.
 [![PTO adapter from the front](ptofrnt2t.gif)](ptofrnt2.gif)
-Front the front you can see the drive shaft going off to the PTO winch.
-[![PTO adapter from the passenger side](ptopassdt.gif)](ptopassd.gif)
+|  | Front the front you can see the drive shaft going off to the PTO winch. |
+| --- | --- |
+|  | From the passenger side, the lever to engage the PTO is visible.  Matt
+doesn't have all the linkage hooked up, so he enjoys crawling under his
+Jeep in deep water and mud to pull that lever. |
+|  | From the rear you can see the lever to engage the PTO and the rear
+PTO output of the adapter.  You can also see the ground clearance
+lost by the Dana 20 PTO adapter, it isn't nearly as bad as one would
+think it would be.  The Dana 20 already has a deep oil pan and the bulk
+of the adapter is toward the high side of the transfer case. |
+|  | From the drivers side you can see the front and rear PTO outputs for the
+PTO adapter and the PTO shaft going up front. |
+|  |
+
 From the passenger side, the lever to engage the PTO is visible.  Matt
 doesn't have all the linkage hooked up, so he enjoys crawling under his
 Jeep in deep water and mud to pull that lever.
@@ -44,8 +56,20 @@ PTO adapter and the PTO shaft going up front.
 Some identification information off of the PTO
 adapters:
 Matt's
-Transfer case adaptor
-Ramsey Winch / STC-2 / 73001
+| Transfer case adaptor | Ramsey Winch / STC-2 / 73001 |
+| --- | --- |
+| Chain drive housing | STC-3 / 73002 |
+
+| --- | --- |
+| Chain drive cover | STC-5W / 73080 |
+
+| --- | --- | --- | --- | --- | --- |
+| Transfer case adaptor | Ramsey Winch / STC-2 / 73001 |
+| Chain drive cover | STC-5W / 73080 |
+| Joe's | Transfer case adaptorRamsey Winch / STC-2 / 73001Chain drive housingSTC-3 / 73002 | Transfer case adaptor | Ramsey Winch / STC-2 / 73001 | Chain drive housing | STC-3 / 73002 |
+| Transfer case adaptor | Ramsey Winch / STC-2 / 73001 |
+| Chain drive housing | STC-3 / 73002 |
+
 Chain drive cover
 STC-5W / 73080
 Joe's

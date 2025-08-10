@@ -37,16 +37,22 @@ The T18A is a much larger and heavier transmission than the T150. I
 don't know the T18As weight, but with the D20 transfer case attached
 it broke a JC Whitney transmission jack rated at 250 lbs.
 [![T150 drivers side](/convtrans/cjt18/t150-1.jpg)](/convtrans/cjt18/t150-1.jpg)
-T-150 drivers side with Dana 20 transfer case
-[![T18 drivers side](/convtrans/cjt18/t18a-1.jpg)](/convtrans/cjt18/t18a-1.jpg)
+|  | T-150 drivers side with Dana 20 transfer case |
+| --- | --- |
+| T-18a drivers side with Dana 20 transfer case |  | T-18a drivers side with Dana 20 transfer case |  |
+|  | T-18a drivers side with Dana 20 transfer case |
+|  |
+
 T-18a drivers side with Dana 20 transfer case
 ### Bell Housing and Clutch Linkage
 [![Bell housing with T-18 bolts](/convtrans/cjt18/bell_.jpg)](/convtrans/cjt18/bell.jpg)
 The bellhousing is the same. Different holes are used to attach the
 two transmissions. The picture on the right shows the T18 bolts and
 stud installed in the correct holes for a Jeep T18 installation.
-[![T150 bell housing bolt pattern](/convtrans/cjt18/t150-3.jpg)](/convtrans/cjt18/t150-3.jpg)
-T150 bell housing bolt pattern
+|  | T150 bell housing bolt pattern |
+| --- | --- |
+|  | T18 bell housing bolt pattern |
+
 [![T18 bell housing bolt pattern](/convtrans/cjt18/t18a-3.jpg)](/convtrans/cjt18/t18a-3.jpg)
 T18 bell housing bolt pattern
 [![T-18 bolts](/convtrans/cjt18/nuts_.jpg)](/convtrans/cjt18/nuts.jpg)
@@ -84,8 +90,12 @@ to be 4" longer than the T150s. The difference is the main linkage pipe
 which attaches to the Dana 20 and the lower rod which attaches to the
 Dana 20s two shift rails are longer.
 [![T150 passenger side](/convtrans/cjt18/t150-2.jpg)](/convtrans/cjt18/t150-2.jpg)
-T-150 passenger side with Dana 20 transfer case
-[![T18 passenger side](/convtrans/cjt18/t18a-2.jpg)](/convtrans/cjt18/t18a-2.jpg)
+|  | T-150 passenger side with Dana 20 transfer case |
+| --- | --- |
+| T-18a passenger side with Dana 20 transfer case |  | T-18a passenger side with Dana 20 transfer case |  |
+|  | T-18a passenger side with Dana 20 transfer case |
+|  |
+
 T-18a passenger side with Dana 20 transfer case
 ### Skid Plate and Transmission Mount
 [![Skid plate shims](/convtrans/cjt18/shims_.jpg)](/convtrans/cjt18/shims.jpg)
@@ -94,8 +104,10 @@ strips between the frame and skid plate. Note the distance between the
 skid plate and the rear spring hanger. Also note the T150s rear skid
 plate bolt becomes the T18s center bolt.
 [![T150 skid plate](/convtrans/cjt18/cj5-t150_.jpg)](/convtrans/cjt18/cj5-t150.jpg)
-Skid plate for T-150 with no shims
-[![T18 skid plate](/convtrans/cjt18/cj5-t18_.jpg)](/convtrans/cjt18/cj5-t18.jpg)
+|  | Skid plate for T-150 with no shims |
+| --- | --- |
+|  | Skid plate for T-18 with shims |
+
 Skid plate for T-18 with shims
 The T150 and T18 torque brackets are very different. The T150 bracket
 is thin and wide. The T18 bracket is 1/4" thick. The T150 bracket bolts
@@ -103,7 +115,10 @@ onto the bottom of the T150 and the T18 bracket bolts onto the bottom
 of the T18-D20 adapter plate. My 79 CJ5s T18 has another 1/4" spacer
 which fits between the torque bracket and the adapter.
 [![T150 torque bracket](/convtrans/cjt18/t150-t_1_.jpg)](/convtrans/cjt18/t150-t_1.jpg)
-T-150 Torque Bracket
+|  | T-150 Torque Bracket |
+| --- | --- |
+|  | T-18 Torque Bracket |
+
 [![T150 torque bracket](/convtrans/cjt18/t18-to_1_.jpg)](/convtrans/cjt18/t18-to_1.jpg)
 T-18 Torque Bracket
 ### Drive Shafts

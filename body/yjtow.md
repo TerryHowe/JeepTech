@@ -29,8 +29,13 @@ can replace the 1/4" spacer that goes between the winch plate and
 frame brackets and the hooks can
 be mounted outboard, rather than inboard like Dave's hooks.
 [![Hook with winch mount](yjtow3_.jpg)](yjtow3.jpg)
-Here's a shot of the hook and the angle iron.  The two washers
+|  | Here's a shot of the hook and the angle iron.  The two washers
 are the spacers from the winch mount kit that the angle iron
+replaces. |
+| --- | --- |
+|  | From the front, you can see how the angle iron fits between the two
+brackets of the winch mount on Kirks's CJ. |
+
 replaces.
 [![Hook with winch mount](yjtow4_.jpg)](yjtow4.jpg)
 From the front, you can see how the angle iron fits between the two

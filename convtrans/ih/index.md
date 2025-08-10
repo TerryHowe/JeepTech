@@ -21,8 +21,18 @@ seem similar to model numbers used by the manufacture.  For example,
 a transmission with the IH T-14 designation is different from
 Borg-Warners T-14, the IH T-14 is a T-90.
 ## Scout Transmissions
-IH CodeVendor and ModelWhen Used
-13013 or T-13Warner Gear T-90, 3 Speed2WD,  Scout 80, 800, and II thru '74
+| IH Code | Vendor and Model | When Used |
+| --- | --- | --- |
+| 13013 or T-13 | Warner Gear T-90, 3 Speed | 2WD,  Scout 80, 800, and II thru '74 |
+| 13014 or T-14 | Warner Gear T-90, 3 Speed | 4WD Scout 80, 800, and II thru '74 |
+| 13039 or T-39 | Borg Warner 11 Automatic | Scout 800 and II thru '72 |
+| 13044 or T-44 | Warner Gear T-18 4 Speed | 2WD Scout  800 and II thru '75 |
+| 13045 or T-45 | Warner Gear T-18, 4 Speed | Scout  800 and II thru '75 |
+| 13332 or T-332 | Warner Gear T-15D, 3 Speed, Synchro low | '75 and later |
+| 13407 or T-407 | Chrysler A727 Automatic | '73 and later |
+| 13427 or T-427 | Warner Gear T-19, 4 Speed Wide Ratio, Synchro Low. | '75 & on |
+| 13428 or T-428 | Warner Gear T-19, 4 Speed Close Ratio Synchro Low | '75 & on |
+
 13014 or T-14Warner Gear T-90, 3 Speed4WD Scout 80, 800, and II thru '74
 13039 or T-39Borg Warner 11 AutomaticScout 800 and II thru '72
 13044 or T-44Warner Gear T-18 4 Speed2WD Scout  800 and II thru '75

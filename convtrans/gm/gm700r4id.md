@@ -13,5 +13,6 @@ so this transmission doesn't have the best reputation, but a well built
 700R4 will preform very well off-road.  The case is 23 1/2 inches
 long and 16 bolts hold on the pan.  The 700R4 has been replaced
 by the electronically controlled 4L80E.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-700R4 3.06 1.62 1.00 0.70  NA
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| 700R43.061.621.000.70NA | 3.06 | 1.62 | 1.00 | 0.70 |  | NA |

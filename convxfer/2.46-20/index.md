@@ -34,7 +34,16 @@ Transfercase
 (low range)
 axle gears
 Crawl Ratio
-T-150 (3:1) 	Dana 20 (2.03:1)		
+| Transmission(1st gear) | Transfercase(low range) | axle gears | Crawl Ratio |
+| --- | --- | --- | --- |
+| T-150 (3:1) | Dana 20 (2.03:1) | 3.54 | 21:1 |
+| T-150 | Dana 20 (2.46:1) | 3.54 | 26:1 |
+| T-150 | Dana 20 (2.03:1) | 4.56 | 27:1 |
+| T-18 (6.32:1) | Dana 20 (2.03:1) | 3.54 | 45:1 |
+| T-18 | Dana 20 (2.46:1) | 3.54 | 55:1 |
+| T-18 | Dana 20 (2.03:1) | 4.56 | 58:1 |
+| T-18 | Dana 300 (2.62:1) | 3.54 | 58:1 |
+
 3.54		21:1 
 T-150 		Dana 20 (2.46:1)		
 3.54		26:1
@@ -76,8 +85,14 @@ teeth on the gears to make sure you get the right transfercase.
 Spicer gear numbers will be stamped into the gear, ignore any 
 cast in numbers.
 gear 		spicer # 	tooth count
-input gear, helical cut 18 8 23		29
-high range output shaft gear, helical cut 
+| gear | spicer # | tooth count |
+| --- | --- | --- |
+| input gear, helical cut | 18 8 23 | 29 |
+| high range output shaft gear, helical cut | 18 8 24 | 29 |
+| intermediate gear, both helical and straight cut | 18 5 9 | 18 straight teeth
+			39 helical teeth |
+| lower sliding gear, straight cut teeth | 18 8 22 | 33 |
+
 18 8 24		29
 intermediate gear, both helical and straight cut 
 18 5 9			18 straight teeth
@@ -93,8 +108,10 @@ damaged or partly disassembled transfercase to save money.
 [![Early Bronco Dana 20](20-5s.jpg)](20-5.jpg)
 A partially disassembled Early Bronco Dana 20 with the T-style shifter.
 gear 		spicer # 	tooth count
-Bronco upper sliding gear, straight cut teeth 	18 8 58		33 
-#### Putting it together
+| gear | spicer # | tooth count |
+| --- | --- | --- |
+| Bronco upper sliding gear, straight cut teeth | 18 8 58 | 33 |
+
 There are many manuals that detail how to disassemble and rebuild a
 Dana 20, you will need one of these.  The best manual is the factory
 service manual for an Jeep CJ or full sized Jeep built between 1972

@@ -16,8 +16,12 @@ it has a low range reduction of 3.7:1 and lower.  They have
 version for the Wrangler and should have versions for
 earlier CJs available at this time.
 ![Atlas with NP-231 front](/convxfer/atlaswnp231-front_.jpg)
-A front view of the Atlas transfer case and the NP231.
-![Atlas with NP-231 drivers side](/convxfer/atlaswnp231-lside_.jpg)
+|  | A front view of the Atlas transfer case and the NP231. |
+| --- | --- |
+|  | The Atlas and NP-231 transfer case from the drivers side. |
+|  | The Atlas and NP-231 transfer case from the passenger side.  Note that
+this NP-231 has a tail shaft shortening kit installed. |
+
 The Atlas and NP-231 transfer case from the drivers side.
 ![Atlas vs. NP-231 passenger side](/convxfer/atlaswnp231-rside_.jpg)
 The Atlas and NP-231 transfer case from the passenger side.  Note that

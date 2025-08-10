@@ -1,6 +1,65 @@
 ---
-title: "Jeep Engine: Hurricane F-Head 134 I4"
-keywords: "Jeep, engine, Willys, Hurricane, F-Head, 134, I4"
+| Hurricane F-Head 134 I4 |
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 7.4:1 |
+| Horsepower (gross) | 75@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl downdraft |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 6.7:1 |
+| Horsepower (gross) | 75@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl downdraft |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 6.9:1 |
+| Horsepower (gross) | 75@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl downdraft |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 7.4:1 |
+| Horsepower (gross) | 75@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl downdraft |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 7.4:1 |
+| Horsepower (gross) | 72@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl Carter |
+
+| --- |
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 (2.199L) |
+| Compression Ratio | 6.9:1 |
+| Horsepower (gross) | 72@4000rpm |
+| Torque (gross) | 114@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | F-head |
+| Fuel | 1-bbl Carter |
+
 author: "Terry L. Howe"
 description: "All about the Jeep Hurricane F-Head 134 I4 engine."
 ---

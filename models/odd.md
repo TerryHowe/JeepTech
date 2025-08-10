@@ -20,8 +20,14 @@ The Grand Wagoneer Limo.
 ### Rear Axle
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1950 | 10001 - 11000 | 1000 |
+
+| 1943 | ? - ? | ppp |
+
+| 1981 | ? - ? | 2360 |
+
 1981
 ? - ?
 2360

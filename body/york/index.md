@@ -140,8 +140,15 @@ length you've got:
 tag bolted to the front of it, there will be a number on the
 tag that looks like "F2XXY", where:
 XX	Stroke length
-10 = long
-09 = medium
+| XXStroke length | Stroke length |
+| --- | --- |
+| 10 = long | 10 = long |
+| 09 = medium | 09 = medium |
+| 07 = short | 07 = short |
+| YDischarge Direction | Discharge Direction |
+| L = left | L = left |
+| R = right | R = right |
+
 07 = short
 Y	Discharge Direction
 L = left
@@ -323,8 +330,60 @@ switch to the positive wire running out of the compressor.
 The actual list of supplies required will vary from one rig to another,
 but this is what I used and what it cost me.
 Item Cost
-Compressor and Tank
-York A/C compressor from Ford Fairmont
+| Item | Cost | Compressor and Tank | York A/C compressor from Ford Fairmont$35.00 | $35.00 | AMC-style hose connectors for York$12.00 | $12.00 | Custom mounting bracket for compressor, parts and labor$40.33 | $40.33 | V-belt water pump pulley from Chevy Caprice, machined to fit '95 YJ$20.00 | $20.00 | 49.5" V-belt$6.99 | $6.99 | Fram BA3631 crankcase air filter$3.69 | $3.69 | 2-gal used air tank, 150 psi pop-off valve, 1/4" NPT female
+	quick disconnect, 1/4" NPT nipple, 1/4" NPT four-way cross manifold$30.00 | $30.00 | Subtotal$148.01 | $148.01 | Air Fittings | 15' of 1/4" rubber air hose, 1/4" NPT fittings$6.75 | $6.75 | 24" of 3/8" rubber air hose, 1/4" NPT fittings$8.99 | $8.99 | 25' x 1/4" spring-coil air hose, 1/4" NPT fittings$6.99 | $6.99 | 1/4" NPT check valve$12.95 | $12.95 | Square D Pumptrol Adjustable Pressure Switch, Class 9013 Type FHG12J27
+	(1/8" NPT fitting)$16.95 | $16.95 | 160 psi pressure gauge (1/4" NPT fitting)$4.69 | $4.69 | Air fitting combo kit (air chuck, blower and fittings, tire pressure
+	gauge, two hex nipples, female quick-disconnect fitting, six male
+	quick-disconnect fittings (two female-threaded, four male-threaded)$12.47 | $12.47 | Quick disconnect coupler (male and female ends)$4.49 | $4.49 | 1/4" NPT needle drain cock$1.85 | $1.85 | Two 1/4" NPT four-way cross manifolds$8.50 | $8.50 | 1/4" NPT street elbow$1.79 | $1.79 | Two 1/4" NPT hex nipples$1.50 | $1.50 | 1/4" NPT male to 1/8" NPT female hex bushing$0.73 | $0.73 | 1/4" male NPT to 1/2" hose barb$1.49 | $1.49 | 1/4" NPT square-head plug$0.25 | $0.25 | Two 1/4" NPT female pipe caps$2.70 | $2.70 | Subtotal$93.09 | $93.09 | Mounting Hardware | 1.5x1.5" metal corner brace$0.53 | $0.53 | 3x1" metal corner brace$0.49 | $0.49 | 6-32 machine screws (12 pack)$0.59 | $0.59 | 6-32 machine screws lock nuts (12 pack)$0.59 | $0.59 | 8" zip-ties$1.69 | $1.69 | Four each: 1/4" washers and lock washers$0.24 | $0.24 | Four 8M 1.25x20 bolts$2.18 | $2.18 | Four 8M washers$1.09 | $1.09 | Subtotal$7.40 | $7.40 | Electrical Stuff | Lighted 30A SPST rocker switch$2.29 | $2.29 | 15' (or so) of insulated 14-18 AWG wirealready had | already had | Miscellaneous electrical connectors bought in bulknil | nil | Subtotal$2.29 | $2.29 | Total$250.81 | $250.81 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Compressor and Tank |
+| York A/C compressor from Ford Fairmont$35.00 | $35.00 |
+| AMC-style hose connectors for York$12.00 | $12.00 |
+| Custom mounting bracket for compressor, parts and labor$40.33 | $40.33 |
+| V-belt water pump pulley from Chevy Caprice, machined to fit '95 YJ$20.00 | $20.00 |
+| 49.5" V-belt$6.99 | $6.99 |
+| Fram BA3631 crankcase air filter$3.69 | $3.69 |
+| 2-gal used air tank, 150 psi pop-off valve, 1/4" NPT female
+	quick disconnect, 1/4" NPT nipple, 1/4" NPT four-way cross manifold$30.00 | $30.00 |
+| Subtotal$148.01 | $148.01 |
+| Air Fittings |
+| 15' of 1/4" rubber air hose, 1/4" NPT fittings$6.75 | $6.75 |
+| 24" of 3/8" rubber air hose, 1/4" NPT fittings$8.99 | $8.99 |
+| 25' x 1/4" spring-coil air hose, 1/4" NPT fittings$6.99 | $6.99 |
+| 1/4" NPT check valve$12.95 | $12.95 |
+| Square D Pumptrol Adjustable Pressure Switch, Class 9013 Type FHG12J27
+	(1/8" NPT fitting)$16.95 | $16.95 |
+| 160 psi pressure gauge (1/4" NPT fitting)$4.69 | $4.69 |
+| Air fitting combo kit (air chuck, blower and fittings, tire pressure
+	gauge, two hex nipples, female quick-disconnect fitting, six male
+	quick-disconnect fittings (two female-threaded, four male-threaded)$12.47 | $12.47 |
+| Quick disconnect coupler (male and female ends)$4.49 | $4.49 |
+| 1/4" NPT needle drain cock$1.85 | $1.85 |
+| Two 1/4" NPT four-way cross manifolds$8.50 | $8.50 |
+| 1/4" NPT street elbow$1.79 | $1.79 |
+| Two 1/4" NPT hex nipples$1.50 | $1.50 |
+| 1/4" NPT male to 1/8" NPT female hex bushing$0.73 | $0.73 |
+| 1/4" male NPT to 1/2" hose barb$1.49 | $1.49 |
+| 1/4" NPT square-head plug$0.25 | $0.25 |
+| Two 1/4" NPT female pipe caps$2.70 | $2.70 |
+| Subtotal$93.09 | $93.09 |
+| Mounting Hardware |
+| 1.5x1.5" metal corner brace$0.53 | $0.53 |
+| 3x1" metal corner brace$0.49 | $0.49 |
+| 6-32 machine screws (12 pack)$0.59 | $0.59 |
+| 6-32 machine screws lock nuts (12 pack)$0.59 | $0.59 |
+| 8" zip-ties$1.69 | $1.69 |
+| Four each: 1/4" washers and lock washers$0.24 | $0.24 |
+| Four 8M 1.25x20 bolts$2.18 | $2.18 |
+| Four 8M washers$1.09 | $1.09 |
+| Subtotal$7.40 | $7.40 |
+| Electrical Stuff |
+| Lighted 30A SPST rocker switch$2.29 | $2.29 |
+| 15' (or so) of insulated 14-18 AWG wirealready had | already had |
+| Miscellaneous electrical connectors bought in bulknil | nil |
+| Subtotal$2.29 | $2.29 |
+| Total$250.81 | $250.81 |
+
 $35.00
 AMC-style hose connectors for York
 $12.00

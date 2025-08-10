@@ -42,8 +42,18 @@ The factory only used the [Dana 35c](/axle/d35c.html)
 in the rear of the YJ.
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1987 | xxx - xxx | ppp |
+| 1988 | xxx - xxx | ppp |
+| 1989 | xxx - xxx | ppp |
+| 1990 | xxx - xxx | ppp |
+| 1991 | xxx - xxx | ppp |
+| 1992 | xxx - xxx | ppp |
+| 1993 | xxx - xxx | ppp |
+| 1994 | xxx - xxx | ppp |
+| 1995 | xxx - xxx | ppp |
+
 1987
 xxx - xxx
 ppp

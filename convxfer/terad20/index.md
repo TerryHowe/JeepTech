@@ -23,8 +23,19 @@ kit and new 1-1/4" center shaft.
 ## Gear Ratio Comparisons
 [![](tera7s.jpg)](tera7.jpg)
 [![](tera6s.jpg)](tera6.jpg)
-Tera gears next to factory 2.03:1 low range Dana 20 gears. 
-The shiny new gears are from Tera. Note how much thicker the teeth 
+|  |  |
+| --- | --- |
+|  |  |
+| --- | --- |
+| 2.03:1 low range sliding gear laid over a Tera sliding gear. 
+The Tera gear is significantly larger. | 2.46:1 low range sliding gear laid over a Tera sliding gear. 
+The Tera gear is slightly smaller than the 2.46's gear,
+requiring less grinding on the case itself. |
+
+are on the Tera sliding gears compared to the originals. | Tera gears next to 2.46:1 low range Dana 18 gears. The sliding gears 
+are nearly the same size, but the Tera gears have much thicker teeth and 
+a higher tooth count for greater strength. |
+
 are on the Tera sliding gears compared to the originals.
 Tera gears next to 2.46:1 low range Dana 18 gears. The sliding gears 
 are nearly the same size, but the Tera gears have much thicker teeth and 
@@ -36,7 +47,16 @@ The Tera gear is significantly larger.
 2.46:1 low range sliding gear laid over a Tera sliding gear. 
 The Tera gear is slightly smaller than the 2.46's gear,
 requiring less grinding on the case itself. 
-Trans. (1st gear)Low Range Gearingaxle gearsCrawl Ratio
+| Trans. (1st gear) | Low Range Gearing | axle gears | Crawl Ratio |
+| --- | --- | --- | --- |
+| T18 (6.32) | 2.03 | 5.38 | 69:1 |
+| T18 (6.32) | 3.15 | 3.54 | 70:1 |
+| T18 (6.32) | 3.15 | 5.38 | 107:1 |
+| 3 Speed (~3:1) | 2.03 | 5.38 | 33:1 |
+| 3 Speed (~3:1) | 3.15 | 3.54 | 33:1 |
+| 3 Speed (~3:1) | 2.46 | 5.38 | 40:1 |
+| 3 Speed (~3:1) | 3.15 | 5.38 | 51:1 |
+
 T18 (6.32)2.035.3869:1
 T18 (6.32)3.153.5470:1
 T18 (6.32)3.155.38107:1
@@ -67,13 +87,22 @@ length of 1-1/4" OD pipe, tubing or wooden dowel is necessary to hold
 the needle bearings in place during assembly.
 [![](tera3s.jpg)](tera3.jpg)
 [![](tera2s.jpg)](tera2.jpg)
-Arrows point to the ridge I had to remove with a grinder. 
+|  |  |
+| --- | --- |
+| Arrows point to the ridge I had to remove with a grinder. 
+Your particular case may require more or less grinding. | Tera gear slid all the way onto the rear output shaft. 
+The arrow points to area where the ridge was ground away. |
+
 Your particular case may require more or less grinding.  
 Tera gear slid all the way onto the rear output shaft. 
 The arrow points to area where the ridge was ground away. 
 [![](tera5s.jpg)](tera5.jpg)
-No grinding was required on the top of the case, 
-unlike my 2.46:1 conversion.
+|  | No grinding was required on the top of the case, 
+unlike my 2.46:1 conversion. |
+| --- | --- |
+| No grinding was required on the top of the case, 
+unlike my 2.46:1 conversion. |
+
 Assembly is similar to rebuilding the stock transfer case except that 
 minor grinding may be required for gear clearance. I found that the 
 Tera 3.15 gears required less grinding on the case than the 2.46 gear 

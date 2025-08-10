@@ -20,8 +20,16 @@ Dana 20 to have a better low range.  Two write ups on this conversion
 are located at [http://www.off-road.com/~jweed/transfer.html](http://www.off-road.com/~jweed/transfer.html)
 and [http://www.srv.net/~jrcase/mod20.html](http://www.srv.net/~jrcase/mod20.html)
 [![Jeep and Early Bronco Dana 20 rear](/convxfer/ford/br20c_.jpg)](/convxfer/ford/br20c.jpg)
-The rear view of the Jeep Dana 20 and the early Bronco Dana 20.
+|  | The rear view of the Jeep Dana 20 and the early Bronco Dana 20.
 You can see the case is completely different.  The shift rails
+are in different places.  The rear yoke has been removed from
+the Bronco Dana 20. |
+| --- | --- |
+|  | From the front view you can see the early Bronco Dana 20 does not
+use the Texas bolt pattern used by the Jeep Dana 20 on the left.
+The Bronco case is drivers drivers drop and uas a yoke on it for
+a CV joint. |
+
 are in different places.  The rear yoke has been removed from
 the Bronco Dana 20.
 [![Jeep and Early Bronco Dana 20 front](/convxfer/ford/br20d_.jpg)](/convxfer/ford/br20d.jpg)

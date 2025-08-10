@@ -167,8 +167,23 @@ of at least 100 Amps or more. If you are really worried about
 weight, you're better off with a smaller battery. All it really
 has to do is start the engine if the alternator is large enough
 to carry the rest of the load after the car is running.
-Maximum Current load in AMPS @ 12 Volts DC
-Wire Length in Feet
+|  | Wire Length in Feet |
+| --- | --- |
+| WireGauge | 1246810 |  | 1 | 2 | 4 | 6 | 8 | 10 |
+|  | 1 | 2 | 4 | 6 | 8 | 10 |
+| 20 | 106 | 53 | 26 | 17 | 13 |
+| 18 | 150 | 75 | 37 | 25 | 18 | 15 |
+| 16 | 224 | 112 | 56 | 37 | 28 | 22 |
+| 14 | 362 | 181 | 90 | 60 | 45 | 36 |
+| 12 | 572 | 286 | 143 | 95 | 71 | 57 |
+| 10 | 908 | 454 | 227 | 151 | 113 | 90 |
+| 8 | 1452 | 726 | 363 | 241 | 181 | 145 |
+| 6 | 2342 | 1171 | 585 | 390 | 292 | 234 |
+| 4 | 3702 | 1851 | 925 | 616 | 462 | 370 |
+| 2 | 6060 | 3030 | 1515 | 1009 | 757 | 606 |
+| 1 | 7692 | 3846 | 1923 | 1280 | 961 | 769 |
+| 0 | 9708 | 4854 | 2427 | 1616 | 1213 | 970 |
+
 Wire
 Gauge
 1246810
@@ -184,8 +199,23 @@ Gauge
 26060303015151009757606
 17692384619231280961769
 097084854242716161213970
-Maximum Current load in AMPS @ 12 Volts DC
-Wire Length in Feet
+|  | Wire Length in Feet |
+| --- | --- |
+| WireGauge | 12152050100200 |  | 12 | 15 | 20 | 50 | 100 | 200 |
+|  | 12 | 15 | 20 | 50 | 100 | 200 |
+| 20 |  |  |  |  |  |  |
+| 18 | 12 |  |  |  |  |  |
+| 16 | 18 | 14 |  |  |  |  |
+| 14 | 30 | 24 | 18 |  |  |  |
+| 12 | 47 | 38 | 28 |  |  |  |
+| 10 | 75 | 60 | 45 |  |  |  |
+| 8 | 120 | 96 | 72 | 29 |  |  |
+| 6 | 194 | 155 | 117 | 46 | 23 |  |
+| 4 | 307 | 246 | 185 | 74 | 37 |  |
+| 2 | 503 | 403 | 303 | 121 | 60 | 30 |
+| 1 | 638 | 511 | 384 | 153 | 76 | 38 |
+| 0 | 805 | 645 | 485 | 194 | 97 | 48 |
+
 Wire
 Gauge
 12       15       20      50      100      200    
@@ -214,7 +244,19 @@ example: You've calculated a 10 amp load over a length of 15 feet.
 The chart shows that 16 AWG is suitable (12A column). Choose 14
 AWG to allow an adequate margin for safety.
 <hr>
-Current-Carrying Capability of Some Common Wire SizesWire Size (AWG)Continous-Duty Current *
+| Current-Carrying Capability of Some Common Wire SizesWire Size (AWG)Continous-Duty Current *846 A1033 A1223 A1417 A1613 A1810 A207.5 A225 A* wires or cables in conduits or bundles | Wire Size (AWG) | Continous-Duty Current * | 8 | 46 A | 10 | 33 A | 12 | 23 A | 14 | 17 A | 16 | 13 A | 18 | 10 A | 20 | 7.5 A | 22 | 5 A | * wires or cables in conduits or bundles |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wire Size (AWG) | Continous-Duty Current * |
+| 8 | 46 A |
+| 10 | 33 A |
+| 12 | 23 A |
+| 14 | 17 A |
+| 16 | 13 A |
+| 18 | 10 A |
+| 20 | 7.5 A |
+| 22 | 5 A |
+| * wires or cables in conduits or bundles |
+
 8      46 A
 10      33 A
 12      23 A
@@ -224,8 +266,16 @@ Current-Carrying Capability of Some Common Wire SizesWire Size (AWG)Continous-Du
 20      7.5 A
 22      5 A
 * wires or cables in conduits or bundles
-Resistance of copper wire per 1000 Feet at 25C
-Gauge Diameter  Ohms
+| Resistance of copper wire per 1000 Feet at 25C |
+| --- |
+| Gauge | Diameter | Ohms |
+| 20 | 0.032 | 10.35 |
+| 22 | 0.025 | 16.46 |
+| 24 | 0.020 | 26.17 |
+| 26 | 0.016 | 41.62 |
+| 28 | 0.013 | 66.17 |
+| 30 | 0.010 | 105.2 |
+
 20  0.032 10.35
 22  0.025 16.46
 24  0.020 26.17

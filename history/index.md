@@ -60,7 +60,18 @@ AVA ???
 CABCab only
 CPC ??? 
 C/WSCowl/Windshield
-FFCFlat Face Cowl
+| AMB | Ambulance |
+| --- | --- |
+| AVA | ??? |
+| CAB | Cab only |
+| CPC | ??? |
+| C/WS | Cowl/Windshield |
+| FFC | Flat Face Cowl |
+| PU | Pickup |
+| RT | ??? |
+| ST CH | Stripped Chassis |
+| STK | Stake bed |
+
 PUPickup
 RT ??? 
 ST CHStripped Chassis

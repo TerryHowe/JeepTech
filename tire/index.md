@@ -8,8 +8,14 @@ description: "Jeep tire information covering upgrades, factory options, and esse
 # Jeep Tech: Tires
 ## Upgrades
 ![](/toc/btll_100x64.jpg)
-[Big Tire, Little Lift](/tire/fit33.html):
-The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size.  Here's how to optimize.
+|  | [Big Tire, Little Lift](/tire/fit33.html):
+The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size.  Here's how to optimize. |
+| --- | --- |
+|  | [What fits and what hits](#What_fits): The lift needed to fit
+the tires you want. |
+|  | [Tire size tradeoffs](#Tradeoffs___Tire_Size) |
+|  | [Tread patterns](#Tread_Patterns): The Good, The Bad, and the Knobby |
+
 [What fits and what hits](#What_fits): The lift needed to fit
 the tires you want.</li>
 [Tire size tradeoffs](#Tradeoffs___Tire_Size) </li>
@@ -26,7 +32,128 @@ the tires you want.</li>
 Modifications**
 **Body Lifts** 
 **Fender Trimming** 
-**30"** No lift required - 
+| Tire Size 
+(Diameter) | Suspension 
+Modifications | Body Lifts | Fender Trimming |
+| --- | --- | --- | --- |
+| Tire Size 
+(Diameter) | Suspension 
+Modifications | Body Lifts | Fender Trimming |
+| --- | --- | --- | --- |
+| 30" | No lift required - 
+however small lifts will 
+increase articulation 
+greatly | No lift required - 
+however a 1" or 2" 
+body lift could be used 
+to increase articulation | No trimming required 
+and none 
+recommended |
+| 31" | No lift required for 
+street use as this is 
+close to stock size. 2" 
+to 3" lifts are 
+recommended for trail 
+use to increase 
+articulation | No lift is required but a 
+1" or 2" body lift can 
+be used to gain 
+clearance and 
+articulation | No trimming is 
+required and none is 
+recommended |
+| 32" | A 2" to 3" lift would be 
+recommended, a 4" lift 
+would provide greatly 
+increased articulation 
+without rubbing | A 2" body lift 
+combined could be 
+used to clear this size. | No trimming is 
+required unless rubbing 
+is actually observed in 
+use. |
+| 33" | A 3" to 4" suspension 
+lift or spring over 
+conversion is 
+recommended. | A 1" or 2" body lift 
+may be used to 
+increase clearance | Some rubbing may 
+occur Some trimming 
+of the bottom trailing 
+edge of the rear fender 
+may be useful. |
+| 35" | A 4" suspension lift or 
+spring over conversion 
+is necessary. Axle & 
+brake upgrades are 
+highly recommended 
+as well. | A 2" body lift is 
+recommended, a 3" lift 
+can increase clearance. | Some trimming of 
+fender edges may be 
+needed to eliminate 
+rubbing problems |
+
+however small lifts will 
+increase articulation 
+greatly | No lift required - 
+however a 1" or 2" 
+body lift could be used 
+to increase articulation | No trimming required 
+and none 
+recommended |
+| 31" | No lift required for 
+street use but there 
+may be some slight 
+plastic fender rubbing. 
+2" to 3" lifts are 
+recommended for trail 
+use to increase 
+articulation | No lift is required but a 
+1" or 2" body lift can 
+be used in place of a 
+suspension lift to gain 
+clearance and eliminate 
+rubbing | No trimming is 
+required and none is 
+recommended |
+| 32" | A 2" to 3" lift would be 
+recommended, a 4" lift 
+would provide greatly 
+increased articulation 
+without rubbing | A 2" body lift 
+combined with 1" lift 
+extended shackles 
+could be used to clear 
+this size on an extreme 
+budget. | With extended 
+shackles or small 
+suspension lifts there 
+may be some rubbing 
+at the corners of the 
+plastic fenders under 
+extreme conditions. |
+| 33" | A 4" suspension lift or 
+spring over conversion 
+is recommended. | A 1" or 2" body lift is 
+recommended to 
+increase clearance | Some rubbing may 
+occur Some trimming 
+of the bottom trailing 
+edge of the rear fender 
+may be useful. |
+| 35" | A 4" suspension lift or 
+spring over conversion 
+is necessary. Axle & 
+brake upgrades are 
+highly recommended 
+as well. | A 2" body lift is 
+recommended, a 3" lift 
+can increase clearance. | With a 2" body lift 
+trimming some fender 
+edges as much as 1" or 
+2" may be needed. |
+
 however small lifts will 
 increase articulation 
 greatly No lift required - 
@@ -151,8 +278,32 @@ rubbing problems
 (Diameter)** 
 **Suspension 
 Modifications** 
-**Body Lifts are not 
-available.** 
+| Tire Size 
+(Diameter) | Suspension 
+Modifications | Body Lifts are not 
+available. | Fender Trimming |
+| --- | --- | --- | --- |
+| 30" | No lift required - 
+however small lifts may 
+increase clearances & 
+articulation | N/A | Some minor fender 
+trimming may be 
+required if rubbing is a 
+problem with wider 
+tires |
+| 31" | 3" lifts are possible, 4" 
+lifts would be better 
+for trail use. | N/A | Trimming may be 
+required with wider 
+than stock tires |
+| 32" - 33" | A 5" or larger lift is 
+required. | N/A | Some trimming is 
+required |
+| 33"-35" | A 6" or larger 
+suspension lift is 
+required | N/A | Serious trimming may 
+be required |
+
 **Fender Trimming** 
 **30"** No lift required - 
 however small lifts may 
@@ -306,5 +457,6 @@ is the limit to which most of their intended market are likely to
 take them.
 ## Factory Options
 ## Essentials
-[Metric Tire Sizes Explained](/javaAps/conv.html):  A complete explanation of metric tire sizes including an applet to convert metric tire sizes to inches</li>
-[Tire Industry Safety Council](http://www.tmn.com/tisc/):  A page dedicated to tire safety and care.</li>
+|  | [Metric Tire Sizes Explained](/javaAps/conv.html):  A complete explanation of metric tire sizes including an applet to convert metric tire sizes to inches |
+| --- | --- |
+|  | [Tire Industry Safety Council](http://www.tmn.com/tisc/):  A page dedicated to tire safety and care. |

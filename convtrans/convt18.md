@@ -56,8 +56,15 @@ these parts cheap if they know what they are.
 ## T-18 Swap Stories
 It seems there are an infinite number of ways you can get a T-18
 in your Jeep.  Here are some articles on common T-18 swaps:
-[Swapping a CJ T-18 into a CJ](/convtrans/cjt18/):
+|  | [Swapping a CJ T-18 into a CJ](/convtrans/cjt18/):
 Kirk Beasley tells us how to swap a CJ T-18 into your CJ.
+Detailed descriptions of the parts you need to do the swap. |
+| --- | --- |
+|  | [Ford T-18 Swap](/convtrans/fordt18/):
+Steve Smith swaps a Ford T-18 into
+his '83 CJ-7.  Swapping a Ford T-18 into your 80s CJ will give
+you a tremendous improvement in reliability and peformance. |
+
 Detailed descriptions of the parts you need to do the swap.
 ![](/convtrans/ft18s_.jpg)
 [Ford T-18 Swap](/convtrans/fordt18/):
@@ -71,7 +78,16 @@ it can be a bit daunting to go out and find one.  The following
 articles cover some things to look for to find the T-18 you need.
 ![T-18 side](/trans/t18sT.jpg)
 [Jeep T-18](/trans/t18.html):
+|  | [Jeep T-18](/trans/t18.html):
 The T-18 was used in '72-'79 CJs and full size Jeeps until
+1981. |
+| --- | --- |
+|  | [Ford T-18](/convtrans/ford/fordt18id.html):
+Ford used the T-18 in trucks from the mid 60s until the mid 80s. |
+|  | [International T-18](/convtrans/ih/iht18id.html):
+International used the T-18 in Scouts and IH light line trucks from
+the mid 60s until 1974. |
+
 1981.
 ![Ford T-18](/convtrans/fordt18/ford2wdt18_.jpg)
 [Ford T-18](/convtrans/ford/fordt18id.html):

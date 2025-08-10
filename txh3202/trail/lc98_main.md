@@ -24,8 +24,19 @@ Without a doubt, they succeeded.
 ![](pepper.gif)
 ![](pepper.gif)
 ![](pepper.gif)
-I always felt [The Gauntlet](lc98_gauntlet.html) aka Coyote
+|  | [[The Gauntlet](lc98_gauntlet.html)](lc98_gauntlet.html)I always felt[[The Gauntlet](lc98_gauntlet.html)](lc98_gauntlet.html)aka Coyote
 Canyon was underrated.  The trail has given me more problems than
+Wolf Run, Broad Canyon, or Amatista Ledges |
+| --- | --- |
+|  | [[Amatista Ledges](lc98_amatista.html)](lc98_amatista.html)True to its name,[[Amatista Ledges](lc98_amatista.html)](lc98_amatista.html)begins with a drop off a ledge which leads to drop off after drop off.
+Picking the wrong line off one of these ledges could easily
+lead to a roll-over. |
+|  | [[Habenero Falls](lc98_habenero.html)](lc98_habenero.html)I watched six trucks try the first giant stone step of[[Habenero Falls](lc98_habenero.html)](lc98_habenero.html).  Three trucks made
+it, two broke drive shafts, and one broke a front axle. |
+|  | [[[Tabasco Twister](lc98_tabasco.html)](lc98_tabasco.html)](lc98_tabasco.html)The[[[Tabasco Twister](lc98_tabasco.html)](lc98_tabasco.html)](lc98_tabasco.html)features a lot of good hard four wheeling and two extreme ledges to climb.
+Even our well prepared group had difficulties
+stomaching the heat of the[[[Tabasco Twister](lc98_tabasco.html)](lc98_tabasco.html)](lc98_tabasco.html). |
+
 Wolf Run, Broad Canyon, or Amatista Ledges
 [![Amatista Ledges](lc98toca.jpg)](lc98_amatista.html) 
 [Amatista Ledges](lc98_amatista.html)

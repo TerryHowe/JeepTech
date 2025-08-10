@@ -17,8 +17,19 @@ gear that the transmission is in.  Only engine RPM can be used
 to change the speed.  Normally, the PTO is only used with
 the transmission in neutral.
 [![Transmission PTO adapter](t18pto02_.jpg)](t18pto02.jpg)
-Plate removed from PTO port on T-18.
-[![Transmission PTO adapter](t18pto01_.jpg)](t18pto01.jpg)
+|  | Plate removed from PTO port on T-18. |
+| --- | --- |
+|  | Top view of transmission PTO adapter on CJ T-18.
+It can be  torn apart and rebuilt for rear or front
+output.  The unit can also be mounted so the shaft is high or low
+and the shift lever can be mounted on either side. |
+|  | Back view of transmission PTO adapter on CJ T-18.  This PTO adapter
+has been set up for rear output. |
+|  | Transmission PTO adapter on 3 ton GMC tow truck from the early 60s.
+This particular PTO adapter is attached to a SM420 transmission.
+The adapter itself is red, the PTO shaft runs parallel with the
+drive shaft. |
+
 Top view of transmission PTO adapter on CJ T-18.
 It can be  torn apart and rebuilt for rear or front
 output.  The unit can also be mounted so the shaft is high or low

@@ -16,8 +16,13 @@ transfer cases.  Borg-Warner transfer cases are not covered
 here.
 ## Identification
 ![Early Bronco Dana 20 front](/convxfer/ford/br20b_.jpg)
-[Ford Dana 20](/convxfer/ford/fordd20id.html): The
-Ford Dana 20 can be used to enhance the low range of a Jeep Dana 20.
+|  | [Ford Dana 20](/convxfer/ford/fordd20id.html): The
+[Ford Dana 20](/convxfer/ford/fordd20id.html) can be used to enhance the low range of a Jeep Dana 20. |
+| --- | --- |
+|  | [Ford NP203](/convxfer/ford/fordnp203id.html): The
+[Ford NP203](/convxfer/ford/fordnp203id.html) is no more desirable to a Jeeper than the Dodge or Chevy
+NP203. |
+
 [Ford NP203](/convxfer/ford/fordnp203id.html): The
 Ford NP203 is no more desirable to a Jeeper than the Dodge or Chevy
 NP203.

@@ -14,5 +14,6 @@ Jeep Cherokee (XJ), & Jeep Comanche with 2.5L & 4.0L engines.
 The AW4 was also used in 1991 through 1992 Jeep Comanche  & 1991 through
 1998 Jeep Cherokee & 1993 through 1993.5 Jeep Grand Cherokee
 with 4.0L engines.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-AW4 NA NA 1.00 0.705  NA
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| AW4NANA1.000.705NA | NA | NA | 1.00 | 0.705 |  | NA |

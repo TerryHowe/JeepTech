@@ -18,8 +18,29 @@ with a 120" and a 126" wheelbase and most models were
 available in Thriftside (narrow box), Townside (wide box)
 and cab & chassis models.
 J-100panel delivery
-J-2001/2T 5000 GVW (120" wheelbase)
-J-2101/2T 6000 GVW (120")
+| J-100 | panel delivery |
+| --- | --- |
+| J-4500 | 1/2T 5000 GVW Townside only (132") |
+| --- | --- |
+| J-4700 | 3/4T 7000 GVW Townside only (132") |
+| J-4800 | 3/4T 8000 GVW Townside, cab & chassis or stake bed (132") |
+
+| --- | --- |
+| J-2600 | 1/2T 6000 GVW (120") |
+| J-2700 | 3/4T 7000 GVW (120") |
+| J-2800 | 1T 8600 GVW (120") |
+| J-3500 | 1/2T 5000 GVW (126") |
+| J-3600 | 1/2T 6000 GVW (126") |
+| J-3700 | 3/4T 7000 GVW (126") |
+| J-3800 | 1T 8600 GVW (126") |
+
+| J-220 | 3/4T (120") |
+| J-230 | 1T cab & chassis or stake bed only (120") |
+| J-300 | 1/2T (126") |
+| J-310 | 3/4T (126") |
+| J-320 | 1T (126") |
+| J-330 | 1T cab & chassis or stake bed only (126") |
+
 J-2203/4T (120")
 J-2301T cab & chassis or stake bed only (120")
 J-3001/2T (126")
@@ -46,8 +67,12 @@ J-47003/4T 7000 GVW Townside only (132")
 J-48003/4T 8000 GVW Townside, cab & chassis or stake bed (132") 
 In 1974 the model designations were changed to only reflect
 vehicle load capacity rather than load capacity and wheel base.
-J-10Model 25 being the 1/2T 119" WB
-J-10Model 45 was the 1/2T 131" WB
+| J-10 | Model 25 being the 1/2T 119" WB |
+| --- | --- |
+| J-10 | Model 45 was the 1/2T 131" WB |
+| J-20 | Model 45 was the 3/4T 131" WB |
+| J-30 | 1T cab & chassis or stake bed dually |
+
 J-20Model 45 was the 3/4T 131" WB
 J-301T cab & chassis or stake bed dually
 ## Drive Train
@@ -88,8 +113,34 @@ an option.  Powr-Lok limited slips were optional in all models (rear
 only)
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1963 | xxx - xxx | ppp |
+| 1964 | xxx - xxx | ppp |
+| 1965 | xxx - xxx | ppp |
+| 1966 | xxx - xxx | ppp |
+| 1967 | xxx - xxx | ppp |
+| 1968 | xxx - xxx | ppp |
+| 1969 | xxx - xxx | ppp |
+| 1970 | xxx - xxx | ppp |
+| 1971 | xxx - xxx | ppp |
+| 1972 | xxx - xxx | ppp |
+| 1973 | xxx - xxx | ppp |
+| 1974 | xxx - xxx | 15,524 |
+| 1975 | xxx - xxx | 13,958 |
+| 1976 | xxx - xxx | 16,188 |
+| 1977 | xxx - xxx | 17,252 |
+| 1978 | xxx - xxx | 20,495 |
+| 1979 | xxx - xxx | 18,966 |
+| 1980 | xxx - xxx | 6,839 |
+| 1981 | xxx - xxx | 8,048 |
+| 1982 | xxx - xxx | 6,113 |
+| 1983 | xxx - xxx | 4,705 |
+| 1984 | xxx - xxx | 3,082 |
+| 1985 | xxx - xxx | 1,953 |
+| 1986 | xxx - xxx | 1,515 |
+| 1987 | xxx - xxx | 1,153 |
+
 1963
 xxx - xxx
 ppp

@@ -30,7 +30,14 @@ a Dana 20 or Dana 18.  The same is probably true if the ribbed case
 is used with a Dana 300.  The ribbed SM420 case should not be confused
 with the later SM465 transmission.
 [![1967 SM420](/convtrans/sm420/late420_.jpg)](/convtrans/sm420/late420.jpg)
-Note the ribbed side of the case.  Early cases do not have this
+|  | Note the ribbed side of the case.  Early cases do not have this
+ribbing. |
+| --- | --- |
+|  | A Picture from the back with a Warn overdrive and Dana 18 transfer
+case attached.  You can just make out the backup light switch to
+the right and back of the transmission shift lever.  The switch is
+partially obscured by the transfer case shift levers. |
+
 ribbing.
 [![1967 SM420](/convtrans/sm420/420-18od_.jpg)](/convtrans/sm420/420-18od.jpg)
 A Picture from the back with a Warn overdrive and Dana 18 transfer
@@ -48,8 +55,10 @@ Thanks to David Moulton for the good clean SM420 pictures at the
 top of the page.  I took the blurry pictures of the dirty SM420.
 Thanks to Evan Chapman for the 420 gear ratios.  Thanks to
 Paul Weitlauf for the pictures of the 1967 SM420.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-SM420 7.05 3.58 1.71 1.00  7.05 
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| SM4207.053.581.711.007.05 | 7.05 | 3.58 | 1.71 | 1.00 |  | 7.05 |
+
 [![Muncie 420 drivers](/convtrans/sm420dsT.jpg)](/convtrans/sm420ds.jpg)
 [![Muncie 420 front](/convtrans/sm420fT.jpg)](/convtrans/sm420f.jpg)
 [![Muncie 420 passengers](/convtrans/sm420psT.jpg)](/convtrans/sm420ps.jpg)

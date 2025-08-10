@@ -1,6 +1,25 @@
 ---
-title: "Jeep Engine: Tornado 230 I6"
-keywords: "Jeep, engine, Tornado, 230, I6"
+| Tornado 230 I6 |
+| --- |
+| Bore x Stroke | 3.34" x 4.38" |
+| Displacement | 230 (3.76L) |
+| Compression Ratio | 7.5:1 |
+| Horsepower (net) | 133@4000rpm |
+| Torque (net) | 199@2400 |
+| Main Bearings | 4 |
+| Valve Configuration | SOHC |
+| Fuel | 1bbl or 2bbl |
+
+| --- |
+| Bore x Stroke | 3.34" x 4.38" |
+| Displacement | 230 (3.76L) |
+| Compression Ratio | 8.5:1 |
+| Horsepower (net) | 140@4000rpm |
+| Torque (net) | 210@1750 |
+| Main Bearings | 4 |
+| Valve Configuration | SOHC |
+| Fuel | 1bbl or 2bbl |
+
 author: "Terry L. Howe"
 description: "All about the Jeep Tornado 230 I6 engine."
 ---

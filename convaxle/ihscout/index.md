@@ -56,8 +56,20 @@ to be honest, I'm not a great mechanic.  I relied heavily on
 the experiences of Rick Boiros and Rob Bryce, both of whom
 had slipped Scout axles under Chrysler Jeeps.
 ![Spring perch]()
-[Rear Dana 44](/convaxle/ihscout/d44r.html):
+|  | [Rear Dana 44](/convaxle/ihscout/d44r.html):
 The Scout II Dana 44 rear axle is the perfect width for a Wrangler
+YJ.  Spring perch movement is the hardest thing about this part
+of the swap. |
+| --- | --- |
+|  | [Front Dana 44](/convaxle/ihscout/d44f.html):
+The Scout II Dana 44 front axle comes with disk brakes and later
+Scout front Dana 44s used the larger Dana 44 u-joint.  The axle
+is relatively very easy to swap in a Wrangler YJ. |
+|  | [Final Notes](/convaxle/ihscout/conclude.html):
+The Scout II Dana 44 axle swap requires a transfer case swap and
+a few other details.  Reflections on what axle swap is best for a 
+Wrangler YJ. |
+
 YJ.  Spring perch movement is the hardest thing about this part
 of the swap.
 ![Front 44]()

@@ -11,8 +11,11 @@ Spring perch movement required.
 ### Uncut Rear Ford 9" Sizes
 The accuracy of the dimensions is not guaranteed, get out your tape
 measure.
-Model/Version Spring Pads Wheel to Wheel 
-Ford 9"/Bronco  58" 
+| Model/Version | Spring Pads | Wheel to Wheel |
+| --- | --- | --- |
+| Ford 9"/Bronco |  | 58" |
+| Ford 9"/Bronco |  | 62" |
+
 Ford 9"/Bronco  62" 
 ### Rear Ford 9" Swap Stories
 ![SOA YJ](/convaxle/fordeb/hutflx1_.jpg)

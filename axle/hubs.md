@@ -24,8 +24,24 @@ bolt on the wheel.
 The hub bolts onto the brake hub.  Inside the hub is a splined
 sleeve that moves in and out when the dial is turned.  This sleeve
 slides over the outer part of the axle shaft when it is in and it
-is away from the axle shaft when it is out.  This is the way hubs
-engage and disengage the front axle.
+|  | This is the factory 5 bolt lock-out used from '81-'86.  They are
+built by Warn, but most do not have the Warn logo on them.  They
+are not known for their strength.  There are heavier duty 5 bolt
+lock-outs available if you are reluctant to upgrade to 6 bolt
+lock-outs. |
+| --- | --- |
+|  | The Warn preminum hubs are probably the most common hub to find on
+a Jeep with 6 bolt lock-outs.  They are a good, reliable, all
+around hub. |
+|  | These Selectro automatic locking hubs are probably the second most
+common hub to see on Jeeps with 6 bolt lock-outs.  They have an "auto"
+and "lock" postion on the dial. |
+|  | These hubs are built by Warn and they are common on International
+Harvester vehicles.  The IH ones have a little IH logo on them
+rather than the Warn logo.  They are an auto locking hub with an "auto"
+and "lock" position on the dial.  I've heard IH owners complain
+about the reliability of these hubs. |
+
 ### What the Axle Disconnect System Does
 [![](/axle/d30vac_.jpg)](/axle/d30vac.jpg)
 The axle disconnect system used in Wrangler YJs has a vacuum motor

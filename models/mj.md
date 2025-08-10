@@ -42,8 +42,16 @@ The [Dana 44](/axle/d44.html) was optional in some models
 with the "metric ton" package.
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1986 | xxx - xxx | ppp |
+| 1987 | xxx - xxx | ppp |
+| 1988 | xxx - xxx | ppp |
+| 1989 | xxx - xxx | ppp |
+| 1990 | xxx - xxx | ppp |
+| 1991 | xxx - xxx | ppp |
+| 1992 | xxx - xxx | ppp |
+
 1986
 xxx - xxx
 ppp

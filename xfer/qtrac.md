@@ -39,8 +39,11 @@ The transfer case in the pictures at the top of the page does not
 have a low range.  It is a full time single speed unit.  The pictures
 below show a transfer case with a low range.
 [![BW 13-39 drivers side with low range](/xfer/bw13395_.jpg)](/xfer/bw13395.jpg)
-Drivers side view of the 13-39 with bolt on low range.
-[![BW 13-39 passenger side with low range](/xfer/bw13396_.jpg)](/xfer/bw13396.jpg)
+|  | Drivers side view of the 13-39 with bolt on low range. |
+| --- | --- |
+|  | Passenger side view of 13-39 with low range. |
+|  | View of the BW 13-39 with low range from the back. |
+
 Passenger side view of 13-39 with low range.
 [![BW 13-39 back with low range](/xfer/bw13397_.jpg)](/xfer/bw13397.jpg)
 View of the BW 13-39 with low range from the back.

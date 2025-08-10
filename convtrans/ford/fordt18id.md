@@ -30,8 +30,10 @@ There are generally two styles of output for the 2WD version
 of the Ford T-18, the long slip yoke style shown in the top
 picture and a short regular yoke style.  The 4WD versions of
 the Ford T-18 tend to use long adapters and 31 spline outputs.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-T-18 6.32 3.09 1.69 1.00  7.44 
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| T-186.323.091.691.007.44 | 6.32 | 3.09 | 1.69 | 1.00 |  | 7.44 |
+
 ## Contributors
 Thanks to Jeepin Joe Heinrich for the long tail shaft 2WD Ford
 T-18 picture.

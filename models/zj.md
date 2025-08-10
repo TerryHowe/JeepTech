@@ -37,8 +37,14 @@ found in the rear of the ZJ.
 The [Dana 44](/axle/d44.html) is optional in some models.
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1993 | xxx - xxx | ppp |
+| 1994 | xxx - xxx | ppp |
+| 1995 | xxx - xxx | ppp |
+| 1996 | xxx - xxx | ppp |
+| 1997 | xxx - xxx | ppp |
+
 1993
 xxx - xxx
 ppp

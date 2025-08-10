@@ -30,8 +30,11 @@ and the rear axle is a [Dana 35c](/axle/d35c.html) and
 the [Dana 44](/axle/d44.html) is the optional rear axle.
 ## Production Information
 Year
-Serial Number Range 
-Production
+| Year | Serial Number Range | Production |
+| --- | --- | --- |
+| 1997 | xxx - xxx | ppp |
+| 1998 | xxx - xxx | ppp |
+
 1997
 xxx - xxx
 ppp

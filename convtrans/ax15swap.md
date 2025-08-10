@@ -270,14 +270,36 @@ as I have found out.  Hopefully this write-up will entice the "Do It
 Yourselfer" into doing the same even if its with the AX-5 swap.
 ## Torque Specs
 The torque settings are:
-t/c to tranny bolts26 ft#
-bellhousing to engine bolts28 ft#
+| t/c to tranny bolts | 26 ft# |
+| --- | --- |
+| bellhousing to engine bolts | 28 ft# |
+| tranny mount to crossmember | 33 ft# |
+| crossmember to frame bolts | 30 ft# |
+| driveshaft bolts | 170 ft# |
+
 tranny mount to crossmember33 ft#
 crossmember to frame bolts30 ft#
 driveshaft bolts170 ft#
 ## Costs
-1996 AX-15* complete - bellhousing, slave cylinder, reservoir, 4x4 shift
+| 1996 AX-15* complete - bellhousing, slave cylinder, reservoir, 4x4 shift
 linkage, boots, shifter, crossmember, mount, tranny (33k miles), crank
+sensor, and all bolts associated | $1200 |
+| --- | --- |
+| Advance Adapters Inc.  23 spline input gear for NP231 T/C  Part #716053
+w/ shipping | $182 |
+| Pilot Bearing for CJ 304-3-sp combo.  Part # 690-042 | $2.75 |
+| Machine Shop labor: press off old input gear bearing, press on new
+bearing | $10 |
+| Hyd Ctrl (Hydraulic reservoir, line and external slave cylinder as one
+unit) 
+Part #52104110 | $122 |
+| Input Gear Bearing Part # 4338891 | $52 |
+| T/C front cover plate seal Part # J5359457 | $3.60 |
+| Release Bearing (96 application) Part #53008342 | $57.50 |
+| Pad Kit  Part #21-109-15 (shift fork plastic) | $7.10 |
+| Bushing Part #21-118-47 (shift fork rod plastic) | $2.70 |
+| Total | ~$1640 |
+
 sensor, and all bolts associated$1200
 Advance Adapters Inc.  23 spline input gear for NP231 T/C  Part #716053
 w/ shipping$182

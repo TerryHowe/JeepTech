@@ -6,8 +6,18 @@ description: "Jeep drive train information covering factory options and conversi
 ---
 
 # Jeep Tech: Drive Train
-[Gear and Tire Swaps](/javaAps/gta.html):
+|  | [Gear and Tire Swaps](/javaAps/gta.html):
 Gear and tire changes effect RPMs and speed.  This Java applet
+calculates MPH and KPH for various gearing and tire
+set ups and prints tabular and graphical output. |
+| --- | --- |
+|  | [Speedometer Recalibration](/javaAps/Speedo.html):
+Gear and tire swaps can throw off your speedometer.  This article
+explains how to recalibrate your speedometer. |
+|  | [Metric Tire Conversion](/javaAps/conv.html):
+This article explains how to convert metric tire sizes (e.g. 235/75R15)
+into inches.  It includes a Java applet that will do the math for you. |
+
 calculates MPH and KPH for various gearing and tire
 set ups and prints tabular and graphical output.
 [Speedometer Recalibration](/javaAps/Speedo.html):

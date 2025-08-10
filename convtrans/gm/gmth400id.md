@@ -21,5 +21,6 @@ an issue with short wheelbase Jeeps, the 700R4 may be a better swap
 option.  The 700R4 has an overdrive which the TH400 does not have and
 an overdrive can make highway driving more pleasant for low geared
 Jeeps.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-TH400 2.48 1.48 1.00   NA
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| TH4002.481.481.00NA | 2.48 | 1.48 | 1.00 |  |  | NA |

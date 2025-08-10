@@ -33,8 +33,20 @@ what it means for a wide track, don't count solely on the code
 to identify an axle.  Bring a tape measure or know the source of
 the part.
 ### Specs
-Narrow Track AMC 20 
-Code  Gear Ratio  Diff Type 
+| Narrow Track AMC 20 |
+| --- |
+| Code | Gear Ratio | Diff Type |
+| AA | 2.73 | Open |
+| DD | 2.73 | Trac-Lok |
+| BB | 3.31 | Open |
+| CC | 3.31 | Trac-Lok |
+| A | 3.54 | Open |
+| N | 3.54 | Trac-Lok |
+| GG | 3.73 | Open |
+| Q | 3.73 | Trac-Lok |
+| L | 4.10 | Open |
+| M | 4.10 | Trac-Lok |
+
 AA 2.73 Open
 DD 2.73 Trac-Lok
 BB 3.31 Open
@@ -45,8 +57,20 @@ GG 3.73 Open
 Q 3.73 Trac-Lok
 L 4.10 Open
 M 4.10 Trac-Lok
-Wide Track AMC 20 
-Code  Gear Ratio  Diff Type 
+| Wide Track AMC 20 |
+| --- |
+| Code | Gear Ratio | Diff Type |
+| D | 2.73 | Open |
+| DD | 2.73 | Trac-Lok |
+| B | 3.31 | Open |
+| BB | 3.31 | Trac-Lok |
+| A | 3.54 | Open |
+| AA | 3.54 | Trac-Lok |
+| H | 3.73 | Open |
+| HH | 3.73 | Trac-Lok |
+| C | 4.10 | Open |
+| CC | 4.10 | Trac-Lok |
+
 D 2.73 Open
 DD 2.73 Trac-Lok
 B 3.31 Open
@@ -81,8 +105,13 @@ Since the length and bolt pattern is different from the CJ
 version, the SJ shafts are not compatible without resplining
 and redrilling.  I've never heard of anyone going to the
 trouble.
-Model/Version Spring Pads Wheel to Wheel Years
-AMC 20/CJ Narrow Track 36" 50.5" '76-'81
+| Model/Version | Spring Pads | Wheel to Wheel | Years |
+| --- | --- | --- | --- |
+| AMC 20/CJ Narrow Track | 36" | 50.5" | '76-'81 |
+| AMC 20/CJ Wide Track | 36" | 54.5" | '82-'86 |
+| AMC 20/SJ Narrow Track |  |  |  |
+| AMC 20/SJ Wide Track |  |  |  |
+
 AMC 20/CJ Wide Track 36" 54.5" '82-'86
 AMC 20/SJ Narrow Track   
 AMC 20/SJ Wide Track

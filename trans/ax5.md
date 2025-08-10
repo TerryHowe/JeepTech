@@ -17,7 +17,20 @@ The AX-5 and the Peugeot BA 10/5 were used in all Wranglers from
 Wranglers (YJs and TJs).  Its usage is similar in Cherokees (XJ)
 and Comanches (MJ).
 [![AX-5 front](/trans/ax5fT.jpg)](/trans/ax5f.jpg)
-The AX-5 from the front with bell housing and clutch slave cylinder
+|  | The AX-5 from the front with bell housing and clutch slave cylinder
+installed.  Friendly neighbor not included.A driver's side shot of a [BA 10/5](/trans/ba10.html) for comparison.  Notice how the[BA 10/5](/trans/ba10.html)doesn't have the regular ribbing on the driver's side.  The
+passenger side of the [BA 10/5](/trans/ba10.html) does have regular ribbing.  The main case
+of the [BA 10/5](/trans/ba10.html) is made of two pieces bolted together, where as the
+AX-5 main case is one solid piece of cast aluminum. |  | A driver's side shot of a [BA 10/5](/trans/ba10.html) for comparison.  Notice how the[BA 10/5](/trans/ba10.html)doesn't have the regular ribbing on the driver's side.  The
+passenger side of the [BA 10/5](/trans/ba10.html) does have regular ribbing.  The main case
+of the [BA 10/5](/trans/ba10.html) is made of two pieces bolted together, where as the
+AX-5 main case is one solid piece of cast aluminum. |
+| --- | --- | --- | --- |
+|  | A driver's side shot of a [BA 10/5](/trans/ba10.html) for comparison.  Notice how the[BA 10/5](/trans/ba10.html)doesn't have the regular ribbing on the driver's side.  The
+passenger side of the [BA 10/5](/trans/ba10.html) does have regular ribbing.  The main case
+of the [BA 10/5](/trans/ba10.html) is made of two pieces bolted together, where as the
+AX-5 main case is one solid piece of cast aluminum. |
+
 installed.  Friendly neighbor not included.
 [![BA 10/5 side](/trans/ba10dsT.jpg)](/trans/ba10ds.jpg)
 A driver's side shot of a BA 10/5 for comparison.  Notice how the
@@ -26,7 +39,9 @@ doesn't have the regular ribbing on the driver's side.  The
 passenger side of the BA 10/5 does have regular ribbing.  The main case
 of the BA 10/5 is made of two pieces bolted together, where as the
 AX-5 main case is one solid piece of cast aluminum.
-Transmission 1st 2nd 3rd 4th 5th Rev 
-AX-5 3.93 2.33 1.45 1.00 0.85 4.74 
+| Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev |
+| --- | --- | --- | --- | --- | --- | --- |
+| AX-5 | 3.93 | 2.33 | 1.45 | 1.00 | 0.85 | 4.74 |
+
 ### Contributors
 Photos courtesy David Moulton.
