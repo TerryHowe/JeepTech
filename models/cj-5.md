@@ -1,0 +1,113 @@
+---
+title: "The Vintage Jeep Barn: CJ-5"
+keywords: "Jeep, Willys, CJ-5, cj5, Kaiser, AMC"
+author: "Terry L. Howe"
+description: "Description, drive train specifications, and production information for the Jeep CJ-5"
+---
+
+# The Vintage Jeep Barn: CJ-5
+![barn](/images/barn.gif)
+[![](/images/cj5t.jpg)](/images/cj5.jpg)
+## Description
+The CJ-5 was produced from 1955 through 1983.
+## Drive Train
+### Engine
+Many engine options have been offered for the CJ-5 over it's long
+production run.  The original engine offered in the CJ-5 was the
+["Hurricane" F-Head 134 I4](/engine/hurricane134.html).
+The first optional engine offerred for the CJ-5 was the
+[Perkins 192 I4](/engine/perkins192.html)
+diesel followed by the
+["Dauntless" Buick 225 V6](/engine/dauntless225.html).
+When AMC purchased Jeep from Kaiser, they soon made the AMC
+[232](/engine/amc232.html),
+[258](/engine/amc258.html), and
+[304](/engine/amc304.html) available in the CJ-5.
+The last three years of production, the
+[GM 151 I4](/engine/gm151.html)
+was the standard engine.
+### Transmission
+The [T-90](/trans/t90.html) 3 speed was the standard
+transmission for the CJ-5 for many years.  It's close brother,
+the [T-86](/trans/t86.html) 3 speed was used with CJ-5s
+with the Dauntless V6.  The [T-14](/trans/t14.html)
+replaced the T-90 and later the beefy [T-15](/trans/t15.html) was used with CJ-5 with the 304.  The [T-98](/trans/t18.html) was an optional 4 speed for the CJ-5 until 1971 when
+the [T-18](/trans/t18.html) became the optional 4
+speed.  In 1976, the [T-150](/trans/t150.html) became
+the 3 speed for the CJ-5.  In 1980, the heavy duty 3 speeds
+and 4 speeds were no longer offered.  The lighter duty
+[SR-4](/trans/t4.html),
+[T-4](/trans/t4.html),
+[T-176](/trans/t176.html), and
+[T-5](/trans/t5.html) were used.
+The CJ-5 never came with an automatic from the factory.
+### Transfer Case
+The CJ-5 used the [Dana 18](/xfer/d18.html) from '55
+until '71.  In '72 they switched to the
+[Dana 20](/xfer/d20.html).  From '80-'83 they used the
+[Dana 300](/xfer/d300.html).
+### Front Axle
+The CJ-5 was first offered with the [Dana 25](/axle/d25.html)
+until 1965.  The [Dana 27](/axle/d27.html) replaced it and
+was used until 1971.  From 1972-1983, the [Dana 30](/axle/d30.html)
+was used in the CJ-5.
+### Rear Axle
+The [Dana 44](/axle/d44.html) with two piece shafts was
+used in the CJ-5 until mid-1970.  A [Dana 44](/axle/d44.html)
+with one piece shafts replaced it after that until 1975.  After 1976
+the [AMC 20](/axle/amc20.html) was used.
+## Production Information
+YEARBODYMODELSTARTENDUNITS
+1955CJ-5 57548    10001    27006    17006
+CJ-5 ST CH 57648    10001    10010       10
+CJ-5 Fire Eng. 57048-02    10001    10001        1
+1956CJ-5 57548      27007     45922   18915
+CJ-5 ST CH 57648      10011     10022      12
+CJ-5 C/WS 56548      10001     10006       6
+CJ-5 Fire Eng 57048-02      10002     10007       6
+1957CJ-5 57548     45923     68815    22893
+CJ-5 ST CH 57648     10023     10068       46
+CJ-5 C/WS 56548     10007     10012        6
+CJ-5 Fire Eng 57048-02     10008     10012        5
+1958CJ-557548         68816     82877    14062<sup>[(6)](/history/index.html#6)</sup>
+CJ-5 ST CH57648         10069     10136       68<sup>[(6)](/history/index.html#6)</sup>
+CJ-5 C/WS56548         10013     10015        3<sup>[(6)](/history/index.html#6)</sup>
+CJ-5 Fire Eng57048-02         10013     10016        4<sup>[(6)](/history/index.html#6)</sup>
+1959CJ-557548      82878     97918    15040<sup>[(6)](/history/index.html#6)</sup><sup>[(14)](/history/index.html#14)</sup>
+CJ-5 ST CH57648      10137     10173       37<sup>[(6)](/history/index.html#6)</sup>
+CJ-5 C/WS56548      10016     10020        5<sup>[(6)](/history/index.html#6)</sup>
+CJ-5 Fire Eng57048-02      10016     10017        2<sup>[(6)](/history/index.html#6)</sup>
+1960CJ-5 57548      97919     119539      21621
+CJ-5 ST CH 57648      10174      10325        152
+CJ-5 Fire Eng 57048-02      10018      10023          6
+1961CJ-5 57548    119540    134747     15208<sup>[(21)](/history/index.html#21)</sup>
+CJ-5 ST CH 57648     10326     10386        61<sup>[(21)](/history/index.html#21)</sup>
+CJ-5 Diesel 57558     10001     10152       152<sup>[(21)](/history/index.html#21)</sup>
+1962CJ-5
+1963CJ-5
+1964CJ-5
+1965CJ-5
+1966CJ-5
+1967CJ-5
+1968CJ-5
+1969CJ-5
+1970CJ-5
+1971CJ-5
+1972CJ-5
+1973CJ-5
+1974CJ-5
+1975CJ-5
+1976CJ-5
+1977CJ-5
+1978CJ-5
+1979CJ-5
+1980CJ-5
+1981CJ-5
+1982CJ-5
+1983CJ-5
+### Serial Number Locations
+For CJ-5s manufactured from 1955 through 1970, The vehicle serial
+number is stamped on a metal plate located on the firewall, under
+the hood, on the passenger side.
+### Contributors
+Thanks to Kevin Mullin for serial number location information.

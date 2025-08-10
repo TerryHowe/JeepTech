@@ -1,0 +1,83 @@
+---
+title: "The Best Transmissions Conversions For Your Jeep"
+keywords: "Jeep, transmissions, conversions"
+author: "Terry L. Howe"
+description: "Transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
+---
+
+# The Best Transmissions Conversions For Your Jeep
+<H4>by [Terry L. Howe](mailto:txh3202@worldnet.att.net)</H4>
+Over the years, Jeeps have come from the factory with some great
+transmissions and some terrible transmissions.  In some cases a
+different transmission can be the best upgrade to your Jeep as far
+as performance and reliability.  What transmission you select
+to put in your Jeep depends on what you find and what you have.
+We'll assume you are keeping your engine and transfer case and
+that you already have a manual transmission.  Also, keep in mind
+these are my opinions of what will be the cheapest and easiest
+swap for most people.  I haven't done most of these swaps either,
+a lot of my information came from people on-line and from books
+(YMMV).
+Generally, when swapping transmissions, it is best to match the
+engine with the transmission.  The reason being, input shaft
+alignment with the clutch is crucial for clutch life and performance.
+Alignment can best be maintained with a OEM bell housing that has
+the proper input bearing retainer size and input shaft length.
+In other words, use a GM transmission with a GM engine and
+Ford transmission with a Ford engine.  Since many Jeeps use the
+same Borg-Warner transmissions used in Ford vehicles, Ford
+transmissions generally work better with Jeeps.  Quality after
+market bell housings exist to mate different engines with different
+transmissions, but they add to the cost and complexity of the
+conversion. An overview of the engines used in Jeeps will get the
+transmission conversion ball rolling.
+### Wranglers
+The Wrangler YJ built from '87-'95 and the Wrangler TJ built '97+
+use a unique bell housing that is not compatible with any heavy
+duty granny transmission.  Even the engine side of the bellhousing
+is unique, so there are no junk yard bell housings to keep the
+cost of a swap down.  Since a special bell housing must be used,
+there is no cost advantage of choosing one transmission over another.
+The Jeep T-18 is not compatible with the NP-231, so Wrangler owners
+are best off with a T-18 (Ford version), NP435, SM465, or SM420.
+If a five speed is desired (and affordable), the NV4500 is the
+obvious choice.
+### '86-'80 CJs
+CJs built from '80-'86 with the 304 and 258 and CJs built from '84-'86
+with the 150, have a standard AMC bell housing and use the Dana 300.
+The Dana 300 is probably the best transfer case ever used in Jeep CJs
+and the transmission side of the bell housing is Ford compatible.
+Because of this, the best bet for these Jeeps is probably the Ford
+T-18 or Ford NP435.  CJs built from '80-'83 with the GM
+151 have some interesting options.  Since the engine was manufactured
+by GM, it has a standard Chevy SB pattern on the engine side and
+basically a Ford pattern on the transmission side.  The Ford T-18
+or Ford NP435 can be used  if the bell housing is retained, or a
+Chevy SM465 or SM420 can be used and a Chevy bell housing picked
+up at the junk yard.
+### '72-'79 CJs
+If you have a CJ build between 1972 and 1979 with the 232, 258, and
+304, you have a standard AMC bell housing and Dana 20.  If you have
+a four speed, you have already have a T-18, but maybe not the granny
+version.  '76-'79 CJs with a three speed used the T-150, which is
+bolt compatible with the Jeep T-18 and T-98.  If neither is availble
+at a reasonable price, a Ford T-18 or NP435 can be converted.  '72-'75
+CJs used the T-14 and T-15 three speeds with a special bell housing.
+A bellhousing from a '76-'86 CJ can be used (except for the 151 bell
+housing).
+### '45-'71 CJs
+The CJ-2As ('45-'49) and CJ-3As ('48-'53) came exclusively with the
+L-head I4 134.  The CJ-3B ('53-'64) and CJ-5 ('55-'83) came standard
+with the F-head I4 134 until around 1971.  The "Dauntless"
+225 Buick V6 was optional from '66-'71.  The Dana 18 transfer
+case was used during this time.  If it can be found, the Jeep
+T-18 or T-98 would be the best option.  Be carefull to match output
+spline count or get take transfer case with the trans.  Folks with
+the 134 need to look for the fairly rare  bellhousing for the T-98
+or get a special bell housing.  The 225 was available also with
+the T-98 and close ratio T-18, but this combination is extremely rare.
+It probably would be easier to get a standard BOP/BOC (Buick, Olds,
+Pontiac, Caddy) bell housing at the junk yard and convert a SM420 or
+SM465.  One other possibility to keep in mind for people with the
+Dana 18 is the Warn/Saturn overdrive.  This can make highway speeds
+possible even with 5.38:1 R&P!

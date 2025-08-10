@@ -1,0 +1,22 @@
+---
+title: "Jeep Transmissions Conversions: T-98"
+keywords: "Jeep, transmissions, conversions, T98, T-98"
+author: "Terry L. Howe"
+description: "T-98 transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
+---
+
+# Jeep Transmissions Conversions: T-98
+<H4>by [Terry L. Howe](mailto:txh3202@worldnet.att.net)</H4>
+The T-98 is the oldest of Borg-Warner's
+large production, granny unsynchronized first, heavy duty, four speeds.
+It was used in Jeep, Ford, and IH trucks.
+The input bearing retainer size (4.85") and often the input
+shaft length is compatible with the bell housing used with the
+T-150, T-176, T-5, T-4, SR-4, and of course Jeep T-18.
+On the Jeep version, the input shaft length varies depending
+on the application, but the shaft can be cut and resplined or
+an input shaft of the appropriate length can  be installed.
+The Ford version of the T-98 uses a larger diameter input shaft,
+so a clutch disk that matches the larger input shaft must be used.
+If you are planning on converting a transmission,
+a 2WD Ford T-18 would probably be easier to find and install.
