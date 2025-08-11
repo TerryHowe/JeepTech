@@ -4,10 +4,11 @@
 </HEAD><BODY>
 <CENTER>
 <H1>Speedometer Gear Applet</H1>
-<H4>by <A href=mailto:txh3202@worldnet.att.net>Terry L. Howe</A></H4>
+<H4>by Terry Howe></H4>
 <BR>
 </CENTER>
-<P>
+<P>
+
 <CENTER>
 <APPLET CODE="Speedo.class" WIDTH=450 HEIGHT=175>
 </APPLET>

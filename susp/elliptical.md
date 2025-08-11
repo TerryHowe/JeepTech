@@ -7,7 +7,7 @@ description: "How to build a 3/4 elliptical rear suspension for your YJ or CJ.  
 
 # 3/4 Elliptical Rear Suspension
 
-#### by [Terry L. Howe](mailto:txh3202@worldnet.att.net)
+#### by Terry Howe
 
 [![Before](ellip7_.jpg)](ellip7.jpg)[![After](ellip6_.jpg)](ellip6.jpg)
 
