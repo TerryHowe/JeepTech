@@ -7,7 +7,7 @@ description: "Tips on how to become one with your Jeep.  It"
 
 # It's a Jeep thing, you understand!
 
-![Phil Collard on Tabasco Twister](/txh3202/trail/lc98b_.jpg)
+![Phil Collard on Tabasco Twister](/images/terry/trail/lc98b_.jpg)
 
 
 If you've found this article, you have probably heard the expression,
