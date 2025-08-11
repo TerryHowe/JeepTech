@@ -7,7 +7,7 @@ description: "How to increase the suspension travel of your Jeep Wrangler YJ wit
 
 # Wrangler YJ Travel Trick
 
-#### by [Terry L. Howe](mailto:txh3202@worldnet.att.net)
+#### by Terry Howe
 
 [![Travel before trimming](yjshb_.jpg)](yjshb.jpg)[![Travel after trimming](yjsha_.jpg)](yjsha.jpg)
 

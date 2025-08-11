@@ -7,7 +7,7 @@ description: "Flip your u-bolts so they don"
 
 # Flip Your U-Bolts
 
-#### by [Terry L. Howe](mailto:txh3202@worldnet.att.net)
+#### by Terry Howe
 
 [![u-bolts assembled](ubolt4_.jpg)](ubolt4.jpg)
 
