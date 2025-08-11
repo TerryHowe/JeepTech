@@ -28,5 +28,5 @@ stops backward movement of the shackle.  Eric trimmed the material
 with an air cut-off wheel, but the work could be done with a
 saws-all or saber saw.  There wasn't enough room to get my
 circular saw in there.  This modification should work for any
-'87-'95 Wrangler.  Look for an article on the YJ/Dana 44 swap
+'87–'95 Wrangler.  Look for an article on the YJ/Dana 44 swap
 in the January '98 issue.

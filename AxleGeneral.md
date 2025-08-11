@@ -171,7 +171,7 @@ The hub of the two piece shaft is normally splined and held on
 with a single nut.  Often times the hub will spin on the end of the
 shaft ruining the outer splines of the shaft and allowing the shaft
 to spin freely in the hub.  This is a common problem with the AMC 20
-used in '76-'86 CJs.  The solution is normally to upgrade to after
+used in '76–'86 CJs.  The solution is normally to upgrade to after
 market one piece shafts.  Some people have reported that torquing
 the shaft nut way beyond specification will help prevent the hub
 from spinning on the shaft.
