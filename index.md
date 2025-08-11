@@ -7,7 +7,7 @@ description: "Jeep guide to maintenance, modifications, and performance covering
 
 # Jeep Tech Pages
 
-![Blanca](/images/txh3202/trail/bl990706_.jpg)
+![Blanca](/images/terry/trail/bl990706_.jpg)
 
 ## Features
 
@@ -15,4 +15,4 @@ Welcome to JeepTech! This page links the old site format. Some information has n
 
 ## Staff
 
-[Terry Howe's Jeep Page](/txh3202/)
+[Terry Howe's Jeep Page](/terry/)
