@@ -11,7 +11,6 @@ description: "How to do a spring over axle conversion on your CJ.  Using YJ spri
 
 #### by [John Nutter](mailto:jnutter@pclink.com)
 
-> 
 
 The sage Jeeping guru Jefe once said "Eventually, every serious rock
 crawler will go spring over." The virtues and faults of SOA have been
