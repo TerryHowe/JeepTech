@@ -9,7 +9,7 @@ description: "How to do a spring over axle conversion on your CJ.  Using YJ spri
 
 [![1000 RTI](/susp/yjsp5_.jpg)](/susp/yjsp5.jpg)
 
-#### by [John Nutter](mailto:jnutter@pclink.com)
+#### by John Nutter
 
 
 The sage Jeeping guru Jefe once said "Eventually, every serious rock

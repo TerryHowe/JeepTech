@@ -53,6 +53,6 @@ travels further for each revolutions since it has a bigger circumfrence.
 That is why when larger tires are swapped in, you go faster.
 
 ---------------------------------------------------------------------------
-Author: Terry L Howe (txh3202@hertz.njit.edu)
+Author: Terry L Howe
 July 18, 1996
 ---------------------------------------------------------------------------

@@ -101,6 +101,6 @@ There is more detailed help on tires, transmissions, transfer cases, and
 ring and pinion, see the special sections for these topics.
 
 ---------------------------------------------------------------------------
-Author: Terry L Howe (txh3202@hertz.njit.edu)
+Author: Terry L Howe
 July 18, 1996
 ---------------------------------------------------------------------------
