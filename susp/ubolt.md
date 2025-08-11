@@ -26,14 +26,14 @@ next to nothing since they are not exactly an item that normally
 generates any revenue for an auto recycler.
 
 The 80s Dodge Ramcharger and 1/2 ton pickup use a Dana 44 rear end,
-so the plates will work for for any Jeep with a Dana 44 or AMC 20
+so the plates will work for any Jeep with a Dana 44 or AMC 20
 rear end.  The CJ AMC 20 uses a slightly smaller tube, so you might
 want to grind the plates a bit to get a better fit.  The Dodge trucks
 are spring over in the rear and the plates are curved to fit a Dana
 44 with square u-bolts attaching the axle to the spring.
 
 The Dodge plates have a shock mounted integrated into the plate.  Since
-the plates are run upsidedown from the way they are run on the Dodge, the
+the plates are run upside down from the way they are run on the Dodge, the
 shock mount is really to high to be useful.  I cut them off with a circular
 hand saw with a metal cutting blade.
 

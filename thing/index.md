@@ -173,7 +173,7 @@ nippy in a CJ.  Upgrade the small stock heater motor with
 a [
 Chevy heater motor](/body/heater.html)
 
-**CJ/YJ Doors Interchangable**
+**CJ/YJ Doors Interchangeable**
 
 from Jeff Wilson
 
@@ -185,7 +185,7 @@ CJ.  The best doors have the paddle latch used from 1980 on.
 from Tom Wanamaker
 
 The Motorcraft distributor used on the 258 (4.2L) I6 has opening for
-vacumn advance that allows water in.  If you drive though 2-3 inches
+vacuum advance that allows water in.  If you drive though 2-3 inches
 of water at 15-20 mph, it is likely your distributor will get wet.
 It can take a few days for it to completely dry out.  If you run a
 bead of RTV around the edge of the cap before installation and gob
