@@ -34,6 +34,6 @@ other should be the same give or take a few hundredths. So if you find a
 tag on the front, but nothing on the rear, go with the tag you found.
 
 ---------------------------------------------------------------------------
-Author: Terry L Howe (txh3202@hertz.njit.edu)
+Author: Terry L Howe
 July 18, 1996
 ---------------------------------------------------------------------------

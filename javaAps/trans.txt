@@ -27,6 +27,6 @@ final drive gear of 1:1. Overdrive automatics tend to have 0.75:1
 overdrive.
 
 ---------------------------------------------------------------------------
-Author: Terry L Howe (txh3202@hertz.njit.edu)
+Author: Terry L Howe
 July 18, 1996
 ---------------------------------------------------------------------------

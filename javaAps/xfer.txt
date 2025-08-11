@@ -10,6 +10,6 @@ High range is assumed to be 1:00:1 for 2 high and 4 high. Low range is
 input by the user. Low range is typically around 2.50:1.
 
 ---------------------------------------------------------------------------
-Author: Terry L Howe (txh3202@hertz.njit.edu)
+Author: Terry L Howe
 July 18, 1996
 ---------------------------------------------------------------------------
