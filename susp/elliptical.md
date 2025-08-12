@@ -68,8 +68,3 @@ lift would be next to nothing since the top of the shackle on a CJ
 mounts on the bottom of the frame.
 
 [![Step 15b](ellip5_.jpg)](ellip5.jpg)
-
-## Contributor
-
-Thanks to [Craig Myers](http://users.success.net/luv2jeep)
-for the photos and information for this article.
