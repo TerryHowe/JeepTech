@@ -16,7 +16,7 @@ located on the differential housing cover, sometimes it is not. It may be a
 a code stamped in the housing that needs to be looked up in your technical
 service manual.
 
-One sure fire way of determining your ratio is openning up the axle and
+One sure fire way of determining your ratio is opening up the axle and
 taking a look. Often the ring is stamped with tooth count, ratio, and build
 date. Sometimes it isn't stamped, but you can still count the teeth
 yourself and divide ring teeth by pinion teeth to get the ratio.

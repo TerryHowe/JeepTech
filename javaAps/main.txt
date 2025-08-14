@@ -14,7 +14,7 @@ selections for your four wheel drive vehicle. Larger tires gain ground
 clearance, increase maximum fording depth, and increase the angles of
 departure and approach, but they often don't work well with OEM gearing.
 Auto manufactures build trucks for the street, which means they select high
-gearing for fast acceleration and better gas milage. When larger tires are
+gearing for fast acceleration and better gas mileage. When larger tires are
 put on these trucks, the driver may find themselves burning through
 clutches because first gear is so high. Engine performance and gas milage
 may suffer because the engine is forced to work outside of it's optimal RPM
@@ -74,9 +74,9 @@ When the calculate button is pressed output is created in both graphical
 and tabular form. The graph is a line graph with RPM on the x-axis ranging
 from 0 to 4000 RPM. The y-axis is either MPH or KPH depending on user
 input. MPH range from 0 to 80 MPH. KPH range from 0 to 120 KPH. Each
-transmission gear is printed out as a seperate line in the graph first
+transmission gear is printed out as a separate line in the graph first
 being red, second blue, third green, fourth black, and fifth yellow. A
-check box at the botton of the graph allows the user to "shift" the
+check box at the button of the graph allows the user to "shift" the
 transfer case into low range. The title of the graph gives the users tire
 size and ring and pinion ratio.
 
