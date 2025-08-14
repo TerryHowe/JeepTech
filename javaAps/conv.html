@@ -51,15 +51,18 @@ Metric tire sizes are made up of four components: prefix, width, aspect
 ratio, and wheel size.  It takes three of these components to calculate
 the diameter of the tire.  It sure is not a very straight forward sizing
 convention.
+</p>
 <p>
 The prefix is used to indicate general use of the tire.  The
 tire input field trys to ignore the prefix and if your prefix causes an
 error, just don't input it.  The Gear and Tire Applet currently will
 successfully ignore 'P' for passenger car and 'LT' for light truck.  When
 in doubt, drop the prefix.
+</p>
 <p>
 The width simply the width of the tire in mm.  For example the tire size
 P215/75R15 has a width of 215mm.
+</p>
 <p>
 The next component is the aspect ratio.  The aspect ratio is the percentage
 of the width that makes up the sidewall of the tire.  In the above example
@@ -67,6 +70,7 @@ the aspect ratio is 75 or 75%, so the sidewall height is 75% of 215 or
 161.25mm.  If you want the diameter of the tire, you need to take into
 acount that the diameter of the tire passes two sections of the side wall.
 This means the sidewall takes up 161.25*2 or 322.5mm of the diameter.
+</p>
 <p>
 The next component is the wheel size.  In the above example the wheel size
 is 15".  If you convert the total sidewall into inches you get
