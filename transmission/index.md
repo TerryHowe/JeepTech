@@ -11,6 +11,10 @@ The `factory/` subdirectory contains detailed information about original equipme
 - Technical specifications, gear ratios, and identification guides
 - Usage information for different Jeep models and years
 
+## Transmission Upgrades and Swaps
+
+For information about transmission upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
+
 ## Contents
 
 Browse the factory transmission information to learn about:

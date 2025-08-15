@@ -17,6 +17,10 @@ The factory transfer case information has been moved to the [factory](factory/) 
 - [Borg Warner Quadra-Trac 13-39](factory/qtrac.html) - Full-time transfer case
 - [Transfer Cases Index](factory/index.html) - Main transfer cases page
 
+## Transfer Case Upgrades and Swaps
+
+For information about transfer case upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
+
 ## General Information
 
 For general transfer case information, see the [Transfer Cases General](general/) page.

@@ -6,6 +6,10 @@ This section contains information about Jeep axles, including factory specificat
 
 For detailed information about factory Jeep axles, visit the [factory axle section](factory/).
 
+## Axle Upgrades and Swaps
+
+For information about axle upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
+
 ## Overview
 
 These articles were originally written to cover only axles used in CJs, YJs, and TJs. New information has been added for other models, but the work is still incomplete.
