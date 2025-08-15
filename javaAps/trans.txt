@@ -20,7 +20,7 @@ overdrive fifth gear is typically around 0.75:1. So, when in doubt, use
 
 Generalizations About Automatic Transmissions
 
-The author of this document is not particularly knowledgable about
+The author of this document is not particularly knowledgeable about
 automatic transmissions, but he is still willing to make some
 generalizations. Most automatics seem to have a first gear around 3:1 and
 final drive gear of 1:1. Overdrive automatics tend to have 0.75:1
