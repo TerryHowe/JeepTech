@@ -6,6 +6,10 @@ Jeep engine information covering upgrades, factory options, and essential inform
 
 The factory engine specifications and technical information can be found in the [factory](factory/) subdirectory.
 
+## Engine Upgrades and Conversions
+
+For information about engine upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
+
 ### Available Engine Information
 
 - AMC Engines: 150, 232, 242, 258, 304, 327, 360, 401
