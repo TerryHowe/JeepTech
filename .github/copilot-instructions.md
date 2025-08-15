@@ -16,7 +16,7 @@ Always reference these instructions first and fallback to search or bash command
 ### Validation Steps
 - ALWAYS test the website after making changes by running the local server
 - Test key pages: `curl -s http://localhost:8000/` (main page) 
-- Test Java applets: `curl -s http://localhost:8000/javaAps/Speedo.html`
+- Test Java applets: `curl -s http://localhost:8000/applications/speedometer.html`
 - Validate HTML structure with: `find . -name "*.html" -exec echo "Testing {}" \; -exec curl -s http://localhost:8000/{} > /dev/null \;`
 - ALWAYS run a complete end-to-end test by navigating through the site structure
 
@@ -32,10 +32,6 @@ Always reference these instructions first and fallback to search or bash command
 ```
 .
 ├── index.html              # Main landing page
-├── AxleGeneral.html        # Axle technical information  
-├── EngineGeneral.html      # Engine technical information
-├── TransGeneral.html       # Transmission technical information
-├── XferGeneral.html        # Transfer case technical information
 ├── bibliography.html       # Technical reference bibliography
 ├── robots.txt             # Search engine configuration
 ├── favicon.ico            # Site icon
@@ -44,7 +40,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ### Key Directories
 ```
-├── javaAps/               # Java applets for calculations
+├── applications/          # Special Jeep applications
 ├── axle/                  # Axle technical content
 ├── engine/                # Engine technical content  
 ├── trans/                 # Transmission technical content
@@ -59,9 +55,9 @@ Always reference these instructions first and fallback to search or bash command
 ## Java Applets
 
 ### Available Applets
-- **Speedo.html**: Speedometer gear calculator
-- **conv.html**: Metric tire conversion calculator  
-- **gta.html**: Gear and tire analyzer
+- **speedometer.html**: Speedometer gear calculator
+- **tire.html**: Metric tire conversion calculator  
+- **gear.html**: Gear and tire analyzer
 
 ### Important Notes About Java Applets
 - **CRITICAL**: Java applets are compiled Java 1.1 bytecode (version 45.3)
@@ -84,8 +80,8 @@ Always reference these instructions first and fallback to search or bash command
 
 2. **Content Navigation Test**:
    ```bash
-   curl -s http://localhost:8000/AxleGeneral.html | grep -q "Jeep Tech: Axles"
-   curl -s http://localhost:8000/javaAps/Speedo.html | grep -q "Speedometer Gear Applet"
+   curl -s http://localhost:8000/axle/general/index.hmtl | grep -q "Jeep Tech: Axles"
+   curl -s http://localhost:8000/applications/speedometer.html | grep -q "Speedometer Gear Applet"
    curl -s http://localhost:8000/bibliography.html | grep -q "Bibliography"
    ```
 
@@ -141,16 +137,16 @@ Always reference these instructions first and fallback to search or bash command
 curl -s http://localhost:8000/ | grep "Jeep Tech Pages"
 
 # Test Java applet page (should return "Speedometer Gear Applet")  
-curl -s http://localhost:8000/javaAps/Speedo.html | grep "Speedometer Gear Applet"
+curl -s http://localhost:8000/applications/speedometer.html | grep "Speedometer Gear Applet"
 
 # Test technical content (should return "Jeep Tech: Axles")
-curl -s http://localhost:8000/AxleGeneral.html | grep "Jeep Tech: Axles"
+curl -s http://localhost:8000/axle/general/index.html | grep "Jeep Tech: Axles"
 ```
 
 ### Key file counts for validation
 - HTML files: 365 total
-- Java class files: 22 in javaAps/ directory
-- Documentation files: 5 .txt files in javaAps/ with applet descriptions
+- Java class files: 22 in applications/ directory
+- Documentation files: 5 .txt files in applications/ with applet descriptions
 
 ### Directory structure verification
 ```bash
