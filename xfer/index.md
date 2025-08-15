@@ -19,4 +19,4 @@ The factory transfer case information has been moved to the [factory](factory/) 
 
 ## General Information
 
-For general transfer case information, see the [Transfer Cases General](../XferGeneral.html) page.
+For general transfer case information, see the [Transfer Cases General](general/) page.
