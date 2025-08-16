@@ -62,10 +62,9 @@ It's impossible to compensate for a small alternator by throwing in a bigger bat
 
 #### Maximum Current load in AMPS @ 12 Volts DC
 
-Wire Gauge| Wire Length in Feet  
----|---  
-| 1| 2| 4| 6| 8| 10  
-20| 106| 53| 26| 17| 13  
+Wire Gauge| 1| 2| 4| 6| 8| 10  
+---|---|---|---|---|---|---  
+20| 106| 53| 26| 17| 13|  
 18| 150| 75| 37| 25| 18| 15  
 16| 224| 112| 56| 37| 28| 22  
 14| 362| 181| 90| 60| 45| 36  
@@ -80,9 +79,8 @@ Wire Gauge| Wire Length in Feet
   
 #### Maximum Current load in AMPS @ 12 Volts DC
 
-Wire Gauge| Wire Length in Feet  
----|---  
-| 12|  15|  20|  50|  100|  200  
+Wire Gauge| 12|  15|  20|  50|  100|  200  
+---|---|---|---|---|---|---  
 20| | | | | |   
 18| 12| | | | |   
 16| 18| 14| | | |   

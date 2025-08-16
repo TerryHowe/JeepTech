@@ -2,7 +2,7 @@
 ---
 YEAR| BODY| MODEL| START| END| UNITS  
 ---|---|---|---|---|---  
-1951| JT[(23)](/history/index.html#23)| 451 GD1|  10001|  \--|  0  
+1951| JT[(23)](/history/index.html#23)| 451 GD1|  10001|  ---|  0  
 | [(23)](/history/index.html#23)| 685 LA1| 10001|  10663|  663  
 | [(23)](/history/index.html#23)| 685 MA1| 10001|  10002|  2  
 1952| 685 PC 2DR Wing|  652 LA1|  10001|  22819|  12819  

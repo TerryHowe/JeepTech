@@ -371,7 +371,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
       "    "  RT      54068-07     10003     10009        7
     FC 150 CAB           65548     10001     16635     6635
     FC 150 ST CH         65148     10001     10002        2
-    FC 170 CAB           65168     10001     13101     310l
+    FC 170 CAB           65168     10001     13101     3100
                                                       65417***
     
       * No type designation given in original. From serial

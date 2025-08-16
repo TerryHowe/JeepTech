@@ -23,7 +23,7 @@ The CJ-3A was available with the ["Go Devil" L-Head 134 I4](/engine/factory/gode
 
 ## Production Information
 
-| YEAR| BODY| MODEL| START| END| UNITS  
+YEAR| BODY| MODEL| START| END| UNITS  
 ---|---|---|---|---|---  
 1949| CJ-3A| |  10001|  37749|  27749  
 1950| CJ-3A| |  37750|  63784|  26034  
