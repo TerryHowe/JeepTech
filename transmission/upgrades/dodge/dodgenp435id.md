@@ -1,0 +1,3 @@
+# Dodge NP435
+
+The NP435 is a heavy duty, granny, 4 speed transmission used in Dodge, Ford, and Chevy trucks. The Ford version is a better candidate for swap into a Jeep vehicle because most AMC equipped Jeeps are compatible with Ford transmissions and the Ford version is easier to find. The Ford version will normally be less expensive as well.

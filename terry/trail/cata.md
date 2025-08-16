@@ -1,0 +1,25 @@
+Trail Report: Catamount State Forest
+
+# Trail Report: Catamount State Forest
+
+Update 10/1: Catamount has been CLOSED by the local government.
+
+This past weekend, I finally made it up to Catamount State Forest. I left Saturday morning with my girl friend Diane in my \'81 CJ-7. On the way up we met another list member (for the first time in person) Bill McKay his wife Geri and two children Travis and Jim. Bill was driving his stock \'94 Wrangler. Bill\'s YJ did have front two hooks and a LSD. We made it to Catamount around noon and stopped for lunch.
+
+The first trail we hit was very narrow, but not too rough. A recent shower had soaked the trees, so the trees soaked us. Fortunately, this trail was fairly short and ended on a wide rocky trail. After Bill\'s kids had thrown out most of the Daddy-long-legs and other insects that had fallen into their Jeep, we shifted into 4 low and started climbing the rocky hill.
+
+Thanks to my 32\" BFG MTs, I was able to pick my way up this trail if I took it slow, but it proved very challenging for a stock Wrangler. Our first obstacle was a wash out that crossed up you axles. Since Bill still had his sway bars connected, he just didn\'t have the articulation to maintain traction and speed up the incline. He managed to make it up after carefully picking his line and placing a few rocks in key areas.
+
+![](/images/terry/trail/bill.jpg)
+
+After the wash out we came to an intersection. In every direction was a mud hole, so we continued the climb straight. Well one mud hole leads to another and another, but we were able motor through them. After several mud holes we came to another trail crossing near a large pond.
+
+From the crossing, we picked and another rocky trail heading up. This trail was manageable until we found a mud hole on the descent. The mud hole was deep with a turn in it and a very steep entrance. We decided to take the easy out around the hole, but even that look tough.
+
+The first obstacle on the easy out was a mud hole on a sharp turn. I had to go back and forth through the mud to maneuver my CJ with manual steering around the turn. After I was through the hole was nice and deep for Bills YJ. He got high centered in the hole and he was stuck at a 90 degree angle to me and next to a tree, so the tow strap wasn\'t very useful. We got out the Hi-Lift jack and jammed some logs under the tires. The logs and copious use of the throttle and Bill was able to pull out of the mud hole. On this same easy out, a large tree had fallen across the trail that we had to build a ramp over.
+
+From here the trail just got muddier and rockier. It wasn\'t long before Bills Wrangler was stuck axle deep in mud with his tail pipe gurgling in the water. Bill remarked that his Wrangler was a little more difficult to drive than the Hummer he used to drive when he was in the Marines stationed in California. This time I was able to get the strap on him and pull him out. Much to my amazement, Bill was able to pick his way through the next section of trail without getting stuck again. From here the trail ended on an much easier trail we took all the way back near to where we started.
+
+![](/images/terry/trail/cata.jpg)
+
+We all had a blast out there and no damage except a broken tail pipe hanger on Bills YJ. The trails were \*very\* tough for a stock vehicle, but Bill just picked his lines carefully and made it. We may also have convinced Bill\'s wife why he \"needs\" to do some of the mods he has been thinking about.
