@@ -8,7 +8,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ### Quick Start - Serving the Website Locally
 - **CRITICAL**: The website requires NO BUILD PROCESS - it is served directly as static Markdown files
-- Start local development server: `cd /home/runner/work/JeepTech/JeepTech && python3 -m http.server 8000`
+- Start local development server: `cd /home/runner/work/JeepTech/docs && python3 -m http.server 8000`
 - Access the site at: `http://localhost:8000/`
 - Server starts instantly (< 1 second) - NEVER CANCEL
 - Website loads in < 0.01 seconds per page
