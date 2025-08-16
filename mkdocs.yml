@@ -1,0 +1,101 @@
+site_name: Jeep Tech Pages
+site_description: Jeep guide to maintenance, modifications, and performance covering engines, transmissions, transfer cases, drive shafts, axles, wheels, and tires.
+site_author: Terry L. Howe
+site_url: https://terryhowe.github.io/JeepTech/
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+    - django
+
+nav:
+  - Home: index.md
+  - Applications:
+      - applications/index.md
+      - Speedometer: applications/speedometer.md
+      - Tire Calculator: applications/tire.md
+      - Gear Analyzer: applications/gear.md
+  - Axles:
+      - axle/index.md
+      - General: axle/general/index.md
+      - Factory: axle/factory/index.md
+      - Upgrades: axle/upgrades/index.md
+  - Engine:
+      - engine/index.md
+      - General: engine/general/index.md
+      - Factory: engine/factory/index.md
+      - Upgrades: engine/upgrades/index.md
+  - Transmission:
+      - transmission/index.md
+      - General: transmission/general/index.md
+      - Factory: transmission/factory/index.md
+      - Upgrades: transmission/upgrades/index.md
+  - Transfer Cases:
+      - xfer/index.md
+      - General: xfer/general/index.md
+      - Factory: xfer/factory/index.md
+      - Upgrades: xfer/upgrades/index.md
+  - Electrical:
+      - electrical/index.md
+      - Gauges: electrical/gauges/index.md
+  - Suspension:
+      - suspension/index.md
+      - Custom CJ: suspension/custcj/index.md
+  - Steering:
+      - steer/index.md
+  - Body:
+      - body/index.md
+  - Drive Shaft:
+      - shaft/index.md
+  - Wheels & Tires:
+      - wheel/index.md
+      - tire/index.md
+  - Winches:
+      - winch/index.md
+  - Models:
+      - models/index.md
+  - Military:
+      - military/index.md
+  - History:
+      - history/index.md
+  - Personal:
+      - Terry's Jeeps:
+          - terry/index.md
+          - CJ7: terry/cj7/index.md
+          - CJ6: terry/cj6/index.md
+          - Bike: terry/bike/index.md
+          - Trail Reports:
+              - terry/trail/21r9807.md
+              - terry/trail/liorct.md
+              - terry/trail/md9801.md
+              - terry/trail/wl9907.md
+              - terry/trail/ba9809.md
+              - terry/trail/florida.md
+              - terry/trail/lc98_main.md
+              - terry/trail/hc.md
+              - terry/trail/tg9803.md
+              - terry/trail/mo980919.md
+      - Everett: everetthowe/index.md
+      - Bell: bell/index.md
+      - Thing: thing/index.md
+  - Bibliography: bibliography.md
+
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - codehilite
+  - meta
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/TerryHowe/JeepTech
