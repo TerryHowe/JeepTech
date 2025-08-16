@@ -1,0 +1,111 @@
+# Swapping in AX-15 for a Peugeot BA 10/5
+
+**by Mike Moran**
+
+[![Side view of AX-15](/images/transmission/factory/ax15s_.jpg)](/images/transmission/factory/ax15s.jpg)
+
+I have been driving my 1987 Cherokee since October 1991. After owning it for 6 months, I started to modify it for my off-highway rides. I installed custom bumpers, winch, 4\" lift, ran 32\" AT\'s, and installed 4.56 gears with ARB\'s. My 2dr 4x4 Pioneer model Cherokee came from CA equipped with 4.0l, 5-speed, AC, Dana 44 rear, and with 90k miles. I wheeled in this configuration for over 6 years with little to no major problems of breakage. After 70k+ miles, I broke my Peugeot BA 10/5 transmission on a trail ride in July 1997 driving up an incline I have done too many times to recall. I couldn\'t tell you if the trans was rebuilt prior to my purchase but it lasted till 160,000 miles! I was unemployed at the time and had no capability (\$\$\$) to immediately repair/replace the trans. The transmission was damaged so that I had no gates for 3rd, 4th, and reverse gears. In 2nd, the whining would make you cry, it could be heard from several hundred feet away. Once I got re-employed, I had several options to consider.
+
+#### Option 1: Stick with the BA 10/5
+
+The first option was to rebuild the transmission or replace it with a running used transmission. A rebuild the stock BA 10/5 transmission was estimated to cost \$2000 for removal, rebuild with bearings and synchro packs (maybe gear replacement), and installation. A limited 90-day guarantee would be included. The option option was to replace the transmission with used BA 10/5 which could be purchased for \$900 with limited 100-day guarantee. After hearing of the short life expectancy of the Peugeot BA 10/5 trans, purchasing a used one would be very risky and rebuilding the stock trans would require someone else to do the work which would drive up the cost.
+
+#### Option 2: Replace Transmission with NV4500
+
+Replace the transmission with granny low trans with over drive (NV4500) which requires all custom adapters and runs about \$3000. Advanced Adapters has a 4-sp granny transmission adapters that would work, but I have 4.56 gears and I\'m running with 32\" tires, so I want to keep the OD. This option is clearly the best option technically, but I do not have the income to build a hard core rock crawler. Installing a NV4500 in an XJ also requires that the floor is reformed to fit the trans. It all adds up to lot of work and a lot of money.
+
+#### Option 3: Replace Transmission with AX-15
+
+The third option was to upgrade to an AX-15 with external slave cylinder from a later Cherokee. The estimated cost would be in \$1500-2000 range but its all stock Cherokee. A limited 101-day guarantee would be included. Although the AX-15 is not heavy duty and it does not have a granny first, it is stronger than the BA 10/5. Due to the price and reliability, the AX-15 was my best option.
+
+#### The Search Begins
+
+Two years ago I\'d replaced a leaking throw out bearing/slave cylinder and installed a new clutch and pressure plate. I had no problems doing the work and I actually prefer to do my own work on the truck, so I felt up to the task. I began searching for an AX-15 that had an external salve cylinder (newer design). I would need all bolts, mounts, bell housing, and linkage to do the swap. Even though my XJ is a 4.0l generation XJ, there are differences between the years.
+
+I finally found a 96 Cherokee with 33k miles sitting in a junk yard. I negotiated a rather hefty price (\$1200) for the trans but it would come with everything for the swap except the transfer case. After investigating the possibilities of such a trans swap, my transfer case required a swap of its own. The Peugeot has a 21 spline count output shaft. The AX-15 has a 23 spline count output shaft. I would be required to replace the input shaft of the transfer case to mate it to the AX-15. Considering that a new input shaft for the t/c cost \$200, I tried to negotiate with the yard to get the transfer case along with the trans, but they wanted another \$750 for it plus my core! Way out of my budget for stock replacement trans swap.
+
+Another consideration was I\'d replaced transfer case my output shaft/tail cone with a MIT kit and converted my rear driveshaft to a two piece design. If I was to make a deal on the newer t/c, I would have to switch out the tail cones. Also, a 1996 XJ t/c has the electro-speedo and no vacuum switch to run my disconnect front axle. I\'d installed the MIT kit with the transfer case in the truck, so I felt confident I could replace the input gear to save some money.
+
+#### What I Got
+
+So with \$\$\$ spent on the AX-15, I got the bell housing, the crank sensor (I don\'t know why), the reservoir, the external slave unit, no hose (bad mistake), the release bearing and fork, the trans, the shifter/boots, the shifting rods for t/c actuation, the crossmember, the trans mount, and all bolts/nuts that came from removing the trans out. With some help from a fellow enthusiast and club member (its best to have friends in the same hobby) named John, he and I did the trans swap in his driveway at night over a period three weeks. In my opinion, the swap could be done in two 8 hour days or less if all the necessary parts were at hand.
+
+I have a parts cost description below. One thing to take special note is the hydraulic hose from the reservoir to the slave cylinder. It connects the reservoir and the slave cylinder and the whole item comes as One Unit. The yard cut the hose off to speed the removal up which cost me another \$122 for a complete 1-piece unit from the dealer.
+
+## Night #1
+
+[![Side view of BA 10/5](/images/transmission/factory/ba10ds_.jpg)](/images/transmission/factory/ba10ds.jpg) It wasn\'t difficult to remove my stock trans/tc out from underneath the Cherokee. It took 3 hours to prepare (interior/exterior) and remove the trans/tc out. To help with the removal, I totally removed the exhaust system and starter. The bell housing is held to the engine via 2 6-pt. star bolts up top on the bell housing (requires special reverse torx E-12 socket), 2 size 11mm bolts holding the crank sensor on, 2 size 15mm bell housing side bolts, 2 19mm size bottom bell housing bolts, 2 (1-14mm size and 1-15mm size) bolts holding the starter on, and 3 10mm size sheetmetal screws displaced evenly along the bottom 2/3 of the bell housing. To remove the trans easily, I previously matched the side bolts with long studs. I slid on 2 precut long screws (ex-bolts with heads cut off and a slice in it for the screwdriver) in place of the 2 side bolts. This helps support the trans upon removal and reinstallation. They act as long guides. Then remove all other bolts and slide the trans out.
+
+With the Peugeot on the ground, I took measurements in comparison of old trans to new trans. I took some pictures, but with a bad camera, nothing came out. Both had same length of input shaft beyond the bell housing meaning could use same pilot bearing. Both measured nearly the same length from bell housing to tc mating surface, drive shaft modifications would not be required. I also measured for shifter location for location of shifter hole. What I didn\'t measure and did find out it was necessary, was the location of the crossmember and the 4x4 actuator linkage.
+
+[![BA 10/5 bell housing](/images/bell/bellba10b_.jpg)](/images/bell/bellba10b.jpg) Inside the bell housing of the Peugeot, it looked like it had the ability to have the external slave unit bolted to it. There was a place on the right side for a ball stud for the pivot point of the release fork/bearing such as on the AX-15. However, the Peugeot would require holes to be drilled for the studs to hold the slave unit on the side as in the AX-15.
+
+\
+
+## Night #2
+
+Received new input gear for the transfer case, but upon inspection of the input gear, there were several cuts on one tooth of the gear. It needed to be returned, but first I verified that the new gear would work with the 23-spline output shaft of the AX-15. I also discovered I should get a new bearing and seal at this time to go with the input gear. Waiting for these parts would cause delays.
+
+Looking at the possibility of using the same pilot bearing, I purchased new pilot bearings for a 87 XJ with 4.0l 5-sp and for 96 XJ with 4.0l 5-sp. WOW! There is a huge difference between them. The 87 had an outside diameter close to 1\" with \~ 0.625\" inside diameter. The 96 had \~ 1.75\" outside diameter with \~ 0.8125\" inside diameter. The pilot bearing had to have an inside diameter of \~ 0.8125\" to fit onto the 96 AX-15. I removed the pressure plate and clutch to get a good look at the old pilot bearing and the scenario for the new one. There were 2 levels for pilot bearings to fit in the end of the crank. I could fit the 96 application in the outer level, but both trannys had the same measured shaft length beyond the bell housing face. This outer level may interfere with the clutch splines of the input shaft. My 87 application pilot bearing is set to be in the inner level. I would have to find a bearing capable of having the \~1\" outside diameter with \~0.8125\" inside diameter. Plus the same depth of the 87 application (\~0.625\"). What application has this? I expected to be looking for several days through the parts book of the dealership.
+
+Luckily, I was doing this with some help from John who owns a 73 CJ5 equipped with 304,3sp. He replaced his pilot bearing several years ago and happened to keep the old one around. It looks very similar to the needs. Took measurements and its fits real close to the needed application! I went out and purchased a new one for that application. It was a little longer in depth to the 87 but it fit the input shaft of the trans and was real close to the outside diameter of the 87 pilot bearing. Even though it was overall a tad deeper than the 87 application, I still have some room in the crank end to fit it. It wouldn\'t be flush with the crank face but it would fit and most importantly work!
+
+## Night #3
+
+I took the Peugeot apart to see what was wrong and found the synchro packs for the 1-2 and 3-4 gears were destroyed. The forks fell into the synchro pack and wouldn\'t budge out. Also, the input shaft of the tranny had at least 1\" movement in a circle pattern. Very bad for a trans. The bearings were shot. The synchros gone. The input gear synchro was gone. When driving it to John\'s house 20 miles away from mine, I would have it out of gear at stop lights, however, I still would creep into the intersection. I had to stop the engine. The input gear synchro was gone and it showed on the input gears why I was going into the intersections. The looseness made contact with the gear teeth and this moved me into the intersections. From this swap, I do have for sale (very cheap!!!) the bell housing of the Peugeot and the crossmember. AA has a kit to fit a NV4500 to a 4.0l using this Peugeot bell housing. ?Anyone interested? The other trans parts are, well, disposed. The shifter was bent from me pulling it several hard times into gear. Take note: the original crossmember does have the holes necessary to place the AX-15 trans mount on it. The 96 AX-15 crossmember only has the holes for the AX-15 mount.
+
+## Night #4
+
+Upon taking the t/c apart, I found lots of plastic in the pump screen and the magnetic disc was full of dark sludge. What went wrong? What is this stuff? What had happened is the plastic bushings for the 4x4 fork dislodged, broke apart and became plastic soup in the case from the gears/chain. Then the metal-to-metal contact by the fork and the synchro made tiny part-like metallic pieces float around until they were magnetized to the disc. Delays once again. Bought new plastic bushings (special order) and installed them. Cleaned up the magnetized disc and reinstalled. Had a machine shop press the new bearing onto the new gear. However, I needed to transfer the pump paddles (sorry no pics bad camera) to the new gear. Had the machine shop press off the old bearing, transfer the pump paddles to the new gear, and press on the new bearing. Then united trans to t/c. It FITS! One piece of the puzzle working towards completion.
+
+## Night #5
+
+Ran the hydraulic external release bearing around my crowded engine room. Its a 1-piece unit which was difficult to maneuver under the first generation of the 4.0l XJ. Ran into a little problem with the clutch brace on the clutch bracket under the dash. The original reservoir on the firewall is installed with a stud and bolt. The new application is installed with 2 studs, 1 on the support bracket and the other on the reservoir. Plus the mounting point of the reservoir rod is smaller than the original. I checked all stud locations prior to running it around the engine area. I did have to ream out a little the support brace. I did not check the rod mounting point diameter. It wouldn\'t fit on the clutch pedal. I had to remove it out of the busy engine bay, drill out to a larger diameter the mounting point of the rod to the clutch pedal, and re-install the one piece unit. ROYAL PITA!!! to do a job twice. Installed the pilot bearing, clutch and pressure plate.
+
+## Night #6
+
+Lined everything up and cleared all lines. Removed the breather cap on the trans and added a breather hose to the top of the trans. Ran this to the valve cover. Did the same with the t/c hose. Configured the reverse switch to mate to the original harness. Installed a new release bearing. Lined up the trans/t/c combo and installed it.
+
+While I had the trans out, I hesitated about closing up the open areas on the bell housing of the trans. It was discussed on different jeep lists about filling these holes in to help keep debris out of the clutch area. I took a light and moved it around the rest of the bell housing, its not sealed all around at all. So I left it and saw no point in filling it in.
+
+The transmission mounted to the engine with no problems. Verified the location of the trans shifter looks good. Installed the mount, then the crossmember. But what now!!! The crossmember is moved back 4 or so inches. The trans is attached to the engine. It wasn\'t longer in any shape than the Peugeot. Took a measurement in respect to the Peugeot location in the frame in relationship to the front lower control arm mount. Compare this to the AX-15 and there is a 4\" difference! There are holes in the frame for this but they are not threaded. My XJ holds the crossmember with a stud/bolt and screw combo. The screw is inserted into a threaded hole in the frame. Above the stock location for the stud, there is a plug hole. Popped the plug and there is a plate with bolt looking blocks in the location of the holes. I will have to tap the holes to accept whatever screw I intend to use (larger than the hole itself). Delayed once again. Went to get the metric tap (10x1.5mm) to fit the stock screws.
+
+## Night #7
+
+Cut threads into the frame holes. Cut holes in crossmember to provide room for the original stud/screw arrangement of the stock crossmember. The crossmember is 6\" or so wide where its moved back only 4\" in the swap. Installed crossmember. Went to install the 4x4 shifter linkage. The shifter rod on the Peugeot was to long for the application of the AX-15. On the AX-15 its total length is 6\". On the Peugeot its 10\". I also had to replace the floor mount of the pivot point for the shifter rods because of the location of the tranny is approximately 4\" back. In the AX-15 application, its back near the rear. This piece is the floor mounted point for the linkage near the trans. Everything is relative!! When I removed the linkage from the donor, I cut away at the joint and of course its easier to cut away at something small so I cut at it to break it loose from the truck. Bad thing to do. So now, I\'m enlarging the hole on the block to fit over the Peugeot link.
+
+Then there is the support for the exhaust. Mine came with a C channel which is welded to the catalytic converter. The 96 comes with a rod for support. John cut the channel and I place the rod into the C channel and left it as is. Installed the starter and truck is up and running.
+
+## Conclusions
+
+Its a swap which is easily done but can come with headaches and delays as I have found out. Hopefully this write-up will entice the \"Do It Yourselfer\" into doing the same even if its with the AX-5 swap.
+
+## Torque Specs
+
+The torque settings are:
+
+  ------------------------------ ---------
+  t/c to tranny bolts            26 ft#
+  bell housing to engine bolts   28 ft#
+  tranny mount to crossmember    33 ft#
+  crossmember to frame bolts     30 ft#
+  driveshaft bolts               170 ft#
+  ------------------------------ ---------
+
+## Costs
+
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------
+  1996 AX-15\* complete - bell housing, slave cylinder, reservoir, 4x4 shift linkage, boots, shifter, crossmember, mount, tranny (33k miles), crank sensor, and all bolts associated   \$1200
+  Advance Adapters Inc. 23 spline input gear for NP231 T/C Part #716053 w/ shipping                                                                                                    \$182
+  Pilot Bearing for CJ 304-3-sp combo. Part \# 690-042                                                                                                                                 \$2.75
+  Machine Shop labor: press off old input gear bearing, press on new bearing                                                                                                           \$10
+  Hyd Ctrl (Hydraulic reservoir, line and external slave cylinder as one unit) Part #52104110                                                                                          \$122
+  Input Gear Bearing Part \# 4338891                                                                                                                                                   \$52
+  T/C front cover plate seal Part \# J5359457                                                                                                                                          \$3.60
+  Release Bearing (96 application) Part #53008342                                                                                                                                      \$57.50
+  Pad Kit Part #21-109-15 (shift fork plastic)                                                                                                                                         \$7.10
+  Bushing Part #21-118-47 (shift fork rod plastic)                                                                                                                                     \$2.70
+  Total                                                                                                                                                                                \~\$1640
+  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ----------
+
+\*Side note: The cycle yard did have a Peugeot trans from a stolen XJ with 135k miles. They would guarantee the trans for 90 days. It sold for \$950. I took the AX-15 route in looking to keep my XJ on the road or off by my choice whenever I can.
