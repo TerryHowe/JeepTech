@@ -1,0 +1,41 @@
+---
+title: "Trail Report: Jeep-L: Silver Creek Trail"
+---
+# Trail Report: Jeep-L: Silver Creek Trail
+
+### by Tom Zehrbach
+
+This past Saturday some Jeep-L members got together for a trail ride. After meeting at the Evergreen WalMart and discussing where to go, we decided on the Silver Creek trail(?) - the trail which leads to the (in)famous Family Fun Trail. 
+
+Attendees: 
+
+    Terry - CJ-7/winch/locked/32" MTs
+    Briggs - CJ-7/winch/open/33" ATs
+    Diane - YJ/open/30" MTs/sway bar disconnects
+    Scott - TJ/2.5l base/open/225 Wranglers?
+    Steve (& Marion) - ZJ/Trac Loc/225 Wranglers
+    Tom (me) (& Dawn) - ZJ/open/Up Country with 245 GSA Wranglers/Rock Rails
+
+After the short ride to the trail head we stop and the ZJs and TJ air down. Diane disconnects her sway-bars. Briggs (and Terry?) lock their hubs. 
+
+The first part of the trail was a breeze - no snow just a bunch of rocks. As we get higher, we run into more snow - but its only a couple inches so its no big deal. Until we reach a spot on the trail with about a 3-4 foot rise with a boulder ramp, all covered in snow. Terry is first with his CJ and has no problems. I'm second with my ZJ. I spin on my first attempt. After backing up, I remember the brakes-as-lockers trick, and I make it up without much drama. Diane (YJ) - no problems. Steve - no problems. Next comes Scott in the stock TJ. Scott has quite a few problems - perhaps due to the smaller, less aggressive tires and open diffs. He had to be helped up with a tow from Steve's ZJ. Finally Briggs (CJ) - no worries. 
+
+As we head higher the snow gets deeper. Terry's still in the lead. As I try to follow, all I do is spin my tires. I can't get any traction whatsoever. After several attempts I get out the tow strap and get a 1/4 mile assist from Terry. All the other vehicles make it without much drama. I don't relish the idea of being dragged up the rest of the way by Terry, so I park the ZJ and Dawn and I hitch rides with the rest of the group. 
+
+A little further up the mountain we stop for lunch. Its a gorgeous Rocky Mountain day - brilliant blue sky, 50 degrees or so. 
+
+After lunch we head up a little further. The first obstacle is a rather large rock on the right, snow in the middle and the side of the mountain on the left. To get by this little obstacle you had to veer to the left. Of course, with the snow, you tend to slide off the mountain. Briggs and I are in the lead this time and after a couple attempts, he makes it over. Steve is next. He requires a couple attempts, one of which slides his right rocker panel into the boulder. Rocker Panel protection is looking a lot more attractive to him now. Everyone gets through the obstacle and we're on our way up. 
+
+We find an abandoned mine with an incredible view of I-70 and Highway 40\. After a brief rest we head to the junction leading to the Family Fun Trail. Briggs, Diane and Terry head up the trail with me as a passenger in Briggs' rig - to scout this section of the trail. This portion of the trail is not horrible, but its got a few nasty spots with snow all around. Without the snow to louse up the traction, the remaining vehicles could probably make it, but with the snow, it wasn't a good idea to continue. We decided to part company - with Briggs, Terry and Diane in the more trail-worthy vehicles heading up and myself and the "lower" vehicles heading down. 
+
+Going down was, for the most part, no big deal, except that the snow had melted. The smooth, snowy section I had to be towed up was now strewn with large (for unlifted vehicles) rocks. Where did THEY come from? After picking our way though the rock field, we reached the boulder ramp and spent quite a bit of time figuring out how to get down. We made it fairly easily, except Scott with his TJ scraped his gas tank skid plate pretty good. 
+
+After the ride the 3 "lower" vehicles head into Idaho Springs for pizza at Beau Jo's. Yummy. Towards the end of our meal, in pop Terry and Diane. They didn't get very far up the Family Fun Trail. Details are a bit sketchy here, but I think Diane got buried and Terry had to use his winch on her YJ. Then Terry got into trouble and again had to use his winch. 
+
+A great time was had by all. The "lower" vehicles came back with a lot of new undercarriage scrapes and dreams of lifts, larger tires and traction control devices. 
+
+If you live in the Denver area (or will be passing through) and would like to join us for a ride, drop me an e-mail and I'll put you on the list of interested parties. 
+
+    Tom Zehrbach
+    '95 ZJ Laredo 4.0L Up Country Rock Rails, new undercarriage scrapes
+    Its a Jeep thing . . . you understand.

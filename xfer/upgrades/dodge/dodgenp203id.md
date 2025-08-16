@@ -1,0 +1,9 @@
+---
+title: "Dodge NP203"
+keywords: "NP203, NP, 203, Dodge, transfer case, transfer case"
+author: "Terry L. Howe"
+description: "The NP203 used in Dodge trucks is not suitable for use in a Jeep truck."
+---
+# Dodge NP203
+
+The NP203 transfer case is a chain driven transfer case in a cast iron case used. It is a heavy duty case with a 2:00:1 low range with a set of differentials for full time use. It was used from 1971 until 1980 in various Dodge trucks. Due to it's poor low range, weight, and size, it is not suitable for swap into most Jeep vehicles.
