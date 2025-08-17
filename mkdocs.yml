@@ -1,7 +1,9 @@
 site_name: Jeep Tech Pages
 site_description: Jeep guide to maintenance, modifications, and performance covering engines, transmissions, transfer cases, drive shafts, axles, wheels, and tires.
-site_author: Terry L. Howe
 site_url: https://terryhowe.github.io/JeepTech/
+site_author: Terry L. Howe
+
+edit_uri: edit/main/docs/
 
 theme:
   name: readthedocs
