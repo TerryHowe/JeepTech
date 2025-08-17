@@ -24,14 +24,14 @@ The CJ-2A used the ["Go Devil" L-Head 134 I4](/engine/factory/godevil134.html) e
 
 ## Production Information
 
-YEAR| BODY| MODEL| START| END| UNITS  
----|---|---|---|---|---  
-1945| CJ-2A| |  10001|  11824|  1824  
-1946| CJ-2A| |  11825|  83379|  71554  
-1947| CJ-2A| |  83380|  148458|  65078  
-1948| CJ-2A| |  148459|  222581|  74122  
-1949| CJ-2A| |  222582|  224764|  2182  
-  
+| YEAR | BODY  | MODEL | START  | END    | UNITS |
+|------|-------|-------|--------|--------|-------|
+| 1945 | CJ-2A |       | 10001  | 11824  | 1824  |
+| 1946 | CJ-2A |       | 11825  | 83379  | 71554 |
+| 1947 | CJ-2A |       | 83380  | 148458 | 65078 |
+| 1948 | CJ-2A |       | 148459 | 222581 | 74122 |
+| 1949 | CJ-2A |       | 222582 | 224764 | 2182  |
+
 ### Serial Number Locations
 
 Serial numbers are located on the out side of the left front frame horn, behind the bumper. An exception to this is the first 100 or so 1945s where the frame tag is on the inside frame horn reinforcement like the MBs.

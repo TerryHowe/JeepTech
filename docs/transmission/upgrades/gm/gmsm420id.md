@@ -20,8 +20,8 @@ The SM420 only had a backup light switch in 1967. Earlier versions of the SM420 
 
 [![SM420](/images/transmission/updates/sm420/4203_.jpg)](/images/transmission/updates/sm420/4203.jpg) All SM420s have a casting on the drivers side. The numbers seem to vary from transmission to transmission, but every one I've seen has "GM" and the large number starts with a "5". Most likely the "E43" in this casting is a date code. The screw heads are part of the casting.
 
-Transmission| 1st | 2nd | 3rd | 4th | 5th | Rev   
----|---|---|---|---|---|---  
-SM420| 7.05 | 3.58 | 1.71 | 1.00 |  | 7.05   
+| Transmission | 1st  | 2nd  | 3rd  | 4th  | 5th | Rev  |
+|--------------|------|------|------|------|-----|------|
+| SM420        | 7.05 | 3.58 | 1.71 | 1.00 |     | 7.05 |
 
 [![Muncie 420 drivers](/images/transmission/updates/sm420ds_.jpg)](/images/transmission/updates/sm420ds.jpg) [![Muncie 420 front](/images/transmission/updates/sm420f_.jpg)](/images/transmission/updates/sm420f.jpg) [![Muncie 420 passengers](/images/transmission/updates/sm420ps_.jpg)](/images/transmission/updates/sm420ps.jpg)

@@ -29,8 +29,7 @@ Later Buick 231s use multiport fuel injection. The Buick V6s never used TBI fuel
 
 ### Swap Stories
 
-|  [ Project Pieces & Parts Engine Installation ](https://www.4x4wire.com/jeep/projects/pieces/engine/): Project Pieces & Parts finally gets the fired up with a Buick 231 V6 sitting on engine mounts from Advanced Adapters.   
----|---  
+[ Project Pieces & Parts Engine Installation ](https://www.4x4wire.com/jeep/projects/pieces/engine/): Project Pieces & Parts finally gets the fired up with a Buick 231 V6 sitting on engine mounts from Advanced Adapters. 
   
 ### Bibliography
 

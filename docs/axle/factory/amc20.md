@@ -16,33 +16,36 @@ All AMC 20s have an 8 7/8" R&P and use 29 spline shafts. The AMC 20 R&P is 3/8" 
 
 ### Specs
 
-Narrow Track AMC 20   
----  
-Code |  Gear Ratio |  Diff Type   
-AA | 2.73 | Open  
-DD | 2.73 | Trac-Lok  
-BB | 3.31 | Open  
-CC | 3.31 | Trac-Lok  
-A | 3.54 | Open  
-N | 3.54 | Trac-Lok  
-GG | 3.73 | Open  
-Q | 3.73 | Trac-Lok  
-L | 4.10 | Open  
-M | 4.10 | Trac-Lok  
-Wide Track AMC 20   
----  
-Code |  Gear Ratio |  Diff Type   
-D | 2.73 | Open  
-DD | 2.73 | Trac-Lok  
-B | 3.31 | Open  
-BB | 3.31 | Trac-Lok  
-A | 3.54 | Open  
-AA | 3.54 | Trac-Lok  
-H | 3.73 | Open  
-HH | 3.73 | Trac-Lok  
-C | 4.10 | Open  
-CC | 4.10 | Trac-Lok  
+#### Narrow Track AMC 20   
+ 
+| Code | Gear Ratio | Diff Type |
+|------|------------|-----------|
+| AA   | 2.73       | Open      |
+| DD   | 2.73       | Trac-Lok  |
+| BB   | 3.31       | Open      |
+| CC   | 3.31       | Trac-Lok  |
+| A    | 3.54       | Open      |
+| N    | 3.54       | Trac-Lok  |
+| GG   | 3.73       | Open      |
+| Q    | 3.73       | Trac-Lok  |
+| L    | 4.10       | Open      |
+| M    | 4.10       | Trac-Lok  |
+
+#### Wide Track AMC 20   
   
+| Code | Gear Ratio | Diff Type |
+|------|------------|-----------|
+| D    | 2.73       | Open      |
+| DD   | 2.73       | Trac-Lok  |
+| B    | 3.31       | Open      |
+| BB   | 3.31       | Trac-Lok  |
+| A    | 3.54       | Open      |
+| AA   | 3.54       | Trac-Lok  |
+| H    | 3.73       | Open      |
+| HH   | 3.73       | Trac-Lok  |
+| C    | 4.10       | Open      |
+| CC   | 4.10       | Trac-Lok  |
+
 The Trac-Lok is a limited slip differential. You may have to scrape away a lot of mud, paint, and rust to uncover the code. If you can't find the code on the rear, check the tag on the front axle. Both axles should be geared the same. 
 
 The R&P ratio ranges supported by the carriers are 2.73 and 3.31-5.13. The 5.13 gear ratio is not available for the Dana 30, so it is rare to see it. 4.56s are the lowest common ratio between the Dana 30 and AMC 20. 5.13s are available for the Dana 44.
@@ -57,9 +60,9 @@ From 1976-1978 a larger 11x2" drum brakes was used on the AMC 20. After 1978, a 
 
 The Wagoneer and full-size Cherokee also used a narrow and wide track version of the AMC 20. Both SJ versions used one-piece shafts and 6 on 5.5" wheel bolt pattern. Since the length and bolt pattern is different from the CJ version, the SJ shafts are not compatible without resplining and redrilling. I've never heard of anyone going to the trouble.
 
-Model/Version | Spring Pads | Wheel to Wheel | Years  
----|---|---|---  
-AMC 20/CJ Narrow Track | 36" | 50.5" | '76-'81  
-AMC 20/CJ Wide Track | 36" | 54.5" | '82-'86  
-AMC 20/SJ Narrow Track |  |  |   
-AMC 20/SJ Wide Track |  |  |
+| Model/Version          | Spring Pads | Wheel to Wheel | Years   |
+|------------------------|-------------|----------------|---------|
+| AMC 20/CJ Narrow Track | 36"         | 50.5"          | '76-'81 |
+| AMC 20/CJ Wide Track   | 36"         | 54.5"          | '82-'86 |
+| AMC 20/SJ Narrow Track |             |                |         |
+| AMC 20/SJ Wide Track   |             |                |         |

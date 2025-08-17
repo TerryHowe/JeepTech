@@ -12,6 +12,6 @@ The Timken 51540 was used in before 1956 Willys Pickups.
 
 ### Specs
 
-Model/Version | Spring Pads | Wheel to Wheel | Years  
----|---|---|---  
-Timken/Willys Pickup| NA | NA | '47-'65|
+| Model/Version        | Spring Pads | Wheel to Wheel | Years   |
+|----------------------|-------------|----------------|---------|
+| Timken/Willys Pickup | NA          | NA             | '47-'65 |

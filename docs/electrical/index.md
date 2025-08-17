@@ -8,7 +8,7 @@ description: "Jeep electrical information covering batteries, ignition, alternat
 
 ## Batteries
 
-Four types of Lead-Acid batteries concern us for vehicular purposes, automotive starting, low antimony deep-cycle, high antimony deep-cycle, and gel-cells. I'll go over characteristics of each. Generally, the storage capacity (ampere-hour rating) of a battery is a function of the surface area of the plates exposed to the chemicals. 
+Four types of Lead-Acid batteries concern us for vehicular purposes, automotive starting, low antimony deep-cycle, high antimony deep-cycle and gel-cells. I'll go over characteristics of each. Generally, the storage capacity (ampere-hour rating) of a battery is a function of the surface area of the plates exposed to the chemicals. 
 
 #### Automotive Starting Batteries
 
@@ -46,7 +46,7 @@ All of us are concerned about wiring our car properly. So much so that I'll bet 
 
   * Wire is expensive and the larger you go, the more expensive it is.
   * Wire is heavy and the larger you go, the heavier it gets. 
-  * Mechanically, smaller wire is easier to route, easier to protect, easier to fit connectors on and therefore, more reliable mechanically \- up to a pratical limit - see below.
+  * Mechanically, smaller wire is easier to route, easier to protect, easier to fit connectors on. Therefore it is more reliable mechanically \- up to a pratical limit - see below.
 
 **2\. Use a large enough wire so there is no voltage drop.** We want whatever it is we are wiring to operate at top efficiency. 
 
@@ -62,39 +62,41 @@ It's impossible to compensate for a small alternator by throwing in a bigger bat
 
 #### Maximum Current load in AMPS @ 12 Volts DC
 
-Wire Gauge| Wire Length in Feet  
----|---  
-| 1| 2| 4| 6| 8| 10  
-20| 106| 53| 26| 17| 13  
-18| 150| 75| 37| 25| 18| 15  
-16| 224| 112| 56| 37| 28| 22  
-14| 362| 181| 90| 60| 45| 36  
-12| 572| 286| 143| 95| 71| 57  
-10| 908| 454| 227| 151| 113| 90  
-8| 1452| 726| 363| 241| 181| 145  
-6| 2342| 1171| 585| 390| 292| 234  
-4| 3702| 1851| 925| 616| 462| 370  
-2| 6060| 3030| 1515| 1009| 757| 606  
-1| 7692| 3846| 1923| 1280| 961| 769  
-0| 9708| 4854| 2427| 1616| 1213| 970  
+Wire gauge in AWG vs wire length in feet
+
+| Gauge | 1'   | 2'   | 4'   | 6'   | 8'   | 10' |
+|-------|------|------|------|------|------|-----|
+| 20g   | 106  | 53   | 26   | 17   | 13   | 8   |
+| 18g   | 150  | 75   | 37   | 25   | 18   | 15  |
+| 16g   | 224  | 112  | 56   | 37   | 28   | 22  |
+| 14g   | 362  | 181  | 90   | 60   | 45   | 36  |
+| 12g   | 572  | 286  | 143  | 95   | 71   | 57  |
+| 10g   | 908  | 454  | 227  | 151  | 113  | 90  |
+| 8g    | 1452 | 726  | 363  | 241  | 181  | 145 |
+| 6g    | 2342 | 1171 | 585  | 390  | 292  | 234 |
+| 4g    | 3702 | 1851 | 925  | 616  | 462  | 370 |
+| 2g    | 6060 | 3030 | 1515 | 1009 | 757  | 606 |
+| 1g    | 7692 | 3846 | 1923 | 1280 | 961  | 769 |
+| 0g    | 9708 | 4854 | 2427 | 1616 | 1213 | 970 |
   
 #### Maximum Current load in AMPS @ 12 Volts DC
 
-Wire Gauge| Wire Length in Feet  
----|---  
-| 12|  15|  20|  50|  100|  200  
-20| | | | | |   
-18| 12| | | | |   
-16| 18| 14| | | |   
-14| 30| 24| 18| | |   
-12| 47| 38| 28| | |   
-10| 75| 60| 45| | |   
-8| 120| 96| 72| 29| |   
-6| 194| 155| 117| 46| 23|   
-4| 307| 246| 185| 74| 37|   
-2| 503| 403| 303| 121| 60| 30  
-1| 638| 511| 384| 153| 76| 38  
-0| 805| 645| 485| 194| 97| 48  
+Wire gauge vs. maximum current by length (feet)
+
+|     | 12' | 15' | 20' | 50' | 100' | 200' |
+|-----|----:|----:|----:|----:|-----:|-----:|
+| 20g |     |     |     |     |      |      |
+| 18g |  12 |     |     |     |      |      |
+| 16g |  18 |  14 |     |     |      |      |
+| 14g |  30 |  24 |  18 |     |      |      |
+| 12g |  47 |  38 |  28 |     |      |      |
+| 10g |  75 |  60 |  45 |     |      |      |
+| 8g  | 120 |  96 |  72 |  29 |      |      |
+| 6g  | 194 | 155 | 117 |  46 |   23 |      |
+| 4g  | 307 | 246 | 185 |  74 |   37 |      |
+| 2g  | 503 | 403 | 303 | 121 |   60 |   30 |
+| 1g  | 638 | 511 | 384 | 153 |   76 |   38 |
+| 0g  | 805 | 645 | 485 | 194 |   97 |   48 |
   
 * * *
 
@@ -108,34 +110,35 @@ To be safe, always choose one or two wire sizes larger than you need for the ind
 
 #### Current-Carrying Capability of Some Common Wire Sizes
 
-Wire Size (AWG)| Continuous-Duty Current *  
----|---  
-8 |  46 A  
-10 |  33 A  
-12 |  23 A  
-14 |  17 A  
-16 |  13 A  
-18 |  10 A  
-20 |  7.5 A  
-22 |  5 A  
+| Wire Size (AWG) | Continuous-Duty Current |
+|-----------------|-------------------------|
+| 8               | 46 A                    |
+| 10              | 33 A                    |
+| 12              | 23 A                    |
+| 14              | 17 A                    |
+| 16              | 13 A                    |
+| 18              | 10 A                    |
+| 20              | 7.5 A                   |
+| 22              | 5 A                     |
+
 * wires or cables in conduits or bundles  
   
 #### Resistance of copper wire per 1000 Feet at 25C
 
-Gauge | Diameter |  Ohms  
----|---|---  
-20 |  0.032 | 10.35  
-22 |  0.025 | 16.46  
-24 |  0.020 | 26.17  
-26 |  0.016 | 41.62  
-28 |  0.013 | 66.17  
-30 |  0.010 | 105.2  
-  
+| Gauge | Diameter | Ohms  |
+|-------|----------|-------|
+| 20    | 0.032    | 10.35 |
+| 22    | 0.025    | 16.46 |
+| 24    | 0.020    | 26.17 |
+| 26    | 0.016    | 41.62 |
+| 28    | 0.013    | 66.17 |
+| 30    | 0.010    | 105.2 |
+
 ## Lights
 
 ## Gauges
 
-![Speedometer](/toc/spedothumnail.jpg)[ CJ Gauge & Sender Diagnostics ](/electrical/gauges/): Finding documentation for diagnosing CJ gauge and sending unit problems is next to impossible. John Foutz pulls together all the required information and makes it easy. 
+[ CJ Gauge & Sender Diagnostics ](/electrical/gauges/): Finding documentation for diagnosing CJ gauge and sending unit problems is next to impossible. John Foutz pulls together all the required information and makes it easy. 
 
 ## Waterproofing
 
