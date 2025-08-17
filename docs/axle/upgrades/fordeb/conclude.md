@@ -6,7 +6,7 @@ description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a 
 ---
 # Swapping an Early Bronco Front Dana 44 into a YJ
 
-[![Front view](/images/axle/updates/fordeb/homefrt_.jpg)](/images/axle/updates/fordeb/homefrt.jpg)   
+[![Front view](/img/axle/updates/fordeb/homefrt_.jpg)](/img/axle/updates/fordeb/homefrt.jpg)   
 **by Chris Waterman**
 
 I love it! It's a big-ass Jeep, and it performs like I've always wanted it to. I also learned a hell of a lot in the process. I can safely say that EB axles make for a good swap candidate for YJ or TJ, but I'll add one caveat: if you're going to do it, do a spring-over (YJ) or lift springs at the same time like I did.
@@ -39,4 +39,4 @@ _Pearl of wisdom: Axle swaps are expensive._.
 ---  
 Sure I saved a chunk of money doing it myself, but be aware that it isn't a cheap venture, and that it WILL cost you more than you think. No amount of planning will entirely prevent Murphy's Law and lots of little hidden costs from creeping up and biting you when you least expect them.
 
-[![Larry Soo lends a helping hand](/images/axle/updates/fordeb/larshlp_.jpg)](/images/axle/updates/fordeb/larshlp.jpg)
+[![Larry Soo lends a helping hand](/img/axle/updates/fordeb/larshlp_.jpg)](/img/axle/updates/fordeb/larshlp.jpg)

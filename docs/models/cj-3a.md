@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # The Vintage Jeep Barn: CJ-3A
 
-![barn](/images/barn.gif) |  CJ-3A   
+![barn](/img/barn.gif) |  CJ-3A   
 ---  
   
 [Description](#Description)   
