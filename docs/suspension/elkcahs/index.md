@@ -20,19 +20,19 @@ The purpose of a shackle reversal is to allow the tire move backwards easily whe
 
 When measuring spring length, one normally measures spring eye to spring eye. Obviously, springs do not shrink and grow, but the distance between the eyes changes when they flex. Flat springs are at their maximum length at rest and any flex decreases the distance between the eyes. 
 
-[![Shackle forward flat springs](/images/suspension/elkcahs/nonr2s.jpg)](/images/suspension/elkcahs/nonr2.jpg)  
+[![Shackle forward flat springs](/img/suspension/elkcahs/nonr2s.jpg)](/img/suspension/elkcahs/nonr2.jpg)  
 With flat arch springs on a CJ or YJ with the conventional setup the tire already goes backwards as it goes up, in fact it also goes backwards as it goes down. This is because the spring is it's longest when it is flat and curving it either way shortens the spring and draws the tire towards the fixed end. This can be demonstrated on any stock YJ by noting the angle of the shackle relative to the frame when it is sitting on flat ground, and then again when one tire has been run up a ramp. On the ramp the bottom end of both front shackles will be more towards the rear than when on flat ground because one spring will be arched positively and one negatively. 
 
-[![Shackle reversed flat springs](/images/suspension/elkcahs/rev3s.jpg)](/images/suspension/elkcahs/rev3.jpg)  
+[![Shackle reversed flat springs](/img/suspension/elkcahs/rev3s.jpg)](/img/suspension/elkcahs/rev3.jpg)  
 
 #### Axle Movement With Arched Springs
 
 With heavily arched springs such as used in normal 4" spring under axle lift kits and the conventional fixed spring hanger at the rear the front tire will come forwards when it rises to go over a bump. This is because the spring is moving towards being flat, rather than away from being flat.
 
-[![Shackle forward arched springs](/images/suspension/elkcahs/narch1s.jpg)](/images/suspension/elkcahs/narch1.jpg)  
+[![Shackle forward arched springs](/img/suspension/elkcahs/narch1s.jpg)](/img/suspension/elkcahs/narch1.jpg)  
 As the spring moves towards being flat the arch decreases and the length of the spring increases, pushing the tire slightly forwards. 
 
-[![Shackle reversed arched springs](/images/suspension/elkcahs/rarch2s.jpg)](/images/suspension/elkcahs/rarch2.jpg)  
+[![Shackle reversed arched springs](/img/suspension/elkcahs/rarch2s.jpg)](/img/suspension/elkcahs/rarch2.jpg)  
 A shackle reversal puts the fixed end of the spring at the front, which makes the tire go rearwards on compression instead of forwards. This is very desirable for handling reasons. This is why shackle reversals are popular with after market lift springs on YJs and CJs.
 
 #### Bump Steer
@@ -49,7 +49,7 @@ With arched springs and no shackle reversal the force of the tire being pulled t
 
 Another disadvantage of shackle reversal is the need for a drive shaft with more travel. A long travel drive shaft is required because the tire is going forwards as it goes down and backwards as it goes up. The downward and forward movements add together meaning a drive shaft used with shackle reversal must compress and extend more than a shackle forward driveshaft.
 
-[![Over extended drive shaft](/4x4web/jeep/reviews/images/more/driveshaft-.jpg)](/4x4web/jeep/reviews/images/more/driveshaft.jpg) If the drive shaft problem is not dealt with, parts can be broken. A drive shaft that is too short will fall apart when droop is maximized. A drive shaft that is too long can be punched through a transfer case. Long travel drive shafts can be expensive and long travel drive shafts wear quicker than short travel drive shafts.
+[![Over extended drive shaft](/4x4web/jeep/reviews/img/more/driveshaft-.jpg)](/4x4web/jeep/reviews/img/more/driveshaft.jpg) If the drive shaft problem is not dealt with, parts can be broken. A drive shaft that is too short will fall apart when droop is maximized. A drive shaft that is too long can be punched through a transfer case. Long travel drive shafts can be expensive and long travel drive shafts wear quicker than short travel drive shafts.
 
 With no shackle reversal and arched springs the tire goes forwards as it goes up and rearwards as it goes down. The forwards and upward motions partially cancel each other resulting in less of a length change on the driveshaft. The same cancellation effect happens as the tire goes rearwards and down. The result is a fairly normal amount of length change on the driveshaft that the stock slip joint can usually handle.
 

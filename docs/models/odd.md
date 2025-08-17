@@ -8,13 +8,13 @@ description: "Description, drive train specifications, and production informatio
 
 ## Grand Wagoneer Limo
 
-[![Grand Wagoneer Limo Front View](/images/sjlimo_.jpg)](/images/sjlimo.jpg) 
+[![Grand Wagoneer Limo Front View](/img/sjlimo_.jpg)](/img/sjlimo.jpg) 
 
 ## Description
 
 The Grand Wagoneer Limo.
 
-[![Grand Wagoneer Limo Back View](/images/sjlimob_.jpg)](/images/sjlimob.jpg) [![Grand Wagoneer Limo Interior](/images/sjlimoi_.jpg)](/images/sjlimoi.jpg) 
+[![Grand Wagoneer Limo Back View](/img/sjlimob_.jpg)](/img/sjlimob.jpg) [![Grand Wagoneer Limo Interior](/img/sjlimoi_.jpg)](/img/sjlimoi.jpg) 
 
 ## Drive Train
 
@@ -40,7 +40,7 @@ Serial numbers are located on the ...
 
 ## MBT Trailer
 
-[![MBT 1/4 ton trailer](/images/mbt_.jpg)](/images/mbt.jpg) 
+[![MBT 1/4 ton trailer](/img/mbt_.jpg)](/img/mbt.jpg) 
 
 ## Description
 

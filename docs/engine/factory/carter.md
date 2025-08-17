@@ -6,7 +6,7 @@ description: "Easily fix the Jeep 258 Carter BBD idle problem."
 ---
 # Easy Fix for Jeep 258 Carter BBD Idle Problem
 
-![Carter BBD](/images/engine/cart1.jpg)
+![Carter BBD](/img/engine/cart1.jpg)
 
 The Jeep 258 (4.2L) I6 isn't a power house, but it has gobs of low RPM torque that makes it a great engine off-road. The most common problem I see with the engine is it's inability to idle. Between the 258 in my '81 CJ-7 and a couple friends that have 258 equipped Wranglers, I have fixed this problem half a dozen times and the cause of the problem has always been the same. The problem has always been caused by clogged idle tubes that cause fuel to drip out of the venturis and make the Jeep run rich at idle. Fixing the problem is relatively easy and once you get past this problem, you will get much more enjoyment from the 258 and the Carter BBD carburetor. 
 
@@ -24,7 +24,7 @@ After you have chosen the wise or foolish path, start your Jeep and open the cho
 
 While you are doing this, make sure you don't put your hand or anything else into rotating parts like the fan. Keep your tie away from that thing (some people just want to look good all the time.) Same goes if you are a "long hair, freaky" Tesla type. All joking aside, I've heard some bad stories. 
 
-[![Carter BBD Apart](/images/engine/cart2_.jpg)](/images/engine/cart2.jpg) 
+[![Carter BBD Apart](/img/engine/cart2_.jpg)](/img/engine/cart2.jpg) 
 
 ## The Solution
 

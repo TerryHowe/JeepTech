@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Full Size Jeeps: J-Series Pickups
 
-[![J-200 Pickup](/images/j200_.jpg)](/images/j200.jpg) 
+[![J-200 Pickup](/img/j200_.jpg)](/img/j200.jpg) 
 
 ## Description
 

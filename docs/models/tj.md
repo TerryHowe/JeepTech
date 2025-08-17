@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Short Jeeps: Wrangler TJ
 
-[![Scott Parker's TJ on the Spring Creek Trail](/images/parkerst.gif)](/images/parkers.gif) 
+[![Scott Parker's TJ on the Spring Creek Trail](/img/parkerst.gif)](/img/parkers.gif) 
 
 ## Description
 

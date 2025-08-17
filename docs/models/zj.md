@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Jeep Grand Cherokee (ZJ)
 
-[![Tom Zehrbach's ZJ in Moab](/images/tomzj_.jpg)](/images/tomzj.jpg) 
+[![Tom Zehrbach's ZJ in Moab](/img/tomzj_.jpg)](/img/tomzj.jpg) 
 
 ## Description
 

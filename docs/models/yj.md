@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Short Jeeps: Wrangler YJ
 
-[![Terry in deep with Diane's YJ](/images/yjmud_.jpg)](/images/yjmud.jpg) 
+[![Terry in deep with Diane's YJ](/img/yjmud_.jpg)](/img/yjmud.jpg) 
 
 ## Description
 

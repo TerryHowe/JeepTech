@@ -6,7 +6,7 @@ description: "Tips on how to become one with your Jeep.  It's a Jeep thing, you 
 ---
 # It's a Jeep thing, you understand!
 
-![Phil Collard on Tabasco Twister](/images/terry/trail/lc98b_.jpg)
+![Phil Collard on Tabasco Twister](/img/terry/trail/lc98b_.jpg)
 
 If you've found this article, you have probably heard the expression, "It's a Jeep thing, you wouldn't understand". There is truth to it, but it is not necessary to completely disassemble and reassemble your Jeep to become "one" with it and achieve a true understanding. You can save a lot of time and busted knuckles by reading about Jeeps. To hasten your trip on the path of complete understanding, we at Jeeptech have begun to compile Jeep quirks and tricks that will save you hours of frustration. Even the seasoned Jeeper will finding interesting tidbits here. 
 
