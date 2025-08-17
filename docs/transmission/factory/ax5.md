@@ -16,6 +16,8 @@ The AX-5 and the Peugeot BA 10/5 were used in all Wranglers from 1987-1989. Afte
 
 [![AX-5 front](/images/transmission/factory/ax5f_.jpg)](/images/transmission/factory/ax5f.jpg)
 
-The AX-5 from the front with bell housing and clutch slave cylinder installed. Friendly neighbor not included.  [![BA 10/5 side](/images/transmission/factory/ba10ds_.jpg)](/images/transmission/factory/ba10ds.jpg) A driver's side shot of a BA 10/5 for comparison. Notice how the [BA 10/5](/transmission/factory/ba10.html) doesn't have the regular ribbing on the driver's side. The passenger side of the BA 10/5 does have regular ribbing. The main case of the BA 10/5 is made of two pieces bolted together, where as the AX-5 main case is one solid piece of cast aluminum.  | Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev   
----|---|---|---|---|---|---  
-AX-5 | 3.93 | 2.33 | 1.45 | 1.00 | 0.85 | 4.74
+The AX-5 from the front with bell housing and clutch slave cylinder installed. Friendly neighbor not included.  [![BA 10/5 side](/images/transmission/factory/ba10ds_.jpg)](/images/transmission/factory/ba10ds.jpg) A driver's side shot of a BA 10/5 for comparison. Notice how the [BA 10/5](/transmission/factory/ba10.html) doesn't have the regular ribbing on the driver's side. The passenger side of the BA 10/5 does have regular ribbing. The main case of the BA 10/5 is made of two pieces bolted together, where as the AX-5 main case is one solid piece of cast aluminum.  
+
+| Transmission | 1st  | 2nd  | 3rd  | 4th  | 5th  | Rev  |
+|--------------|------|------|------|------|------|------|
+| AX-5         | 3.93 | 2.33 | 1.45 | 1.00 | 0.85 | 4.74 |

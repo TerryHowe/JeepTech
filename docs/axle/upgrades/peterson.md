@@ -6,7 +6,7 @@ description: "All about Swapping Scout Dana 44 Axles into a CJ."
 ---
 # Swapping Scout Axles into a CJ
 
-Submitted by Scott Peterson
+<strong>by Scott Peterson</strong>
 
 I hardly qualify as one who knows much about jeeps, but I recently did a little work on mine. You know how the saying goes "Only in a jeep", I think it should be "only to a jeep (must you replace everything)" :)
 
@@ -19,8 +19,3 @@ Anyway, the delta 88 steering shaft was cutover and the Jeeps pounded apart and 
 **Overall conclusions:** Well, the front was a real pain in the rear. In retro though maybe I would have tried to see how long I could have gone without breaking the stock dana 30 before going to the scout's big dana 44. Every tire does stick out about an inch more that stock. Backspacing to over come this looks impossible, at least with 15" wheels. However, the jeep is more stable on the road. 
 
 Overall, I would say the project isn't for the weak at heart. We used about 3 1/4 lbs. Of welding rods and more than one metal cutting disk for the saw. New custom axles are a massive expense. 
-
-Scott Peterson  
-SAP4845@tam2000.tamu.edu  
-Peterson@chemvx.tamu.edu  
-"A conclusion is simply the place where you got tired of thinking."

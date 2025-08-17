@@ -20,11 +20,11 @@ The TJ comes with the [2.5L](/engine/factory/amc150.html) engine standard and th
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1997 | xxx - xxx | ppp  
-1998 | xxx - xxx | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1997 | xxx - xxx           | ppp        |
+| 1998 | xxx - xxx           | ppp        |
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

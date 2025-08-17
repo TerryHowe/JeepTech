@@ -28,7 +28,7 @@ T18 (6.32)| 3.15| 5.38| 107:1
 3 Speed (~3:1)| 2.46| 5.38| 40:1  
 3 Speed (~3:1)| 3.15| 5.38| 51:1  
   
-[Click here for more numbers](tratbl.html)
+[Click here for more numbers](tratbl)
 
 Changing the transfer case gears from 2.03 to 3.15 has the same effect in low range as changing from 3.54 to 5.38 gears while leaving high range unchanged for good freeway driving. Changing from a 2.46: low range to 3.15 is nearly the same as going from 4.56 to 5.38 gears. Three digit crawl ratios are possible with the use of a compound low type transmission such as a T-18, the Tera 3.15 gear set and 5.38 axle gears. A very respectable 51:1 crawl ratio is the result of using the Tera 3.15 gear set in an early CJ with 5.38 gears and a three speed transmission. 
 

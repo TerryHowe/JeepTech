@@ -12,41 +12,38 @@ Jeep tire information covering upgrades, factory options, and essential informat
 
 ![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.html): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize. 
 
-### Reviews
-
-* * *
 
 ### What Fits and What Hits*
 
 __Wrangler (YJ)*__ ______(____TJ's May use up to 1" larger tire__ ______on__ ______street__ __)__
 
-Tire Size (Diameter)  | Suspension Modifications | Body Lifts  | Fender Trimming   
----|---|---|---  
-30" | No lift required - however small lifts will increase articulation greatly | No lift required - however a 1" or 2" body lift could be used to increase articulation | No trimming required and none recommended   
-31" | No lift required for street use but there may be some slight plastic fender rubbing. 2" to 3" lifts are recommended for trail use to increase articulation | No lift is required but a 1" or 2" body lift can be used in place of a suspension lift to gain clearance and eliminate rubbing | No trimming is required and none is recommended   
-32" | A 2" to 3" lift would be recommended, a 4" lift would provide greatly increased articulation without rubbing | A 2" body lift combined with 1" lift extended shackles could be used to clear this size on an extreme budget. | With extended shackles or small suspension lifts there may be some rubbing at the corners of the plastic fenders under extreme conditions.   
-33" | A 4" suspension lift or spring over conversion is recommended. | A 1" or 2" body lift is recommended to increase clearance | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful.   
-35" | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well. | A 2" body lift is recommended, a 3" lift can increase clearance. | With a 2" body lift trimming some fender edges as much as 1" or 2" may be needed.   
-  
+| Tire Size (Diameter) | Suspension Modifications                                                                                                                                   | Body Lifts                                                                                                                     | Fender Trimming                                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 30"                  | No lift required - however small lifts will increase articulation greatly                                                                                  | No lift required - however a 1" or 2" body lift could be used to increase articulation                                         | No trimming required and none recommended                                                                                                  |
+| 31"                  | No lift required for street use but there may be some slight plastic fender rubbing. 2" to 3" lifts are recommended for trail use to increase articulation | No lift is required but a 1" or 2" body lift can be used in place of a suspension lift to gain clearance and eliminate rubbing | No trimming is required and none is recommended                                                                                            |
+| 32"                  | A 2" to 3" lift would be recommended, a 4" lift would provide greatly increased articulation without rubbing                                               | A 2" body lift combined with 1" lift extended shackles could be used to clear this size on an extreme budget.                  | With extended shackles or small suspension lifts there may be some rubbing at the corners of the plastic fenders under extreme conditions. |
+| 33"                  | A 4" suspension lift or spring over conversion is recommended.                                                                                             | A 1" or 2" body lift is recommended to increase clearance                                                                      | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful.                                         |
+| 35"                  | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well.                                         | A 2" body lift is recommended, a 3" lift can increase clearance.                                                               | With a 2" body lift trimming some fender edges as much as 1" or 2" may be needed.                                                          |
+
 _CJ*_
 
-Tire Size (Diameter)  | Suspension Modifications  | Body Lifts  | Fender Trimming   
----|---|---|---  
-30" | No lift required - however small lifts will increase articulation greatly | No lift required - however a 1" or 2" body lift could be used to increase articulation | No trimming required and none recommended   
-31" | No lift required for street use as this is close to stock size. 2" to 3" lifts are recommended for trail use to increase articulation | No lift is required but a 1" or 2" body lift can be used to gain clearance and articulation | No trimming is required and none is recommended   
-32" | A 2" to 3" lift would be recommended, a 4" lift would provide greatly increased articulation without rubbing | A 2" body lift combined could be used to clear this size. | No trimming is required unless rubbing is actually observed in use.   
-33" | A 3" to 4" suspension lift or spring over conversion is recommended. | A 1" or 2" body lift may be used to increase clearance | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful.   
-35" | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well. | A 2" body lift is recommended, a 3" lift can increase clearance. | Some trimming of fender edges may be needed to eliminate rubbing problems   
+| Tire Size (Diameter) | Suspension Modifications                                                                                                              | Body Lifts                                                                                  | Fender Trimming                                                                                    |
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
+| 30"                  | No lift required - however small lifts will increase articulation greatly                                                             | No lift required - however a 1" or 2" body lift could be used to increase articulation      | No trimming required and none recommended                                                          |
+| 31"                  | No lift required for street use as this is close to stock size. 2" to 3" lifts are recommended for trail use to increase articulation | No lift is required but a 1" or 2" body lift can be used to gain clearance and articulation | No trimming is required and none is recommended                                                    |
+| 32"                  | A 2" to 3" lift would be recommended, a 4" lift would provide greatly increased articulation without rubbing                          | A 2" body lift combined could be used to clear this size.                                   | No trimming is required unless rubbing is actually observed in use.                                |
+| 33"                  | A 3" to 4" suspension lift or spring over conversion is recommended.                                                                  | A 1" or 2" body lift may be used to increase clearance                                      | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful. |
+| 35"                  | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well.                    | A 2" body lift is recommended, a 3" lift can increase clearance.                            | Some trimming of fender edges may be needed to eliminate rubbing problems                          |
 
 _Cherokee (XJ & ZJ)*_
 
-Tire Size (Diameter)  | Suspension Modifications  | Body Lifts are not available.  | Fender Trimming   
----|---|---|---  
-30" | No lift required - however small lifts may increase clearances & articulation | N/A| Some minor fender trimming may be required if rubbing is a problem with wider tires   
-31" | 3" lifts are possible, 4" lifts would be better for trail use. | N/A| Trimming may be required with wider than stock tires   
-32" - 33" | A 5" or larger lift is required. | N/A| Some trimming is required   
-33"-35" | A 6" or larger suspension lift is required | N/A| Serious trimming may be required   
-  
+| Tire Size (Diameter) | Suspension Modifications                                                      | Body Lifts are not available. | Fender Trimming                                                                     |
+|----------------------|-------------------------------------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
+| 30"                  | No lift required - however small lifts may increase clearances & articulation | N/A                           | Some minor fender trimming may be required if rubbing is a problem with wider tires |
+| 31"                  | 3" lifts are possible, 4" lifts would be better for trail use.                | N/A                           | Trimming may be required with wider than stock tires                                |
+| 32" - 33"            | A 5" or larger lift is required.                                              | N/A                           | Some trimming is required                                                           |
+| 33"-35"              | A 6" or larger suspension lift is required                                    | N/A                           | Serious trimming may be required                                                    |
+
 * IMPORTANT NOTE:  
 _The above tables are_ _only guidelines_ _reflecting popular trends or upgrade combinations. Other combinations are possible, for example: I know of a YJ owner who uses a 3" body lift and a set of 1.5" lift Con-Ferr extended shackles to clear 33" tires. This is not what I would run or recommend - but it works for him. Your mileage may vary and we do not claim that the above is the definitive word of god on the subject of tire clearance. Some other combinations may work fine or on some vehicles the guidelines shown above may not apply._
 

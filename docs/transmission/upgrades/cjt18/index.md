@@ -48,11 +48,12 @@ The T150 and T18 torque brackets are very different. The T150 bracket is thin an
 
 The longer T-18 transmission requires different drive shaft lengths. Drive shafts can be obtained from the donor or you can have your current drive shafts modified. The compressed lengths of the drive shafts are:
 
-[![drive shafts](/images/transmission/updates/cjt18/shafts_.jpg)](/images/transmission/updates/cjt18/shafts.jpg)   
-| Front | Rear  
----|---|---  
-T150 | 26 1/2" | 18 1/4"  
-T18A | 30 1/4" | 14 3/4"  
+[![drive shafts](/images/transmission/updates/cjt18/shafts_.jpg)](/images/transmission/updates/cjt18/shafts.jpg) 
+
+| Transmission | Front   | Rear    |
+|--------------|---------|---------|
+| T150         | 26 1/2" | 18 1/4" |  
+| T18A         | 30 1/4" | 14 3/4" | 
   
 ### Electrical
 

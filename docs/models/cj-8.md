@@ -34,14 +34,14 @@ The CJ-8 used the [AMC 20](/axle/factory/amc20.html) rear axle.
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1981 | xxx - xxx | ppp  
-1982 | xxx - xxx | ppp  
-1983 | xxx - xxx | ppp  
-1984 | xxx - xxx | ppp  
-1985 | xxx - xxx | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1981 | xxx - xxx           | ppp        |
+| 1982 | xxx - xxx           | ppp        |
+| 1983 | xxx - xxx           | ppp        |
+| 1984 | xxx - xxx           | ppp        |
+| 1985 | xxx - xxx           | ppp        |
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

@@ -38,18 +38,18 @@ The factory only used the [Dana 35c](/axle/factory/d35c.html) in the rear of the
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1987 | xxx - xxx | ppp  
-1988 | xxx - xxx | ppp  
-1989 | xxx - xxx | ppp  
-1990 | xxx - xxx | ppp  
-1991 | xxx - xxx | ppp  
-1992 | xxx - xxx | ppp  
-1993 | xxx - xxx | ppp  
-1994 | xxx - xxx | ppp  
-1995 | xxx - xxx | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1987 | xxx - xxx           | ppp        |
+| 1988 | xxx - xxx           | ppp        |
+| 1989 | xxx - xxx           | ppp        |
+| 1990 | xxx - xxx           | ppp        |
+| 1991 | xxx - xxx           | ppp        |
+| 1992 | xxx - xxx           | ppp        |
+| 1993 | xxx - xxx           | ppp        |
+| 1994 | xxx - xxx           | ppp        |
+| 1995 | xxx - xxx           | ppp        |
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

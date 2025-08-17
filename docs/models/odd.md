@@ -30,10 +30,10 @@ The Grand Wagoneer Limo.
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1981 | ? - ? | 2360  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1981 | ? - ?               | 2360       |
+
 ### Identification
 
 Serial numbers are located on the ...
@@ -50,10 +50,10 @@ The MBT trailer. Willys-Overland build some of these trailers as did other manuf
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1943 | ? - ? | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1943 | ? - ?               | ppp        |
+
 ### Identification
 
 Serial numbers are located on the ...
@@ -68,10 +68,10 @@ The CJ-V35 is a special radio Jeep built for the Navy in 1950. It is based on th
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1950 | 10001 - 11000 | 1000  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1950 | 10001 - 11000       | 1000       |
+
 ### Identification
 
 Serial numbers are located on the ...

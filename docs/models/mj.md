@@ -38,16 +38,16 @@ The [Dana 35c](/axle/factory/d35c.html) is the axle most commonly found in the r
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1986 | xxx - xxx | ppp  
-1987 | xxx - xxx | ppp  
-1988 | xxx - xxx | ppp  
-1989 | xxx - xxx | ppp  
-1990 | xxx - xxx | ppp  
-1991 | xxx - xxx | ppp  
-1992 | xxx - xxx | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1986 | xxx - xxx           | ppp        |
+| 1987 | xxx - xxx           | ppp        |
+| 1988 | xxx - xxx           | ppp        |
+| 1989 | xxx - xxx           | ppp        |
+| 1990 | xxx - xxx           | ppp        |
+| 1991 | xxx - xxx           | ppp        |
+| 1992 | xxx - xxx           | ppp        |
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

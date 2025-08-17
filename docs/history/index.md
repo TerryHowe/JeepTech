@@ -26,41 +26,41 @@ The following abbreviation key explains some of the known abbreviations used in 
 
 ## Abbreviation Key
 
-AMB| Ambulance  
----|---  
-AVA|  ???   
-CAB| Cab only  
-CPC|  ???   
-C/WS| Cowl/Windshield  
-FFC| Flat Face Cowl  
-PU| Pickup  
-RT|  ???   
-ST CH| Stripped Chassis  
-STK| Stake bed  
-  
+| AMB   | Ambulance        |
+|-------|------------------|
+| AVA   | ???              |
+| CAB   | Cab only         |
+| CPC   | ???              |
+| C/WS  | Cowl/Windshield  |
+| FFC   | Flat Face Cowl   |
+| PU    | Pickup           |
+| RT    | ???              |
+| ST CH | Stripped Chassis |
+| STK   | Stake bed        |
+
 Production information now on models pages. 
 
 ## Yearly Totals
 
-YEAR| TOTAL  
----|---  
-1946| 78088  
-1947| 97581  
-1948| 148676  
-1949| 86542  
-1950| 90424  
-1951| 101234  
-1952| 92134[(4)](#4)  
-1953| 125620  
-1954| 61389  
-1955| 78980[(9)](#9)  
-1956| 64270  
-1957| 65417[(12)](#12)  
-1958| 44703  
-1959| 60471  
-1960| 72753  
-1961| 66756[(19)](#19)[(21)](#21)  
-  
+| YEAR | TOTAL                       |
+|------|-----------------------------|
+| 1946 | 78088                       |
+| 1947 | 97581                       |
+| 1948 | 148676                      |
+| 1949 | 86542                       |
+| 1950 | 90424                       |
+| 1951 | 101234                      |
+| 1952 | 92134[(4)](#4)              |
+| 1953 | 125620                      |
+| 1954 | 61389                       |
+| 1955 | 78980[(9)](#9)              |
+| 1956 | 64270                       |
+| 1957 | 65417[(12)](#12)            |
+| 1958 | 44703                       |
+| 1959 | 60471                       |
+| 1960 | 72753                       |
+| 1961 | 66756[(19)](#19)[(21)](#21) |
+
 ## Footnotes
 
 Obvious errors from the original have been corrected, but sometimes it is not possible to determine what is right and what is wrong. Errors that have been found have been noted here. Also noted here are some corrections that have been made that could be questionable. 

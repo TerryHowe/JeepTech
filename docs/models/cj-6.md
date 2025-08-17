@@ -40,33 +40,33 @@ The [Dana 44](/axle/factory/d44.html) with two piece shafts was used in the CJ-6
 
 ## Production Information
 
-YEAR| BODY| MODEL| START| END| UNITS  
----|---|---|---|---|---  
-1956| CJ-6|  57748|  10001|  12224|  2224  
-| CJ-6 ST CH|  57848|  10001|  10002|  2[(11)](/history/index.html#11)  
-1957| CJ-6|  57748|  12225|  13853|  1639  
-| CJ-6 ST CH|  57848|  10002|  10003|  2[(11)](/history/index.html#11)  
-1958| CJ-6| 57748|  13854|  15067|  1214[(6)](/history/index.html#6)  
-1959| CJ-6| 57748|  15068|  17074|  2006[(6)](/history/index.html#6)[(14)](/history/index.html#14)  
-1960| CJ-6|  57748|  17075|  19110|  2036  
-1961| CJ-6|  57748|  19111|  21101|  1991[(21)](/history/index.html#21)  
-| CJ-6 Fire Eng|  57048-14|  10001|  10003|  4[(21)](/history/index.html#21)[(13)](/history/index.html#13)  
-| CJ-6 Diesel|  57758|  10001|  10128|  28[(21)](/history/index.html#21)  
-1962| CJ-6| | | |   
-1963| CJ-6| | | |   
-1964| CJ-6| | | |   
-1965| CJ-6| | | |   
-1966| CJ-6| | | |   
-1967| CJ-6| | | |   
-1968| CJ-6| | | |   
-1969| CJ-6| | | |   
-1970| CJ-6| | | |   
-1971| CJ-6| | | |   
-1972| CJ-6| | | |   
-1973| CJ-6| | | |   
-1974| CJ-6| | | |   
-1975| CJ-6| | | |   
-  
+| YEAR          | BODY     | MODEL | START | END                                                           | UNITS                                                          |
+|---------------|----------|-------|-------|---------------------------------------------------------------|----------------------------------------------------------------|
+| 1956          | CJ-6     | 57748 | 10001 | 12224                                                         | 2224                                                           |
+| CJ-6 ST CH    | 57848    | 10001 | 10002 | 2[(11)](/history/index.html#11)                               |                                                                |
+| 1957          | CJ-6     | 57748 | 12225 | 13853                                                         | 1639                                                           |
+| CJ-6 ST CH    | 57848    | 10002 | 10003 | 2[(11)](/history/index.html#11)                               |                                                                |
+| 1958          | CJ-6     | 57748 | 13854 | 15067                                                         | 1214[(6)](/history/index.html#6)                               |
+| 1959          | CJ-6     | 57748 | 15068 | 17074                                                         | 2006[(6)](/history/index.html#6)[(14)](/history/index.html#14) |
+| 1960          | CJ-6     | 57748 | 17075 | 19110                                                         | 2036                                                           |
+| 1961          | CJ-6     | 57748 | 19111 | 21101                                                         | 1991[(21)](/history/index.html#21)                             |
+| CJ-6 Fire Eng | 57048-14 | 10001 | 10003 | 4[(21)](/history/index.html#21)[(13)](/history/index.html#13) |                                                                |
+| CJ-6 Diesel   | 57758    | 10001 | 10128 | 28[(21)](/history/index.html#21)                              |                                                                |
+| 1962          | CJ-6     |       |       |                                                               |                                                                |
+| 1963          | CJ-6     |       |       |                                                               |                                                                |
+| 1964          | CJ-6     |       |       |                                                               |                                                                |
+| 1965          | CJ-6     |       |       |                                                               |                                                                |
+| 1966          | CJ-6     |       |       |                                                               |                                                                |
+| 1967          | CJ-6     |       |       |                                                               |                                                                |
+| 1968          | CJ-6     |       |       |                                                               |                                                                |
+| 1969          | CJ-6     |       |       |                                                               |                                                                |
+| 1970          | CJ-6     |       |       |                                                               |                                                                |
+| 1971          | CJ-6     |       |       |                                                               |                                                                |
+| 1972          | CJ-6     |       |       |                                                               |                                                                |
+| 1973          | CJ-6     |       |       |                                                               |                                                                |
+| 1974          | CJ-6     |       |       |                                                               |                                                                |
+| 1975          | CJ-6     |       |       |                                                               |                                                                |
+
 ### Serial Number Locations
 
 For CJ-5s manufactured from 1955 through 1970, The vehicle serial number is stamped on a metal plate located on the firewall, under the hood, on the passenger side.

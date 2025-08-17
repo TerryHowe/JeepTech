@@ -44,20 +44,20 @@ Some odd models of the CJ-7 used the [Dana 44](/axle/factory/d44.html), but the 
 
 ## Production Information
 
-Year | Serial Number Range  | Production  
----|---|---  
-1976 | xxx - xxx | ppp  
-1977 | xxx - xxx | ppp  
-1978 | xxx - xxx | ppp  
-1979 | xxx - xxx | ppp  
-1980 | xxx - xxx | ppp  
-1981 | xxx - xxx | ppp  
-1982 | xxx - xxx | ppp  
-1983 | xxx - xxx | ppp  
-1984 | xxx - xxx | ppp  
-1985 | xxx - xxx | ppp  
-1986 | xxx - xxx | ppp  
-  
+| Year | Serial Number Range | Production |
+|------|---------------------|------------|
+| 1976 | xxx - xxx           | ppp        |
+| 1977 | xxx - xxx           | ppp        |
+| 1978 | xxx - xxx           | ppp        |
+| 1979 | xxx - xxx           | ppp        |
+| 1980 | xxx - xxx           | ppp        |
+| 1981 | xxx - xxx           | ppp        |
+| 1982 | xxx - xxx           | ppp        |
+| 1983 | xxx - xxx           | ppp        |
+| 1984 | xxx - xxx           | ppp        |
+| 1985 | xxx - xxx           | ppp        |
+| 1986 | xxx - xxx           | ppp        |
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

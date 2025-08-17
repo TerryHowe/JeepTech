@@ -14,6 +14,8 @@ The Ford version of the T-18 was used approximately from 1967 until 1984. It is 
 
 There will normally be a PTO cover plate found on the passenger and/or drivers side. There are two shift patterns used, one where reverse is out and up and the other where reverse is out and back. The out and back is the later version.
 
-There are generally two styles of output for the 2WD version of the Ford T-18, the long slip yoke style shown in the top picture and a short regular yoke style. The 4WD versions of the Ford T-18 tend to use long adapters and 31 spline outputs.  Transmission | 1st | 2nd | 3rd | 4th | 5th | Rev   
----|---|---|---|---|---|---  
-T-18 | 6.32 | 3.09 | 1.69 | 1.00 |  | 7.44
+There are generally two styles of output for the 2WD version of the Ford T-18, the long slip yoke style shown in the top picture and a short regular yoke style. The 4WD versions of the Ford T-18 tend to use long adapters and 31 spline outputs.  
+
+| Transmission | 1st  | 2nd  | 3rd  | 4th  | 5th | Rev  |
+|--------------|------|------|------|------|-----|------|
+| T-18         | 6.32 | 3.09 | 1.69 | 1.00 |     | 7.44 |
