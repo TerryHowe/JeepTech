@@ -6,7 +6,7 @@ description: "Jeep guide to maintenance, modifications, and performance covering
 ---
 # Jeep Tech Pages
 
-![Blanca](/img/20230405_090701.jpg)   
+![Moab](/img/20230405_090701.jpg)   
 
 ## Features
 
