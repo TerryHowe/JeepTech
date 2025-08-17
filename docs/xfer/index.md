@@ -21,7 +21,7 @@ The factory transfer case information has been moved to the [factory](factory/) 
   * [New Process 231](factory/np231.md) \- Command-Trac transfer case
   * [New Process 242](factory/np242.md) \- Selec-Trac transfer case
   * [Borg Warner Quadra-Trac 13-39](factory/qtrac.md) \- Full-time transfer case
-  * [Transfer Cases Index](factory/index.md) \- Main transfer cases page
+  * [Transfer Cases Index](factory/) \- Main transfer cases page
 
 ## Transfer Case Upgrades and Swaps
 

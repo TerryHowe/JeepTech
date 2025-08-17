@@ -13,61 +13,61 @@ theme:
     - django
 
 nav:
-  - Home: index.md
+  - Home:
   - Applications:
-      - applications/index.md
+      - applications/
       - Speedometer: applications/speedometer.md
       - Tire Calculator: applications/tire.md
       - Gear Analyzer: applications/gear.md
   - Axles:
-      - axle/index.md
-      - General: axle/general/index.md
-      - Factory: axle/factory/index.md
-      - Upgrades: axle/upgrades/index.md
+      - axle/
+      - General: axle/general/
+      - Factory: axle/factory/
+      - Upgrades: axle/upgrades/
   - Engine:
-      - engine/index.md
-      - General: engine/general/index.md
-      - Factory: engine/factory/index.md
-      - Upgrades: engine/upgrades/index.md
+      - engine/
+      - General: engine/general/
+      - Factory: engine/factory/
+      - Upgrades: engine/upgrades/
   - Transmission:
-      - transmission/index.md
-      - General: transmission/general/index.md
-      - Factory: transmission/factory/index.md
-      - Upgrades: transmission/upgrades/index.md
+      - transmission/
+      - General: transmission/general/
+      - Factory: transmission/factory/
+      - Upgrades: transmission/upgrades/
   - Transfer Cases:
-      - xfer/index.md
-      - General: xfer/general/index.md
-      - Factory: xfer/factory/index.md
-      - Upgrades: xfer/upgrades/index.md
+      - xfer/
+      - General: xfer/general/
+      - Factory: xfer/factory/
+      - Upgrades: xfer/upgrades/
   - Electrical:
-      - electrical/index.md
-      - Gauges: electrical/gauges/index.md
+      - electrical/
+      - Gauges: electrical/gauges/
   - Suspension:
-      - suspension/index.md
-      - Custom CJ: suspension/custcj/index.md
+      - suspension/
+      - Custom CJ: suspension/custcj/
   - Steering:
-      - steer/index.md
+      - steer/
   - Body:
-      - body/index.md
+      - body/
   - Drive Shaft:
-      - shaft/index.md
+      - shaft/
   - Wheels & Tires:
-      - wheel/index.md
-      - tire/index.md
+      - wheel/
+      - tire/
   - Winches:
-      - winch/index.md
+      - winch/
   - Models:
-      - models/index.md
+      - models/
   - Military:
-      - military/index.md
+      - military/
   - History:
-      - history/index.md
+      - history/
   - Personal:
       - Terry's Jeeps:
-          - terry/index.md
-          - CJ7: terry/cj7/index.md
-          - CJ6: terry/cj6/index.md
-          - Bike: terry/bike/index.md
+          - terry/
+          - CJ7: terry/cj7/
+          - CJ6: terry/cj6/
+          - Bike: terry/bike/
           - Trail Reports:
               - terry/trail/21r9807.md
               - terry/trail/liorct.md
@@ -79,9 +79,9 @@ nav:
               - terry/trail/hc.md
               - terry/trail/tg9803.md
               - terry/trail/mo980919.md
-      - Everett: everetthowe/index.md
-      - Bell: bell/index.md
-      - Thing: thing/index.md
+      - Everett: everetthowe/
+      - Bell: bell/
+      - Thing: thing/
   - Bibliography: bibliography.md
 
 docs_dir: docs
