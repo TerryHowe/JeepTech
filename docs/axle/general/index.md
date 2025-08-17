@@ -74,7 +74,7 @@ The two piece shafts are weaker at the end than one piece shafts. The hub of the
 
 ### Differentials: Open, Limited Slip & Locking
 
-  * [ Open, Limited Slip, and Locking Differentials](http://www.off-road.com/4x4web/faqs/diffs.html): General information about the different types of differentials.
+  * [ Open, Limited Slip, and Locking Differentials](http://www.off-road.com/4x4web/faqs/diffs.md): General information about the different types of differentials.
 
 ### How do I Determine if I have a Locker?
 

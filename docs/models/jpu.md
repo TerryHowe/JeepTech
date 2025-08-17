@@ -50,15 +50,15 @@ The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have us
 
 Several engine options have been used in the J-Series pickups over the years including: 
 
-  * Kaiser [230](/engine/factory/tornado230.html) OHC I6 "Tornado"(63-66)
-  * AMC [327](/engine/factory/amc327.html) V8 "Vigilante" (65-66)
-  * AMC [232](/engine/factory/amc232.html) I6 (67-70)
-  * Buick [350](/engine/factory/dauntless350.html) V8 "Dauntless" (67-70)
-  * AMC [258](/engine/factory/amc258.html) I6 (71-end of J truck production)
-  * AMC [304](/engine/factory/amc304.html) V8 (71-73)
-  * AMC [360](/engine/factory/amc360.html) V8 2 bbl. (71-end) 
-  * AMC [360](/engine/factory/amc360.html) V8 4 bbl. (74-end J-xx models)
-  * AMC [401](/engine/factory/amc401.html) V8 4 bbl. (74-end J-xx models)
+  * Kaiser [230](/engine/factory/tornado230.md) OHC I6 "Tornado"(63-66)
+  * AMC [327](/engine/factory/amc327.md) V8 "Vigilante" (65-66)
+  * AMC [232](/engine/factory/amc232.md) I6 (67-70)
+  * Buick [350](/engine/factory/dauntless350.md) V8 "Dauntless" (67-70)
+  * AMC [258](/engine/factory/amc258.md) I6 (71-end of J truck production)
+  * AMC [304](/engine/factory/amc304.md) V8 (71-73)
+  * AMC [360](/engine/factory/amc360.md) V8 2 bbl. (71-end) 
+  * AMC [360](/engine/factory/amc360.md) V8 4 bbl. (74-end J-xx models)
+  * AMC [401](/engine/factory/amc401.md) V8 4 bbl. (74-end J-xx models)
 
 ### Transmission
 

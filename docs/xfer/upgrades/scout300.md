@@ -40,4 +40,4 @@ Another down side to the Scout Dana 300 is that if a seller knows what they have
 
 ## Identification
 
-[![Scout 300 back](/img/xfer/updates/ihd300b_.jpg)](/img/xfer/updates/ihd300b.jpg)[IH Dana 300](/xfer/upgrades/ih/ihd300id.html): Details about how to find the coveted IH Scout II Dana 300.
+[![Scout 300 back](/img/xfer/updates/ihd300b_.jpg)](/img/xfer/updates/ihd300b.jpg)[IH Dana 300](/xfer/upgrades/ih/ihd300id.md): Details about how to find the coveted IH Scout II Dana 300.

@@ -18,14 +18,14 @@ PTO winches are still manufactured today, but they are not marketed to the recre
 
 #### PTO Adapters
 
-  * [Dana 20](/winch/d20pto.html) PTO Adapter
-  * [Dana 18](/winch/d18pto.html) PTO Adapter
-  * [Transmission](/winch/transpto.html) PTO Adapter
+  * [Dana 20](/winch/d20pto.md) PTO Adapter
+  * [Dana 18](/winch/d18pto.md) PTO Adapter
+  * [Transmission](/winch/transpto.md) PTO Adapter
 
 #### PTO Winches
 
-  * [Ramsey](/winch/ramseypto.html) PTO Winch
-  * [Koenig](/winch/koenigpto.html) PTO Winch
+  * [Ramsey](/winch/ramseypto.md) PTO Winch
+  * [Koenig](/winch/koenigpto.md) PTO Winch
 
 ## Using the PTO Winch
 

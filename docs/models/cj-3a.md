@@ -19,7 +19,7 @@ The CJ-3A was produced from 1948 through 1953.
 
 ## Drive Train
 
-The CJ-3A was available with the ["Go Devil" L-Head 134 I4](/engine/factory/godevil134.html) engine, the [T-90](/transmission/factory/t90.html) 3 speed transmission, the [Dana 18](/xfer/factory/d18.html) transfer case, the [Dana 25](/axle/factory/d25.html) front axle, and either the [Dana 41](/axle/factory/d41.html) or the [Dana 44](/axle/factory/d44.html) rear axle. 
+The CJ-3A was available with the ["Go Devil" L-Head 134 I4](/engine/factory/godevil134.md) engine, the [T-90](/transmission/factory/t90.md) 3 speed transmission, the [Dana 18](/xfer/factory/d18.md) transfer case, the [Dana 25](/axle/factory/d25.md) front axle, and either the [Dana 41](/axle/factory/d41.md) or the [Dana 44](/axle/factory/d44.md) rear axle. 
 
 ## Production Information
 
