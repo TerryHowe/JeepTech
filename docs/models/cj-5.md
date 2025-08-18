@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # The Vintage Jeep Barn: CJ-5
 
-![barn](/img/barn.gif) [![](/img/cj5_.jpg)](/img/cj5.jpg) 
+![barn](../../img/barn.gif) [![](../../img/cj5_.jpg)](../../img/cj5.jpg) 
 
 ## Description
 

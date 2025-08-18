@@ -8,7 +8,7 @@ description: "The BLM promised a replacement for the closed Rattler and they are
 
 **by Adam Mehlberg** Land Use Chairman  
 Colorado Association of 4WD Clubs  
-[![Penrose](/img/terry/trail/Penrose1_.jpg)](/img/terry/trail/Penrose1.jpg) 
+[![Penrose](../../../img/terry/trail/Penrose1_.jpg)](../../../img/terry/trail/Penrose1.jpg) 
 
 Royal Gorge district of the BLM has released their decision on the Penrose OHV area extreme 4WD road development project proposed by one of the clubs of the Colorado Association of 4WD Clubs. The preferred alternative has been modified from 0.4 miles of 4WD road development to 1.3 miles. This increase is due to the letters of support sent in to date for this type of project. 
 
@@ -27,5 +27,5 @@ Reference the Decision Record for the EA titled "Penrose Off-Highway Vehicle Tra
 
 Thanks for your support of Scott Riebel's, Jerry Panek's, and the Colorado RockHoppers 4WD Club's efforts to develop the Penrose OHV Area.
 
-[![Penrose](/img/terry/trail/Penrose2_.jpg)](/img/terry/trail/Penrose2.jpg) [![Penrose](/img/terry/trail/Penrose3_.jpg)](/img/terry/trail/Penrose3.jpg)   
+[![Penrose](../../../img/terry/trail/Penrose2_.jpg)](../../../img/terry/trail/Penrose2.jpg) [![Penrose](../../../img/terry/trail/Penrose3_.jpg)](../../../img/terry/trail/Penrose3.jpg)   
 Milder parts of Penrose...

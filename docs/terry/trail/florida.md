@@ -9,10 +9,10 @@ After we were done we paused for lunch and headed for Old Florida Road. The Old 
 
 Before I had the Jeep up on the Hi-Lift, several club members were prying, hammering, and aligning the bolt. Someone (a guy named Terry I think) found a nut that would fit and the problem was fixed. I lowered it, and moved the Jeep forward a bit, same noise. Rick Boiros crawled under with a crow bar in hand and discovered a rock jammed against my front driveshaft. Once that was removed, it sounded much better. 
 
-![](/img/terry/trail/rick_savoy.jpg) |  Rick going over one of the big steps   
+![](../../../img/terry/trail/rick_savoy.jpg) |  Rick going over one of the big steps   
   
 We continued on over several large rock steps one of which put me in a wicked (it wouldn't be a report from Mass. without the word "wicked" in it) off camber situation, but I didn't roll. After four or five tries I made it over. 
 
 Everyone made it through the trail without and use of the strap or winching, but no one dared the bottomless mud hole at the end. Jeff, our trail leader, tried the hole Friday night and was not willing to give it another shot. 
 
-![](/img/terry/trail/chris_mud.jpg) |  Chris taking the bypass around the big mud hole
+![](../../../img/terry/trail/chris_mud.jpg) |  Chris taking the bypass around the big mud hole

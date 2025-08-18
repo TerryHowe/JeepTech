@@ -6,8 +6,8 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Military Jeeps: MA, MB, and GPW
 
-![military jeeps](/img/military.gif)   
-[![Willys-Overland MB front view](/img/mbf_.jpg)](/img/mbf.jpg) 
+![military jeeps](../../img/military.gif)   
+[![Willys-Overland MB front view](../../img/mbf_.jpg)](../../img/mbf.jpg) 
 
 ## Description
 
@@ -15,7 +15,7 @@ The MA was the prototype that won Willys the contract with the U.S. Government. 
 
 The first 25,808 MBs produced by Willys used a "slat grill". This grill was welded together rather than the stamped grill most people are familiar with. Very few "slat grill" MBs remain in existence. 
 
-[![Willys-Overland MB back view](/img/mbb_.jpg)](/img/mbb.jpg) 
+[![Willys-Overland MB back view](../../img/mbb_.jpg)](../../img/mbb.jpg) 
 
 ## Drive Train
 

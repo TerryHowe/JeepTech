@@ -20,13 +20,13 @@ The procedure is very straight forward:
 
 Remove the existing steering shaft: There is a bolt at each end of the shaft that must be completely removed because they ride in a groove on the steering column and steering box. Once the bolts are out, tapping lightly with a hammer will dislodge the old steering shaft. No further disassembly is required. 
 
-[![shaft comparison](/img/steer/boths.jpg)](/img/steer/both.jpg)   
+[![shaft comparison](../../../img/steer/boths.jpg)](../../../img/steer/both.jpg)   
 ---  
 The stock shaft is shown on top and the Borgeson shaft is on the bottom. The Borgeson shaft is shown with the slip joint collapsed in this picture. The Borgeson shaft can easily expand enough to fit a 3" body lift.   
   
 Install the new steering shaft: Align the set screws with the flats on the steering column and the steering box. Extend the shaft to the proper length and tighten down the set screws and jam nuts. 
 
-[![shaft installed](/img/steer/insts.jpg)](/img/steer/inst.jpg)   
+[![shaft installed](../../../img/steer/insts.jpg)](../../../img/steer/inst.jpg)   
 ---  
 The set screw on the Borgeson shaft must align with the flat on the steering column. There is a similar flat on the steering box for the other set screw. The shaft was expanded further after the photo to place the set screw in the center of the flat area.   
   
