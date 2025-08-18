@@ -1,9 +1,9 @@
 ---
-title: "Jeep Tech Applications"
+title: "Jeep Applications"
 keywords: "Jeep, technical, axles, transmissions, transfer cases, transfer cases, engines, suspension, winches"
 author: "Terry L. Howe"
-description: "Jeep Tech applications"
+description: "Jeep applications"
 ---
-# Jeep Tech Applications
+# Jeep Applications
 
 Some applications that may be useful with your Jeep.

@@ -1,10 +1,10 @@
 ---
-title: "Jeep Tech: Electrical"
+title: "Electrical"
 keywords: "Jeep, electrical, batteries, ignition, alternators, wiring, lights"
 author: "Terry L. Howe"
 description: "Jeep electrical information covering batteries, ignition, alternators, wiring, and lights."
 ---
-# Jeep Tech: Electrical
+# Electrical
 
 ## Batteries
 

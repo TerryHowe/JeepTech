@@ -1,10 +1,10 @@
 ---
-title: "Jeep Tech: Tires"
+title: "Tires"
 keywords: "Jeep, tires, radial, bias ply, belted bias ply, metric tire sizes, all terrain, mud terrain, BFG"
 author: "Terry L. Howe"
 description: "Jeep tire information covering upgrades, factory options, and essential information."
 ---
-# Jeep Tech: Tires
+# Tires
 
 Jeep tire information covering upgrades, factory options, and essential information. 
 
