@@ -1,9 +1,9 @@
 ---
-title: "Jeep Tech: Models"
+title: "Models"
 keywords: "Jeep, models"
 author: "Terry L. Howe"
 description: "Jeep models manufactured over the years."
 ---
-# Jeep Tech: Models
+# Models
 
 Jeep models

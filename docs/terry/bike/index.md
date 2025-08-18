@@ -3,7 +3,7 @@ title: "Terry's Bicycling Page"
 ---
 # Bicycling
 
-![Bike](../../../img/terry/bike/dt19.jpg)
+![Bike](../../img/terry/bike/dt19.jpg)
 
 Bicycling has been my primary hobby more than any other hobby. Lately biking has taken a bit of a back burner, I've barely ridden this year. It is hard to find time to play hockey two nights a week and keep the Jeep running _and_ ride. Part of the problem, is most of the decent parks in the area have been recently closed to Mt. biking. 
 

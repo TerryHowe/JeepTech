@@ -1,9 +1,9 @@
 ---
-title: "Jeep Tech: Suspension"
+title: "Suspension"
 keywords: "Jeep, Suspension, lift kit, springs, shackles, body lift, coils, leaves"
 author: "Terry L. Howe"
 description: "Jeep suspension information covering upgrades, factory options, and essential information."
 ---
-# Jeep Tech: Suspension
+# Suspension
 
 Jeep suspension information covering upgrades, factory options, and essential information.

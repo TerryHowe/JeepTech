@@ -6,7 +6,7 @@ description: "Repack your bearings in seconds by adding a zerk fitting next time
 ---
 # Easy Bearing Repacking
 
-![Running the tap through](../../../img/axle/zerk.jpg)
+![Running the tap through](../../img/axle/zerk.jpg)
 
 If you are tired of tearing apart your axles to repack the bearings, add a zerk fitting next time you have them apart so you can repack your bearings in seconds. Many of the new Jeeps have sealed bearings, so adding zerks is pointless for them, but for older Jeeps such as CJs, full-size Jeep trucks, etc. a zerk can be a real time saver. Some early Jeeps came with zerks from the factory.
 

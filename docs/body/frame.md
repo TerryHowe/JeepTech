@@ -6,7 +6,7 @@ description: "A simple way to fix a common frame problem on your Jeep CJ."
 ---
 # Simple CJ Frame Fix
 
-[![Frame fix side](../../img/body/frame5_.jpg)](../../img/body/frame5.jpg) 
+[![Frame fix side](../img/body/frame5_.jpg)](../img/body/frame5.jpg) 
 
 Many '76-'86 CJs you look at will be suffering some frame rust around the rear spring hanger. Eventually, this rust will become severe and the rear spring hanger will rip off, especially under hard use. Fixing this problem is not as hard or expensive as you might think.
 
@@ -22,14 +22,14 @@ The following supplies were used to complete the project:
   * 2 - 5/8"x4" coarse grade 5 bolts with nuts and lock washers
   * Scrap of 3/16" plate
 
-[![Remove rusted frame material](../../img/body/frame1_.jpg)](../../img/body/frame1.jpg) Start by putting the rear end of the Jeep up on jack stands and removing the bolts holding on the spring hanger. As soon as I removed the spring hanger, I could see the crack running along the boxing weld and across the lower part of the outer channel. Using an air cut-off wheel, cut the rest of the bottom piece of the channel and removed all the damaged material around the cracks. After removing the damaged material and cleaning it with a wire brush, spray it down with a rust converting primer.
+[![Remove rusted frame material](../img/body/frame1_.jpg)](../img/body/frame1.jpg) Start by putting the rear end of the Jeep up on jack stands and removing the bolts holding on the spring hanger. As soon as I removed the spring hanger, I could see the crack running along the boxing weld and across the lower part of the outer channel. Using an air cut-off wheel, cut the rest of the bottom piece of the channel and removed all the damaged material around the cracks. After removing the damaged material and cleaning it with a wire brush, spray it down with a rust converting primer.
 
 While the primer was drying, cut three pieces of 3/16" plate. Cut two pieces 2 5/8" X 9" for the sides and cut one piece for the bottom 6" long and 3 1/4"wide, tapering out to 5". I tapered the bottom piece so it was wide enough to use as a frame tie in with my bumper in the future.
 
-[![Bolt on repair bracket](../../img/body/frame2_.jpg)](../../img/body/frame2.jpg) Using a pair of vice grip clamps, clamp the inside plate and the bottom plate in place so that the bottom edge of the inside piece was flush with the bottom plate. Mark the inside piece with the two holes that already exist in the frame rail for drilling. Remove the inside plate and clamp on the outside plate so that the bottom edge of the plate is flush with the top of the bottom plate. Mark the outside plate for drilling and the bottom plate for the spring hanger.
+[![Bolt on repair bracket](../img/body/frame2_.jpg)](../img/body/frame2.jpg) Using a pair of vice grip clamps, clamp the inside plate and the bottom plate in place so that the bottom edge of the inside piece was flush with the bottom plate. Mark the inside piece with the two holes that already exist in the frame rail for drilling. Remove the inside plate and clamp on the outside plate so that the bottom edge of the plate is flush with the top of the bottom plate. Mark the outside plate for drilling and the bottom plate for the spring hanger.
 
-[![Bolt on repair bracket](../../img/body/frame3_.jpg)](../../img/body/frame3.jpg) Remove the plates and drill the inside and outside plates with a 5/8" drill. One of the frame holes on the inside frame channel may also need to be enlarged to 5/8", the other three holes should already be 5/8". Drill the bottom plate with a 1/2" bit and bolt a spring hanger to the plate. Weld the nuts to the top of the bottom plate. 
+[![Bolt on repair bracket](../img/body/frame3_.jpg)](../img/body/frame3.jpg) Remove the plates and drill the inside and outside plates with a 5/8" drill. One of the frame holes on the inside frame channel may also need to be enlarged to 5/8", the other three holes should already be 5/8". Drill the bottom plate with a 1/2" bit and bolt a spring hanger to the plate. Weld the nuts to the top of the bottom plate. 
 
 Once the drilling is complete, the hard work is done. Bolt the inside and outside plates in place and clamp on the bottom plate. Tack weld the three plates together and remove the whole thing. Complete the welding on the floor so you can get a good even bead. Since my exhaust routes out the corner, I also welded two 3/8"x1 1/2" bolts on the outside plate to act as a heavy-duty exhaust hanger. Bolt everything back together and you are all done.
 
-[![Frame fix side](../../img/body/frame4_.jpg)](../../img/body/frame4.jpg)
+[![Frame fix side](../img/body/frame4_.jpg)](../img/body/frame4.jpg)

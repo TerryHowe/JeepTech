@@ -1,10 +1,10 @@
 ---
-title: "Jeep Tech: Wheels"
+title: "Wheels"
 keywords: "Jeep, wheels, back spacing, bolt pattern, offset"
 author: "Terry L. Howe"
 description: "Jeep wheel information covering upgrades, factory options, and essential information."
 ---
-# Jeep Tech: Wheels
+# Wheels
 
 ## Wheel Essentials
 

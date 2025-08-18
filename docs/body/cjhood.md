@@ -6,7 +6,7 @@ description: "A simple way to reinforce your hood to prevent bending of the hood
 ---
 # Hood Reinforcement
 
-![Stuck](../../img/body/stuck01.jpg)   
+![Stuck](../img/body/stuck01.jpg)   
 
 If you don't get stuck, you aren't wheeling, you aren't testing your limits and the limits of your vehicle. There is no shame in getting stuck, but it is a shame to dent your freshly painted hood. A simple reinforcement of the hood area can prevent dents that damage the paint.
 
@@ -18,4 +18,4 @@ The four pieces where welded together on the floor and several holes where drill
 
 Once it is screwed in, the hood is much firmer. Now I wouldn't go jumping on it, but now when I crawl out to pull out the winch cable or catch a strap, there are no worries.
 
-[![CJ hood reinforcement](../../img/body/cjhood.jpg)](../../img/body/cjhood.jpg)
+[![CJ hood reinforcement](../img/body/cjhood.jpg)](../img/body/cjhood.jpg)

@@ -3,7 +3,7 @@ title: "Military Jeeps"
 ---
 * * *
 
-![military jeeps](../../img/military.gif)
+![military jeeps](../img/military.gif)
 
 # Military Jeeps
 
