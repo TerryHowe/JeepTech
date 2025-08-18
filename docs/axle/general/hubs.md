@@ -6,7 +6,7 @@ description: "Various lock-outs aka hubs used in Jeep CJs over the years.  This 
 ---
 # Jeep Lock Out Hubs
 
-[![hubs](../../../img/axle/hubs_.jpg)](../../../img/axle/hubs.jpg) 
+[![hubs](../../img/axle/hubs_.jpg)](../../img/axle/hubs.jpg) 
 
 This article covers everything you could possibly want to know about hubs (aka lock-outs) and other axle disconnect systems for short wheel base Jeeps. The same principles apply to larger Jeeps as well and at some point this article will be expanded to cover the systems used in the larger Jeeps. 
 
@@ -20,7 +20,7 @@ The hub bolts onto the brake hub. Inside the hub is a splined sleeve that moves 
 
 ### What the Axle Disconnect System Does
 
-[![Data 30 vacuum](../../../img/axle/d30vac_.jpg)](../../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time. 
+[![Data 30 vacuum](../../img/axle/d30vac_.jpg)](../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time. 
 
 ### What are Six Bolt Hubs?
 
@@ -72,4 +72,4 @@ People often ask when they should lock in and when they should unlock their hubs
 
 ### Types of Hubs
 
-![five bolt hubs](../../../img/axle/hubs_5bol_.jpg) This is the factory 5-bolt lock-out used from '81-'86. They are built by Warn, but most do not have the Warn logo on them. They are not known for their strength. There are heavier-duty 5-bolt lock-outs available if you are reluctant to upgrade to 6-bolt lock-outs. ![six bolt hubs](../../../img/axle/hubs_warnp.jpg) The Warn premium hubs are probably the most common hub to find on a Jeep with 6-bolt lock-outs. They are good, reliable, all around hub. ![Selectro hubs](../../../img/axle/hubs_selectro.jpg) These Selectro automatic locking hubs are probably the second most common hub to see on Jeeps with 6-bolt lock-outs. They have an "auto" and "lock" position on the dial. ![IH automatic locking hubs](../../../img/axle/hubs_ihauto.jpg) These hubs are built by Warn and are common on International Harvester vehicles. The IH ones have a little IH logo on them rather than the Warn logo. They are an auto-locking hub with an "auto" and "lock" position on the dial. I've heard IH owners complain about the reliability of these hubs.
+![five bolt hubs](../../img/axle/hubs_5bol_.jpg) This is the factory 5-bolt lock-out used from '81-'86. They are built by Warn, but most do not have the Warn logo on them. They are not known for their strength. There are heavier-duty 5-bolt lock-outs available if you are reluctant to upgrade to 6-bolt lock-outs. ![six bolt hubs](../../img/axle/hubs_warnp.jpg) The Warn premium hubs are probably the most common hub to find on a Jeep with 6-bolt lock-outs. They are good, reliable, all around hub. ![Selectro hubs](../../img/axle/hubs_selectro.jpg) These Selectro automatic locking hubs are probably the second most common hub to see on Jeeps with 6-bolt lock-outs. They have an "auto" and "lock" position on the dial. ![IH automatic locking hubs](../../img/axle/hubs_ihauto.jpg) These hubs are built by Warn and are common on International Harvester vehicles. The IH ones have a little IH logo on them rather than the Warn logo. They are an auto-locking hub with an "auto" and "lock" position on the dial. I've heard IH owners complain about the reliability of these hubs.

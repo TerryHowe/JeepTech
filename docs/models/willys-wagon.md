@@ -6,11 +6,11 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Willys Wagon
 
-[![Willys-Overland Wagon Drivers Side](../../img/wwd_.jpg)](../../img/wwd.jpg) 
+[![Willys-Overland Wagon Drivers Side](../img/wwd_.jpg)](../img/wwd.jpg) 
 
 The Station and Delivery Wagons were produced from 1946 through 1965.
 
-[![Willys-Overland Wagon Passenger Side](../../img/wwp_.jpg)](../../img/wwp.jpg) 
+[![Willys-Overland Wagon Passenger Side](../img/wwp_.jpg)](../img/wwp.jpg) 
 
 ### Variations
 
