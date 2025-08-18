@@ -1,48 +1,59 @@
 ---
-title: "Full Size Jeeps: J-Series Pickups"
+title: "J-Series Pickups"
 keywords: "Jeep, Willys, Kaiser, AMC, J-Series, pickups, J200, J100, J300, J4000"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep J-series pickups"
 ---
-# Full Size Jeeps: J-Series Pickups
+# J-Series Pickups
 
 [![J-200 Pickup](../../img/j200_.jpg)](../../img/j200.jpg) 
 
-## Description
-
 The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have used various model designation schemes over the years. All of the models are what we would consider a full size pickup today. Early models were know as Gladiator pickups.
 
-| From 1963 until 1964 a 3 digit number was used to designate wheelbase and GVW of the vehicle. Models were available with a 120" and a 126" wheelbase and most models were available in Thriftside (narrow box), Townside (wide box) and cab & chassis models.  J-100 | panel delivery                            |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| J-200                                                                                                                                                                                                                                                                | 1/2T 5000 GVW (120" wheelbase)            |
-| J-210                                                                                                                                                                                                                                                                | 1/2T 6000 GVW (120")                      |
-| J-220                                                                                                                                                                                                                                                                | 3/4T (120")                               |
-| J-230                                                                                                                                                                                                                                                                | 1T cab & chassis or stake bed only (120") |
-| J-300                                                                                                                                                                                                                                                                | 1/2T (126")                               |
-| J-310                                                                                                                                                                                                                                                                | 3/4T (126")                               |
-| J-320                                                                                                                                                                                                                                                                | 1T (126")                                 |
-| J-330                                                                                                                                                                                                                                                                | 1T cab & chassis or stake bed only (126") |
+From 1963 until 1964 a 3 digit number was used to designate wheelbase and GVW of the vehicle. Models were available with a 120" and a 126" wheelbase and most models were available in Thriftside (narrow box), Townside (wide box) and cab & chassis models.
 
-| In 1965 they switched over to a four digit model number except for the J-100. In '67 the two wheel drive models were dropped. In 1970, the Gladiators got the same style grill as the Wagoneer, it's first styling change since its introduction. The 3000 series was dropped in 1971. The "Gladiator" name was dropped in 1972 and the J trucks were simply called Jeep trucks.  J-2500 | 1/2T 5000 GVW (120") |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------|
-| J-2600                                                                                                                                                                                                                                                                                                                                                                                   | 1/2T 6000 GVW (120") |
-| J-2700                                                                                                                                                                                                                                                                                                                                                                                   | 3/4T 7000 GVW (120") |
-| J-2800                                                                                                                                                                                                                                                                                                                                                                                   | 1T 8600 GVW (120")   |
-| J-3500                                                                                                                                                                                                                                                                                                                                                                                   | 1/2T 5000 GVW (126") |
-| J-3600                                                                                                                                                                                                                                                                                                                                                                                   | 1/2T 6000 GVW (126") |
-| J-3700                                                                                                                                                                                                                                                                                                                                                                                   | 3/4T 7000 GVW (126") |
-| J-3800                                                                                                                                                                                                                                                                                                                                                                                   | 1T 8600 GVW (126")   |
+| Model | Type                                      |
+|-------|-------------------------------------------|
+| J-100 | panel delivery                            |
+| J-200 | 1/2T 5000 GVW (120" wheelbase)            |
+| J-210 | 1/2T 6000 GVW (120")                      |
+| J-220 | 3/4T (120")                               |
+| J-230 | 1T cab & chassis or stake bed only (120") |
+| J-300 | 1/2T (126")                               |
+| J-310 | 3/4T (126")                               |
+| J-320 | 1T (126")                                 |
+| J-330 | 1T cab & chassis or stake bed only (126") |
 
-| In 1970 three new Gladiators models were added to the line-up.  J-4500 | 1/2T 5000 GVW Townside only (132")                        |
-|------------------------------------------------------------------------|-----------------------------------------------------------|
-| J-4700                                                                 | 3/4T 7000 GVW Townside only (132")                        |
-| J-4800                                                                 | 3/4T 8000 GVW Townside, cab & chassis or stake bed (132") |
+In 1965 they switched over to a four digit model number except for the J-100. In '67 the two wheel drive models were dropped. In 1970, the Gladiators got the same style grill as the Wagoneer, it's first styling change since its introduction. The 3000 series was dropped in 1971. The "Gladiator" name was dropped in 1972 and the J trucks were simply called Jeep trucks.
 
-| In 1974 the model designations were changed to only reflect vehicle load capacity rather than load capacity and wheel base.  J-10 | Model 25 being the 1/2T 119" WB      |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| J-10                                                                                                                              | Model 45 was the 1/2T 131" WB        |
-| J-20                                                                                                                              | Model 45 was the 3/4T 131" WB        |
-| J-30                                                                                                                              | 1T cab & chassis or stake bed dually |
+
+| Model  | Type                 |
+|--------|----------------------|
+| J-2500 | 1/2T 5000 GVW (120") |
+| J-2600 | 1/2T 6000 GVW (120") |
+| J-2700 | 3/4T 7000 GVW (120") |
+| J-2800 | 1T 8600 GVW (120")   |
+| J-3500 | 1/2T 5000 GVW (126") |
+| J-3600 | 1/2T 6000 GVW (126") |
+| J-3700 | 3/4T 7000 GVW (126") |
+| J-3800 | 1T 8600 GVW (126")   |
+
+In 1970 three new Gladiators models were added to the line-up.
+
+| Model  | Type                                                      |
+|--------|-----------------------------------------------------------|
+| J-4500 | 1/2T 5000 GVW Townside only (132")                        |
+| J-4700 | 3/4T 7000 GVW Townside only (132")                        |
+| J-4800 | 3/4T 8000 GVW Townside, cab & chassis or stake bed (132") |
+
+In 1974 the model designations were changed to only reflect vehicle load capacity rather than load capacity and wheel base.
+
+| Model | Type                                 |
+|-------|--------------------------------------|
+| J-10  | Model 25 being the 1/2T 119" WB      |
+| J-10  | Model 45 was the 1/2T 131" WB        |
+| J-20  | Model 45 was the 3/4T 131" WB        |
+| J-30  | 1T cab & chassis or stake bed dually |
 
 ## Drive Train
 

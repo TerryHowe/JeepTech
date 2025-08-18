@@ -1,14 +1,10 @@
 ---
-title: "The Vintage Jeep Barn: CJ-6"
+title: "CJ-6"
 keywords: "Jeep, Willys, CJ-6, cj6, Kaiser, AMC"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-6"
 ---
-# The Vintage Jeep Barn: CJ-6
-
-![barn](../../img/barn.gif)
-
-## Description
+# CJ-6
 
 [![CJ-6 front side](../../img/cj6f_.jpg)](../../img/cj6f.jpg) 
 

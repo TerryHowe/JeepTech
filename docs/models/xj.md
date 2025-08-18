@@ -6,8 +6,6 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Jeep Cherokee XJ
 
-## Description
-
 The Cherokee (XJ) has been produced since 1984. 
 
 ## Drive Train

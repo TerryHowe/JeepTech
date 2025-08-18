@@ -6,8 +6,6 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Jeep Comanche MJ
 
-## Description
-
 The Comanche (MJ) was produced from 1986 until 1992. 
 
 ## Drive Train

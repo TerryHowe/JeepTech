@@ -1,14 +1,10 @@
 ---
-title: "The Vintage Jeep Barn: CJ-5"
+title: "CJ-5"
 keywords: "Jeep, Willys, CJ-5, cj5, Kaiser, AMC"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-5"
 ---
-# The Vintage Jeep Barn: CJ-5
-
-![barn](../../img/barn.gif) [![](../../img/cj5_.jpg)](../../img/cj5.jpg) 
-
-## Description
+# CJ-5
 
 The CJ-5 was produced from 1955 through 1983.
 

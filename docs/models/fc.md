@@ -6,8 +6,6 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Forward Control Jeep (FC)
 
-## Description
-
 The Forward Control Jeep (FC) was produced from 1957 through 1965.
 
 FC-170 Dual Rear Wheel has a heavy duty suspension and brakes. The GVW was increased to 9000 lbs. 

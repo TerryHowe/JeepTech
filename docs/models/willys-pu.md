@@ -6,8 +6,6 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Willys Pickup
 
-## Description
-
 The Willys Pickup was produced from 1947 through 1965. It was introduced in 1947 with 2WD and 4WD models. There were only a few styling changes made to the pickup over the years. In 1950 a new front grill was introduced mid year. Another front grill change occurred in 1954. In 1960, the two piece windshield was replaced with a one piece windshield.
 
 The Willys Pickup was offered in various configurations over the year including chassis only, chassis and cab, pickup, and platform stake bed. 

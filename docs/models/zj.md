@@ -8,8 +8,6 @@ description: "Description, drive train specifications, and production informatio
 
 [![Tom Zehrbach's ZJ in Moab](../../img/tomzj_.jpg)](../../img/tomzj.jpg) 
 
-## Description
-
 The Grand Cherokee (ZJ) has been produced since 1993. 
 
 ## Drive Train

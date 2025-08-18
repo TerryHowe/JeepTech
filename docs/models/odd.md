@@ -10,8 +10,6 @@ description: "Description, drive train specifications, and production informatio
 
 [![Grand Wagoneer Limo Front View](../../img/sjlimo_.jpg)](../../img/sjlimo.jpg) 
 
-## Description
-
 The Grand Wagoneer Limo.
 
 [![Grand Wagoneer Limo Back View](../../img/sjlimob_.jpg)](../../img/sjlimob.jpg) [![Grand Wagoneer Limo Interior](../../img/sjlimoi_.jpg)](../../img/sjlimoi.jpg) 
@@ -42,8 +40,6 @@ Serial numbers are located on the ...
 
 [![MBT 1/4 ton trailer](../../img/mbt_.jpg)](../../img/mbt.jpg) 
 
-## Description
-
 The MBT trailer. Willys-Overland build some of these trailers as did other manufactures. The post war model is the M100, which looks almost identical. The M416 looks very similar to, but it has squared off fenders. They are all 1/4 ton trailers.
 
 ## Drive Train
@@ -59,8 +55,6 @@ The MBT trailer. Willys-Overland build some of these trailers as did other manuf
 Serial numbers are located on the ...
 
 ## CJ-V35
-
-## Description
 
 The CJ-V35 is a special radio Jeep built for the Navy in 1950. It is based on the CJ-3A. 
 

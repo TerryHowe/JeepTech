@@ -1,14 +1,12 @@
 ---
-title: "Short Jeeps: Wrangler YJ"
+title: "Wrangler YJ"
 keywords: "Jeep, Wrangler, YJ, Chrysler, AMC"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep Wrangler YJ"
 ---
-# Short Jeeps: Wrangler YJ
+# Wrangler YJ
 
 [![Terry in deep with Diane's YJ](../../img/yjmud_.jpg)](../../img/yjmud.jpg) 
-
-## Description
 
 The Wrangler (YJ) was produced from 1987 until 1995.
 
