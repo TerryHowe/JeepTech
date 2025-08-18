@@ -14,7 +14,7 @@ There are disparities between this production information and production informa
 
 Titling practices in the 40s and 50s were very relaxed by today's standards. Many states in the US didn't title cars at all and a sales receipt was enough for proof of ownership. Often, vehicles were titled the year they were sold or the dealerships would send away to the manufactures for "fresh" paper work so last years models could be sold as current year models. If you have an older Jeep, chances are the title is wrong.
 
-It is common to look up a serial number for a Jeep to determine the year the vehicle was built, because it is common to have an incorrect title or no title at all for an old vehicle. To make this process easier, the serial numbers have been organized by model. The [original data](/history/original.html) compiled by Mr. Young was organized by year.
+It is common to look up a serial number for a Jeep to determine the year the vehicle was built, because it is common to have an incorrect title or no title at all for an old vehicle. To make this process easier, the serial numbers have been organized by model. The [original data](/history/original.md) compiled by Mr. Young was organized by year.
 
 It is a shame that Norton Young didn't continue to keep production statistics. Charlie contacted Mr Young to talk about his work: 
 

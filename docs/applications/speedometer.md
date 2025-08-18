@@ -47,7 +47,7 @@ If all this seems too complex, get yourself to a speedometer shop. A good speedo
 
 ## Sources
 
-Some of the information to put together this page was obtained from Dan Barbieri and others on the Jeep mailing list. I also referred to Bruce Bowling's speedometer page [ https://devserve.cebaf.gov/~bowling/speedo1.html ](https://devserve.cebaf.gov/~bowling/speedo1.html)
+Some of the information to put together this page was obtained from Dan Barbieri and others on the Jeep mailing list. I also referred to Bruce Bowling's speedometer page [ https://devserve.cebaf.gov/~bowling/speedo1.md ](https://devserve.cebaf.gov/~bowling/speedo1.md)
 
 ## Caveats
 

@@ -31,8 +31,8 @@ Always reference these instructions first and fallback to search or bash command
 ### Root Directory Contents
 ```
 .
-├── index.md                  # Main landing page
-├── bibliography.md           # Technical reference bibliography
+├── index.md                 # Main landing page
+├── bibliography.md          # Technical reference bibliography
 ├── robots.txt               # Search engine configuration
 ├── favicon.ico              # Site icon
 └── LICENSE                  # MIT License
@@ -80,7 +80,7 @@ Always reference these instructions first and fallback to search or bash command
 
 2. **Content Navigation Test**:
    ```bash
-   curl -s http://localhost:8000/axle/general/index.md | grep -q "Jeep Tech: Axles"
+   curl -s http://localhost:8000/axle/general/ | grep -q "Jeep Tech: Axles"
    curl -s http://localhost:8000/applications/speedometer.md | grep -q "Speedometer Gear Applet"
    curl -s http://localhost:8000/bibliography.md | grep -q "Bibliography"
    ```
@@ -140,7 +140,7 @@ curl -s http://localhost:8000/ | grep "Jeep Tech Pages"
 curl -s http://localhost:8000/applications/speedometer.md | grep "Speedometer Gear Applet"
 
 # Test technical content (should return "Jeep Tech: Axles")
-curl -s http://localhost:8000/axle/general/index.md | grep "Jeep Tech: Axles"
+curl -s http://localhost:8000/axle/general/ | grep "Jeep Tech: Axles"
 ```
 
 ### Key file counts for validation

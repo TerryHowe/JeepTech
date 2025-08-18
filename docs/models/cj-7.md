@@ -24,23 +24,23 @@ Several different trim package were available for the CJ-7s over the years inclu
 
 ### Engine
 
-The CJ-7 was originally offered with the [232](/engine/factory/amc232.html) I6 as the stock engine and the [258](/engine/factory/amc258.html) and [304](/engine/factory/amc304.html) as an optional engines. In the late 70s, the 232 was dropped and the 258 became the stock engine. In 1980, the GM [151 I4](/engine/factory/gm151.html) I4 engine was stock and the 258 and 304 were optional. The last year for the 304 was 1981. The GM 151 was replaced with the AMC [150](/engine/factory/amc150.html) I4 in 1984. 
+The CJ-7 was originally offered with the [232](/engine/factory/amc232.md) I6 as the stock engine and the [258](/engine/factory/amc258.md) and [304](/engine/factory/amc304.md) as an optional engines. In the late 70s, the 232 was dropped and the 258 became the stock engine. In 1980, the GM [151 I4](/engine/factory/gm151.md) I4 engine was stock and the 258 and 304 were optional. The last year for the 304 was 1981. The GM 151 was replaced with the AMC [150](/engine/factory/amc150.md) I4 in 1984. 
 
 ### Transmission
 
-From '76-'79 the [T-150](/transmission/factory/t150.html) 3 speed was the stock transmission and the [T-18](/transmission/factory/t18.html) 4 speed with granny low was optional. During this time, the GM TH400 3 speed automatic was also available. After 1980, the heavy duty transmissions were no longer used. The [SR-4](/transmission/factory/t4.html) and [T-176](/transmission/factory/t176.html) were used with the I4 and I6. The [T-176](/transmission/factory/t176.html) was used with the 304. After 1981, the [T-4](/transmission/factory/t4.html), [T-176](/transmission/factory/t176.html), and [T-5](/transmission/factory/t5.html) 5 speed were used. From 1980-1986, the TF999 was used with the I6 and V8 and the TF904 was used with the I4. 
+From '76-'79 the [T-150](/transmission/factory/t150.md) 3 speed was the stock transmission and the [T-18](/transmission/factory/t18.md) 4 speed with granny low was optional. During this time, the GM TH400 3 speed automatic was also available. After 1980, the heavy duty transmissions were no longer used. The [SR-4](/transmission/factory/t4.md) and [T-176](/transmission/factory/t176.md) were used with the I4 and I6. The [T-176](/transmission/factory/t176.md) was used with the 304. After 1981, the [T-4](/transmission/factory/t4.md), [T-176](/transmission/factory/t176.md), and [T-5](/transmission/factory/t5.md) 5 speed were used. From 1980-1986, the TF999 was used with the I6 and V8 and the TF904 was used with the I4. 
 
 ### Transfer Case
 
-The [Dana 20](/xfer/factory/d20.html) was used from '76-'79 and the [Dana 300](/xfer/factory/d300.html) was used from '80-'86. 
+The [Dana 20](/xfer/factory/d20.md) was used from '76-'79 and the [Dana 300](/xfer/factory/d300.md) was used from '80-'86. 
 
 ### Front Axle
 
-The [Dana 30](/axle/factory/d30.html) was always used in the CJ-7. 
+The [Dana 30](/axle/factory/d30.md) was always used in the CJ-7. 
 
 ### Rear Axle
 
-Some odd models of the CJ-7 used the [Dana 44](/axle/factory/d44.html), but the normal axle was the [AMC 20](/axle/factory/amc20.html). 
+Some odd models of the CJ-7 used the [Dana 44](/axle/factory/d44.md), but the normal axle was the [AMC 20](/axle/factory/amc20.md). 
 
 ## Production Information
 

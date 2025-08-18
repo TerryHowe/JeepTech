@@ -14,6 +14,6 @@ Talking with Paul Weitlauf, I realized there were more differences between the o
 
 [![Late Warn Overdrive](/img/xfer/updates/latewarn_.jpg)](/img/xfer/updates/latewarn.jpg) I double checked the Advanced Adapters catalog and they show an overdrive with the shift rail coming out the back of the case. I'm not sure if all the new Saturn Overdrives have the shift rail out the back or only the big hole units. A picture of Paul's overdrive is on the right.
 
-Probably the most frequently asked question about the Warn/Saturn overdrive is, "How do I remove the overdrive?" Here are some instructions on [ how to remove](/xfer/upgrades/warnremove.html) it.
+Probably the most frequently asked question about the Warn/Saturn overdrive is, "How do I remove the overdrive?" Here are some instructions on [ how to remove](/xfer/upgrades/warnremove.md) it.
 
 [![Warn Overdrive](/img/xfer/wod01s_.jpg)](/img/xfer/wod01s.jpg) [![Warn Overdrive](/img/xfer/wod01b.jpg)](/img/xfer/wod01b.jpg)

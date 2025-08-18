@@ -33,4 +33,4 @@ Later Buick 231s use multiport fuel injection. The Buick V6s never used TBI fuel
   
 ### Bibliography
 
-Some of the information in this article was obtained from Ken Mosher's [Buick V6 History](https://ni.umd.edu/gnttype/www/v6hist.html) article.
+Some of the information in this article was obtained from Ken Mosher's [Buick V6 History](https://ni.umd.edu/gnttype/www/v6hist.md) article.

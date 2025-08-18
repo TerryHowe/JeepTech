@@ -28,7 +28,7 @@ help: ## Display this help message
 
 install: ## Install Python dependencies
 	@echo "Installing dependencies..."
-	$(PIP) install -r requirements.txt
+	$(PIP) install -r requirements.txt >/dev/null
 
 build: install ## Build the static documentation site
 	@echo "Building documentation..."

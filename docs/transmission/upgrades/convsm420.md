@@ -18,4 +18,4 @@ The SM420 was only used in 2WD applications and 4WD applications with divorce mo
 
 ## SM420 Identification
 
-![sm420](/img/transmission/updates/sm420/4202_.jpg)[ GM SM420 ](/transmission/upgrades/gm/gmsm420id.html): GM used the SM420 in trucks rated from 1/2 ton to 2 1/2 ton from the 40s until 1967.
+![sm420](/img/transmission/updates/sm420/4202_.jpg)[ GM SM420 ](/transmission/upgrades/gm/gmsm420id.md): GM used the SM420 in trucks rated from 1/2 ton to 2 1/2 ton from the 40s until 1967.

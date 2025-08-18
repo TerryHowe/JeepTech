@@ -10,7 +10,7 @@ Jeep tire information covering upgrades, factory options, and essential informat
 
 ## Upgrades
 
-![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.html): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize. 
+![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.md): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize. 
 
 
 ### What Fits and What Hits*

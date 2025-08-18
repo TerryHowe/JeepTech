@@ -1,9 +1,9 @@
 ---
-title: "Jeep Axles Page"
+title: "Jeep Factory Axles"
 keywords: "Jeep Axle, Dana 30, Dana 44, AMC 20, Dana 35c"
 author: "Terry L. Howe"
-description: "The definitive Jeep axle page.  Information on factory axles used in jeep vehicles."
+description: "Information on factory axles used in Jeep vehicles."
 ---
-# Jeep Axles Page
+# Jeep Factory Axles
 
-These articles were originally written to cover only axles used in CJs, YJs, and TJs. New information has been added for other models, but the work is still incomplete.
+Information on factory axles used in Jeep vehicles.
