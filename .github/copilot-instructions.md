@@ -31,8 +31,8 @@ Always reference these instructions first and fallback to search or bash command
 ### Root Directory Contents
 ```
 .
-├──                   # Main landing page
-├── bibliography.md           # Technical reference bibliography
+├── index.md                 # Main landing page
+├── bibliography.md          # Technical reference bibliography
 ├── robots.txt               # Search engine configuration
 ├── favicon.ico              # Site icon
 └── LICENSE                  # MIT License

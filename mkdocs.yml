@@ -1,6 +1,7 @@
 site_name: Jeep Tech Pages
 site_description: Jeep guide to maintenance, modifications, and performance covering engines, transmissions, transfer cases, drive shafts, axles, wheels, and tires.
 site_url: https://terryhowe.github.io/JeepTech/
+repo_url: https://github.com/TerryHowe/JeepTech
 site_author: Terry L. Howe
 
 edit_uri: edit/main/docs/
@@ -13,61 +14,61 @@ theme:
     - django
 
 nav:
-  - Home:
+  - Home: index.md
   - Applications:
-      - applications/
+      - applications/index.md
       - Speedometer: applications/speedometer.md
       - Tire Calculator: applications/tire.md
       - Gear Analyzer: applications/gear.md
   - Axles:
-      - axle/
-      - General: axle/general/
-      - Factory: axle/factory/
-      - Upgrades: axle/upgrades/
+      - axle/index.md
+      - General: axle/general/index.md
+      - Factory: axle/factory/index.md
+      - Upgrades: axle/upgrades/index.md
   - Engine:
-      - engine/
-      - General: engine/general/
-      - Factory: engine/factory/
-      - Upgrades: engine/upgrades/
+      - engine/index.md
+      - General: engine/general/index.md
+      - Factory: engine/factory/index.md
+      - Upgrades: engine/upgrades/index.md
   - Transmission:
-      - transmission/
-      - General: transmission/general/
-      - Factory: transmission/factory/
-      - Upgrades: transmission/upgrades/
+      - transmission/index.md
+      - General: transmission/general/index.md
+      - Factory: transmission/factory/index.md
+      - Upgrades: transmission/upgrades/index.md
   - Transfer Cases:
-      - xfer/
-      - General: xfer/general/
-      - Factory: xfer/factory/
-      - Upgrades: xfer/upgrades/
+      - xfer/index.md
+      - General: xfer/general/index.md
+      - Factory: xfer/factory/index.md
+      - Upgrades: xfer/upgrades/index.md
   - Electrical:
-      - electrical/
-      - Gauges: electrical/gauges/
+      - electrical/index.md
+      - Gauges: electrical/gauges/index.md
   - Suspension:
-      - suspension/
-      - Custom CJ: suspension/custcj/
+      - suspension/index.md
+      - Custom CJ: suspension/custcj/index.md
   - Steering:
-      - steer/
+      - steer/index.md
   - Body:
-      - body/
+      - body/index.md
   - Drive Shaft:
-      - shaft/
+      - shaft/index.md
   - Wheels & Tires:
-      - wheel/
-      - tire/
+      - wheel/index.md
+      - tire/index.md
   - Winches:
-      - winch/
+      - winch/index.md
   - Models:
-      - models/
+      - models/index.md
   - Military:
-      - military/
+      - military/index.md
   - History:
-      - history/
+      - history/index.md
   - Personal:
       - Terry's Jeeps:
-          - terry/
-          - CJ7: terry/cj7/
-          - CJ6: terry/cj6/
-          - Bike: terry/bike/
+          - terry/index.md
+          - CJ7: terry/cj7/index.md
+          - CJ6: terry/cj6/index.md
+          - Bike: terry/bike/index.md
           - Trail Reports:
               - terry/trail/21r9807.md
               - terry/trail/liorct.md
@@ -79,9 +80,9 @@ nav:
               - terry/trail/hc.md
               - terry/trail/tg9803.md
               - terry/trail/mo980919.md
-      - Everett: everetthowe/
-      - Bell: bell/
-      - Thing: thing/
+      - Everett: everetthowe/index.md
+      - Bell: bell/index.md
+      - Thing: thing/index.md
   - Bibliography: bibliography.md
 
 docs_dir: docs

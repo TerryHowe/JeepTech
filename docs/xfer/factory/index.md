@@ -1,9 +1,9 @@
 ---
-title: "Jeep Transfer Cases Page"
+title: "Jeep Factory Transfer Cases"
 keywords: "Jeep, transfer cases, Dana, transfer case, Dana 300, Dana 18, New Process, New Venture"
 author: "Terry L. Howe"
-description: "Jeep transfer case information covering upgrades, factory options, and essential information."
+description: "Information on factory transfer cases used in Jeep vehicles."
 ---
-# Jeep Transfer Cases Page
+# Jeep Factory Transfer Cases
 
-Jeep transfer case information covering upgrades, factory options, and essential information.
+Information on factory transfer cases used in Jeep vehicles.
