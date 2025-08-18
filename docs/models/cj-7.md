@@ -1,12 +1,10 @@
 ---
-title: "Short Jeeps: CJ-7"
+title: "CJ-7"
 keywords: "Jeep, CJ-7, cj7, AMC"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-7"
 ---
-# Short Jeeps: CJ-7
-
-## Description
+# CJ-7
 
 The CJ-7 was produced from 1976 until 1986. The CJ-7 is basically a stretched CJ-5. An extra 10" was added behind the front seats to make the CJ-7 a 91" wheel base vehicle vs. the CJ-5s 81". The extra 10" allowed AMC to offer an automatic transmission for the first time in a CJ. A CJ-7 tub can be identified by the shape of the door opening, the opening is square where as the CJ-5 has a curving door opening. The Wrangler (YJ) tub has the same dimensions as the CJ-7 and can be used on a CJ-7 with some modifications. 
 

@@ -1,12 +1,10 @@
 ---
-title: "Full Size Jeeps: Wagoneer/Cherokee SJ"
+title: "Wagoneer/Cherokee SJ"
 keywords: "Jeep, Willys, Kaiser, AMC, Wagoneer, Cherokee, SJ"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Wagoneer and Cherokee SJ Jeeps"
 ---
-# Full Size Jeeps: Wagoneer/Cherokee SJ
-
-## Description
+# Wagoneer/Cherokee SJ
 
 The Wagoneer/Cherokee (SJ) was produced from 1962 until 1991, making it the longest run of the Jeep trucks.
 

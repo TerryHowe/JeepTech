@@ -6,8 +6,6 @@ description: "Description, drive train specifications, and production informatio
 ---
 # CJ-8
 
-## Description
-
 The CJ-8/Scrambler was produced from 1981 until the 1985. It is hardly a "short" Jeep, but it shares many of the characteristics of the CJ-7s and late CJ-5s.
 
 ## Drive Train

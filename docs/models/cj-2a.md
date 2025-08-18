@@ -1,20 +1,14 @@
 ---
-title: "The Vintage Jeep Barn: CJ-2A"
+title: "CJ-2A"
 keywords: "Jeep, Willys, CJ-2A, flat fender, cj2a"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep CJ-2A"
 ---
-# The Vintage Jeep Barn: CJ-2A
-
-![barn](../../img/barn.gif) [![1948 CJ-2A drivers side](../../img/cj2ad_.jpg)](../../img/cj2ad.jpg) 
-
-## Description
+# CJ-2A
 
 The CJ-2A was the first civilian Jeep. It was produced from July 17th 1945 through 1949. It looks similar to a M38, CJ-3A, or MB, but it has flush mounted head lights and the wind shield is made with round tubing. The windshield is split were as the CJ-3A uses a one piece wind shield (except for some export versions), is made with square tubing, and is taller above the glass. CJ-2A tubs are compatible with the M38, CJ-3A, and MB tubs, but there are cosmetic differences. All of them used the "Go Devil" L head 134 I4 engine. 
 
 [![1948 CJ-2A passenger side](../../img/cj2ap_.jpg)](../../img/cj2ap.jpg) 
-
-### Variations
 
 Early versions of the CJ-2A (until 1946 serial number 38220) were produced with a column shift T-90. The later versions of the CJ-2A were produced with "three on the floor" rather than "three on the tree." Some early CJ-2As also had the Spicer 23-2 rear end and shovel and axe grooves on the drivers side like one would find on the MB. Later CJ-2As had a Dana 41 rear end and no grooves on the drivers side. 
 

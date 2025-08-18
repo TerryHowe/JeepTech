@@ -1,14 +1,10 @@
 ---
-title: "The Vintage Jeep Barn: CJ-3B"
+title: "CJ-3B"
 keywords: "Jeep, Willys, CJ-3B, flat fender, cj3B"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep CJ-3B"
 ---
-# The Vintage Jeep Barn: CJ-3B
-
-![barn](../../img/barn.gif) [![1960 CJ-3B](../../img/cj3b_.jpg)](../../img/cj3b.jpg) 
-
-## Description
+# CJ-3B
 
 The CJ-3B was produced from 1952 through 1968.
 

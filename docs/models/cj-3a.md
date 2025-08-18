@@ -1,19 +1,10 @@
 ---
-title: "The Vintage Jeep Barn: CJ-3A"
+title: "CJ-3A"
 keywords: "Jeep, Willys, CJ-2A, flat fender, cj3a"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep CJ-3A"
 ---
-# The Vintage Jeep Barn: CJ-3A
-
-![barn](../../img/barn.gif) |  CJ-3A   
----  
-  
-[Description](#Description)   
-[Drive Train](#Drive)   
-[Production](#Production)
-
-## Description
+# CJ-3A
 
 The CJ-3A was produced from 1948 through 1953.
 

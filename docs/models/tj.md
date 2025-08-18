@@ -1,14 +1,12 @@
 ---
-title: "Short Jeeps: Wrangler TJ"
+title: "Wrangler TJ"
 keywords: "Jeep, Wrangler, TJ, Chrysler"
 author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Jeep Wrangler TJ"
 ---
-# Short Jeeps: Wrangler TJ
+# Wrangler TJ
 
 [![Scott Parker's TJ on the Spring Creek Trail](../../img/parkerst.gif)](../../img/parkers.gif) 
-
-## Description
 
 The Wrangler (TJ) was introduced in mid 1996 as a 1997 model. 
 
