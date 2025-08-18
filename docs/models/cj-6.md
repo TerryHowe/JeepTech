@@ -6,15 +6,15 @@ description: "Description, drive train specifications, and production informatio
 ---
 # The Vintage Jeep Barn: CJ-6
 
-![barn](/img/barn.gif)
+![barn](../../img/barn.gif)
 
 ## Description
 
-[![CJ-6 front side](/img/cj6f_.jpg)](/img/cj6f.jpg) 
+[![CJ-6 front side](../../img/cj6f_.jpg)](../../img/cj6f.jpg) 
 
 The CJ-6 was produced from 1958 through 1975.
 
-[![CJ-6 back side](/img/cj6b.jpg)](/img/cj6b.jpg) 
+[![CJ-6 back side](../../img/cj6b.jpg)](../../img/cj6b.jpg) 
 
 ## Drive Train
 

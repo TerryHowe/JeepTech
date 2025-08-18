@@ -6,7 +6,7 @@ description: "Swapping a Scout Dana 300 in your Jeep or International vehicle."
 ---
 # The Scout Dana 300
 
-[![Scout 300 front](/img/xfer/updates/ihd300f_.jpg)](/img/xfer/updates/ihd300f.jpg) [![Scout 300 back](/img/xfer/updates/ihd300b_.jpg)](/img/xfer/updates/ihd300b.jpg) 
+[![Scout 300 front](../../../img/xfer/updates/ihd300f_.jpg)](../../../img/xfer/updates/ihd300f.jpg) [![Scout 300 back](../../../img/xfer/updates/ihd300b_.jpg)](../../../img/xfer/updates/ihd300b.jpg) 
 
 What's so special about a Scout Dana 300? Well many things make it desirable including: 
 
@@ -24,13 +24,13 @@ The Scout Dana 300 also has a center output which is transfers power straight th
 
 Another feature of the Scout Dana 300 is it features the same sturdy construction as the Jeep Dana 300. The Scout 300 has a cast iron case and is gear driven. The only real difference between the Jeep and Scout Dana 300s is the input bolt pattern. The Scout Dana 300 also has a short rear tail housing like the early Jeep Dana 300s. 
 
-[![Jeep T-18 and Scout 300](/img/xfer/updates/ult_.jpg)](/img/xfer/updates/ult.jpg) You will not find a heavy duty drive train as short and low geared as a the Jeep T-18 and Scout Dana 300 combination. The Jeep T-18 used in late 70s CJs features a 6.32:1 first, short input shaft, and a transmission to transfer case adapter that is about 1" long. The Scout Dana 300 bolts right up to the factory adapter as you can seen in this picture provided by Rick Boiros. Length of the drive train is of particular concern for any short wheel base 4x4. 
+[![Jeep T-18 and Scout 300](../../../img/xfer/updates/ult_.jpg)](../../../img/xfer/updates/ult.jpg) You will not find a heavy duty drive train as short and low geared as a the Jeep T-18 and Scout Dana 300 combination. The Jeep T-18 used in late 70s CJs features a 6.32:1 first, short input shaft, and a transmission to transfer case adapter that is about 1" long. The Scout Dana 300 bolts right up to the factory adapter as you can seen in this picture provided by Rick Boiros. Length of the drive train is of particular concern for any short wheel base 4x4. 
 
 ## Caveats
 
 The real down side of the Scout Dana 300 is it is hard to find. It was only available in 1980 Scouts, the last year the Scout was produced, and a strike cut production short that year. Only around 30,000 Scouts were produced in 1980. 
 
-Another limiting factor is that only the drive gear from Scouts equipped with the T-19 four speed or T-15A three speed will bolt to another Jeep or Scout transmission. [![Scout 300 vs Jeep D20 bull gears](/img/xfer/updates/d300d20g_.jpg)](/img/xfer/updates/d300d20g.jpg) The Scout Dana 300 gear is different from the gear used with the Jeep and Scout Dana 20. The picture on the right is a Scout Dana 300 and Jeep Dana 20 input gear side by side. The Scout Dana 300 drive gear is no longer available and it will only fit on a transmission with a 1 3/8" 6 spline output shaft. The part number for the Scout Dana 300 gear is 300-8-11. 
+Another limiting factor is that only the drive gear from Scouts equipped with the T-19 four speed or T-15A three speed will bolt to another Jeep or Scout transmission. [![Scout 300 vs Jeep D20 bull gears](../../../img/xfer/updates/d300d20g_.jpg)](../../../img/xfer/updates/d300d20g.jpg) The Scout Dana 300 gear is different from the gear used with the Jeep and Scout Dana 20. The picture on the right is a Scout Dana 300 and Jeep Dana 20 input gear side by side. The Scout Dana 300 drive gear is no longer available and it will only fit on a transmission with a 1 3/8" 6 spline output shaft. The part number for the Scout Dana 300 gear is 300-8-11. 
 
 1980 Scouts with the TF727 automatic have a drive gear that is has a smaller interior diameter and is 23 spline. The drive gear can theoretically be machined to 1 3/8" 6 spline, but good luck finding a machine shop willing to do this work and it would add a lot to the cost. 
 
@@ -40,4 +40,4 @@ Another down side to the Scout Dana 300 is that if a seller knows what they have
 
 ## Identification
 
-[![Scout 300 back](/img/xfer/updates/ihd300b_.jpg)](/img/xfer/updates/ihd300b.jpg)[IH Dana 300](/xfer/upgrades/ih/ihd300id.md): Details about how to find the coveted IH Scout II Dana 300.
+[![Scout 300 back](../../../img/xfer/updates/ihd300b_.jpg)](../../../img/xfer/updates/ihd300b.jpg)[IH Dana 300](/xfer/upgrades/ih/ihd300id.md): Details about how to find the coveted IH Scout II Dana 300.

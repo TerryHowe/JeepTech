@@ -6,7 +6,7 @@ description: "A low buck, easy to build, Jeep CJ, Spare Parts Tire Carrier."
 ---
 # Jeep CJ Spare Parts Tire Carrier
 
-[![Spare Tire Carrier](/img/body/spare1_.jpg)](/img/body/spare1.jpg) 
+[![Spare Tire Carrier](../../img/body/spare1_.jpg)](../../img/body/spare1.jpg) 
 
 When I lived on the East coast, I used to wheel with Rick Boiros and the "Old Colony Four Wheel Drive Club" out of Massachusetts. A couple guys in the club had spare parts tire carriers where they would have entire front axle outers to hold on their spare tire. All of these were done on fabricated tire carriers, but I figured I could build one off the stock spare tire carrier. I thought about it a while and what I came up with was so simple, I wished I'd done it sooner. This modification could also be done easily to many after market spare tire carriers. 
 
@@ -28,6 +28,6 @@ A couple weeks later the carrier came in handy when I was wheeling in Farmington
 
 Spare parts tire carrier II coming soon... 
 
-[![Spare Tire Carrier](/img/body/spare2_.jpg)](/img/body/spare2.jpg) 
+[![Spare Tire Carrier](../../img/body/spare2_.jpg)](../../img/body/spare2.jpg) 
 
 July 23, 1997

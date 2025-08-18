@@ -34,7 +34,7 @@ The knuckle of a front axle is the part that enables the front axle to steer. Th
 
 The advantage of the open knuckle is it allows a tighter turning radius and it is easier to maintain. The closed structure of the closed knuckle limits its ability to swivel. It also is a bit harder to maintain since the knuckle must be sealed. Closed knuckle axle shaft joints either run in gear lube or in grease in the knuckle, and the lubricant tends to leak out of the knuckle. The open knuckle axles used a sealed cardon cross joint.
 
-[![Close Knuckle Dana 25](/img/axle/d25op_.jpg)](/img/axle/d25op.jpg) Closed knuckle Dana 25 front axle ('50 CJ-3A). [![Open Knuckle Dana 30](/img/axle/d30op_.jpg)](/img/axle/d30op.jpg) Open knuckle Dana 30 front axle ('93 Wrangler). 
+[![Close Knuckle Dana 25](../../../img/axle/d25op_.jpg)](../../../img/axle/d25op.jpg) Closed knuckle Dana 25 front axle ('50 CJ-3A). [![Open Knuckle Dana 30](../../../img/axle/d30op_.jpg)](../../../img/axle/d30op.jpg) Open knuckle Dana 30 front axle ('93 Wrangler). 
 
 ### What are Cardon Cross, Birfield, and Rzeppa Joints?
 
@@ -48,7 +48,7 @@ There are two basic types of rear axles used in Jeeps, semi-floating and full-fl
 
 The basic difference between a semi-floating and full-floating axle is that in a full floating axle, the axle housing bears the full weight of the vehicle rather than the axle shaft. The axle shaft in a full-floating axle "floats" because it does not bear weight, it only transfers power.
 
-[![Full floating](/img/axle/float_.jpg)](/img/axle/float.jpg) A full-floating rear axle is like a front axle that does not have knuckles. A full floating axle has a spindle that bolts to the axle housing and a hub that rides on two bearings on the spindle. The wheel bolts to the hub. The axle shaft splined end slides into the differential and into the driven plate the bolts to the end of the hub. The driven plate is like a hub or lock-out that does not disengage. Since the shaft doesn't ride on a bearing but is suspended between the differential and the driven plate, they call it full-floating. The picture on the left shows what the hub looks like on a rear axle. This picture is of the hub of a full floating axle on a 3/4 ton Ford F-250.
+[![Full floating](../../../img/axle/float_.jpg)](../../../img/axle/float.jpg) A full-floating rear axle is like a front axle that does not have knuckles. A full floating axle has a spindle that bolts to the axle housing and a hub that rides on two bearings on the spindle. The wheel bolts to the hub. The axle shaft splined end slides into the differential and into the driven plate the bolts to the end of the hub. The driven plate is like a hub or lock-out that does not disengage. Since the shaft doesn't ride on a bearing but is suspended between the differential and the driven plate, they call it full-floating. The picture on the left shows what the hub looks like on a rear axle. This picture is of the hub of a full floating axle on a 3/4 ton Ford F-250.
 
 #### Semi-Floating Axles
 
@@ -66,7 +66,7 @@ The C-clip axles are used in all Jeeps produced today except the models with the
 
 Another variation with semi-floating axles is in the shafts. There are one piece, or flanged, shafts and two piece shafts. The one piece shafts have the bearing pressed on from the differential side and the two piece shafts have the bearing pressed on from the outside after the hub of the shaft is removed. 
 
-[![One Piece (flanged) Semi Floating](/img/axle/onesemi_.jpg)](/img/axle/onesemi.jpg) This is a picture of my '81 CJ-7 with a Commando Dana 44 rear end that has one piece or flanged shafts. The end of the shaft is visible and as you can see there is no nut or hub on the end of the shaft. The dark semi-circle on the edge is an access hole to remove the brake backing plate. [![Two Piece Semi Floating](/img/axle/twosemi_.jpg)](/img/axle/twosemi.jpg) The picture on the left is a of a '77 CJ-7 with an AMC 20 rear axle with two piece shafts. The shaft nut is protected with a small cap in this case. 
+[![One Piece (flanged) Semi Floating](../../../img/axle/onesemi_.jpg)](../../../img/axle/onesemi.jpg) This is a picture of my '81 CJ-7 with a Commando Dana 44 rear end that has one piece or flanged shafts. The end of the shaft is visible and as you can see there is no nut or hub on the end of the shaft. The dark semi-circle on the edge is an access hole to remove the brake backing plate. [![Two Piece Semi Floating](../../../img/axle/twosemi_.jpg)](../../../img/axle/twosemi.jpg) The picture on the left is a of a '77 CJ-7 with an AMC 20 rear axle with two piece shafts. The shaft nut is protected with a small cap in this case. 
 
 All of the new Jeep models use one piece flanged shafts and many of the older Jeeps have axles with two piece shafts. 
 

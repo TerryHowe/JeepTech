@@ -6,7 +6,7 @@ description: "Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only 
 ---
 # The Jeep Flat Fender Look
 
-![](/img/body/ff2.gif)
+![](../../img/body/ff2.gif)
 
 Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only looks cool, it increases tire clearance. Many of round fender Jeeps you'll find on the hard trails have adopted this look for increased tire clearance, tighter turning radius, and longer fender life. 
 
@@ -14,13 +14,13 @@ If you plan to drive your Jeep on the street, check your local laws to make sure
 
 ### Cutting The Fenders
 
-[![](/img/body/ff1_.gif)](/img/body/ff1.gif) If you are going to remove your side marker lights and keep your fender flares, you'll need to leave enough material on the fender to attach the fender flare. The top of the fender flare should be lined up with the top of the fender, which for most fender flares, will mean you'll be removing about 3/4" of material all around the edge. 
+[![](../../img/body/ff1_.gif)](../../img/body/ff1.gif) If you are going to remove your side marker lights and keep your fender flares, you'll need to leave enough material on the fender to attach the fender flare. The top of the fender flare should be lined up with the top of the fender, which for most fender flares, will mean you'll be removing about 3/4" of material all around the edge. 
 
-[![](/img/body/ff4_.gif)](/img/body/ff4.gif) Before you start cutting anything, remove the side marker lights and secure the wires out of the way. Next, put down a layer or three of masking tape over the area you plan to cut to protect the paint and to make it easier to draw a line.
+[![](../../img/body/ff4_.gif)](../../img/body/ff4.gif) Before you start cutting anything, remove the side marker lights and secure the wires out of the way. Next, put down a layer or three of masking tape over the area you plan to cut to protect the paint and to make it easier to draw a line.
 
 The front of the fender will require some imagination and what you cut will depend on personal taste. To get a true flat fender look, you'll need to remove most of the round front part of the fender. You may want to scribe a guideline along the front grill since it will be challenging to see what you are cutting when you are cutting along the grill. Mark out both sides so you get an even look.
 
-[![](/img/body/ff3_.gif)](/img/body/ff3.gif) Once you have the lines drawn, use a saber saw with a 24 tooth per inch blade or similar tool to remove the material. This should leave a very clean cut that only needs some filing to remove burrs and some touch up paint.
+[![](../../img/body/ff3_.gif)](../../img/body/ff3.gif) Once you have the lines drawn, use a saber saw with a 24 tooth per inch blade or similar tool to remove the material. This should leave a very clean cut that only needs some filing to remove burrs and some touch up paint.
 
 After everything is cut and painted, you'll want to remount your fender flares. Before you mount them, you'll need to trim them down using a utility knife with a sharp, new blade. Trim them to the new lines of your fenders and try not to cut your finger.
 

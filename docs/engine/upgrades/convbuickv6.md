@@ -6,7 +6,7 @@ description: "The Buick V6 is a great engine to swap into a short Jeep.  Early C
 ---
 # Swapping a Buick V6 Into Your Jeep
 
-![Buick 225 V6](/img/engine/updates/225.jpg)   
+![Buick 225 V6](../../../img/engine/updates/225.jpg)   
 **by Terry L. Howe**
 
 Consider the Buick V6, it is short, plentiful, and powerful. What more can you ask for in your short Jeep. The Buick is well suited for a swap into any short CJ-5, CJ-3B, CJ-3A, CJ-2A, or their miliary brethren. It isn't so powerful you'll rip your frame apart and break your axles and it is spunkier than the F-Head and L-Head engines. It is also easy to buy and buy parts for.

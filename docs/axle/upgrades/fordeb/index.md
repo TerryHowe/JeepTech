@@ -6,7 +6,7 @@ description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a 
 ---
 # Swapping Early Bronco Axles into a YJ
 
-[![Before](/img/axle/updates/fordeb/b4_.jpg)](/img/axle/updates/fordeb/b4.jpg)[![After](/img/axle/updates/fordeb/homesid_.jpg)](/img/axle/updates/fordeb/homesid.jpg)   
+[![Before](../../../../img/axle/updates/fordeb/b4_.jpg)](../../../../img/axle/updates/fordeb/b4.jpg)[![After](../../../../img/axle/updates/fordeb/homesid_.jpg)](../../../../img/axle/updates/fordeb/homesid.jpg)   
 **by Chris Waterman**
 
 Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, rip out the entire undercarriage, and replace it with parts from a 25-year old Ford? Chances are if you're reading this then you understand already, but for those of you who don't... 
@@ -16,7 +16,7 @@ Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, ri
   * The brakes are bigger all around (I've ended up with 11" discs and 11" drums). The axles are about four inches wider than on the YJ, which is nice for a little extra stability too.
   * It was a cool project. Early on in the game I discovered that I couldn't find anyone who had ever done this swap before, so from then on it became a personal challenge. Something about the risk involved appealed to the fool within me. That and I had no idea what I was really getting into. My most ambitious project before this was an on-board air system (not even in the same ballpark) and while I'm mechanically inclined this was way beyond anything I'd ever done before.
 
-[![Angle view](/img/axle/updates/fordeb/home45_.jpg)](/img/axle/updates/fordeb/home45.jpg) 
+[![Angle view](../../../../img/axle/updates/fordeb/home45_.jpg)](../../../../img/axle/updates/fordeb/home45.jpg) 
 
 ### How did it start?
 
@@ -29,4 +29,4 @@ But the seed was planted. I'd wanted to get a rear locker for a while, but didn'
 
 Some time later, Larry told me about a friend of a friend who was selling a pair of axles from an old Bronco. I went over to see them. They looked terrible! Covered in rust and some kind of green mildew, but the potential was there! The rear end had the stock 28-spline axles, and the front had a standard-cut diff and drum brakes, but the width looked good and they had 4.10 gears in them. Next thing I know, I've purchased the axles and I'm planning a spring over axle conversion.
 
-![Ford vs. Dana](/img/axle/updates/fordeb/rearcmptocj_.jpg)[Ford 9"](/axle/upgrades/fordeb/f9.md): Preparation and installation of the Ford 9" rear from an Early Bronco into a Wrangler YJ. The Ford 9" is massive compared to the stock Dana 35c. ![Dana 44](/img/axle/updates/fordeb/nodngltoc_.jpg)[Dana 44](/axle/upgrades/fordeb/d44.md): The early Bronco Dana 44 had 30 spline shafts, 8.5" ring gear, and real hubs. There are many advantages of a Dana 44 front end in a Wrangler or CJ. ![Flex](/img/axle/updates/fordeb/hutflx1_.jpg)[Spring Over](/axle/upgrades/fordeb/soa.md): Doing a spring over conversion on a Wrangler YJ for maximum articulation. The conversion is a bit more work than a normal lift, but the results are amazing. ![Lars Help](/img/axle/updates/fordeb/larshlptoc_.jpg)[Final Notes](/axle/upgrades/fordeb/conclude.md): Some final notes on the spring over axle swap and early Bronco axle swap. Important things like wheel bolt patterns must be considered.
+![Ford vs. Dana](../../../../img/axle/updates/fordeb/rearcmptocj_.jpg)[Ford 9"](/axle/upgrades/fordeb/f9.md): Preparation and installation of the Ford 9" rear from an Early Bronco into a Wrangler YJ. The Ford 9" is massive compared to the stock Dana 35c. ![Dana 44](../../../../img/axle/updates/fordeb/nodngltoc_.jpg)[Dana 44](/axle/upgrades/fordeb/d44.md): The early Bronco Dana 44 had 30 spline shafts, 8.5" ring gear, and real hubs. There are many advantages of a Dana 44 front end in a Wrangler or CJ. ![Flex](../../../../img/axle/updates/fordeb/hutflx1_.jpg)[Spring Over](/axle/upgrades/fordeb/soa.md): Doing a spring over conversion on a Wrangler YJ for maximum articulation. The conversion is a bit more work than a normal lift, but the results are amazing. ![Lars Help](../../../../img/axle/updates/fordeb/larshlptoc_.jpg)[Final Notes](/axle/upgrades/fordeb/conclude.md): Some final notes on the spring over axle swap and early Bronco axle swap. Important things like wheel bolt patterns must be considered.
