@@ -16,7 +16,7 @@ The first 25,808 MBs produced by Willys used a "slat grill". This grill was weld
 
 ## Drive Train
 
-The MA, MB, and GPW used the ["Go Devil" L-head 134 I4](/engine/factory/godevil134.md) engine, [T-84](/transmission/factory/t84.md) 3 Speed manual transmission, [Dana 18](/xfer/factory/d18.md) two speed transfer case, [Dana 25](/axle/factory/d25.md) front axle, and [Dana 23-2](/axle/factory/s23.md) rear axle.
+The MA, MB, and GPW used the ["Go Devil" L-head 134 I4](../engine/factory/godevil134.md) engine, [T-84](../transmission/factory/t84.md) 3 Speed manual transmission, [Dana 18](../xfer/factory/d18.md) two speed transfer case, [Dana 25](../axle/factory/d25.md) front axle, and [Dana 23-2](../axle/factory/s23.md) rear axle.
 
 ## Production Information
 
