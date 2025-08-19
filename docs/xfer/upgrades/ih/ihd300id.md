@@ -30,4 +30,4 @@ Jeep T-18 and Scout Dana 300
 
 ## Swaps
 
-[![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)](../../../img/xfer/upgrades/ihd300b.jpg)[Swapping in the Scout Dana 300](/xfer/upgrades/scout300.md): General information on swapping in the 1980 Scout II Dana 300 into a Jeep vehicle.
+[![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)](../../../img/xfer/upgrades/ihd300b.jpg)[Swapping in the Scout Dana 300](../scout300.md): General information on swapping in the 1980 Scout II Dana 300 into a Jeep vehicle.

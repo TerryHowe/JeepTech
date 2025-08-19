@@ -23,4 +23,4 @@ Disclaimer from Howard Pletcher: Years and Models are from memory, may not be 10
 
 ## Identification
 
-![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)[IH Dana 300](/xfer/upgrades/ih/ihd300id.md): The IH Scout II Dana 300 was only used in 1980 and it can be used to replace Jeep Dana 20 transfer cases. It has a much better low range than the Jeep Dana 20. [![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)](/xfer/upgrades/ih/ihd20id.md)The IH Dana 20 can be used to replace most Jeep Dana 20s. ![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)[IH Dana 18](/xfer/upgrades/ih/ihd18id.md): The IH Dana 18 can be used to replace most Jeep Dana 18s.
+![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)[IH Dana 300](ihd300id.md): The IH Scout II Dana 300 was only used in 1980 and it can be used to replace Jeep Dana 20 transfer cases. It has a much better low range than the Jeep Dana 20. [![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)](ihd20id.md)The IH Dana 20 can be used to replace most Jeep Dana 20s. ![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)[IH Dana 18](ihd18id.md): The IH Dana 18 can be used to replace most Jeep Dana 18s.

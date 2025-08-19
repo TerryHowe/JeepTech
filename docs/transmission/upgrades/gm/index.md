@@ -10,4 +10,4 @@ The low cost and high availability of GM transmissions makes them excellent fodd
 
 ## Identification
 
-![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)[TH350](/transmission/upgrades/gm/gmth350id.md): The TH350 is strong 3 speed automatic transmission used behind many V8 and V6 GM cars and trucks.
+![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)[TH350](gmth350id.md): The TH350 is strong 3 speed automatic transmission used behind many V8 and V6 GM cars and trucks.

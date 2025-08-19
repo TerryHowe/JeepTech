@@ -49,7 +49,7 @@ With arched springs and no shackle reversal the force of the tire being pulled t
 
 Another disadvantage of shackle reversal is the need for a drive shaft with more travel. A long travel drive shaft is required because the tire is going forwards as it goes down and backwards as it goes up. The downward and forward movements add together meaning a drive shaft used with shackle reversal must compress and extend more than a shackle forward driveshaft.
 
-[![Over extended drive shaft](/4x4web/jeep/reviews../../img/more/driveshaft-.jpg)](/4x4web/jeep/reviews../../img/more/driveshaft.jpg) If the drive shaft problem is not dealt with, parts can be broken. A drive shaft that is too short will fall apart when droop is maximized. A drive shaft that is too long can be punched through a transfer case. Long travel drive shafts can be expensive and long travel drive shafts wear quicker than short travel drive shafts.
+If the drive shaft problem is not dealt with, parts can be broken. A drive shaft that is too short will fall apart when droop is maximized. A drive shaft that is too long can be punched through a transfer case. Long travel drive shafts can be expensive and long travel drive shafts wear quicker than short travel drive shafts.
 
 With no shackle reversal and arched springs the tire goes forwards as it goes up and rearwards as it goes down. The forwards and upward motions partially cancel each other resulting in less of a length change on the driveshaft. The same cancellation effect happens as the tire goes rearwards and down. The result is a fairly normal amount of length change on the driveshaft that the stock slip joint can usually handle.
 
