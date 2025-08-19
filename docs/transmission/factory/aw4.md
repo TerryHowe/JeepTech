@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions: AW4"
+title: "AW4"
 keywords: "Jeep transmissions, AW4"
 author: "Terry Howe"
 description: "All about the Jeep AW4 4 speed transmission used in Cherokees, Comanches, and Grand Cherokees."
 ---
-# Jeep Transmissions: AW4
+# AW4
 
 The AW4 is a 4 speed automatic overdrive transmission.
 
