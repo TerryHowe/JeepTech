@@ -25,7 +25,7 @@ There is a RockWare bumper on the front and a Tomken bumper on the rear. The roc
 
 Early this year I did a power steering conversion, added York compressor, and a 26 gal Aero fuel tank. I still haven't converted the air conditioning compressor for on board air. Belts are hooked up, but the plumbing isn't.
 
-# Jeep Tech Articles
+# Jeep Articles
 
 ![new](../../img/terry/new.gif) [ RockWare Bumper Review ](/body/rockware.md): RockWare has recently introduced a new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance.
 
