@@ -4,5 +4,6 @@ ignore:
 nav:
   - "*"
   - faqs.md
+  - contributing.md
   - terry.md
   - bibliography.md
