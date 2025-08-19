@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions Conversions: NV4500"
+title: "NV4500"
 keywords: "Jeep, transmissions, conversions, NV4500, NV 4500"
 author: "Terry Howe"
 description: "Installing an NV4500 in your Jeep vehicle, the ultimate manual transmission."
 ---
-# Jeep Transmissions Conversions: NV4500
+# NV4500
 
 [![NV4500 front](../../img/transmission/upgrades/nv4500af_.jpg)](../../img/transmission/upgrades/nv4500af.jpg) [![NV4500 side](../../img/transmission/upgrades/nv4500as_.jpg)](../../img/transmission/upgrades/nv4500as.jpg) [![NV4500 back](../../img/transmission/upgrades/nv4500ab_.jpg)](../../img/transmission/upgrades/nv4500ab.jpg)
 

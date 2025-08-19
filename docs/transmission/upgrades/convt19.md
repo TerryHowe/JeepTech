@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions Conversions: T-19"
+title: "T-19"
 keywords: "Jeep, transmissions, conversions, T19, T-19"
 author: "Terry Howe"
 description: "T-19 transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
-# Jeep Transmissions Conversions: T-19
+# T-19
 
 There is overlap between the life of Borg-Warners heavy duty four speeds, but basically the T-19 followed the T-18. The T-19 was the first one to offer a synchronized first gear. Typically, this meant that first gear wasn't as low. The exception to this rule was the rare wide ratio T-19 used in IH trucks. Wide a close ratio versions of the T-19 were used in IH trucks, so most T-19s in IH trucks are not the wide ratio version. The T-19 was also used in Ford trucks.
 

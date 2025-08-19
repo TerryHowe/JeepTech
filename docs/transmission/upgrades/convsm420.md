@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions Conversions: SM420"
+title: "SM420"
 keywords: "Jeep, transmissions, conversions, SM420"
 author: "Terry Howe"
 description: "SM420 Transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
-# Jeep Transmissions Conversions: SM420
+# SM420
 
 [![Transfer case adapter, transmission, bell housing](../../img/transmission/upgrades/sm420yj/trans20_.jpg)](../../img/transmission/upgrades/sm420yj/trans20.jpg)
 
