@@ -1,10 +1,10 @@
 ---
-title: "Jeep Engine: Hurricane F-Head 134 I4"
+title: "Hurricane F-Head 134 I4"
 keywords: "Jeep, engine, Willys, Hurricane, F-Head, 134, I4"
 author: "Terry Howe"
 description: "All about the Jeep Hurricane F-Head 134 I4 engine."
 ---
-# Jeep Engine: Hurricane F-Head 134 I4
+# Hurricane F-Head 134 I4
 
 [![F-Head I4 right](../../img/engine/fheadr_.jpg)](../../img/engine/fheadr.jpg)
 

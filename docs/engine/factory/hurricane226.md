@@ -1,10 +1,10 @@
 ---
-title: "Jeep Engine: Super Hurricane L-Head 226 I6"
+title: "Super Hurricane L-Head 226 I6"
 keywords: "Jeep, engine, Willys, Super Hurricane, Hurricane, L-Head, 226, I6"
 author: "Terry Howe"
 description: "All about the Jeep Super Hurricane L-Head 226 I6 engine."
 ---
-# Jeep Engine: Super Hurricane L-Head 226 I6
+# Super Hurricane L-Head 226 I6
 
 The "Super Hurricane" 226 L-Head engine has a cast iron block and cylinder head with 4 main bearings and solid lifters. The exhaust and intake valves are in the block, not in the cylinder head. The engine was used in earlier Willys cars, but was first introduced in 1950 in Willys trucks. The Willys Pickup and Willys Wagon used the 226 from '54 until '63. There was an option 7.3:1 high altitude version available during these years.
 

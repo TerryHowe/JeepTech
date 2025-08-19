@@ -1,10 +1,10 @@
 ---
-title: "Jeep Engine: Go Devil 134"
+title: "Go Devil 134"
 keywords: "Jeep, engine, Willys, Go Devil, 134, I4"
 author: "Terry Howe"
 description: "All about the Jeep Go Devil 134 I4 engine."
 ---
-# Jeep Engine: Go Devil 134
+# Go Devil 134
 
 The power and torque of the L-Head engine is arguably the main reason Willys won the contract with the DOD to produce the MB used in WWII. It doesn't seem like much by today's standards, but it out performed the engines used in the Ford and Bantam prototypes. The MB used a different carburetor from the civilian models and currently I do not have the precise specs on it, but it is right in this same range.
 
