@@ -33,6 +33,6 @@ There is insufficient room behind the stock yoke for the U-bolt nut on the YJ fr
 
 ### Transfer Case Yokes
 
-The NP231 front output yoke and both D300 output yokes do not have sufficient room behind the stock yoke for the U-bolt nut. Check out the article [ Jeep CJ Dana 300 Transfer Case U-Bolt Upgrade](/xfer/factory/d300ub.md) for a write-up on the upgrade on the Dana 300. The front output on the NP231 uses the same parts and procedure as the Dana 300. 
+The NP231 front output yoke and both D300 output yokes do not have sufficient room behind the stock yoke for the U-bolt nut. Check out the article [ Jeep CJ Dana 300 Transfer Case U-Bolt Upgrade](/xfer/upgrades/d300ub.md) for a write-up on the upgrade on the Dana 300. The front output on the NP231 uses the same parts and procedure as the Dana 300. 
 
 [![yoke](../../img/axle/yoke05_.jpg)](../../img/axle/yoke05.jpg)
