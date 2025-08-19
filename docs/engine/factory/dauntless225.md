@@ -16,13 +16,13 @@ Since the 225 is a Buick engine, it uses the standard Buick bell housing. The st
 
 The Buick 225 uses a cast iron block and cylinder heads with mechanical lifters and 3 main bearings.
 
-Dauntless Buick 225 V6  
----  
-Bore x Stroke| 3.75" x 3.40"  
-Displacement| 225 (3.68L)  
-Compression Ratio| 9.0:1  
-Horsepower (net)| 160@4200  
-Torque (net)| 235@2400  
-Main Bearings| 3  
-Valve Configuration| OHV  
-Fuel| 2bbl
+| Dauntless Buick 225 V6 | |
+|------------------------|---|
+| Bore x Stroke | 3.75" x 3.40" |
+| Displacement | 225 (3.68L) |
+| Compression Ratio | 9.0:1 |
+| Horsepower (net) | 160@4200 |
+| Torque (net) | 235@2400 |
+| Main Bearings | 3 |
+| Valve Configuration | OHV |
+| Fuel | 2bbl |

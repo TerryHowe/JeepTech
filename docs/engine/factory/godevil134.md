@@ -12,39 +12,39 @@ The L-Head is known as the L-Head because the valves for the exhaust and intake 
 
 The L-Head engines uses a cast iron block and cylinder head with 3 main bearings and mechanical lifters. The "Go Devil" engine earned its fame in the MB use in WWII. The L-Head continued to be used in the post war CJ-2A, Willys Wagon, Willys Pickup, CJ-3A, M38, and DJ-3A. The specifications are slightly different presumably due to carburetor and compression differences between the engines. The L-Head used in '45-'50 CJ-2As and '49-'50 CJ-3As is rated the same.
 
-L-Head 134 4 Cylinder  
----  
-Bore x Stroke| 3.125" x 4.375"  
-Displacement| 134.2 ci(2.2L)  
-Compression Ratio| 6.48:1  
-Horsepower (gross)| 60@4000rpm  
-Torque (gross)| 105@2000  
-Main Bearings| 3  
-Valve Configuration| L-head  
-Fuel| Carter WO-596S 1bbl downdraft  
-  
+| L-Head 134 4 Cylinder | |
+|-----------------------|---|
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 6.48:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 105@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter WO-596S 1bbl downdraft |
+
 The L-Head used in 1947 until mid 1950 Willys Pickups and Willys Wagons has a slightly higher torque rating. It uses a different carburetor and has different compression.
 
-L-Head 134 4 Cylinder  
----  
-Bore x Stroke| 3.125" x 4.375"  
-Displacement| 134.2 ci(2.2L)  
-Compression Ratio| 6.47:1  
-Horsepower (gross)| 60@4000rpm  
-Torque (gross)| 106@2000  
-Main Bearings| 3  
-Valve Configuration| L-head  
-Fuel| Carter 626 1bbl  
-  
+| L-Head 134 4 Cylinder | |
+|-----------------------|---|
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 6.47:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 106@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter 626 1bbl |
+
 A high altitude version of the L-Head was optional with the Willys Pickup and Willys Wagon. 
 
-L-Head 134 4 Cylinder  
----  
-Bore x Stroke| 3.125" x 4.375"  
-Displacement| 134.2 ci(2.2L)  
-Compression Ratio| 7.0:1  
-Horsepower (gross)| 60@4000rpm  
-Torque (gross)| 106@2000  
-Main Bearings| 3  
-Valve Configuration| L-head  
-Fuel| Carter 626 1bbl
+| L-Head 134 4 Cylinder | |
+|-----------------------|---|
+| Bore x Stroke | 3.125" x 4.375" |
+| Displacement | 134.2 ci(2.2L) |
+| Compression Ratio | 7.0:1 |
+| Horsepower (gross) | 60@4000rpm |
+| Torque (gross) | 106@2000 |
+| Main Bearings | 3 |
+| Valve Configuration | L-head |
+| Fuel | Carter 626 1bbl |
