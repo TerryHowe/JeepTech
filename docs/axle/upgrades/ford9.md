@@ -1,10 +1,10 @@
 ---
-title: "Jeep Axle Swaps: Rear Ford 9""
+title: "Rear Ford 9""
 keywords: "Jeep, swap, Axle, Ford 9 inch"
 author: "Terry Howe"
 description: "Swap ideas to get a rear Ford 9" axle into your Jeep."
 ---
-# Jeep Axle Swaps: Rear Ford 9"
+# Rear Ford 9"
 
 The early Bronco Ford 9" is a good candidate for CJs and YJs. Spring perch movement is required.
 
