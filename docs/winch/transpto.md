@@ -1,7 +1,7 @@
 ---
 title: "Jeep Winches: Transmission PTO Adapter"
 keywords: "Jeep, winch, transmission, adapter, PTO"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Transmission PTO adapter information for Jeep winches."
 ---
 # Jeep Winches: Transmission PTO Adapter

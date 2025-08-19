@@ -1,7 +1,7 @@
 ---
 title: "Ford Dana 20"
 keywords: "Dana 20, Dana, Ford, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Parts from the Ford Dana 20 can be used in the Jeep Dana 20 to enhance the low range."
 ---
 # Ford Dana 20

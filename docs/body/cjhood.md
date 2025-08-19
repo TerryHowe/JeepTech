@@ -1,7 +1,7 @@
 ---
 title: "Hood Reinforcement"
 keywords: "CJ, Hood, YJ, Wrangler"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A simple way to reinforce your hood to prevent bending of the hood when you stand on it."
 ---
 # Hood Reinforcement

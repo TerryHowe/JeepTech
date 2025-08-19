@@ -1,7 +1,7 @@
 ---
 title: "GM NP208"
 keywords: "NP208, NP, 208, GM, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP208 was used in GM trucks."
 ---
 # GM NP208

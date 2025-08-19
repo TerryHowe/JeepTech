@@ -1,13 +1,13 @@
 ---
 title: "RockWare Bumper Review"
 keywords: "bumper, Rock, Ware, winch, mount, crawling, rock, 8274, Warn, Ramsey"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Review of the RockWare bumper with integrated winch mount.  This new bumper has an integrated winch mount for a regular Warn or Ramsey winch or for the Warn 8274.  It is short for hard core wheeling."
 ---
 # RockWare Bumper Review
 
 [![RockWare bumper in action](../img/body/rockware2_.jpg)](../img/body/rockware2.jpg)   
-**by Terry L. Howe**
+**by Terry Howe**
 
 RockWare has recently introduced a stout new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance. The short and sturdy design is everything a hard core four wheeler would want.
 

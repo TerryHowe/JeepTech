@@ -1,7 +1,7 @@
 ---
 title: "MA, MB, and GPW"
 keywords: "Jeep, Willys, Kaiser, MA, MB, GPW"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep MA and MB and Ford GPW"
 ---
 # MA, MB, and GPW

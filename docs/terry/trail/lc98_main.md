@@ -1,7 +1,7 @@
 ---
 title: "Las Cruces '98: The Chile Challenge"
 keywords: "Las Cruces, New Mexico, 4x4, four wheeling, Winter Meeting, 1998, Chile Challenge, Guardian, Wolf Run, Gauntlet, Tabasco Twister, Habenero Falls, Amatista Ledges, Jeep, Toyota, Ford, Bronco, CJ, Wrangler, Kronos"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A report from the 1998 Las Cruces Winter Meeting, aka 'Chile Challenge'.  Trail reports from the Gauntlet, Amatista Ledges, and Tabasco Twister (aka Kronos)."
 ---
 # Las Cruces '98: The Chile Challenge

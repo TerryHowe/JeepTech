@@ -1,7 +1,7 @@
 ---
 title: "Jeep Heater Blower Motor Upgrade"
 keywords: "Jeep, CJ, Wrangler, YJ, heater, motor"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Increase air flow with this simple heater motor upgrade for CJs and Wranglers"
 ---
 # Jeep Heater Blower Motor Upgrade

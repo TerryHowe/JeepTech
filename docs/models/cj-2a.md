@@ -1,7 +1,7 @@
 ---
 title: "CJ-2A"
 keywords: "Jeep, Willys, CJ-2A, flat fender, cj2a"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep CJ-2A"
 ---
 

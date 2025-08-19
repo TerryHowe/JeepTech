@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Go Devil 134"
 keywords: "Jeep, engine, Willys, Go Devil, 134, I4"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Go Devil 134 I4 engine."
 ---
 # Jeep Engine: Go Devil 134

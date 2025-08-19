@@ -1,7 +1,7 @@
 ---
 title: "Jeep Axle Swaps: Rear Ford 9""
 keywords: "Jeep, swap, Axle, Ford 9 inch"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Swap ideas to get a rear Ford 9" axle into your Jeep."
 ---
 # Jeep Axle Swaps: Rear Ford 9"

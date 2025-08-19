@@ -1,7 +1,7 @@
 ---
 title: "Installing TJ Flares on a CJ"
 keywords: "CJ, TJ, flares"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap TJ flares onto a CJ.  The swap makes more room for tires and you can still use a maker light."
 ---
 # Installing TJ Flares on a CJ

@@ -1,7 +1,7 @@
 ---
 title: "Simple CJ Frame Fix"
 keywords: "Jeep, CJ, frame repair"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A simple way to fix a common frame problem on your Jeep CJ."
 ---
 # Simple CJ Frame Fix

@@ -1,7 +1,7 @@
 ---
 title: "Big Tire, Little Lift"
 keywords: "Jeep, CJ, YJ, Wrangler, fit, tires, lift"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to fit the biggest tires possible under your Jeep with the least amount of lift"
 ---
 # Big Tire, Little Lift

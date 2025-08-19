@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions: 45RFE"
 keywords: "Jeep transmissions, 45RFE"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep 45RFE 4 speed transmission used in Grand Cherokees with the 5.9L engine."
 ---
 # Jeep Transmissions: 45RFE

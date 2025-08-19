@@ -1,7 +1,7 @@
 ---
 title: "Swapping a SM420 into a Wrangler"
 keywords: "SM420, Jeep, YJ, Wrangler, transmission, swap, AX-5"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a SM420 4 speed into your YJ."
 ---
 # Swapping a SM420 into a Wrangler

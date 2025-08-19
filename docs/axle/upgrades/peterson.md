@@ -1,7 +1,7 @@
 ---
 title: "Swapping Scout Axles into a CJ"
 keywords: "Swapping Scout Axles into a CJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about Swapping Scout Dana 44 Axles into a CJ."
 ---
 # Swapping Scout Axles into a CJ

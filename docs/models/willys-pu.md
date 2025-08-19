@@ -1,7 +1,7 @@
 ---
 title: "Willys Pickup"
 keywords: "Jeep, Willys, Pickup, Kaiser"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Willys Pickup"
 ---
 # Willys Pickup

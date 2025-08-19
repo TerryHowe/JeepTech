@@ -1,7 +1,7 @@
 ---
 title: "The Best Transmissions Conversions For Your Jeep"
 keywords: "Jeep, transmissions, conversions"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
 # The Best Transmissions Conversions For Your Jeep

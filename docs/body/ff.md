@@ -1,7 +1,7 @@
 ---
 title: "The Jeep Flat Fender Look"
 keywords: "Wrangler, CJ-7, CJ-5, Flat Fender Look"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only looks cool, it increases tire clearance.  Many of round fender Jeeps you'll find on the hard trails have adopted this look for increased tire clearance, tighter turning radius, and longer fender life."
 ---
 # The Jeep Flat Fender Look

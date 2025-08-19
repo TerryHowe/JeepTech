@@ -1,7 +1,7 @@
 ---
 title: "Jeep CJ Spare Parts Tire Carrier"
 keywords: "Jeep, tire carrier, spare parts"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A low buck, easy to build, Jeep CJ, Spare Parts Tire Carrier."
 ---
 # Jeep CJ Spare Parts Tire Carrier

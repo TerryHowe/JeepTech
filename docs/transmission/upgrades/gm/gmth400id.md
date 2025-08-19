@@ -1,7 +1,7 @@
 ---
 title: "GM TH400"
 keywords: "GM, TH400, Turbo, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM TH400 to swap into your Jeep.  The TH400 is a strong 3 speed automatic transmission."
 ---
 # GM TH400

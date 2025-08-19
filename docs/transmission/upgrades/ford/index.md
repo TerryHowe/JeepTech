@@ -1,7 +1,7 @@
 ---
 title: "Ford Transmissions"
 keywords: "T-18, T18, Borg-Warner, Ford, transmission, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford transmission to swap into your Jeep.  Ford trucks are plentiful and many use heavy duty drive train components suitable for swaps into Jeep trucks."
 ---
 # Ford Transmissions

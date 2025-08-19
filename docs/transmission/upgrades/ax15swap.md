@@ -1,7 +1,7 @@
 ---
 title: "Swapping in AX-15 for a Peugeot BA 10/5"
 keywords: "Jeep, YJ, Wrangler, AX-15, BA 10/5, swap, Peugeot, Cherokee, Comanche"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap in an AX-15 in your Peugeot BA 10/5 equipped Jeep Wrangler, Cherokee, or Comanche."
 ---
 # Swapping in AX-15 for a Peugeot BA 10/5

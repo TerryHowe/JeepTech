@@ -1,7 +1,7 @@
 ---
 title: "Forward Control Jeep (FC)"
 keywords: "Jeep, Willys, FC, FC-150, FC-170, forward control, Kaiser"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the forward control Jeeps FC-150 and FC-170"
 ---
 # Forward Control Jeep (FC)

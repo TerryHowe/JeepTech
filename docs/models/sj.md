@@ -1,7 +1,7 @@
 ---
 title: "Wagoneer/Cherokee SJ"
 keywords: "Jeep, Willys, Kaiser, AMC, Wagoneer, Cherokee, SJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Wagoneer and Cherokee SJ Jeeps"
 ---
 # Wagoneer/Cherokee SJ

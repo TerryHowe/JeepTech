@@ -1,7 +1,7 @@
 ---
 title: "Ford C-5"
 keywords: "C-5, Ford, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford C-5 to swap into your Jeep.  The C-5 is a 3 speed automatic transmission with a lock-up torque converter."
 ---
 # Ford C-5

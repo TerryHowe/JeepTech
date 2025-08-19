@@ -1,7 +1,7 @@
 ---
 title: "International Havester Transfer Cases"
 keywords: "International, Harvester, IH, transfer case, Dana 300, Dana 18, Dana 20"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find IH transfer case to swap into your Jeep.  IH trucks used many heavy duty components suitable for use in Jeep trucks."
 ---
 # International Havester Transfer Cases

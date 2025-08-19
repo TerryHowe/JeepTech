@@ -1,7 +1,7 @@
 ---
 title: "Jeep Conversions: Saturn/Warn Over Drive"
 keywords: "Jeep, Saturn, Warn, Over Drive, transfer case, transfer case, Advanced Adapters, Dana 18"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Specifications and description of the Saturn/Warn Over Drive for Jeeps with the Dana 18 transfer case."
 ---
 # Jeep Conversions: Saturn/Warn Over Drive

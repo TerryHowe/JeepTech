@@ -1,7 +1,7 @@
 ---
 title: "Easy Fix for Jeep 258 Carter BBD Idle Problem"
 keywords: "Jeep, CJ, 258, Carter, BBD, Idle, 4.2L"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Easily fix the Jeep 258 Carter BBD idle problem."
 ---
 # Easy Fix for Jeep 258 Carter BBD Idle Problem

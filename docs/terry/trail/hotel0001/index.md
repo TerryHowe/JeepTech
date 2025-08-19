@@ -1,7 +1,7 @@
 ---
 title: "Hotel Gulch Trail 7/98"
 keywords: "Hotel Gulch Trail Report"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Trail report Hotel Gulch trail Colorado."
 ---
 # Hotel Gulch Trail 7/98
@@ -11,7 +11,7 @@ description: "Trail report Hotel Gulch trail Colorado."
 [![Curtis, Connie, and Brook](../../../img/terry/trail/hotel0001/hotel0005_.jpg)](../../../img/terry/trail/hotel0001/hotel0005.jpg)  
 [![Zach driving my CJ-2A](../../../img/terry/trail/hotel0001/hotel0007_.jpg)](../../../img/terry/trail/hotel0001/hotel0007.jpg)  
 January 9, 2000  
-by Terry L. Howe  
+by Terry Howe  
   
 [![Hotel Gulch](../../../img/terry/trail/hotel0001/hotel0002_.jpg)](../../../img/terry/trail/hotel0001/hotel0002.jpg)  
 

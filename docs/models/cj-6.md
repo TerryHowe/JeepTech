@@ -1,7 +1,7 @@
 ---
 title: "CJ-6"
 keywords: "Jeep, Willys, CJ-6, cj6, Kaiser, AMC"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-6"
 ---
 

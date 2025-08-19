@@ -1,7 +1,7 @@
 ---
 title: "CJ-8"
 keywords: "Jeep, CJ-8, cj8, AMC"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-8"
 ---
 # CJ-8

@@ -1,7 +1,7 @@
 ---
 title: "Wrangler YJ"
 keywords: "Jeep, Wrangler, YJ, Chrysler, AMC"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Wrangler YJ"
 ---
 # Wrangler YJ

@@ -1,7 +1,7 @@
 ---
 title: "Jeep Cherokee XJ"
 keywords: "Jeep, AMC, Chrysler, Cherokee, XJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Cherokee XJ"
 ---
 # Jeep Cherokee XJ

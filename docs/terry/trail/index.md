@@ -1,7 +1,7 @@
 ---
 title: "Terry Howe's Trail Reports Page"
 keywords: "Jeep, trail reports, '81 CJ-7, '45 CJ-2A, Terry, Howe"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Trail Reports page of Terry Howe, the Off-Road.com Jeep Tech Editor."
 ---
 # Terry Howe's Trail Reports Page

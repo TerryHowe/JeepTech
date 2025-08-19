@@ -1,7 +1,7 @@
 ---
 title: "Rattler Replacement"
 keywords: "Rattler, closure, penrose, chaining area, Colorado"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The BLM promised a replacement for the closed Rattler and they are backing out before the trail is open.  Colorado four wheelers have been trying to work with the BLM to keep trails open in OHV areas."
 ---
 # Rattler Replacement

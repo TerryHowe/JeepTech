@@ -1,7 +1,7 @@
 ---
 title: "Wrangler YJ Travel Trick"
 keywords: "Jeep, YJ, Wrangler, shackle, travel, suspension"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to increase the suspension travel of your Jeep Wrangler YJ with some simple trimming to increase the flexibility of your shackle."
 ---
 # Wrangler YJ Travel Trick

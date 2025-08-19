@@ -1,7 +1,7 @@
 ---
 title: "CJ-7"
 keywords: "Jeep, CJ-7, cj7, AMC"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep CJ-7"
 ---
 # CJ-7

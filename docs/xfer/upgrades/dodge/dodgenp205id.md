@@ -1,7 +1,7 @@
 ---
 title: "Dodge NP205"
 keywords: "NP205, NP, 205, Dodge, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP205 used in Dodge trucks may be useful in a Jeep truck where strength is more important than crawl ratio."
 ---
 # Dodge NP205

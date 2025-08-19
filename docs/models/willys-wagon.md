@@ -1,7 +1,7 @@
 ---
 title: "Willys Wagon"
 keywords: "Jeep, Willys, Wagon"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the forward control Jeeps Wagon"
 ---
 # Willys Wagon

@@ -1,7 +1,7 @@
 ---
 title: "GM TH350"
 keywords: "GM, TH350, Turbo, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM TH350 to swap into your Jeep.  The TH350 is a strong 3 speed automatic transmission."
 ---
 # GM TH350

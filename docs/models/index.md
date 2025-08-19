@@ -1,7 +1,7 @@
 ---
 title: "Models"
 keywords: "Jeep, models"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep models manufactured over the years."
 ---
 # Models

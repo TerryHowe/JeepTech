@@ -1,7 +1,7 @@
 ---
 title: "Removing The Saturn/Warn Overdrive"
 keywords: "Jeep, Saturn, Warn, Overdrive, transfer case, transfer case, Advanced Adapters, Dana 18, Scout 80, over drive"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to remove the Saturn/Warn Overdrive from your Jeep or Scout 80 with the Dana 18 transfer case."
 ---
 # Removing The Saturn/Warn Overdrive

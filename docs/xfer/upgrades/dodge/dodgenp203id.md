@@ -1,7 +1,7 @@
 ---
 title: "Dodge NP203"
 keywords: "NP203, NP, 203, Dodge, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP203 used in Dodge trucks is not suitable for use in a Jeep truck."
 ---
 # Dodge NP203

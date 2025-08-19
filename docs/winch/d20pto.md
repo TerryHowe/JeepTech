@@ -1,7 +1,7 @@
 ---
 title: "Jeep Winches: Dana 20 PTO Adapter"
 keywords: "Jeep, winch, Dana 20, PTO"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Winch information for Jeeps."
 ---
 # Jeep Winches: Dana 20 PTO Adapter

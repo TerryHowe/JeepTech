@@ -1,7 +1,7 @@
 ---
 title: "Jeep Axle: Timken 51540"
 keywords: "Jeep Axle, Timken 51540"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Timken 51540 axle."
 ---
 # Jeep Axle: Timken 51540

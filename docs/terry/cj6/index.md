@@ -1,7 +1,7 @@
 ---
 title: "Terry Howe's '75 CJ-6"
 keywords: "Jeep, '75 CJ-6, Terry, Howe"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Terry Howe's '75 CJ-6 page."
 ---
 # Terry Howe's '75 CJ-6

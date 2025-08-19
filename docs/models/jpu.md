@@ -1,7 +1,7 @@
 ---
 title: "J-Series Pickups"
 keywords: "Jeep, Willys, Kaiser, AMC, J-Series, pickups, J200, J100, J300, J4000"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep J-series pickups"
 ---
 # J-Series Pickups

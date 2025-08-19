@@ -1,7 +1,7 @@
 ---
 title: "Product Review: Tera 3.15:1 gear set for Dana 18 and Dana 20 Transfer cases"
 keywords: "Jeep, CJ, Tera, low, gears, Dana, Spicer, 18, 20, transfer, Mepco, gearing, Dana 20, Dana 18, case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Product Review: Tera 3.15:1 gear set for Dana 18 and 20 Transfer case"
 ---
 # Product Review: Tera 3.15:1 gear set for Dana 18 and Dana 20 Transfer cases

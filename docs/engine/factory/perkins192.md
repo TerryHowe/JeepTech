@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Perkins 192"
 keywords: "Jeep, engine, Kaiser, Willys, Perkins, 192, diesel, I4"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Perkins 192 diesel  I4 engine used in the CJ-5 and CJ-6."
 ---
 # Jeep Engine: Perkins 192

@@ -1,7 +1,7 @@
 ---
 title: "Ford C-4"
 keywords: "C-4, Ford, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford C-4 to swap into your Jeep.  The C-4 is a 3 speed automatic transmission."
 ---
 # Ford C-4

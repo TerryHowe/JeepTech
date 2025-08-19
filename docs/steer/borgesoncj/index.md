@@ -1,7 +1,7 @@
 ---
 title: "Borgeson Steering Shaft for Jeep CJs"
 keywords: "steering, u-joint, steering shaft, CJ, steering column, Borgeson"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "John Nutter reviews the Borgeson steering shaft for CJs.  The steering shaft replace the stock intermediate shaft to return positive steering response."
 ---
 # Borgeson Steering Shaft for Jeep CJs

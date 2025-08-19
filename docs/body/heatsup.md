@@ -1,7 +1,7 @@
 ---
 title: "Heater Motor Upgrade Supplement"
 keywords: "CJ, heater, motor"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A supplement to the CJ heater motor upgrade for CJs.  How to enlarge the hole in the fire wall."
 ---
 # Heater Motor Upgrade Supplement

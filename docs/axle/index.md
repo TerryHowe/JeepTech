@@ -1,7 +1,7 @@
 ---
 title: "Axles"
 keywords: "Jeep, Axles, Dana, Spicer"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep axle information covering upgrades, factory options, and essential information."
 ---
 

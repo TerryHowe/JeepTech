@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions Conversions: T-19"
 keywords: "Jeep, transmissions, conversions, T19, T-19"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "T-19 transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
 # Jeep Transmissions Conversions: T-19

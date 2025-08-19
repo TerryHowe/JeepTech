@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions Conversions: NP435"
 keywords: "Jeep, transmissions, conversions, NP435"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "NP435 transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
 # Jeep Transmissions Conversions: NP435
