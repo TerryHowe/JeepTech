@@ -6,7 +6,7 @@ description: "Product Review: Tera 3.15:1 gear set for Dana 18 and 20 Transfer c
 ---
 # Product Review: Tera 3.15:1 gear set for Dana 18 and Dana 20 Transfer cases
 
-**by John Nutter** [![](../../../img/xfer/upgrades/terad20/tera1s.jpg)](../../../img/xfer/upgrades/terad20/tera1.jpg)
+**by John Nutter** [![](../../img/xfer/upgrades/terad20/tera1s.jpg)](../../img/xfer/upgrades/terad20/tera1.jpg)
 
 Low gears are very important for nearly every type of 4 wheeling and they are especially important for rock crawling. Changing the transfer case gears in a 4x4 equipped with a Dana transfer case is probably the easiest and most cost effective way to achieve a substantial gain in crawl ratio without ruining highway drivability, thanks to Tera Manufacturing.
 
@@ -14,21 +14,42 @@ Tera has a 3.15:1 low range gear set available for all Jeep, Early Bronco and Sc
 
 ## Gear Ratio Comparisons
 
-[![](../../../img/xfer/upgrades/terad20/tera7s.jpg)](../../../img/xfer/upgrades/terad20/tera7.jpg) Tera gears next to factory 2.03:1 low range Dana 20 gears. The shiny new gears are from Tera. Note how much thicker the teeth are on the Tera sliding gears compared to the originals.  [![](../../../img/xfer/upgrades/terad20/tera6s.jpg)](../../../img/xfer/upgrades/terad20/tera6.jpg)Tera gears next to 2.46:1 low range Dana 18 gears. The sliding gears are nearly the same size, but the Tera gears have much thicker teeth and a higher tooth count for greater strength
+[![](../../img/xfer/upgrades/terad20/tera7s.jpg)](../../img/xfer/upgrades/terad20/tera7.jpg) Tera gears next to factory 2.03:1 low range Dana 20 gears. The shiny new gears are from Tera. Note how much thicker the teeth are on the Tera sliding gears compared to the originals.  [![](../../img/xfer/upgrades/terad20/tera6s.jpg)](../../img/xfer/upgrades/terad20/tera6.jpg)Tera gears next to 2.46:1 low range Dana 18 gears. The sliding gears are nearly the same size, but the Tera gears have much thicker teeth and a higher tooth count for greater strength
 
-[![](../../../img/xfer/upgrades/terad20/tera8s.jpg)](../../../img/xfer/upgrades/terad20/tera8.jpg) 2.03:1 low range sliding gear laid over a Tera sliding gear. The Tera gear is significantly larger.  [![](../../../img/xfer/upgrades/terad20/tera9s.jpg)](../../../img/xfer/upgrades/terad20/tera9.jpg) The Tera gear is slightly smaller than the 2.46's gear, requiring less grinding on the case itself.
+[![](../../img/xfer/upgrades/terad20/tera8s.jpg)](../../img/xfer/upgrades/terad20/tera8.jpg) 2.03:1 low range sliding gear laid over a Tera sliding gear. The Tera gear is significantly larger.  [![](../../img/xfer/upgrades/terad20/tera9s.jpg)](../../img/xfer/upgrades/terad20/tera9.jpg) The Tera gear is slightly smaller than the 2.46's gear, requiring less grinding on the case itself.
 
-Trans. (1st gear)| Low Range Gearing| axle gears| Crawl Ratio
----|---|---|---
-T18 (6.32)| 2.03| 5.38| 69:1
-T18 (6.32)| 3.15| 3.54| 70:1
-T18 (6.32)| 3.15| 5.38| 107:1
-3 Speed (~3:1)| 2.03| 5.38| 33:1
-3 Speed (~3:1)| 3.15| 3.54| 33:1
-3 Speed (~3:1)| 2.46| 5.38| 40:1
-3 Speed (~3:1)| 3.15| 5.38| 51:1
+| Trans. (1st gear) | Low Range Gearing | axle gears | Crawl Ratio |
+|-------------------|-------------------|------------|-------------|
+| T18 (6.32)        | 2.03              | 5.38       | 69:1        |
+| T18 (6.32)        | 3.15              | 3.54       | 70:1        |
+| T18 (6.32)        | 3.15              | 5.38       | 107:1       |
+| 3 Speed (~3:1)    | 2.03              | 5.38       | 33:1        |
+| 3 Speed (~3:1)    | 3.15              | 3.54       | 33:1        |
+| 3 Speed (~3:1)    | 2.46              | 5.38       | 40:1        |
+| 3 Speed (~3:1)    | 3.15              | 5.38       | 51:1        |
 
-[Click here for more numbers](tratbl)
+More detailed table
+
+| Trans. (1st gear) | Low Range Gearing | axle gears | Crawl Ratio |
+|-------------------|-------------------|------------|-------------|
+| T18 (6.32)        | 2.03              | 3.54       | 45:1        |
+| T18 (6.32)        | 2.03              | 4.56       | 58:1        |
+| T18 (6.32)        | 2.03              | 5.38       | 69:1        |
+| T18 (6.32)        | 2.46              | 3.54       | 55:1        |
+| T18 (6.32)        | 2.46              | 4.56       | 71:1        |
+| T18 (6.32)        | 2.46              | 5.38       | 84:1        |
+| T18 (6.32)        | 3.15              | 3.54       | 70:1        |
+| T18 (6.32)        | 3.15              | 4.56       | 91:1        |
+| T18 (6.32)        | 3.15              | 5.38       | 107:1       |
+| 3 Speed (~3:1)    | 2.03              | 3.54       | 22:1        |
+| 3 Speed (~3:1)    | 2.46              | 3.54       | 26:1        |
+| 3 Speed (~3:1)    | 3.15              | 3.54       | 33:1        |
+| 3 Speed (~3:1)    | 2.03              | 4.56       | 28:1        |
+| 3 Speed (~3:1)    | 2.46              | 4.56       | 34:1        |
+| 3 Speed (~3:1)    | 3.15              | 4.56       | 43:1        |
+| 3 Speed (~3:1)    | 2.03              | 5.38       | 33:1        |
+| 3 Speed (~3:1)    | 2.46              | 5.38       | 40:1        |
+| 3 Speed (~3:1)    | 3.15              | 5.38       | 51:1        |
 
 Changing the transfer case gears from 2.03 to 3.15 has the same effect in low range as changing from 3.54 to 5.38 gears while leaving high range unchanged for good freeway driving. Changing from a 2.46: low range to 3.15 is nearly the same as going from 4.56 to 5.38 gears. Three digit crawl ratios are possible with the use of a compound low type transmission such as a T-18, the Tera 3.15 gear set and 5.38 axle gears. A very respectable 51:1 crawl ratio is the result of using the Tera 3.15 gear set in an early CJ with 5.38 gears and a three speed transmission.
 
@@ -36,9 +57,9 @@ Changing the transfer case gears from 2.03 to 3.15 has the same effect in low ra
 
 The gear set arrives in a well designed shipping box with foam inserts to protect the gears from damage during shipping. A gasket and seal kit, small parts kit, new center shaft and needle bearings, the gears themselves and very detailed instructions are contained in the box. The instructions cover the disassembly and re-assembly of the transfer case and are very thorough. No special tools are need to disassemble the transfer case, but a short length of 1-1/4" OD pipe, tubing or wooden dowel is necessary to hold the needle bearings in place during assembly.
 
-[![](../../../img/xfer/upgrades/terad20/tera3s.jpg)](../../../img/xfer/upgrades/terad20/tera3.jpg) Arrows point to the ridge I had to remove with a grinder. Your particular case may require more or less grinding.  [![](../../../img/xfer/upgrades/terad20/tera2s.jpg)](../../../img/xfer/upgrades/terad20/tera2.jpg) Tera gear slid all the way onto the rear output shaft. The arrow points to area where the ridge was ground away.
+[![](../../img/xfer/upgrades/terad20/tera3s.jpg)](../../img/xfer/upgrades/terad20/tera3.jpg) Arrows point to the ridge I had to remove with a grinder. Your particular case may require more or less grinding.  [![](../../img/xfer/upgrades/terad20/tera2s.jpg)](../../img/xfer/upgrades/terad20/tera2.jpg) Tera gear slid all the way onto the rear output shaft. The arrow points to area where the ridge was ground away.
 
-[![](../../../img/xfer/upgrades/terad20/tera5s.jpg)](../../../img/xfer/upgrades/terad20/tera5.jpg)No grinding was required on the top of the case, unlike my 2.46:1 conversion.
+[![](../../img/xfer/upgrades/terad20/tera5s.jpg)](../../img/xfer/upgrades/terad20/tera5.jpg)No grinding was required on the top of the case, unlike my 2.46:1 conversion.
 
 Assembly is similar to rebuilding the stock transfer case except that minor grinding may be required for gear clearance. I found that the Tera 3.15 gears required less grinding on the case than the 2.46 gear swap using Early Bronco and Dana 18 gears. The pictures show where the grinding was required on my particular Dana 20 transfer case. Some cases will need more grinding than mine did, some will need less. The instructions from Tera have a clear diagram showing where to grind for those that are not sure. Remember to do the grinding away from the area where you are working on the transfer case and to clean the case thoroughly before test fitting the gears.
 

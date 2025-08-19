@@ -14,7 +14,7 @@ The SM420 was only used in 2WD applications and 4WD applications with divorce mo
 
 ## SM420 Swap Stories
 
-![sm420](../../img/transmission/upgrades/sm420yj/trans20_.jpg)[ Swapping a SM420 into a YJ ](sm420yj/index.md): David Moulton puts an SM420 in his Wrangler with a 4 cylinder engine. This swap is a relatively inexpensive swap for a 4 cylinder YJ.
+![sm420](../../img/transmission/upgrades/sm420yj/trans20_.jpg)[ Swapping a SM420 into a YJ ](sm420yj/sm420yj.md): David Moulton puts an SM420 in his Wrangler with a 4 cylinder engine. This swap is a relatively inexpensive swap for a 4 cylinder YJ.
 
 ## SM420 Identification
 

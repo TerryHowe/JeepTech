@@ -138,7 +138,7 @@ To be safe, always choose one or two wire sizes larger than you need for the ind
 
 ## Gauges
 
-[ CJ Gauge & Sender Diagnostics ](gauges/index.md): Finding documentation for diagnosing CJ gauge and sending unit problems is next to impossible. John Foutz pulls together all the required information and makes it easy.
+[ CJ Gauge & Sender Diagnostics ](gauges/guages.md): Finding documentation for diagnosing CJ gauge and sending unit problems is next to impossible. John Foutz pulls together all the required information and makes it easy.
 
 ## Waterproofing
 
