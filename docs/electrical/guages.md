@@ -8,7 +8,7 @@ description: "Complete diagnostics on Jeep CJ gauges and sending units including
 
 **by John Foutz**
 
-![Speedometer](../../img/electrical/gauges/SpeedoPic2.gif)
+![Speedometer](../img/electrical/gauges/SpeedoPic2.gif)
 
 This article only covers gauges and sending units used in the AMC Jeep CJs built from '72-'86, but some of this information will be useful for owners of other Jeeps. There are some slight variations with the Jeeps built from '72-'75, but starting in '76 things remain pretty consistent for 10 years.
 

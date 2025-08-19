@@ -8,7 +8,7 @@ description: "How to convert a York air condition compressor for on-board air."
 
 **by Obi-Wan**
 
-[![(Compressor Photo)](../../img/body/york/compress2_t.gif)](../../img/body/york/compress2.gif)
+[![(Compressor Photo)](../img/body/york/compress2_t.gif)](../img/body/york/compress2.gif)
 
 One of the most time-honored rituals in four-wheeling is the airing down of your tires before you hit the trail. The problem is that you then need to refill them to street pressure before you hit the highway. The obvious solution is to carry an air tank or air compressor with you on the trail. There are several ways to do this:
 

@@ -81,7 +81,7 @@ To prevent the dreaded axle-wrap problem, I have to build some kind of anti-wrap
 
 ### Bronco or Scout II?
 
-After seeing [ Chris Waterman's Early Ford Bronco axle swap](../fordeb/index.md), I think that would be the route I'd strongly consider it for future YJ axle upgrades. It requires less work and is much less intimidating than the Scout axle swap. However, I can take solace in the following benefits over the EB axle swap:
+After seeing [ Chris Waterman's Early Ford Bronco axle swap](../Ford/index.md), I think that would be the route I'd strongly consider it for future YJ axle upgrades. It requires less work and is much less intimidating than the Scout axle swap. However, I can take solace in the following benefits over the EB axle swap:
 
   * Scout front D44s come with disc brakes and large u-joints.
   * The Scout front D44 allows a slightly sharper turning radius.
