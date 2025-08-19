@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions: AX-5"
+title: "AX-5"
 keywords: "Jeep transmissions, AX-5"
 author: "Terry Howe"
 description: "All about the Jeep AX-5 transmission."
 ---
-# Jeep Transmissions: AX-5
+# AX-5
 
 [![AX-5 side](../../img/transmission/factory/ax5s_.jpg)](../../img/transmission/factory/ax5s.jpg)
 

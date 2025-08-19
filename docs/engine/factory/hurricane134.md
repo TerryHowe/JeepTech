@@ -1,14 +1,14 @@
 ---
-title: "Jeep Engine: Hurricane F-Head 134 I4"
+title: "Willys Hurricane 134"
 keywords: "Jeep, engine, Willys, Hurricane, F-Head, 134, I4"
 author: "Terry Howe"
 description: "All about the Jeep Hurricane F-Head 134 I4 engine."
 ---
-# Jeep Engine: Hurricane F-Head 134 I4
+# Willys Hurricane 134
 
 [![F-Head I4 right](../../img/engine/fheadr_.jpg)](../../img/engine/fheadr.jpg)
 
-The F-Head 134 inline 4 was the standard engine in the CJ-5 and CJ-6 from their introduction until 1971. The F-Head was the only engine ever used in the CJ-3B. The engine also saw action in starting in the middle of 1950 in Willys Wagons and Willys Pickups. It was also used in FC trucks.
+The F-Head "Hurricane" 134 inline 4 was the standard engine in the CJ-5 and CJ-6 from their introduction until 1971. The F-Head was the only engine ever used in the CJ-3B. The engine also saw action in starting in the middle of 1950 in Willys Wagons and Willys Pickups. It was also used in FC trucks.
 
 The F-Head 134 uses a cast iron block and head with mechanical lifters and 3 main bearings. Two versions of the F-Head were available most years, the output specifications are the same for both, the compression is different. The intake valves are in the head, but the exhaust valves are in the block. The valve configuration makes the F-Head engine taller than the L-Head because the L-Head has the intake and exhaust valves in the block.
 

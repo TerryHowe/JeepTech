@@ -1,10 +1,10 @@
 ---
-title: "Jeep Engine: Dauntless Buick 225 V6"
+title: "Buick 225 V6"
 keywords: "Jeep, engine, Dauntless, Buick, 225, V6, Kaiser"
 author: "Terry Howe"
 description: "All about the Jeep Dauntless Buick 225 V6 engine."
 ---
-# Jeep Engine: Dauntless Buick 225 V6
+# Buick 225 V6
 
 The "Dauntless" 225 V6 engine was introduced in 1966 in the CJ and C101 models. The V6 configuration of the engine makes it very compact which is a big plus in tight Jeep engine compartments. Kaiser purchased the tooling to build the 225 from Buick and later, AMC sold the tooling back to Buick.
 
