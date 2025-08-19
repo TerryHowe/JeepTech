@@ -12,9 +12,9 @@ description: "Trail Reports page of Terry Howe."
 I am a member of Bighorn Four Wheel Drive Club and The Colorado Rock Hoppers as well as a member of the Colorado Association of Four Wheel Drive Clubs and United Four Wheel Drive Association. I wheel with Bighorn and The Rock Hoppers frequently and with people from the internet Jeep mailing lists. I also have some older trail reports from the East Coast when I wheeled with Long Island Off Road and Old Colony.
 
   * [Independence](https://www.outdoorwire.com/4x4/trail/report/co/penrose0001/) 1/23/00
-  * [Hotel Gulch](./hotel0001/) 1/9/00
-  * [Chinamen's Gulch](./cg9911/) 11/21/99
-  * [Longwater Gulch](./longwater9910/) 10/23/99
+  * [Hotel Gulch](./hotel0001/index.md) 1/9/00
+  * [Chinamen's Gulch](./cg9911/index.md) 11/21/99
+  * [Longwater Gulch](./longwater9910/index.md) 10/23/99
   * [Wheeler Lake](./wl9907.md) 8/7/99-8/8/99
   * [Die Trying](https://www.outdoorwire.com/4x4/trail/report/co/dt9907/) 7/31/99-8/1/99
   * [Bighorn:Wheeler Lake](./wl9908.md) 8/1/99
