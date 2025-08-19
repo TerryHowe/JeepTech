@@ -33,7 +33,7 @@ install: ## Install Python dependencies
 build: install ## Build the static documentation site
 	@echo "Building documentation..."
 	@$(PIP) install -r requirements.txt >/dev/null
-	$(MKDOCS) build --strict
+	$(MKDOCS) build --strict 2>&1
 	@echo "✓ Documentation built successfully in $(SITE_DIR)/"
 
 serve: ## Start the development server with live reload

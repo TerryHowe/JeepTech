@@ -1,10 +1,10 @@
 ---
-title: "Jeep Comanche MJ"
+title: "Comanche"
 keywords: "Jeep, AMC, Chrysler, Comanche, MJ"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Comanche MJ"
 ---
-# Jeep Comanche MJ
+# Comanche
 
 The Comanche (MJ) was produced from 1986 until 1992.
 

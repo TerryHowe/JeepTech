@@ -1,5 +1,5 @@
 ---
-title: "Dispatch Jeep DJ-6"
+title: "DJ-6"
 keywords: "Jeep, Postal, Dispatch, DJ, DJ-6, long wheelbase"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Dispatch Jeep DJ-6"
