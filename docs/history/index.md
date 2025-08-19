@@ -1,7 +1,7 @@
 ---
 title: "Willys Overland Production Figures"
 keywords: "Willys, Jeep, Kaiser, Production"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Production figures for Willys trucks from 1945 until 1961."
 ---
 # Willys Overland Production Figures

@@ -1,7 +1,7 @@
 ---
 title: "Jeep Lock Out Hubs"
 keywords: "Jeep, CJ, lock-outs, lock outs, hubs, YJ, Wrangler, axle disconnect"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Various lock-outs aka hubs used in Jeep CJs over the years.  This article covers basic hub FAQs and Spline and bolt counts.  It also covers axle disconnect system used in Wranglers."
 ---
 # Jeep Lock Out Hubs

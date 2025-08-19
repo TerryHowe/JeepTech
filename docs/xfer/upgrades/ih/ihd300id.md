@@ -1,7 +1,7 @@
 ---
 title: "IH Dana 300"
 keywords: "Dana 300, Dana, IH, International Harvester, Scout, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The International Harvester Dana 300 can be used as a bolt in replacement for the Jeep Dana 20 in most cases.  The Scout Dana 300 features a much better low range."
 ---
 # IH Dana 300

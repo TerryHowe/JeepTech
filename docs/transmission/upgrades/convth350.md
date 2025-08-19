@@ -1,7 +1,7 @@
 ---
 title: "Swapping TH350 into your Jeep"
 keywords: "TH350, Turbo, 350, Turbo Hydraulics, CJ, transmission, swap, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a Turbo 350 into your Jeep.  The TH350 is a heavy duty, three speed automatic transmission."
 ---
 # Swapping TH350 into your Jeep

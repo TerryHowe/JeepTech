@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions Conversions: T-98"
 keywords: "Jeep, transmissions, conversions, T98, T-98"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "T-98 transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
 # Jeep Transmissions Conversions: T-98

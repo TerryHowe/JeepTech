@@ -1,7 +1,7 @@
 ---
 title: "Wheeler Lake 7/98"
 keywords: "Wheeler Lake Trail Report"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Trail report Wheeler Lake trail Colorado."
 ---
 # Wheeler Lake 7/98

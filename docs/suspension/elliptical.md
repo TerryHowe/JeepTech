@@ -1,7 +1,7 @@
 ---
 title: "3/4 Elliptical Rear Suspension"
 keywords: "Jeep, YJ, Wrangler, CJ, 3/4 elliptical, suspension"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to build a 3/4 elliptical rear suspension for your YJ or CJ.  Craig Meyer's 3/4 elliptical rear suspension is simple, elegant, and inexpensive."
 ---
 # 3/4 Elliptical Rear Suspension

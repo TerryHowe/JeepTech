@@ -1,7 +1,7 @@
 ---
 title: "GM SM420"
 keywords: "GM, SM420, Saginaw, Muncie, SM, 420, transmission, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM SM420 to swap into your Jeep.  The SM420 is a heavy duty, granny low, four speed manual transmission."
 ---
 # GM SM420

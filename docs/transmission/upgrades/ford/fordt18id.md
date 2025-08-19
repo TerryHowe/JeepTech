@@ -1,7 +1,7 @@
 ---
 title: "Ford T-18"
 keywords: "T-18, T18, 13-01, Borg-Warner, Ford, transmission, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford T-18 to swap into your Jeep.  The T-18 is a heavy duty, granny low, four speed manual transmission."
 ---
 # Ford T-18

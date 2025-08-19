@@ -1,7 +1,7 @@
 ---
 title: "1997 Dakota Territory Challenge"
 keywords: "South Dakota, 1997 Dakota Territory Challenge, Trail Report"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Trail report from the 1997 Dakota Territory Challenge."
 ---
 # 1997 Dakota Territory Challenge

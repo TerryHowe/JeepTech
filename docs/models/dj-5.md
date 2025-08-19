@@ -1,7 +1,7 @@
 ---
 title: "Postal/Dispatch Jeep (DJ)"
 keywords: "Jeep, Postal, Dispatch, DJ, dj-5a, dj-3a"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Postal/Dispatch Jeep (DJ)"
 ---
 # Postal/Dispatch Jeep (DJ)

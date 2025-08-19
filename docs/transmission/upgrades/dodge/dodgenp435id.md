@@ -1,7 +1,7 @@
 ---
 title: "Dodge NP435"
 keywords: "Dodge, NP435, New Process, NP, 435, transmission, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Dodge NP435 to swap into your Jeep.  The NP435 is a heavy duty, granny low, four speed manual transmission."
 ---
 # Dodge NP435

@@ -1,7 +1,7 @@
 ---
 title: "Jeep Axle U-Bolt Yoke Upgrade"
 keywords: "Wrangler, CJ-7, CJ-5, Axle U-Bolt Yoke Upgrade, YJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A weak link in many Wrangler, CJ-7, and CJ-5 drivelines can be easily eliminated by replacing the stock strap-and-bolt U-joint retainer system with a U-bolt setup."
 ---
 # Jeep Axle U-Bolt Yoke Upgrade

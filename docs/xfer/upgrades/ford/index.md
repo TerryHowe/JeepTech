@@ -1,7 +1,7 @@
 ---
 title: "Ford Transfer Cases"
 keywords: "Dana, New Process, Borg-Warner, Ford, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford transfer case to swap into your Jeep.  Ford trucks are plentiful and many use heavy duty drive train components suitable for swaps into Jeep trucks."
 ---
 # Ford Transfer Cases

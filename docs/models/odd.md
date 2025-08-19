@@ -1,7 +1,7 @@
 ---
 title: "Jeep Oddities and Accessories"
 keywords: "Jeep, trailers, limos, M100"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for assorted Jeep oddities and trailers"
 ---
 # Jeep Oddities and Accessories

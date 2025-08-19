@@ -1,7 +1,7 @@
 ---
 title: "GM NP241"
 keywords: "NP241, NP, 241, GM, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP241 used in GM trucks may be a good transfer case to swap into your Jeep vehicle.  Parts from it also might be useful on a Jeep NP231."
 ---
 # GM NP241

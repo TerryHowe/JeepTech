@@ -1,7 +1,7 @@
 ---
 title: "Terry Howe's '81 CJ-7"
 keywords: "Jeep, '81 CJ-7, Terry, Howe"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Terry Howe's '81 CJ-7 page."
 ---
 # Terry Howe's '81 CJ-7

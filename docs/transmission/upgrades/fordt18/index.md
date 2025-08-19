@@ -1,7 +1,7 @@
 ---
 title: "Swapping a Ford T-18 into a CJ"
 keywords: "T-18, Jeep, CJ, transmission, swap, Ford, SR-4, T-4, T-5, T-176"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a Ford T-18 into your CJ.  A transmission swap may be the best upgrade you could do for your Jeep."
 ---
 # Swapping a Ford T-18 into a CJ

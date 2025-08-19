@@ -1,7 +1,7 @@
 ---
 title: "CJ-3B"
 keywords: "Jeep, Willys, CJ-3B, flat fender, cj3B"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep CJ-3B"
 ---
 

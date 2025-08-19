@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Dauntless Buick 225 V6"
 keywords: "Jeep, engine, Dauntless, Buick, 225, V6, Kaiser"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Dauntless Buick 225 V6 engine."
 ---
 # Jeep Engine: Dauntless Buick 225 V6

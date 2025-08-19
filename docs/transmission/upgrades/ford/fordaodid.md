@@ -1,7 +1,7 @@
 ---
 title: "Ford AOD"
 keywords: "AOD, Ford, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford AOD to swap into your Jeep.  The AOD is a 4 speed automatic overdrive transmission."
 ---
 # Ford AOD

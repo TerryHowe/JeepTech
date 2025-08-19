@@ -1,7 +1,7 @@
 ---
 title: "GM NP203"
 keywords: "NP203, NP, 203, GM, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP203 used in GM trucks is not worth considering for a swap in most Jeep trucks."
 ---
 # GM NP203

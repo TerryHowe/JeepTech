@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Tornado 230 I6"
 keywords: "Jeep, engine, Tornado, 230, I6"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Tornado 230 I6 engine."
 ---
 # Jeep Engine: Tornado 230 I6

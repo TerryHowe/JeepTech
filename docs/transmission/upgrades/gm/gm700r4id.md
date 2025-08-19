@@ -1,7 +1,7 @@
 ---
 title: "GM 700R4"
 keywords: "GM, 700R4, Turbo, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM 700R4 to swap into your Jeep.  The 700R4 is a strong 4 speed automatic transmission."
 ---
 # GM 700R4

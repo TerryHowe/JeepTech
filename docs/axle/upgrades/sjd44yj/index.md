@@ -1,7 +1,7 @@
 ---
 title: "Swapping an SJ Dana 44 into a Wrangler"
 keywords: "YJ, Wrangler, Dana 44, axle, swap, upgrade, Wagoneer, Cherokee, FSJ, SJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap full size Wagoneer/Cherokee Dana 44s into a Jeep Wrangler YJ.  With the right combination of parts, the SJ Dana 44 front is very easy to swap into a Wrangler."
 ---
 # Swapping an SJ Dana 44 into a Wrangler

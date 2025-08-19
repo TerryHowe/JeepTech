@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions: AX-5"
 keywords: "Jeep transmissions, AX-5"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep AX-5 transmission."
 ---
 # Jeep Transmissions: AX-5

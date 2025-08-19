@@ -1,7 +1,7 @@
 ---
 title: "Dodge TF727"
 keywords: "Dodge, TF727, Torque Flite, TF, 727, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Dodge TF727 to swap into your Jeep.  The TF727 is a heavy duty 3 speed automatic transmission."
 ---
 # Dodge TF727

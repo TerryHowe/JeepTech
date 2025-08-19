@@ -1,7 +1,7 @@
 ---
 title: "GM SM465"
 keywords: "GM, SM465, Saginaw, Muncie, SM, 465, transmission, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM SM465 to swap into your Jeep.  The SM465 is a heavy duty, granny low, four speed manual transmission."
 ---
 # GM SM465

@@ -1,7 +1,7 @@
 ---
 title: "GM Transmissions"
 keywords: "Chevy, GM, Muncie, Saginaw, SM, SM465, SM420, transmission, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a GM transmission to swap into your Jeep.  GM trucks are plentiful and many use heavy duty drive train components suitable for swaps into Jeep trucks."
 ---
 # GM Transmissions

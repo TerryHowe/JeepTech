@@ -1,7 +1,7 @@
 ---
 title: "Wheels"
 keywords: "Jeep, wheels, back spacing, bolt pattern, offset"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep wheel information covering upgrades, factory options, and essential information."
 ---
 # Wheels

@@ -1,7 +1,7 @@
 ---
 title: "Swapping a CJ T-18 into a CJ"
 keywords: "T-18, Jeep, CJ, transmission, swap, T-150"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a T-18 4 speed from a Jeep CJ into your CJ.  The swap is easy for T-150 3 speed equipped CJs."
 ---
 # Swapping a CJ T-18 into a CJ

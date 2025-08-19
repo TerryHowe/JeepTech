@@ -1,7 +1,7 @@
 ---
 title: "Ford E4OD"
 keywords: "E4OD, Ford, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford E4OD to swap into your Jeep.  The E4OD is a electronically controlled 4 speed automatic overdrive transmission."
 ---
 # Ford E4OD

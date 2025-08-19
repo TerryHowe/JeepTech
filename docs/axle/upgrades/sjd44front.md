@@ -1,7 +1,7 @@
 ---
 title: "DIY Dana 44 Front End for CJs"
 keywords: "Jeep, CJ, Dana 44, front axle, conversion"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A do it yourself Dana 44 front end for CJs.  How to cut a Wagoneer Dana 44 to fit your CJ."
 ---
 # DIY Dana 44 Front End for CJs

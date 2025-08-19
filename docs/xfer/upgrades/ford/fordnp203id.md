@@ -1,7 +1,7 @@
 ---
 title: "Ford NP203"
 keywords: "NP203, New Process, Ford, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The Ford version of the NP203 is no different than the Chevy or Dodge version as far as a Jeeper is concerned, it is a boat anchor."
 ---
 # Ford NP203

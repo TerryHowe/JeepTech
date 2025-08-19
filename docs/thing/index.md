@@ -1,7 +1,7 @@
 ---
 title: "It's a Jeep thing, you understand!"
 keywords: "Jeep, YJ, Wrangler, CJ, Cherokee, Grand Cherokee, Jeep Thing"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Tips on how to become one with your Jeep.  It's a Jeep thing, you understand."
 ---
 # It's a Jeep thing, you understand!

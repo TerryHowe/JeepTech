@@ -1,7 +1,7 @@
 ---
 title: "Jeep Applications"
 keywords: "Jeep, technical, axles, transmissions, transfer cases, transfer cases, engines, suspension, winches"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep applications"
 ---
 # Jeep Applications

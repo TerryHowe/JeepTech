@@ -1,7 +1,7 @@
 ---
 title: "Jeep CJ Gauge & Sender Diagnostics"
 keywords: "Jeep, CJ, gauge, diagnostics, fuel, voltage, oil pressure, speedometer, temperature"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Complete diagnostics on Jeep CJ gauges and sending units including speedometer, fuel, temperature, oil pressure, and voltage gauges."
 ---
 # Jeep CJ Gauge & Sender Diagnostics

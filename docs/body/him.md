@@ -1,7 +1,7 @@
 ---
 title: "Hi-Lift/Jack-all Mount"
 keywords: "Jeep, YJ, TJ, Wrangler, Hi-Lift, Jack-all, CJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to mount a Hi-Lift (aka Jack-all) jack in your Jeep Wrangler or CJ."
 ---
 # Hi-Lift/Jack-all Mount

@@ -1,7 +1,7 @@
 ---
 title: "Swapping an AMC 727 into a CJ"
 keywords: "727, TF727, Torque-Flite, CJ, transmission, swap, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap an AMC TF727 into your CJ.  The AMC 727 is a good, low buck, heavy duty, 3 speed automatic."
 ---
 # Swapping an AMC 727 into a CJ

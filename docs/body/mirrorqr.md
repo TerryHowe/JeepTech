@@ -1,7 +1,7 @@
 ---
 title: "Jeep CJ Mirror Quick Release"
 keywords: "Jeep, CJ, mirror, quick release"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "A simple, low buck mirror quick release for Jeep CJs."
 ---
 # Jeep CJ Mirror Quick Release

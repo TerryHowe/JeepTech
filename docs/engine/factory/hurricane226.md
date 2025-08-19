@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Super Hurricane L-Head 226 I6"
 keywords: "Jeep, engine, Willys, Super Hurricane, Hurricane, L-Head, 226, I6"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Super Hurricane L-Head 226 I6 engine."
 ---
 # Jeep Engine: Super Hurricane L-Head 226 I6

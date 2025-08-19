@@ -1,7 +1,7 @@
 ---
 title: "Jeep Transmissions: AW4"
 keywords: "Jeep transmissions, AW4"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep AW4 4 speed transmission used in Cherokees, Comanches, and Grand Cherokees."
 ---
 # Jeep Transmissions: AW4

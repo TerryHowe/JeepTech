@@ -1,7 +1,7 @@
 ---
 title: "Jeep Axle: AMC 20"
 keywords: "Jeep Axle, AMC 20"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep AMC 20 axle."
 ---
 # Jeep Axle: AMC 20

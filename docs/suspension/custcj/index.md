@@ -1,7 +1,7 @@
 ---
 title: "Building a Custom CJ Front Suspension"
 keywords: "Jeep, suspension, steering, high clearance, SOA, conversion, Dana 44, tie rod, knuckle"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Building a Custom CJ Front Suspension using a spring over and shackle reversal."
 ---
 # Building a Custom CJ Front Suspension

@@ -1,7 +1,7 @@
 ---
 title: "The Scout Dana 300"
 keywords: "Jeep, Scout, Dana 300, International"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Swapping a Scout Dana 300 in your Jeep or International vehicle."
 ---
 # The Scout Dana 300

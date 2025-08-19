@@ -1,7 +1,7 @@
 ---
 title: "On-Board Air for Jeeps Using the York Compressor"
 keywords: "Jeep, YJ, Wrangler, CJ, York, compressor, on-board air, compressed, air-up, air conditioning"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to convert a York air condition compressor for on-board air."
 ---
 # On-Board Air for Jeeps Using the York Compressor

@@ -1,7 +1,7 @@
 ---
 title: "Swapping T-18 into your Jeep"
 keywords: "T-18, T18, Borg-Warner, CJ, transmission, swap, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a T-18 into your Jeep.  The T-18 is a heavy duty, granny low, four speed manual transmission."
 ---
 # Swapping T-18 into your Jeep

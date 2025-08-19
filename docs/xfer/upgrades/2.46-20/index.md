@@ -1,7 +1,7 @@
 ---
 title: "2.46:1 Low Range Dana 20"
 keywords: "Jeep, transfer case, 2.46, twin stick, conversion, Dana, Dana 20, Early Bronco gears, Dana 18 gears"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to convert a Dana 20 transfer case to have a low 2.46:1 low range.  The conversion uses parts from the junk yard and works for Jeep and IH Dana 20s."
 ---
 # 2.46:1 Low Range Dana 20

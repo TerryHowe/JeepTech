@@ -1,13 +1,13 @@
 ---
 title: "Chinamen's Gulch 7/4/99"
 keywords: "Chinamen's Gulch Trail"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Trail report Chinamen's Gulch Trail in Colorado."
 ---
 # Chinamen's Gulch 7/4/99
 
 November 21, 1999  
-by Terry L. Howe  
+by Terry Howe  
   
 ![Terry gets vertical](../../../img/terry/trail/cg9911/cm10.jpg)   
 Terry tries the hard way   

@@ -1,7 +1,7 @@
 ---
 title: "Terry Howe's Jeep Page"
 keywords: "Jeep, CJ7, Terry, Howe"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep page for Terry Howe, The Jeeptech Editor."
 ---
 # Terry Howe's Jeep Page

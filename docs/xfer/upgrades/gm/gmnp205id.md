@@ -1,7 +1,7 @@
 ---
 title: "GM NP205"
 keywords: "NP205, NP, 205, GM, transfer case, transfer case"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "The NP205 used in GM trucks may be a good transfer case to swap into your Jeep vehicle.  It has a power low range, but exceptional strength."
 ---
 # GM NP205

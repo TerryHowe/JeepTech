@@ -1,7 +1,7 @@
 ---
 title: "Jeep Winches: Ramsey PTO Winch"
 keywords: "Jeep, winch, Ramsey, PTO"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Ramsey PTO Winch information for Jeeps."
 ---
 # Jeep Winches: Ramsey PTO Winch

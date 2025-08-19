@@ -1,7 +1,7 @@
 ---
 title: "IH T-18"
 keywords: "T-18, T18, 13-01, Borg-Warner, IH, International Harvester, Scout, transmission, granny"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find an IH T-18 to swap into your Jeep.  The T-18 is a heavy duty, granny low, four speed manul transmission."
 ---
 # IH T-18

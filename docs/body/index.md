@@ -1,7 +1,7 @@
 ---
 title: "Body"
 keywords: "Jeep, Body, tub, body work, tire carrier, rocker panels, seats"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep body information covering upgrades, factory options, and essential information."
 ---
 # Body

@@ -1,7 +1,7 @@
 ---
 title: "Flip Your U-Bolts"
 keywords: "Jeep, YJ, Wrangler, CJ, u-bolt, inversion, suspension"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Flip your u-bolts so they don't drag, bend, and break on rocks."
 ---
 # Flip Your U-Bolts

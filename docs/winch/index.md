@@ -1,7 +1,7 @@
 ---
 title: "Winches"
 keywords: "Jeep, Winches, winch, Warn, Ramsey, Koenig, PTO, hydraulic, electric, extraction, safety, snatch block, permanent magnet, series wound"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep axle information covering upgrades, factory options, and essential information."
 ---
 # Winches

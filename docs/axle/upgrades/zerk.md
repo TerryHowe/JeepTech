@@ -1,7 +1,7 @@
 ---
 title: "Easy Bearing Repacking"
 keywords: "Jeep, CJ, axle, bearing, pack, zerk"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Repack your bearings in seconds by adding a zerk fitting next time you have your axle bearings out."
 ---
 # Easy Bearing Repacking

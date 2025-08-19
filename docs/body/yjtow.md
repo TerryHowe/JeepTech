@@ -1,7 +1,7 @@
 ---
 title: "Tow Hook Bracket"
 keywords: "Jeep, YJ, Wrangler, tow, hooks, CJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Building a tow hook bracket for convenient tow hook mounting on CJs and YJs."
 ---
 # Tow Hook Bracket

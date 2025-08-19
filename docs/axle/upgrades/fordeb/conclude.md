@@ -1,7 +1,7 @@
 ---
 title: "Swapping an Early Bronco Front Dana 44 into a YJ"
 keywords: "YJ, Wrangler, Dana 44, axle, swap, upgrade, Ford 9, Bronco"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a Jeep Wrangler YJ."
 ---
 # Swapping an Early Bronco Front Dana 44 into a YJ

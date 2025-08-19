@@ -1,7 +1,7 @@
 ---
 title: "Jeep Winches: Koenig PTO Winch"
 keywords: "Jeep, winch, Koenig, PTO"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Koenig PTO Winch information for Jeeps."
 ---
 # Jeep Winches: Koenig PTO Winch

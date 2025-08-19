@@ -1,7 +1,7 @@
 ---
 title: "Jeep Engine: Dauntless Buick 350 V8"
 keywords: "Jeep, engine, Dauntless, Buick, 350, V8"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "All about the Jeep Dauntless Buick 350 V8 engine."
 ---
 # Jeep Engine: Dauntless Buick 350 V8

@@ -1,7 +1,7 @@
 ---
 title: "Jeep Comanche MJ"
 keywords: "Jeep, AMC, Chrysler, Comanche, MJ"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Comanche MJ"
 ---
 # Jeep Comanche MJ

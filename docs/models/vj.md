@@ -1,7 +1,7 @@
 ---
 title: "Jeepster VJ"
 keywords: "Jeepster, VJ, VJ-3, VJ-2, vj2, vj3"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeepster VJ"
 ---
 # Jeepster VJ

@@ -1,7 +1,7 @@
 ---
 title: "Drive Shafts"
 keywords: "Jeep, Drive Shafts, Dana, Spicer, u-joint, driveshaft"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Jeep drive shaft information covering upgrades, factory options, and essential information."
 ---
 # Drive Shafts

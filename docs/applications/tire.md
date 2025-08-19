@@ -1,7 +1,7 @@
 ---
 title: "Metric Tire Conversion"
 keywords: "Metric Tire Conversion Applet, JavaScript tire size calculator"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Convert P-metric tire sizes into inches (diameter and width)."
 ---
 # Metric Tire Conversion

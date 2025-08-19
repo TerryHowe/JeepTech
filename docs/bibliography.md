@@ -1,7 +1,7 @@
 ---
 title: "Jeep Tech Bibliography"
 keywords: "books, Jeep, bibliography"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Bibliography for the Jeep Tech.  All the books that matter for the Jeepers library."
 ---
 # Jeep Tech Bibliography

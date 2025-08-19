@@ -1,12 +1,12 @@
 ---
 title: "Pros and Cons of Shackle Reversal"
 keywords: "shackle, reversal, reverse, suspension, Jeep, leaf spring"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "There are many advantages and disadvantages to shackle reversal.  It has been a controversial topic since kits started appearing on the market.  Before you order a kit understand the trade-offs."
 ---
 # Pros and Cons of Shackle Reversal
 
-by John Nutter, Paul Weitlauf, and Terry L. Howe   
+by John Nutter, Paul Weitlauf, and Terry Howe   
 
 Shackle reversal is one of the most misunderstood Jeep suspension modifications. Most people do not really understand the advantages and disadvantages of shackle reversal. The pros and cons of shackle reversal should be understood before you spend your hard earned money on a kit.
 

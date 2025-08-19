@@ -1,7 +1,7 @@
 ---
 title: "Spring Over Axle for Wrangler YJ"
 keywords: "YJ, Wrangler, spring, over, axle, SOA, Dana 44, axle, swap, upgrade, Ford 9"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Doing a spring over axle swap on a Wranlger YJ.  How to swap a Dana 44 and Ford 9 inch from an early Bronco into a Jeep Wrangler YJ."
 ---
 # Spring Over Axle for Wrangler YJ

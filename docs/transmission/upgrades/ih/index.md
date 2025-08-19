@@ -1,7 +1,7 @@
 ---
 title: "International Havester Transmissions"
 keywords: "T-18, T18, 13-01, Borg-Warner, International, Harvester, IH, transmission, granny, Dana 300, T-19"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find IH transmissions to swap into your Jeep.  IH trucks used many heavy duty components suitable for use in Jeep trucks."
 ---
 # International Havester Transmissions

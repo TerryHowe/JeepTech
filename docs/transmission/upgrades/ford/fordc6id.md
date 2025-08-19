@@ -1,7 +1,7 @@
 ---
 title: "Ford C-6"
 keywords: "C-6, Ford, transmission, automatic"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to find a Ford C-6 to swap into your Jeep.  The C-6 is a 3 speed automatic transmission."
 ---
 # Ford C-6

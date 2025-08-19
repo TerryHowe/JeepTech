@@ -1,7 +1,7 @@
 ---
 title: "Jeep Winches: Koenig Dana 18 PTO Adapter"
 keywords: "Jeep, Dana 18, winch, Koenig, PTO"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "Dana 18 Koenig PTO adapter information for Jeeps."
 ---
 # Jeep Winches: Koenig Dana 18 PTO Adapter

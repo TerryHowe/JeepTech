@@ -1,7 +1,7 @@
 ---
 title: "CJ Spring Over Axle"
 keywords: "CJ, YJ, lift, springs, SOA, spring, over"
-author: "Terry L. Howe"
+author: "Terry Howe"
 description: "How to do a spring over axle conversion on your CJ.  Using YJ springs, your CJ will easily ramp over 1000."
 ---
 # CJ Spring Over Axle
