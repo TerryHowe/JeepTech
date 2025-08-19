@@ -9,7 +9,7 @@ description: "A supplement to the CJ heater motor upgrade for CJs.  How to enlar
 [![](../img/body/heatsup01_.jpg)](../img/body/heatsup01.jpg)
 **by Rod Gramlich**
 
-Rather than chopping and hacking at my firewall to upgrade the heater motor in my CJ, I used a hole saw to cut the proper size hole. This technique saved me from removing my battery tray, but I did remove the passenger seat to make the work easier. Removing the passenger seat is relatively painless. The rest of the procedure is documented in Terry Howe's [ Heater Motor Swap](/body/heater.md) article.
+Rather than chopping and hacking at my firewall to upgrade the heater motor in my CJ, I used a hole saw to cut the proper size hole. This technique saved me from removing my battery tray, but I did remove the passenger seat to make the work easier. Removing the passenger seat is relatively painless. The rest of the procedure is documented in Terry Howe's [ Heater Motor Swap](heater.md) article.
 
   1. Cut a 1"x5"x1/4" thick piece of aluminum. Aluminum is preferred because it is soft and easy to work with. It will not grab on the hole saw once the blade makes it through to the firewall steel.
   2. Mark the center of the bar and run it through with the hole saw pilot bit.

@@ -28,5 +28,5 @@ Disclaimer from Howard Pletcher: Years and Models are from memory, may not be 10
 
 ## Identification
 
-|  [IH T-18](/transmission/upgrades/ih/iht18id.md): The IH T-18 can be useful for parts or swap into a Jeep vehicle.
+|  [IH T-18](iht18id.md): The IH T-18 can be useful for parts or swap into a Jeep vehicle.
 ---|---

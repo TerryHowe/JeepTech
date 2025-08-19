@@ -273,8 +273,8 @@ Willys do Brazil was producing 2wd and 4wd Station Wagons called the Rural in 19
 
 Serial numbers are located on the identification plate located near the bottom rear of the left-hand door frame.
 
-[F-134](/jeep/willys/specs.htm#F134) \- Located on tap water pump boss at upper front end of cylinder block.
+[F-134](../jeep/willys/specs.htm#F134) \- Located on tap water pump boss at upper front end of cylinder block.
 
-[L-226](/jeep/willys/specs.htm#L226) \- Located near left front corner of cylinder block above generator.
+[L-226](../jeep/willys/specs.htm#L226) \- Located near left front corner of cylinder block above generator.
 
-[Tornado 230](/jeep/willys/specs.htm#SOHC) \- Located near lower front right corner of cylinder block.
+[Tornado 230](../jeep/willys/specs.htm#SOHC) \- Located near lower front right corner of cylinder block.

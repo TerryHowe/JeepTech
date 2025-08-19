@@ -24,4 +24,4 @@ Some people will argue that a TH400 is everything a TH350 is, but it is stronger
 ## TH350 Identification
 
 The TH350 has been used in many different GM cars and trucks. There are several variations of the TH350, the transmission you should look for depends on what engine you are using.
-![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)[ Turbo 350 ](/transmission/upgrades/gm/gmth350id.md): Finding a Turbo 350 three speed automatic transmission.
+![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)[ Turbo 350 ](gm/gmth350id.md): Finding a Turbo 350 three speed automatic transmission.

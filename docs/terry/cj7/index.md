@@ -27,13 +27,13 @@ Early this year I did a power steering conversion, added York compressor, and a 
 
 # Jeep Articles
 
-![new](../../img/terry/new.gif) [ RockWare Bumper Review ](/body/rockware.md): RockWare has recently introduced a new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance.
+![new](../../img/terry/new.gif) [ RockWare Bumper Review ](../../body/rockware.md): RockWare has recently introduced a new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance.
 
-[Flip Your U-Bolts](/suspension/ubolt.md): Are you tired yet of dragging, bending, and breaking your axle u-bolts on rocks? Well flip your u-bolts to gain ground clearance and protect them from damage.
+[Flip Your U-Bolts](../../suspension/ubolt.md): Are you tired yet of dragging, bending, and breaking your axle u-bolts on rocks? Well flip your u-bolts to gain ground clearance and protect them from damage.
 
-[E-Z Axle Bearing Repack](/axle/upgrades/zerk.md): Reduce down time, repack your bearings in seconds.
+[E-Z Axle Bearing Repack](../../axle/upgrades/zerk.md): Reduce down time, repack your bearings in seconds.
 
-[Jeep Heater Motor Upgrade](/body/heater.md): Keep out the winter cold by upgrading your heater motor to a high output one from an early 70s Chevy truck.
+[Jeep Heater Motor Upgrade](../../body/heater.md): Keep out the winter cold by upgrading your heater motor to a high output one from an early 70s Chevy truck.
 
 # Family Jeep History
 

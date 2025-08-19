@@ -39,7 +39,7 @@ The idea with double clutching is you match the RPM you need to be in second gea
   * When all else fails, get the transmission rebuilt
 
 ## 258 (4.2L) Idle Problem
-Idle problems are common for Jeeps with the 258 (4.2L) engine and the 2bbl Carter BBD carburetor. The engine is great, the carb is not. The problem seems to happen more frequently with the computer controlled Carter BBD, particularly if you four wheel. [ Fixing the problem](/engine/general/carter.md) is easy and cost nothing but a few minutes and some carb cleaner.
+Idle problems are common for Jeeps with the 258 (4.2L) engine and the 2bbl Carter BBD carburetor. The engine is great, the carb is not. The problem seems to happen more frequently with the computer controlled Carter BBD, particularly if you four wheel. [ Fixing the problem](engine/general/carter.md) is easy and cost nothing but a few minutes and some carb cleaner.
 
 ## YJ Vacuum axle disconnect
 The Wrangler YJ has a slightly troublesome four wheel drive system. The transfer case is a good one, but the vacuum motor that engages the front axle is prone to failure. The new Wrangler TJ has done away with the vacuum motor, so it does not suffer these problems.
@@ -58,7 +58,7 @@ Here are a couple common sources of clunking in the front end:
 
 ## Cold CJ
 from Jeff Wilson
-During cold winters with a soft top, things can get pretty nippy in a CJ. Upgrade the small stock heater motor with a [ Chevy heater motor](/body/heater.md)
+During cold winters with a soft top, things can get pretty nippy in a CJ. Upgrade the small stock heater motor with a [ Chevy heater motor](body/heater.md)
 
 ## CJ/YJ Doors Interchangeable
 from Jeff Wilson

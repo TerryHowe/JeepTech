@@ -33,7 +33,7 @@ U-bolts I had made at a local spring shop for cheap, and I found spring plates a
 
 ### Drive Shafts
 
-[![New (to me) Bronco shaft w/ Currie kit vs old POS YJ shaft](../../../img/axle/upgrades/fordeb/dshafts_.jpg)](../../../img/axle/upgrades/fordeb/dshafts.jpg) What about the rear driveshaft, I hear you saying? Well, the YJ's notoriously short rear driveshaft was a problem (especially with the low pinion on the Ford 9"). What I did to resolve the problem was purchase a used NP231 tailshaft shortening kit from Larry Soo. Larry didn't need the tail shaft shortening kit after he swapped a Dana 300 in his Wrangler YJ when he did a [Scout Axle Swap](/axle/upgrades/ihscout/).
+[![New (to me) Bronco shaft w/ Currie kit vs old POS YJ shaft](../../../img/axle/upgrades/fordeb/dshafts_.jpg)](../../../img/axle/upgrades/fordeb/dshafts.jpg) What about the rear driveshaft, I hear you saying? Well, the YJ's notoriously short rear driveshaft was a problem (especially with the low pinion on the Ford 9"). What I did to resolve the problem was purchase a used NP231 tailshaft shortening kit from Larry Soo. Larry didn't need the tail shaft shortening kit after he swapped a Dana 300 in his Wrangler YJ when he did a [Scout Axle Swap](../ihscout/index.md).
 
 For the rear shaft I used parts from a 80-something Monte Carlo and from a full size late 70s Bronco. This matched the hole pattern of the CV flange on the tailshaft kit. On the left is a CV joint shaft with the tailshaft eliminator kit on top and the original YJ drive shaft on the bottom.
 
