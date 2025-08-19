@@ -1,7 +1,8 @@
 ignore:
-  - terry
+  - terry/*
   - everetthowe
 nav:
   - "*"
   - faqs.md
+  - terry.md
   - bibliography.md

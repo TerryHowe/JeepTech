@@ -1,10 +1,10 @@
 ---
-title: "Terry Howe's Jeep Page"
+title: "Terry's Jeeps"
 keywords: "Jeep, CJ7, Terry, Howe"
 author: "Terry Howe"
 description: "Jeep page for Terry Howe, The Jeeptech Editor."
 ---
-# Terry Howe's Jeep Page
+# Terry's Jeeps
 
 ## 1949 CJ-3A
 ![CJ-3A](../img/terry/PXL_20220615_012422685.MP.jpg "1949 CJ-3A Durango")
