@@ -1,5 +1,5 @@
 ---
-title: "Dispatch Jeep DJ-3A"
+title: "DJ-3A"
 keywords: "Jeep, Postal, Dispatch, DJ, DJ-3A, flat fender"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Dispatch Jeep DJ-3A"

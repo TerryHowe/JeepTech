@@ -1,10 +1,10 @@
 ---
-title: "Jeep Cherokee XJ"
+title: "Cherokee XJ"
 keywords: "Jeep, AMC, Chrysler, Cherokee, XJ"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Cherokee XJ"
 ---
-# Jeep Cherokee XJ
+# Cherokee XJ
 
 The Cherokee (XJ) has been produced since 1984.
 

@@ -1,10 +1,10 @@
 ---
-title: "Jeep Grand Cherokee (ZJ)"
+title: "Grand Cherokee (ZJ)"
 keywords: "Jeep, ZJ, Grand Cherokee"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Grand Cherokee ZJ"
 ---
-# Jeep Grand Cherokee (ZJ)
+# Grand Cherokee (ZJ)
 
 [![Tom Zehrbach's ZJ in Moab](../img/tomzj_.jpg)](../img/tomzj.jpg)
 

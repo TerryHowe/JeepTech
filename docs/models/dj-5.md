@@ -1,5 +1,5 @@
 ---
-title: "Dispatch Jeep DJ-5"
+title: "DJ-5"
 keywords: "Jeep, Postal, Dispatch, DJ, DJ-5, AM General"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeep Dispatch Jeep DJ-5"
