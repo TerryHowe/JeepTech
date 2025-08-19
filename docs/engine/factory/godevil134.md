@@ -36,7 +36,7 @@ The L-Head used in 1947 until mid 1950 Willys Pickups and Willys Wagons has a sl
 | Valve Configuration | L-head          |
 | Fuel                | Carter 626 1bbl |
 
-A high altitude version of the L-Head was optional with the Willys Pickup and Willys Wagon. 
+A high altitude version of the L-Head was optional with the Willys Pickup and Willys Wagon.
 
 | Attribute           | Specification   |
 |---------------------|-----------------|

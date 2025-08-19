@@ -6,15 +6,15 @@ description: "Jeep engine information covering upgrades, factory options, and es
 ---
 # Engines
 
-Jeep engine information covering upgrades, factory options, and essential information. 
+Jeep engine information covering upgrades, factory options, and essential information.
 
 ## Factory Engines
 
-The factory engine specifications and technical information can be found in the [factory](factory/) subdirectory. 
+The factory engine specifications and technical information can be found in the [factory](factory/) subdirectory.
 
 ## Engine Upgrades and Conversions
 
-For information about engine upgrades, swaps, and conversions, visit the [upgrades section](upgrades/). 
+For information about engine upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
 
 ### Available Engine Information
 

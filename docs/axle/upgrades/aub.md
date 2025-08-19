@@ -6,33 +6,33 @@ description: "A weak link in many Wrangler, CJ-7, and CJ-5 drivelines can be eas
 ---
 # Jeep Axle U-Bolt Yoke Upgrade
 
-**by Dan Barbieri**   
-[![yoke](../../img/axle/yoke01_.jpg)](../../img/axle/yoke01.jpg) 
+**by Dan Barbieri**
+[![yoke](../../img/axle/yoke01_.jpg)](../../img/axle/yoke01.jpg)
 
-A weak link in many Wrangler, CJ-7, and CJ-5 drivelines can be easily eliminated by replacing the stock strap-and-bolt U-joint retainer system with a U-bolt setup. Often this upgrade can be performed by simply drilling out the existing threaded holes in the yoke to accept the new U-bolt. In cases where the yoke has insufficient room behind the yoke for the U-bolt nut, you can replace it with one designed for use with U-bolts. Please note that this is considerably more challenging, as it requires precise torque settings to properly set pinion bearing preload. 
+A weak link in many Wrangler, CJ-7, and CJ-5 drivelines can be easily eliminated by replacing the stock strap-and-bolt U-joint retainer system with a U-bolt setup. Often this upgrade can be performed by simply drilling out the existing threaded holes in the yoke to accept the new U-bolt. In cases where the yoke has insufficient room behind the yoke for the U-bolt nut, you can replace it with one designed for use with U-bolts. Please note that this is considerably more challenging, as it requires precise torque settings to properly set pinion bearing preload.
 
-This article only covers the specifics for '80-'86 CJs and '87-'95 Wranglers. Earlier Jeeps typically use U-bolt yokes while later Jeeps typically use straps. This upgrade will also work for Cherokees and Grand Cherokees, but you must determine if you have a Dana 35c, Dana 44, or Chrysler rear end. 
+This article only covers the specifics for '80-'86 CJs and '87-'95 Wranglers. Earlier Jeeps typically use U-bolt yokes while later Jeeps typically use straps. This upgrade will also work for Cherokees and Grand Cherokees, but you must determine if you have a Dana 35c, Dana 44, or Chrysler rear end.
 
 ### Dana 35C Rear Axle
 
-Two pinion yokes were used on the YJ's D35C rear axle. Through 1993, Spicer part #2-4-6901-1X was used. This yoke uses 1310 series U-joints measuring 3 7/32" cap-to-cap. In 1994 and 1995, a larger pinion yoke part #2-4-7631-1 was employed which uses 1330 series U-joints measuring 3 5/8" cap-to-cap. Both of these yokes can be upgraded to a U- bolt setup by drilling out the existing holes with a 5/16" drill bit and installing U-bolt part #2-94-58X. You may find that a 21/64" drill bit is necessary, but the 5/16" did the trick for me. 
+Two pinion yokes were used on the YJ's D35C rear axle. Through 1993, Spicer part #2-4-6901-1X was used. This yoke uses 1310 series U-joints measuring 3 7/32" cap-to-cap. In 1994 and 1995, a larger pinion yoke part #2-4-7631-1 was employed which uses 1330 series U-joints measuring 3 5/8" cap-to-cap. Both of these yokes can be upgraded to a U- bolt setup by drilling out the existing holes with a 5/16" drill bit and installing U-bolt part #2-94-58X. You may find that a 21/64" drill bit is necessary, but the 5/16" did the trick for me.
 
 [![yoke before](../../img/axle/yoke03_.jpg)](../../img/axle/yoke03.jpg)Before [![yoke after](../../img/axle/yoke02_.jpg)](../../img/axle/yoke02.jpg)After
 
 ### AMC Model 20 Rear Axle
 
-The same trick can be performed on the AMC 20 pinion yoke part #2-4-3741-1. This yoke may be drilled out to accept U-bolt part #2-94-58X. 
+The same trick can be performed on the AMC 20 pinion yoke part #2-4-3741-1. This yoke may be drilled out to accept U-bolt part #2-94-58X.
 
 ### Dana 30 Front Axle (CJ)
 
-Due to the number of different yokes installed on the D30, it's challenging to state which yokes accept which type of conversion. Generally speaking, pre- and early-80s CJs already have U-bolt setups, while later Jeeps used strap-and-bolt connections. For conversion from strap-and-bolt to U-bolts, you'll have to eyeball it. If there is room for a nut behind the yoke, you can drill it. If not, you probably need to replace the yoke with Spicer part #2-4-8091X and use U-bolt part #2-94-28X. 
+Due to the number of different yokes installed on the D30, it's challenging to state which yokes accept which type of conversion. Generally speaking, pre- and early-80s CJs already have U-bolt setups, while later Jeeps used strap-and-bolt connections. For conversion from strap-and-bolt to U-bolts, you'll have to eyeball it. If there is room for a nut behind the yoke, you can drill it. If not, you probably need to replace the yoke with Spicer part #2-4-8091X and use U-bolt part #2-94-28X.
 
 ### Dana 30 Front Axle (YJ)
 
-There is insufficient room behind the stock yoke for the U-bolt nut on the YJ front Dana 30 pinion yoke. The entire yoke must be replaced with Spicer yoke #2-4-8091X and U-bolt kit #2-94-28X to upgrade to a U-bolt connection. 
+There is insufficient room behind the stock yoke for the U-bolt nut on the YJ front Dana 30 pinion yoke. The entire yoke must be replaced with Spicer yoke #2-4-8091X and U-bolt kit #2-94-28X to upgrade to a U-bolt connection.
 
 ### Transfer Case Yokes
 
-The NP231 front output yoke and both D300 output yokes do not have sufficient room behind the stock yoke for the U-bolt nut. Check out the article [ Jeep CJ Dana 300 Transfer Case U-Bolt Upgrade](/xfer/upgrades/d300ub.md) for a write-up on the upgrade on the Dana 300. The front output on the NP231 uses the same parts and procedure as the Dana 300. 
+The NP231 front output yoke and both D300 output yokes do not have sufficient room behind the stock yoke for the U-bolt nut. Check out the article [ Jeep CJ Dana 300 Transfer Case U-Bolt Upgrade](/xfer/upgrades/d300ub.md) for a write-up on the upgrade on the Dana 300. The front output on the NP231 uses the same parts and procedure as the Dana 300.
 
 [![yoke](../../img/axle/yoke05_.jpg)](../../img/axle/yoke05.jpg)

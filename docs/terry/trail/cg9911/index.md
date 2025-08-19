@@ -6,14 +6,14 @@ description: "Trail report Chinamen's Gulch Trail in Colorado."
 ---
 # Chinamen's Gulch 7/4/99
 
-November 21, 1999  
-by Terry Howe  
-  
-![Terry gets vertical](../../../img/terry/trail/cg9911/cm10.jpg)   
-Terry tries the hard way   
-  
-![Kevin working through the first ostacle](../../../img/terry/trail/cg9911/cm9.jpg)   
-![Bill a bit off camber](../../../img/terry/trail/cg9911/cm8.jpg)   
+November 21, 1999
+by Terry Howe
+
+![Terry gets vertical](../../../img/terry/trail/cg9911/cm10.jpg)
+Terry tries the hard way
+
+![Kevin working through the first ostacle](../../../img/terry/trail/cg9911/cm9.jpg)
+![Bill a bit off camber](../../../img/terry/trail/cg9911/cm8.jpg)
 ![Sean on whale rock](../../../img/terry/trail/cg9911/ch16.jpg)
 
 John Heskett and Kevin Whitt from Bighorn and Sean Lazelle and Scott Riebel from the Rock Hoppers met me at 8am at Red Rocks Shopping Center for the Chinamen's Gulch trip. We headed West and met Bill Graham out in Johnsons Village. As soon as we were ready, we hit the trail.

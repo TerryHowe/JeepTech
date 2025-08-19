@@ -15,7 +15,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ### Validation Steps
 - ALWAYS test the website after making changes by running the local server
-- Test key pages: `curl -s http://localhost:8000/` (main page) 
+- Test key pages: `curl -s http://localhost:8000/` (main page)
 - Test Java applets: `curl -s http://localhost:8000/applications/speedometer.md`
 - Validate Markdown structure with: `find . -name "*.md" -exec echo "Testing {}" \; -exec curl -s http://localhost:8000/{} > /dev/null \;`
 - ALWAYS run a complete end-to-end test by navigating through the site structure
@@ -42,7 +42,7 @@ Always reference these instructions first and fallback to search or bash command
 ```
 ├── applications/          # Special Jeep applications
 ├── axle/                  # Axle technical content
-├── engine/                # Engine technical content  
+├── engine/                # Engine technical content
 ├── trans/                 # Transmission technical content
 ├── xfer/                  # Transfer case technical content
 ├── electrical/            # Electrical system content
@@ -56,7 +56,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ### Available Applets
 - **speedometer.md**: Speedometer gear calculator
-- **tire.md**: Metric tire conversion calculator  
+- **tire.md**: Metric tire conversion calculator
 - **gear.md**: Gear and tire analyzer
 
 ### Important Notes About Java Applets
@@ -98,7 +98,7 @@ Always reference these instructions first and fallback to search or bash command
 - Include proper frontmatter with title, keywords, author, and description
 - Test with local server before committing
 
-### Modifying Existing Pages  
+### Modifying Existing Pages
 - ALWAYS preserve existing Markdown structure and frontmatter
 - Test pages load correctly after changes
 - Verify internal links still work
@@ -112,7 +112,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ## Time Expectations
 - **Website startup**: < 1 second - NEVER CANCEL
-- **Page loading**: < 0.01 seconds per page - NEVER CANCEL  
+- **Page loading**: < 0.01 seconds per page - NEVER CANCEL
 - **Full site validation**: < 5 seconds for all 305 Markdown files - NEVER CANCEL
 - **Content discovery**: < 0.004 seconds to find all Markdown files - NEVER CANCEL
 
@@ -125,7 +125,7 @@ Always reference these instructions first and fallback to search or bash command
 
 ## NEVER CANCEL Commands
 - HTTP server startup: Completes in < 1 second
-- File discovery operations: Complete in < 0.01 seconds  
+- File discovery operations: Complete in < 0.01 seconds
 - Content validation: Completes in < 5 seconds
 - All operations in this repository are extremely fast - there are no long-running builds or tests
 
@@ -136,7 +136,7 @@ Always reference these instructions first and fallback to search or bash command
 # Test main page (should return "Jeep Tech Pages")
 curl -s http://localhost:8000/ | grep "Jeep Tech Pages"
 
-# Test Java applet page (should return "Speedometer Gear Applet")  
+# Test Java applet page (should return "Speedometer Gear Applet")
 curl -s http://localhost:8000/applications/speedometer.md | grep "Speedometer Gear Applet"
 
 # Test technical content (should return "Jeep Tech: Axles")

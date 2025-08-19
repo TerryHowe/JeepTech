@@ -8,25 +8,25 @@ description: "Description, drive train specifications, and production informatio
 
 The Willys Pickup was produced from 1947 through 1965. It was introduced in 1947 with 2WD and 4WD models. There were only a few styling changes made to the pickup over the years. In 1950 a new front grill was introduced mid year. Another front grill change occurred in 1954. In 1960, the two piece windshield was replaced with a one piece windshield.
 
-The Willys Pickup was offered in various configurations over the year including chassis only, chassis and cab, pickup, and platform stake bed. 
+The Willys Pickup was offered in various configurations over the year including chassis only, chassis and cab, pickup, and platform stake bed.
 
 ## Drive Train
 
 ### Engine
 
-The Willys Pickup was introduced with the ["Go Devil" L-Head 134 I4](/engine/factory/godevil134.md) engine. In 1950 [ "Hurricane" F-Head 134 I4](/engine/factory/hurricane134.md) replaced the L-Head engine. In 1954 the ["Super Hurricane" L-Head 226 I6](/engine/factory/hurricane226.md) was offered. In 1955 the F-Head became optional and the 226 became standard. In 1957, the F-Head was not offered in the Willys pickup, but it became available again in 1959. Revisions were made to the 226 in 1959 that gave it slightly lower HP, but HP and torque peaks were at lower RPM. In 1963, the ["Tornado" 230 I6](/engine/factory/tornado230.md) introduced in the pickup and the F-Head was dropped again. In 1964, a low HP version of the 230 was available. In the final year, only the high HP version of the 230 was available. 
+The Willys Pickup was introduced with the ["Go Devil" L-Head 134 I4](/engine/factory/godevil134.md) engine. In 1950 [ "Hurricane" F-Head 134 I4](/engine/factory/hurricane134.md) replaced the L-Head engine. In 1954 the ["Super Hurricane" L-Head 226 I6](/engine/factory/hurricane226.md) was offered. In 1955 the F-Head became optional and the 226 became standard. In 1957, the F-Head was not offered in the Willys pickup, but it became available again in 1959. Revisions were made to the 226 in 1959 that gave it slightly lower HP, but HP and torque peaks were at lower RPM. In 1963, the ["Tornado" 230 I6](/engine/factory/tornado230.md) introduced in the pickup and the F-Head was dropped again. In 1964, a low HP version of the 230 was available. In the final year, only the high HP version of the 230 was available.
 
 ### Transmission
 
-The Willys Pickup was equipped with a column shift [T-90](/transmission/factory/t90.md) 3 speed which was replaced with a floor shift version of this transmission in mid year 1949\. 
+The Willys Pickup was equipped with a column shift [T-90](/transmission/factory/t90.md) 3 speed which was replaced with a floor shift version of this transmission in mid year 1949\.
 
 ### Transfer Case
 
-The 26 tooth small hole [Dana/Spicer 18](/xfer/factory/d18.md) transfer case was used. 
+The 26 tooth small hole [Dana/Spicer 18](/xfer/factory/d18.md) transfer case was used.
 
 ### Axles
 
-The front axle used in Willys Pickups was the [Dana/Spicer 25](/axle/factory/d25.md) with drum brakes. The rear axle was the semi-floating [Timken 51510](/axle/factory/timken.md). The standard ratio with the I4s was 5.38 with 6.17 and 4.88 optional. The standard ratio with the I6s was 4.88 with 5.38 optional. 
+The front axle used in Willys Pickups was the [Dana/Spicer 25](/axle/factory/d25.md) with drum brakes. The rear axle was the semi-floating [Timken 51510](/axle/factory/timken.md). The standard ratio with the I4s was 5.38 with 6.17 and 4.88 optional. The standard ratio with the I6s was 4.88 with 5.38 optional.
 
 ## Production Information
 

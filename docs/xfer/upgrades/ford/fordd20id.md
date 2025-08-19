@@ -6,7 +6,7 @@ description: "Parts from the Ford Dana 20 can be used in the Jeep Dana 20 to enh
 ---
 # Ford Dana 20
 
-[![Early Bronco Dana 20 front](../../../img/xfer/upgrades/ford/br20b_.jpg)](../../../img/xfer/upgrades/ford/br20b.jpg) [![Early Bronco Dana 20 rear](../../../img/xfer/upgrades/ford/br20a_.jpg)](../../../img/xfer/upgrades/ford/br20a.jpg) 
+[![Early Bronco Dana 20 front](../../../img/xfer/upgrades/ford/br20b_.jpg)](../../../img/xfer/upgrades/ford/br20b.jpg) [![Early Bronco Dana 20 rear](../../../img/xfer/upgrades/ford/br20a_.jpg)](../../../img/xfer/upgrades/ford/br20a.jpg)
 
 The Ford Dana 20 transfer case is gear driven with a cast iron case. It was used in early Broncos from 1966 until 1977 and it was used in some Ford pickups. It is drivers drop and it was available with a couple different low range ratios all around 2.4:1.
 

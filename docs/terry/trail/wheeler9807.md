@@ -6,8 +6,8 @@ description: "Trail report Wheeler Lake trail Colorado."
 ---
 # Wheeler Lake 7/98
 
-July 19, 1998  
-by Dave Vest (Mud Dancer)  
+July 19, 1998
+by Dave Vest (Mud Dancer)
 
 Since Jacob was unable to lead his trip to Wheeler, I volunteered to lead in his place. I, Curtis, Paul, Brian, and Joe (a guest driving a Toyota 4Runner) departed Red Rocks at 8:04 a.m. and headed for Fairplay. Upon arrival in Fairplay, we gassed up and met Ray, Lea, and kids. We then headed towards Hooser pass and the trail head. We met (Terry and Diane) and (Bill and Krista) at the trail head. We aired down, dialed in, and headed up the trail.
 

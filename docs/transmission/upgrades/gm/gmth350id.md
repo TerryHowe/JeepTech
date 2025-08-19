@@ -6,7 +6,7 @@ description: "How to find a GM TH350 to swap into your Jeep.  The TH350 is a str
 ---
 # GM TH350
 
-[![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)](../../../img/transmission/upgrades/th350/th3503.jpg) 
+[![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)](../../../img/transmission/upgrades/th350/th3503.jpg)
 
 The TH350 is a strong 3 speed automatic transmission. One of the advantages of the TH350 is it is very short for a strong automatic. It is about the only automatic transmission that will fit in a CJ-5 or shorter Jeep since the case itself with no adapter only measures 21 3/4". If wheel base is not such an issue, the TH400 is significantly strong, but it does waste more power. The 700R4 is about the same length as the TH400 and it has an overdrive.
 

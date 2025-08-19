@@ -17,19 +17,19 @@ Many engine options have been offered for the CJ-5 over it's long production run
 
 ### Transmission
 
-The [T-90](/transmission/factory/t90.md) 3 speed was the standard transmission for the CJ-5 for many years. It's close brother, the [T-86](/transmission/factory/t86.md) 3 speed was used with CJ-5s with the Dauntless V6. The [T-14](/transmission/factory/t14.md) replaced the T-90 and later the beefy [ T-15](/transmission/factory/t15.md) was used with CJ-5 with the 304. The [ T-98](/transmission/factory/t18.md) was an optional 4 speed for the CJ-5 until 1971 when the [T-18](/transmission/factory/t18.md) became the optional 4 speed. In 1976, the [T-150](/transmission/factory/t150.md) became the 3 speed for the CJ-5. In 1980, the heavy duty 3 speeds and 4 speeds were no longer offered. The lighter duty [SR-4](/transmission/factory/t4.md), [T-4](/transmission/factory/t4.md), [T-176](/transmission/factory/t176.md), and [T-5](/transmission/factory/t5.md) were used. The CJ-5 never came with an automatic from the factory. 
+The [T-90](/transmission/factory/t90.md) 3 speed was the standard transmission for the CJ-5 for many years. It's close brother, the [T-86](/transmission/factory/t86.md) 3 speed was used with CJ-5s with the Dauntless V6. The [T-14](/transmission/factory/t14.md) replaced the T-90 and later the beefy [ T-15](/transmission/factory/t15.md) was used with CJ-5 with the 304. The [ T-98](/transmission/factory/t18.md) was an optional 4 speed for the CJ-5 until 1971 when the [T-18](/transmission/factory/t18.md) became the optional 4 speed. In 1976, the [T-150](/transmission/factory/t150.md) became the 3 speed for the CJ-5. In 1980, the heavy duty 3 speeds and 4 speeds were no longer offered. The lighter duty [SR-4](/transmission/factory/t4.md), [T-4](/transmission/factory/t4.md), [T-176](/transmission/factory/t176.md), and [T-5](/transmission/factory/t5.md) were used. The CJ-5 never came with an automatic from the factory.
 
 ### Transfer Case
 
-The CJ-5 used the [Dana 18](/xfer/factory/d18.md) from '55 until '71. In '72 they switched to the [Dana 20](/xfer/factory/d20.md). From '80-'83 they used the [Dana 300](/xfer/factory/d300.md). 
+The CJ-5 used the [Dana 18](/xfer/factory/d18.md) from '55 until '71. In '72 they switched to the [Dana 20](/xfer/factory/d20.md). From '80-'83 they used the [Dana 300](/xfer/factory/d300.md).
 
 ### Front Axle
 
-The CJ-5 was first offered with the [Dana 25](/axle/factory/d25.md) until 1965. The [Dana 27](/axle/factory/d27.md) replaced it and was used until 1971. From 1972-1983, the [Dana 30](/axle/factory/d30.md) was used in the CJ-5. 
+The CJ-5 was first offered with the [Dana 25](/axle/factory/d25.md) until 1965. The [Dana 27](/axle/factory/d27.md) replaced it and was used until 1971. From 1972-1983, the [Dana 30](/axle/factory/d30.md) was used in the CJ-5.
 
 ### Rear Axle
 
-The [Dana 44](/axle/factory/d44.md) with two piece shafts was used in the CJ-5 until mid-1970. A [Dana 44](/axle/factory/d44.md) with one piece shafts replaced it after that until 1975. After 1976 the [AMC 20](/axle/factory/amc20.md) was used. 
+The [Dana 44](/axle/factory/d44.md) with two piece shafts was used in the CJ-5 until mid-1970. A [Dana 44](/axle/factory/d44.md) with one piece shafts replaced it after that until 1975. After 1976 the [AMC 20](/axle/factory/amc20.md) was used.
 
 ## Production Information
 

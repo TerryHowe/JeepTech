@@ -6,11 +6,11 @@ description: "Jeep tire information covering upgrades, factory options, and esse
 ---
 # Tires
 
-Jeep tire information covering upgrades, factory options, and essential information. 
+Jeep tire information covering upgrades, factory options, and essential information.
 
 ## Upgrades
 
-![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.md): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize. 
+![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.md): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize.
 
 
 ### What Fits and What Hits*
@@ -44,14 +44,14 @@ _Cherokee (XJ & ZJ)*_
 | 32" - 33"            | A 5" or larger lift is required.                                              | N/A                           | Some trimming is required                                                           |
 | 33"-35"              | A 6" or larger suspension lift is required                                    | N/A                           | Serious trimming may be required                                                    |
 
-* IMPORTANT NOTE:  
+* IMPORTANT NOTE:
 _The above tables are_ _only guidelines_ _reflecting popular trends or upgrade combinations. Other combinations are possible, for example: I know of a YJ owner who uses a 3" body lift and a set of 1.5" lift Con-Ferr extended shackles to clear 33" tires. This is not what I would run or recommend - but it works for him. Your mileage may vary and we do not claim that the above is the definitive word of god on the subject of tire clearance. Some other combinations may work fine or on some vehicles the guidelines shown above may not apply._
 
 * * *
 
 ### Tradeoffs - Tire Size (diameter)
 
-As with anything in life there are tradeoffs when it comes to selecting tires for your vehicle. Increasing tires size can greatly increase the off-road capabilities of your vehicle. Larger tires provide increases in total ground clearance, an increased traction footprint & flotation, make climbing obstacles easier, can be easier on the environment and just plain look better on your Jeep. However all of these benefits have a price. 
+As with anything in life there are tradeoffs when it comes to selecting tires for your vehicle. Increasing tires size can greatly increase the off-road capabilities of your vehicle. Larger tires provide increases in total ground clearance, an increased traction footprint & flotation, make climbing obstacles easier, can be easier on the environment and just plain look better on your Jeep. However all of these benefits have a price.
 
 Larger tires are more expensive in general and may require expensive suspension upgrades for proper clearance, especially on the trail.
 

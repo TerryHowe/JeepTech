@@ -6,7 +6,7 @@ description: "Flip your u-bolts so they don't drag, bend, and break on rocks."
 ---
 # Flip Your U-Bolts
 
-[![u-bolts assembled](../img/suspension/ubolt4_.jpg)](../img/suspension/ubolt4.jpg) 
+[![u-bolts assembled](../img/suspension/ubolt4_.jpg)](../img/suspension/ubolt4.jpg)
 
 Are you tired yet of dragging, bending, and breaking your axle u-bolts on rocks? Well flip your u-bolts to gain ground clearance and protect them from damage. I was able to do the u-bolt inversion for around $50 and it only took me a couple of hours.
 
@@ -24,6 +24,6 @@ If the idea of welding shock mounts does not appeal to you, there is one other o
 
 After the shock mount was welded on and painted, I put the Jeep on jack stands, removed the old u-bolts, put the plate on top of the axle tube, and bolted on the square u-bolts with the nuts on the top.
 
-I first saw this u-bolt inversion done on a CJ-7 owned by Rick Borios. 
+I first saw this u-bolt inversion done on a CJ-7 owned by Rick Borios.
 
 [![u-bolts installed](../img/suspension/ubolt5_.jpg)](../img/suspension/ubolt5.jpg)

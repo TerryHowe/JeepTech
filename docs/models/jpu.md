@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # J-Series Pickups
 
-[![J-200 Pickup](../img/j200_.jpg)](../img/j200.jpg) 
+[![J-200 Pickup](../img/j200_.jpg)](../img/j200.jpg)
 
 The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have used various model designation schemes over the years. All of the models are what we would consider a full size pickup today. Early models were know as Gladiator pickups.
 
@@ -59,7 +59,7 @@ In 1974 the model designations were changed to only reflect vehicle load capacit
 
 ### Engine
 
-Several engine options have been used in the J-Series pickups over the years including: 
+Several engine options have been used in the J-Series pickups over the years including:
 
   * Kaiser [230](/engine/factory/tornado230.md) OHC I6 "Tornado"(63-66)
   * AMC [327](/engine/factory/amc327.md) V8 "Vigilante" (65-66)
@@ -67,13 +67,13 @@ Several engine options have been used in the J-Series pickups over the years inc
   * Buick [350](/engine/factory/dauntless350.md) V8 "Dauntless" (67-70)
   * AMC [258](/engine/factory/amc258.md) I6 (71-end of J truck production)
   * AMC [304](/engine/factory/amc304.md) V8 (71-73)
-  * AMC [360](/engine/factory/amc360.md) V8 2 bbl. (71-end) 
+  * AMC [360](/engine/factory/amc360.md) V8 2 bbl. (71-end)
   * AMC [360](/engine/factory/amc360.md) V8 4 bbl. (74-end J-xx models)
   * AMC [401](/engine/factory/amc401.md) V8 4 bbl. (74-end J-xx models)
 
 ### Transmission
 
-Transmissions options included: 
+Transmissions options included:
 
   * Warner AS-8F 3 speed auto (63 only)
   * GM TH400 (64-79)
@@ -83,20 +83,20 @@ Transmissions options included:
   * Warner T-18 4 spd. man. (?)
   * Warner T-18A 4 spd. granny man. (?)
 
-(There were other 3 speeds available during J-truck production, but I don't have those details.) 
+(There were other 3 speeds available during J-truck production, but I don't have those details.)
 
 ### Transfer Case
 
   * Dana 20 (63-79)
-  * Borg-Warner Quadra-Trac single & dual range models (73-79) 
+  * Borg-Warner Quadra-Trac single & dual range models (73-79)
 
 ### Front Axle
 
-Front axles were closed knuckle Dana 44 until the J-xx. (Wagoneers used Dana 27A's until '74). 
+Front axles were closed knuckle Dana 44 until the J-xx. (Wagoneers used Dana 27A's until '74).
 
 ### Rear Axle
 
-Rears were Dana 44 in 1/2T, Dana 60 in 3/4T and Dana 70 dually in 1T. Standard gear ratios were 3.90 with optional 4.27 & 4.88 in 1/2 & 3/4T models. 1T models came with 4.88 and had 5.89 as an option. Powr-Lok limited slips were optional in all models (rear only) 
+Rears were Dana 44 in 1/2T, Dana 60 in 3/4T and Dana 70 dually in 1T. Standard gear ratios were 3.90 with optional 4.27 & 4.88 in 1/2 & 3/4T models. 1T models came with 4.88 and had 5.89 as an option. Powr-Lok limited slips were optional in all models (rear only)
 
 ## Production Information
 

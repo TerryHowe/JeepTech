@@ -19,19 +19,19 @@ The original engine offered in the CJ-6 was the ["Hurricane" F-Head 134 I4](/eng
 
 ### Transmission
 
-The [T-90](/transmission/factory/t90.md) 3 speed was the standard transmission for the CJ-6 for many years. It's close brother, the [T-86](/transmission/factory/t86.md) 3 speed was used with CJ-6s with the Dauntless V6. The [T-14](/transmission/factory/t14.md) replaced the T-90 and later the beefy [T-15](/transmission/factory/t15.md) was used with CJ-6 with the 304. The [ T-98](/transmission/factory/t18.md) was an optional 4 speed for the CJ-6 until 1971 when the [T-18](/transmission/factory/t18.md) became the optional 4 speed. 
+The [T-90](/transmission/factory/t90.md) 3 speed was the standard transmission for the CJ-6 for many years. It's close brother, the [T-86](/transmission/factory/t86.md) 3 speed was used with CJ-6s with the Dauntless V6. The [T-14](/transmission/factory/t14.md) replaced the T-90 and later the beefy [T-15](/transmission/factory/t15.md) was used with CJ-6 with the 304. The [ T-98](/transmission/factory/t18.md) was an optional 4 speed for the CJ-6 until 1971 when the [T-18](/transmission/factory/t18.md) became the optional 4 speed.
 
 ### Transfer Case
 
-The CJ-6 used the [Dana 18](/xfer/factory/d18.md) from '58 until '71. From '72-'75 they used the [Dana 20](/xfer/factory/d20.md). 
+The CJ-6 used the [Dana 18](/xfer/factory/d18.md) from '58 until '71. From '72-'75 they used the [Dana 20](/xfer/factory/d20.md).
 
 ### Front Axle
 
-The CJ-6 was first offered with the [Dana 25](/axle/factory/d25.md) until 1965. The [Dana 27](/axle/factory/d27.md) replaced it and was used until 1971. From 1972-1975, the [Dana 30](/axle/factory/d30.md) was used in the CJ-6. 
+The CJ-6 was first offered with the [Dana 25](/axle/factory/d25.md) until 1965. The [Dana 27](/axle/factory/d27.md) replaced it and was used until 1971. From 1972-1975, the [Dana 30](/axle/factory/d30.md) was used in the CJ-6.
 
 ### Rear Axle
 
-The [Dana 44](/axle/factory/d44.md) with two piece shafts was used in the CJ-6 until mid-1970. A [Dana 44](/axle/factory/d44.md) with one piece shafts replaced it after that. 
+The [Dana 44](/axle/factory/d44.md) with two piece shafts was used in the CJ-6 until mid-1970. A [Dana 44](/axle/factory/d44.md) with one piece shafts replaced it after that.
 
 ## Production Information
 

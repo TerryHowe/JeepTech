@@ -6,11 +6,11 @@ description: "Jeep transfer case information covering upgrades, factory options,
 ---
 # Transfer Cases
 
-This section contains information about Jeep transfer cases, covering factory options, upgrades, and essential technical information. 
+This section contains information about Jeep transfer cases, covering factory options, upgrades, and essential technical information.
 
 ## Factory Transfer Cases
 
-The factory transfer case information has been moved to the [factory](factory/) subdirectory: 
+The factory transfer case information has been moved to the [factory](factory/) subdirectory:
 
   * [Dana 18 Transfer Case](factory/d18.md) \- The classic gear-driven transfer case
   * [Dana 20 Transfer Case](factory/d20.md) \- Heavy duty gear-driven transfer case
@@ -25,7 +25,7 @@ The factory transfer case information has been moved to the [factory](factory/) 
 
 ## Transfer Case Upgrades and Swaps
 
-For information about transfer case upgrades, swaps, and conversions, visit the [upgrades section](upgrades/). 
+For information about transfer case upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
 
 ### General Information
 

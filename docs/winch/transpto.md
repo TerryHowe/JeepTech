@@ -6,7 +6,7 @@ description: "Transmission PTO adapter information for Jeep winches."
 ---
 # Jeep Winches: Transmission PTO Adapter
 
-Most heavy duty transmissions have PTO ports onto which a PTO adapter can be bolted. Some examples of transmissions with PTO ports include the T-18, T-19, NP435, NV4500, SM465, and SM420. The PTO adapters I've seen all have a front and rear output. 
+Most heavy duty transmissions have PTO ports onto which a PTO adapter can be bolted. Some examples of transmissions with PTO ports include the T-18, T-19, NP435, NV4500, SM465, and SM420. The PTO adapters I've seen all have a front and rear output.
 
 Since these transmission PTO adapters are driven off of the countershaft, their speed and direction is not effected by the gear that the transmission is in. Only engine RPM can be used to change the speed. Normally, the PTO is only used with the transmission in neutral.
 

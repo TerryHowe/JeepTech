@@ -34,10 +34,10 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     4x463 SW              10001    14472     4472
     2WD (2T)              21860    26815     4955
     4WD (4T)              33305    44062    10757      86542
-     
+
     >From Compilations handwritten by N. Young, 1959-61
     Transcribed to E-Mail, 1998, by:
-       Charlie Weaver, Winston-Salem, NC 
+       Charlie Weaver, Winston-Salem, NC
 
     From: owner-classicjeep@unix.off-road.com
     Orig-From: cwgen@ols.net
@@ -60,7 +60,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     4WD (4T)                  44063    47709    3646
     473-HT                    10001    14679    4679
     473-4WD                   10001    19338    9338      90424
-    
+
     >From Handwritten Compilations by N. Young, 1959-61
     Transcribed to E-Mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
@@ -72,7 +72,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Subject: W-O Production Figures #3
 
                    1951        START     END      UNITS
-    
+
     CJ3-A         451 GB1      10001     54158    44158
     473 SW        451 AA1      10001     25906    15906
     673 SW        651 AA1      10001     18470     8470
@@ -115,7 +115,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
       *Original # of 18682 changed to 18706 by NY
      **Original # of 11512 changed to 11537 by NY
     ***Reflects total with added units * and **, by CW
-    
+
     >From Compilations Handwritten by N. Young, 1959-61
     Transcribed to E-Mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
@@ -153,10 +153,10 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     653 RB1    10001     10187      187
     475A PC 2Dr Lark    453 KA1    10001     10047       47
       "   " 4Dr  "      453 KB1    10001     10461      461
-    
+
      * [Cowl/Windshield]
     ** [Flat Face Cowl]
-    
+
     >From handwritten compilation by N. Young, 1959-61
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
@@ -177,7 +177,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     475 4WD CAB         "  EB2      "       10681      681
     475 4WD FFC         "  EF2      "       10013       13
     475 4WD C/WS        "  EE2      "       10004        4
-    6-226 4x4 SW       654 FA2      "       12645     2645                
+    6-226 4x4 SW       654 FA2      "       12645     2645
     6-226 4x4 SD        "  RA2      "       10219      219
     6-226 4WD PU        "  EC2      "       14927     4927
     6-226 4WD STK       "  ED2      "       10336      336
@@ -200,19 +200,19 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     6-226 PC 2Dr Ace   654 MA1      "       11194     1194
        "   " 4Dr  "    654 MB1      "       11498     1498
     Dlx "  " 2Dr Eagle 654 MC1      "       10660      660
-    Cust"  " 2Dr Eagle 654 MC2      "       10302      302   
+    Cust"  " 2Dr Eagle 654 MC2      "       10302      302
                                                      61389
     * Serials 5001-10000 for '53 conversions as "specials"
        [note by NY]
-    
+
     >From Handwritten Compilations by N. Young, 1959-61
     Transcribed for E-mail, 1998, by
-    Charlie Weaver, Winston-Salem, NC       
+    Charlie Weaver, Winston-Salem, NC
 
     >From owner-classicjeep@unix.off-road.com Thu Mar 12 22:59:17 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #6
-    
+
                             1955    START    END      UNITS
     CJ-3B                  57348    10001    22952    12952
       "   ST.CH            57448    10001    11667     1667
@@ -255,21 +255,21 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     685 2x4 SW             54127    10001    10108      108
      "   "  SD             54227    10001    10096       96
                                                       78980**
-    
+
      * #'s beginning 5000 are just as shown on NY list. No
-       explanation of disparity in individual units total. 
+       explanation of disparity in individual units total.
     ** Year total shown is 360 more than the sum of the
        individual unit production figures. No explanation.
-    
+
     >From handwritten compilations by N. Young, 1959-61.
     Transcribed for E-mail, 1998, by
-    Charlie Weaver, Winston-Salem, NC  
+    Charlie Weaver, Winston-Salem, NC
 
     >From owner-classicjeep@unix.off-road.com Fri Mar 13 23:20:26 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #7
-    
-                           1956      START     END     UNITS	
+
+                           1956      START     END     UNITS
     CJ-3B                 57348      22953     34371   11418
       "  ST. CH.          57448      11668     11717      49
       "  Fire Eng      57048-01      10008     10018      11
@@ -280,7 +280,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
      "   "  FFC           55448      10001     10002       2
      "   "  AMB        55048-03      10095     10104      10
      "   "  CPC        55048-06      10012     10073      62
-    6-226 4WD PU          55268      22169     33446   11277 
+    6-226 4WD PU          55268      22169     33446   11277
       "    "  STK         55368      10692     11260     568
       "    "  CAB         55168      11392     14458    3066
       "    "  C/WS        55568      10051     10065      15
@@ -325,7 +325,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
 
     >From owner-classicjeep@unix.off-road.com Mon Mar 16 12:27:31 1998
     To: classicjeep@off-road.com
-    Subject: W-O Production Figures #8 
+    Subject: W-O Production Figures #8
 
                           1957     START     END      UNITS
     CJ-3B                57348     34372     41591     7220
@@ -356,11 +356,11 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     475 2x4  SW **       54147     10396     10930      535
      "   "   SD **       54247     10577     11006      430
      "   "   ST CH **    54647     10002     10003        2
-     "   "   AMB **   54047-03     10001     10007        7 
+     "   "   AMB **   54047-03     10001     10007        7
     475 4x4 SW           54148     12941     14250     1310
      "   "  SD           54248     10398     10679      282
      "   "  FFC          54448     10002     10004        3
-     "   "  AMB       54048-03     10029     10061       32  
+     "   "  AMB       54048-03     10029     10061       32
     6-226 2x4 SW         54167     12191     14667     2477
       "    "  SD         54267     10601     10838      238
       "    "  AMB     54067-03     10003     10006        4
@@ -373,25 +373,25 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     FC 150 ST CH         65148     10001     10002        2
     FC 170 CAB           65168     10001     13101     3100
                                                       65417***
-    
+
       * No type designation given in original. From serial
         and model numbers, they appear to be 6-226 4x4.  CW
-     ** No body types given in original. Types shown are 
+     ** No body types given in original. Types shown are
         surmised from serial and model numbers.  CW
     *** Original gives _7_ 80, which does not compute with
         serial numbers. 1958 serial number begins with 12231
         indicating 1957 production figure should be _5_80.
         Original yearly total shown as 65_6_17, should be
         65_4_17 in light of above.
-    
+
     >From handwritten compilation by N. Young, 1959-61.
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
-    
+
     >From owner-classicjeep@unix.off-road.com Mon Mar 16 21:34:33 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #9
-    
+
                          1958      START     END      UNITS
     CJ-3B                  *       41592     48247     6656
     CJ-3B ST CH            *       11718     11719        2
@@ -441,17 +441,17 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     FC 170 CAB           61568     13102     14620     1519
      "  "  C/WS          61368     10001     10003        3
                                                       44703
-    
+
      * No model designations given in original.
     ** Unit totals understated by 1 (one), per serial #s.
        Yearly total should be 44709 on that basis.
     ERRATA; Production List #7 (1957) shows FC 170 Model #
-            as 6_51_68 SHOULD BE 6_15_68.         
+            as 6_51_68 SHOULD BE 6_15_68.
 
     >From owner-classicjeep@unix.off-road.com Tue Mar 17 21:23:04 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #10
-    
+
                             1959    START     END      UNITS
     CJ-3B                     *     48248     57547     9300
     CJ-3B ST CH               *     11720     11727        7**
@@ -508,18 +508,18 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     6-226 2x4 FFC           54467   10001     10001        1
     6-226 4x4 AVA        54068-09   10021     10060       40
                                                        60471
-    
+
      * No body designations given in original.
-    ** Unit totals understated by 1 (one), per serial #s. 
+    ** Unit totals understated by 1 (one), per serial #s.
        Yearly total should be 60483 on that basis.
      From handwritten compilations by N. Young, 1959-61.
     Transcribed for E-mail, 1998, by
-    Charlie Weaver, Winston-Salem, NC  
-    
+    Charlie Weaver, Winston-Salem, NC
+
     >From owner-classicjeep@unix.off-road.com Tue Mar 17 23:28:18 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #11
-    
+
                           1960      START      END        UNITS
     CJ-3B                57348      57548      67473       9926
     475-4WD PU           55248      12925      13455        531
@@ -570,19 +570,19 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     6-226 2x4 C/WS       54567      10001      10073         73
     FC 170 Dual       61568-15      10001      10158        158
                                                           72753
-    
+
      * Unit totals understated by 1 (one), per serial #s.
        Yearly total should be 72756 on that basis.
     ** Note on original beside "Face Lift" says "Was Maverick".
-    
+
     >From handwritten compilations by N. Young, 1959-61.
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
-    
+
     >From owner-classicjeep@unix.off-road.com Wed Mar 18 21:51:37 1998
     To: classicjeep@off-road.com
     Subject: W-O Production Figures #12 (FINAL)
-    
+
                             1961     START     END       UNITS
     CJ-3B                  37348     67474     85317     17844*
     CJ-3B ST CH              **      11728     11800        73
@@ -606,7 +606,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
       "    "  AMB       55068-03     10210     10219        10
       "    "  CPC       55068-06     10525     10559        35
     475 2x4 SD             54247     12345     12557       213
-    475 2x4 Mav.           58147     15221     16422      1202* 
+    475 2x4 Mav.           58147     15221     16422      1202*
     475 4x4 SW             54148     17271     18110       840
      "   "  SD             54248     11207     11762       556
      "   "  AMB         54048-03     10227     15281        55
@@ -635,20 +635,20 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     6-226 2x4 Trav.        54367     10001     10004         4
     6-226 4WD Dual      55168-16     10001     10038        38
                                                          66756*
-    
+
      * Several figures which do not agree with serial numbers
        on original, corrected here.
     ** No model designation given on original.
     >From handwritten compilation by N. Young, 1959-61
     Transcribed for E-mail, 1998, by
-    Charlie Weaver, Winston-Salem, NC 
+    Charlie Weaver, Winston-Salem, NC
 
     >From owner-classicjeep@unix.off-road.com Wed Mar 18 23:07:07 1998
     To: classicjeep@off-road.com
     Subject: Lists
 
     List #12, and Final one, has been sent. I am now legally
-    blind. :-). 
+    blind. :-).
     In a talk with Norton Young a week or 2 ago, he told me
     that by 1961, the folks in the corner offices at K-F
     had no more interest in these statistics so he quit
@@ -658,7 +658,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     try to piece the info together. He admitted that there
     may be some errors.
     List #12 is the worst one for errors, there being 6412
-    more units produced, according to the serial numbers, 
+    more units produced, according to the serial numbers,
     than show on the original sheets. For this one sheet
     I show the corrected numbers. For instance, 6-226 4WD
     55268, shows only 255 units produced, but serial

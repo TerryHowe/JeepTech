@@ -8,13 +8,13 @@ description: "Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only 
 
 ![](../img/body/ff2.gif)
 
-Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only looks cool, it increases tire clearance. Many of round fender Jeeps you'll find on the hard trails have adopted this look for increased tire clearance, tighter turning radius, and longer fender life. 
+Giving your Wrangler, CJ-7, or CJ-5 the flat fender look not only looks cool, it increases tire clearance. Many of round fender Jeeps you'll find on the hard trails have adopted this look for increased tire clearance, tighter turning radius, and longer fender life.
 
-If you plan to drive your Jeep on the street, check your local laws to make sure that bobbing the bumper and removing the side marker lights will not make your Jeep illegal. The side marker lights can be moved up to the side of the hood if they are necessary to stay street legal. 
+If you plan to drive your Jeep on the street, check your local laws to make sure that bobbing the bumper and removing the side marker lights will not make your Jeep illegal. The side marker lights can be moved up to the side of the hood if they are necessary to stay street legal.
 
 ### Cutting The Fenders
 
-[![](../img/body/ff1_.gif)](../img/body/ff1.gif) If you are going to remove your side marker lights and keep your fender flares, you'll need to leave enough material on the fender to attach the fender flare. The top of the fender flare should be lined up with the top of the fender, which for most fender flares, will mean you'll be removing about 3/4" of material all around the edge. 
+[![](../img/body/ff1_.gif)](../img/body/ff1.gif) If you are going to remove your side marker lights and keep your fender flares, you'll need to leave enough material on the fender to attach the fender flare. The top of the fender flare should be lined up with the top of the fender, which for most fender flares, will mean you'll be removing about 3/4" of material all around the edge.
 
 [![](../img/body/ff4_.gif)](../img/body/ff4.gif) Before you start cutting anything, remove the side marker lights and secure the wires out of the way. Next, put down a layer or three of masking tape over the area you plan to cut to protect the paint and to make it easier to draw a line.
 

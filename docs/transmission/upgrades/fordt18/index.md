@@ -6,7 +6,7 @@ description: "How to swap a Ford T-18 into your CJ.  A transmission swap may be 
 ---
 # Swapping a Ford T-18 into a CJ
 
-[![T-18 vs T-5](../../../img/transmission/upgrades/fordt18/fordt18t5_.jpg)](../../../img/transmission/upgrades/fordt18/fordt18t5.jpg) 
+[![T-18 vs T-5](../../../img/transmission/upgrades/fordt18/fordt18t5_.jpg)](../../../img/transmission/upgrades/fordt18/fordt18t5.jpg)
 
 Swapping a Ford T-18 into your CJ may be the best alternative, because in many cases it can be swapped in cheaper and easier than any other transmission. The improvement in performance and durability of your CJ will increase exponentially with this relatively simple transmission swap. Ford T-18s are easy to find and inexpensive to buy and the Ford T-18 is compatible to a large degree with '76-'86 CJs because in most cases the originally bell housing can be retained.
 
@@ -44,7 +44,7 @@ Steve's Jeep had the bell housing that went with the T-5, so the holes didn't li
 
 [![Transmission mount](../../../img/transmission/upgrades/tmount_.jpg)](../../../img/transmission/upgrades/tmount.jpg) On the transmission mount, Advanced Adapters supplies a aluminum spacer block to mate the bolt holes in the bottom of the transmission to transfer case adapter to the transmission mount. This spacer block forces the transmission very close to the tub and causes a minor drive shaft vibration with a 2 1/2" spring lift. Dropping the skid plate would resolve the problem, but at the cost of ground clearance.
 
-In order to set up the transmission mount with out losing ground clearance, the transmission mount must be modified. It is easier to take care of this before you install the transmission. 
+In order to set up the transmission mount with out losing ground clearance, the transmission mount must be modified. It is easier to take care of this before you install the transmission.
 
   1. Toss the spacer block in your scrap metal pile.
   2. Bolt the torque arm directly to the transmission to transfer case adapter directly with the bolt hole on the drivers side (fig. 1, item D) and the limiting donut to the drivers side.
@@ -81,7 +81,7 @@ You'll find a significant difference between the weight of the Ford T-18 and you
 
 ### Converted Ford T-18
 
-[![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f_.jpg)](../../../img/transmission/upgrades/ft18f.jpg) [![Converted Ford T-18 side](../../../img/transmission/upgrades/ft18s_.jpg)](../../../img/transmission/upgrades/ft18s.jpg) [![Converted Ford T-18 back](../../../img/transmission/upgrades/ft18b_.jpg)](../../../img/transmission/upgrades/ft18b.jpg) 
+[![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f_.jpg)](../../../img/transmission/upgrades/ft18f.jpg) [![Converted Ford T-18 side](../../../img/transmission/upgrades/ft18s_.jpg)](../../../img/transmission/upgrades/ft18s.jpg) [![Converted Ford T-18 back](../../../img/transmission/upgrades/ft18b_.jpg)](../../../img/transmission/upgrades/ft18b.jpg)
 
 ### Conclusion
 

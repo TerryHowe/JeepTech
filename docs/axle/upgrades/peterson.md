@@ -16,6 +16,6 @@ The other real headache was the steering gear swap. I looked at a few junkyards 
 
 Anyway, the delta 88 steering shaft was cutover and the Jeeps pounded apart and the two slid together (using the Delta 88's lower section and Jeeps upper section). The telescoping (safety) part of the stock Jeep was kept (at full extended length). The completed (fabricated) rod was welded together. The steering gear itself bolted right in, although it was only a three bolt, instead of 4.
 
-**Overall conclusions:** Well, the front was a real pain in the rear. In retro though maybe I would have tried to see how long I could have gone without breaking the stock dana 30 before going to the scout's big dana 44. Every tire does stick out about an inch more that stock. Backspacing to over come this looks impossible, at least with 15" wheels. However, the jeep is more stable on the road. 
+**Overall conclusions:** Well, the front was a real pain in the rear. In retro though maybe I would have tried to see how long I could have gone without breaking the stock dana 30 before going to the scout's big dana 44. Every tire does stick out about an inch more that stock. Backspacing to over come this looks impossible, at least with 15" wheels. However, the jeep is more stable on the road.
 
-Overall, I would say the project isn't for the weak at heart. We used about 3 1/4 lbs. Of welding rods and more than one metal cutting disk for the saw. New custom axles are a massive expense. 
+Overall, I would say the project isn't for the weak at heart. We used about 3 1/4 lbs. Of welding rods and more than one metal cutting disk for the saw. New custom axles are a massive expense.

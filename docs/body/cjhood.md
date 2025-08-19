@@ -6,7 +6,7 @@ description: "A simple way to reinforce your hood to prevent bending of the hood
 ---
 # Hood Reinforcement
 
-![Stuck](../img/body/stuck01.jpg)   
+![Stuck](../img/body/stuck01.jpg)
 
 If you don't get stuck, you aren't wheeling, you aren't testing your limits and the limits of your vehicle. There is no shame in getting stuck, but it is a shame to dent your freshly painted hood. A simple reinforcement of the hood area can prevent dents that damage the paint.
 

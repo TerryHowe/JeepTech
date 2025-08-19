@@ -30,14 +30,14 @@ The oil pressure sender and fuel sender are both electro-mechanical devices but 
 
 ## Gauge Sizes
 
-Gauge| Diameter  
----|---  
-Oil Pressure| 2"  
-Volt meter| 2"  
-Tachometer| 2-7/16"  
-Clock| 2-5/8"  
-Speedometer cluster| 5-5/8"  
-  
+Gauge| Diameter
+---|---
+Oil Pressure| 2"
+Volt meter| 2"
+Tachometer| 2-7/16"
+Clock| 2-5/8"
+Speedometer cluster| 5-5/8"
+
 ## Fuel and Temperature Gauges
 
 [![Back of speedometer, fuel, and temp gauge](../../img/electrical/gauges/SpeedoPic_.jpg)](../../img/electrical/gauges/SpeedoPic.jpg)
@@ -71,12 +71,12 @@ To be sure the problem is not the gauge, you can momentarily short the pink wire
 
 The sending unit can be checked with an ohmmeter to measure the resistance between the round sender post (pink wire) and ground. It should be:
 
-Resistance| Reading  
----|---  
-73 ohms| Empty  
-23 ohms| 1/2 tank  
-10 ohms| Full  
-  
+Resistance| Reading
+---|---
+73 ohms| Empty
+23 ohms| 1/2 tank
+10 ohms| Full
+
 If the resistance falls in this ballpark (depending on how much gas you have in the tank), then the sending unit is fine. If it shows infinitely HIGH resistance, then the sending unit could be bad OR the wire from the tank to the gauge could be open.
 
 The gauge can be tested with the resistances listed above. Run an appropriate resistor to the S terminal of the fuel gauge and to ground and check the readings.
@@ -91,13 +91,13 @@ A volt meter can be used to measure the voltage between the A terminal of the Te
 
 The sending unit can be checked with the following resistances between the post and ground...
 
-Totally Cold| high resistance  
----|---  
-Slightly Warm| 73 ohms  
-Beginning of Band| 36 ohms  
-End of Band| 13 ohms  
-Hot| 9 ohms  
-  
+Totally Cold| high resistance
+---|---
+Slightly Warm| 73 ohms
+Beginning of Band| 36 ohms
+End of Band| 13 ohms
+Hot| 9 ohms
+
 If an appropriate resistor is connected to the S terminal of the temperature gauge and to ground, the above resistances can be used to check the gauge. Use a resistor close to the specifications above to simulate the sending unit.
 
 ## Oil Pressure Gauge
@@ -118,14 +118,14 @@ It is very common for the sending units used with the 258 and 232 engines to be 
 
 It is easiest to test the sending unit by temporarily plumbing in a good mechanical gauge.
 
-Pressure (PSI)| Resistance (ohms)  
----|---  
-0| 234-246  
-20| 149-157  
-40| 100.5-105.5  
-60| 65-69  
-80| 32.5-34.5  
-  
+Pressure (PSI)| Resistance (ohms)
+---|---
+0| 234-246
+20| 149-157
+40| 100.5-105.5
+60| 65-69
+80| 32.5-34.5
+
 ## Volt Meter
 
 [![Back of volt meter](../../img/electrical/gauges/VoltMeter_.jpg)](../../img/electrical/gauges/VoltMeter.jpg)
