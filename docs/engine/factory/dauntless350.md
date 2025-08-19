@@ -8,7 +8,7 @@ description: "All about the Jeep Dauntless Buick 350 V8 engine."
 
 The "Dauntless" Buick 350 V8 uses a cast iron block and cylinder heads with overhead valves and hydraulic lifters. The Buick 350 was used from 1969 until 1970 in J-series pickups and Wagoneers.
 
-| Dauntless Buick 350 V8 | |
+| Attribute | Specification |
 |------------------------|---|
 | Bore x Stroke | 3.80" x 3.85" |
 | Displacement | 350(5.73L) |

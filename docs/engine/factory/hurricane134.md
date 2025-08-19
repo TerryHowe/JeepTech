@@ -18,7 +18,7 @@ There is a lot of confusion about the name of the F-Head engine. The F represent
 
 The main difference between different versions of the F-Head engine is the compression. The early F-Heads used between '50-'60 in Willys Wagons, Willys Pickups, CJ-5s, CJ-3B, etc had a low compression F-Head standard. The Willys Pickup only used this engine from '50-'56 and in '59. 
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -31,7 +31,7 @@ The main difference between different versions of the F-Head engine is the compr
 
 The "High Altitude" option was the same engine with a higher compression ratio. 
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -44,7 +44,7 @@ The "High Altitude" option was the same engine with a higher compression ratio.
 
 Between 1961 and 1970, the high compression version became standard and the low compression version was optional. A slight horse power gain was realized. The Willys Pickup used the 7.4:1 compression engine as standard and a 7.8:1 compression engine as optional from '60-'62.
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -57,7 +57,7 @@ Between 1961 and 1970, the high compression version became standard and the low 
 
 The optional low compression F-Head used from '61 until '70. 
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -70,7 +70,7 @@ The optional low compression F-Head used from '61 until '70.
 
 In 1971, a low compression version was the only one available in the 49 state version. A California version was high compression.
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -83,7 +83,7 @@ In 1971, a low compression version was the only one available in the 49 state ve
 
 The California high compression F-Head available in 1971.
 
-| Hurricane F-Head 134 I4 | |
+| Attribute | Specification |
 |-------------------------|---|
 | Bore x Stroke | 3.125" x 4.375" |
 | Displacement | 134.2 (2.199L) |
@@ -93,4 +93,5 @@ The California high compression F-Head available in 1971.
 | Main Bearings | 3 |
 | Valve Configuration | F-head |
 | Fuel | 1-bbl downdraft |
+
 [![F-Head I4 left](../../img/engine/fheadl_.jpg)](../../img/engine/fheadl.jpg)

@@ -12,7 +12,7 @@ The Tornado was used in Willys Pickups, Willys Wagons, J-series pickups, Wagonee
 
 The 230 was used in Jeep pickups (Gladiator) from 1963 until 1964. It was also used in Willys Pickups and Willys Wagons from '63 until '65.
 
-| Tornado 230 I6 | |
+| Attribute | Specification |
 |----------------|---|
 | Bore x Stroke | 3.34" x 4.38" |
 | Displacement | 230 (3.76L) |
@@ -25,7 +25,7 @@ The 230 was used in Jeep pickups (Gladiator) from 1963 until 1964. It was also u
 
 A low compression version of the 230 was available in Willys Pickups, Willys Wagons, and full size pickups in 1964. It was also available in Willys Pickups and Willys Wagons in 1965.
 
-| Tornado 230 I6 | |
+| Attribute | Specification |
 |----------------|---|
 | Bore x Stroke | 3.34" x 4.38" |
 | Displacement | 230 (3.76L) |
