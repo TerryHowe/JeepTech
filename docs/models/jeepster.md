@@ -1,10 +1,10 @@
 ---
-title: "Jeepster Commando (C101)"
-keywords: "Jeepster, C101, Commando"
+title: "Jeepster/Commando"
+keywords: "Jeepster, C101, C104, Commando"
 author: "Terry Howe"
 description: "Description, drive train specifications, and production information for the Jeepster Commando C101"
 ---
-# Jeepster Commando (C101)
+# Jeepster Commando
 
 The Jeepster/Commando (C101) was produced from 1962 until 1971 and the Commando (C104) was produced from 1972 until 1973.
 

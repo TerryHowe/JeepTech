@@ -1,10 +1,10 @@
 ---
-title: "Jeep Tech Bibliography"
+title: "Bibliography"
 keywords: "books, Jeep, bibliography"
 author: "Terry Howe"
-description: "Bibliography for the Jeep Tech.  All the books that matter for the Jeepers library."
+description: "Bibliography for the Jeep Tech Pages.  All the books that matter for the Jeepers library."
 ---
-# Jeep Tech Bibliography
+# Bibliography
 
   * Standard Catalog of 4x4's, Krause Publications, Iola, WI, Second Edition, 1995.
   * Jeep Vehicles 1941-1990 Engine & Transmission Conversion Kits Instruction Manual, Advanced Adapters Inc., Seventh Edition, June 1994.

@@ -8,9 +8,9 @@ description: "Description, drive train specifications, and production informatio
 
 [![J-200 Pickup](../img/j200_.jpg)](../img/j200.jpg)
 
-The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have used various model designation schemes over the years. All of the models are what we would consider a full size pickup today. Early models were know as Gladiator pickups.
+The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have used various model designation schemes over the years. These models are what we would consider a full-size pickup today. Early models were known as Gladiator pickups.
 
-From 1963 until 1964 a 3 digit number was used to designate wheelbase and GVW of the vehicle. Models were available with a 120" and a 126" wheelbase and most models were available in Thriftside (narrow box), Townside (wide box) and cab & chassis models.
+From 1963 until 1964 a 3 digit number was used to designate the wheelbase and GVW of the vehicle. Models were available with a 120" and a 126" wheelbase and most models were available in Thriftside (narrow box), Townside (wide box) and cab & chassis models.
 
 | Model | Type                                      |
 |-------|-------------------------------------------|
@@ -24,7 +24,7 @@ From 1963 until 1964 a 3 digit number was used to designate wheelbase and GVW of
 | J-320 | 1T (126")                                 |
 | J-330 | 1T cab & chassis or stake bed only (126") |
 
-In 1965 they switched over to a four digit model number except for the J-100. In '67 the two wheel drive models were dropped. In 1970, the Gladiators got the same style grill as the Wagoneer, it's first styling change since its introduction. The 3000 series was dropped in 1971. The "Gladiator" name was dropped in 1972 and the J trucks were simply called Jeep trucks.
+In 1965 they switched over to a four digit model number except for the J-100. In '67 the two wheel drive models were dropped. In 1970, the Gladiators got the same style grill as the Wagoneer, its first styling change since its introduction. The 3000 series was dropped in 1971. The "Gladiator" name was dropped in 1972 and the J trucks were simply called Jeep trucks.
 
 
 | Model  | Type                 |
@@ -61,15 +61,15 @@ In 1974 the model designations were changed to only reflect vehicle load capacit
 
 Several engine options have been used in the J-Series pickups over the years including:
 
-  * Kaiser [230](/engine/factory/tornado230.md) OHC I6 "Tornado"(63-66)
-  * AMC [327](/engine/factory/amc327.md) V8 "Vigilante" (65-66)
-  * AMC [232](/engine/factory/amc232.md) I6 (67-70)
-  * Buick [350](/engine/factory/dauntless350.md) V8 "Dauntless" (67-70)
-  * AMC [258](/engine/factory/amc258.md) I6 (71-end of J truck production)
-  * AMC [304](/engine/factory/amc304.md) V8 (71-73)
-  * AMC [360](/engine/factory/amc360.md) V8 2 bbl. (71-end)
-  * AMC [360](/engine/factory/amc360.md) V8 4 bbl. (74-end J-xx models)
-  * AMC [401](/engine/factory/amc401.md) V8 4 bbl. (74-end J-xx models)
+  * Kaiser [230](../engine/factory/tornado230.md) OHC I6 "Tornado"(63-66)
+  * AMC [327](../engine/factory/amc327.md) V8 "Vigilante" (65-66)
+  * AMC [232](../engine/factory/amc232.md) I6 (67-70)
+  * Buick [350](../engine/factory/dauntless350.md) V8 "Dauntless" (67-70)
+  * AMC [258](../engine/factory/amc258.md) I6 (71-end of J truck production)
+  * AMC [304](../engine/factory/amc304.md) V8 (71-73)
+  * AMC [360](../engine/factory/amc360.md) V8 2 bbl. (71-end)
+  * AMC [360](../engine/factory/amc360.md) V8 4 bbl. (74-end J-xx models)
+  * AMC [401](../engine/factory/amc401.md) V8 4 bbl. (74-end J-xx models)
 
 ### Transmission
 
@@ -96,7 +96,7 @@ Front axles were closed knuckle Dana 44 until the J-xx. (Wagoneers used Dana 27A
 
 ### Rear Axle
 
-Rears were Dana 44 in 1/2T, Dana 60 in 3/4T and Dana 70 dually in 1T. Standard gear ratios were 3.90 with optional 4.27 & 4.88 in 1/2 & 3/4T models. 1T models came with 4.88 and had 5.89 as an option. Powr-Lok limited slips were optional in all models (rear only)
+Rears were Dana 44 in 1/2T, Dana 60 in 3/4T and Dana 70 dually in 1T. Standard gear ratios were 3.90 with optional 4.27 & 4.88 in 1/2 & 3/4T models. 1T models came with 4.88 and had 5.89 as an option. Power-Lok limited slips were optional in all models (rear only)
 
 ## Production Information
 

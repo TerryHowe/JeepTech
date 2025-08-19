@@ -14,7 +14,7 @@ Check out Todd Murray's [ TJ FAQ](https://www.visi.com/~tam/tjfaq.md). Also, che
 
 ## Drive Train
 
-The TJ comes with the [2.5L](/engine/factory/amc150.md) engine standard and the [4.0L](/engine/factory/amc242.md) optionally. The [AX-5](/transmission/factory/ax5.md) is used with the 2.5L engine and the [AX-15](/transmission/factory/ax15.md) is used with the 4.0L engine. Two 3 speed automatics are optional, the TF 904 comes with the 2.5L engine and the TF 999 comes with the 4.0L engine. The [NP-231](/xfer/factory/np231.md) (or NV for New Venture) transfer case comes with all models. The front axle is a reverse cut [Dana 30](/axle/factory/d30.md) and the rear axle is a [Dana 35c](/axle/factory/d35c.md) and the [Dana 44](/axle/factory/d44.md) is the optional rear axle.
+The TJ comes with the [2.5L](../engine/factory/amc150.md) engine standard and the [4.0L](../engine/factory/amc242.md) optionally. The [AX-5](../transmission/factory/ax5.md) is used with the 2.5L engine and the [AX-15](../transmission/factory/ax15.md) is used with the 4.0L engine. Two 3-speed automatics are optional, the TF 904 comes with the 2.5L engine and the TF 999 comes with the 4.0L engine. The [NP-231](../xfer/factory/np231.md) (or NV for New Venture) transfer case comes with all models. The front axle is a reverse cut [Dana 30](../axle/factory/d30.md) and the rear axle is a [Dana 35c](../axle/factory/d35c.md) and the [Dana 44](../axle/factory/d44.md) is the optional rear axle.
 
 ## Production Information
 

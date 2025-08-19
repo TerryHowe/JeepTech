@@ -40,7 +40,7 @@ Serial numbers are located on the ...
 
 [![MBT 1/4 ton trailer](../img/mbt_.jpg)](../img/mbt.jpg)
 
-The MBT trailer. Willys-Overland build some of these trailers as did other manufactures. The post war model is the M100, which looks almost identical. The M416 looks very similar to, but it has squared off fenders. They are all 1/4 ton trailers.
+The MBT trailer. Willys-Overland built some of these trailers as did other manufactures. The post war model is the M100, which looks almost identical. The M416 looks very similar to, but it has squared off fenders. They are all 1/4 ton trailers.
 
 ## Drive Train
 

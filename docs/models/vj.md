@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Jeepster VJ
 
-The Jeepster (VJ) was produced from 1948 through 1950. It was only available in two wheel drive, but conversions are common. The design of the later Jeepster/Commando was based on the design of this early Jeepster.
+The Jeepster (VJ) was produced from 1948 through 1950. It was only available in two-wheel drive, but conversions are common. The design of the later Jeepster/Commando was based on the design of this early Jeepster.
 
 ## Drive Train
 
