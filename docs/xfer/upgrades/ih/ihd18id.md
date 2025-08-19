@@ -16,4 +16,4 @@ The above pictures are really from a Scout 80 Spicer 18 although it is indisting
 
 Swapping this transfer case is a bolt in. No modifications are required.
 
-![Scout Spicer 18](../../../img/xfer/d1801f_.jpg) Project Pieces & Parts [ Transfer Case](https://www.4x4wire.com/jeep/projects/pieces/xfer/) and [ Over Drive](https//www.4x4wire.com/jeep/projects/pieces/od/) Installation: Project Pieces & Parts gets a Scout 80 transfer case and a Warn Overdrive all for $200.
+![Scout Spicer 18](../../../img/xfer/d1801f_.jpg) Project Pieces & Parts [ Transfer Case](https://www.4x4wire.com/jeep/projects/pieces/xfer/) and [ Over Drive](https://www.4x4wire.com/jeep/projects/pieces/od/) Installation: Project Pieces & Parts gets a Scout 80 transfer case and a Warn Overdrive all for $200.
