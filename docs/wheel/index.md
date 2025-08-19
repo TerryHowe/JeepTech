@@ -26,7 +26,7 @@ Backspacing is the distance from the inside rim surface to the backside of the w
 
 ### Offset
 
-Offset is the distance from the exact wheel centerline to the inside wheel mounting surface. Offset and Backspacing are related. A large amount of offset can change the leverage and the loads on axle or wheel bearings and so if possible you should stay (within reason) close to the stock wheel offset. In addition to changing the load on the bearings changing the offset significantly will change the turning radius (of the tire) and may effect both steering response and steering stability. 
+Offset is the distance from the exact wheel centerline to the inside wheel mounting surface. Offset and Backspacing are related. A large amount of offset can change the leverage and the loads on axle or wheel bearings and so if possible you should stay (within reason) close to the stock wheel offset. In addition to changing the load on the bearings changing the offset significantly will change the turning radius (of the tire) and may effect both steering response and steering stability.
 
 ### Bolt Pattern
 

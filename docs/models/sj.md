@@ -22,8 +22,8 @@ The Wagoneer/Cherokee (SJ) was produced from 1962 until 1991, making it the long
 
 ## Production Information
 
-Wagoneer and Grand Wagoneer  
----  
+Wagoneer and Grand Wagoneer
+---
 
 | Year | Serial Number Range | Production |
 |------|---------------------|------------|
@@ -59,8 +59,8 @@ Wagoneer and Grand Wagoneer
 | 1991 | xxx - xxx           | 1,560      |
 | 1992 | xxx - xxx           | 330        |
 
-Cherokee  
----  
+Cherokee
+---
 | Year | Serial Number Range | Production |
 |------|---------------------|------------|
 | 1974 | xxx - xxx           | 14,082     |

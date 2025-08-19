@@ -10,5 +10,5 @@ s, factory options, and essential information."
 
 ## General Information
 
-[How Transmissions Work](https://www.howstuffworks.com/transmission.md): An explanation of how transmissions work with easy to understand diagrams.   
+[How Transmissions Work](https://www.howstuffworks.com/transmission.md): An explanation of how transmissions work with easy to understand diagrams.
 ---

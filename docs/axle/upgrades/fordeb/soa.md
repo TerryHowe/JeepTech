@@ -6,7 +6,7 @@ description: "Doing a spring over axle swap on a Wranlger YJ.  How to swap a Dan
 ---
 # Spring Over Axle for Wrangler YJ
 
-[![Yet another view](../../../img/axle/upgrades/fordeb/homedwn_.jpg)](../../../img/axle/upgrades/fordeb/homedwn.jpg)   
+[![Yet another view](../../../img/axle/upgrades/fordeb/homedwn_.jpg)](../../../img/axle/upgrades/fordeb/homedwn.jpg)
 **by Chris Waterman**
 
 A spring over axle swap is a great way to get a lot of lift and get great articulation. The lift from a spring over axle swap comes from not changing springs, but by changing the way the axles mount on the springs. The CJs and Wrangler YJs have the axles mounted on top of the springs (spring under). If the axles are modified so they mount on the bottom of the springs (spring over), there will be at least 5" of lift.
@@ -23,17 +23,17 @@ I already had a OME 2.5" lift springs before I did the spring over axle swap. I 
 
 Both front and rear I used adjustable spring perches to fine tune the pinion angles. Since I was swapping in an early Bronco Dana 44 up front, I did not have to deal with the problem of integrating the driver side spring perch into the differential housing. Because of the amount of lift with a spring over, constant velocity (aka CV joint or double cardon) drive shafts will most likely be necessary. This simplifies setting the pinion angle though because with a CV shaft, you just point the pinion to the transfer case yoke.
 
-[![Rear shock bracket and driveshaft detail](../../../img/axle/upgrades/fordeb/rrshaft_.jpg)](../../../img/axle/upgrades/fordeb/rrshaft.jpg) Since I got the pinion angles set right, I have had no driveline vibrations, which is a relief. The rear shaft is running at about a 21-degree angle relative to the t-case output shaft, which is steep even for a CV, but it doesn't bind when the rear axle is articulating, and I haven't worn out any u-joints yet... 
+[![Rear shock bracket and driveshaft detail](../../../img/axle/upgrades/fordeb/rrshaft_.jpg)](../../../img/axle/upgrades/fordeb/rrshaft.jpg) Since I got the pinion angles set right, I have had no driveline vibrations, which is a relief. The rear shaft is running at about a 21-degree angle relative to the t-case output shaft, which is steep even for a CV, but it doesn't bind when the rear axle is articulating, and I haven't worn out any u-joints yet...
 
 The front D44 was (I think) set up with about 4-5 degrees of caster. When I had the brackets welded on, I positioned them such that I'd have around 8 degrees, which seemed to be the conventional-wisdom figure for spring-overs. That left the pinion pointing upwards about 4 degrees. Not great, but I figured the caster was more important than the front pinion angle. It turns out with this angle, the pinion is just about pointing at the transfer case yoke. The Jeep handles fine on the freeway - no wander at all. It might be hard to get the same results with the stock Dana 30 because YJ front axles come with more caster from the factory than an early Bronco. Setting caster requires cutting off the outer parts of the front axle.
 
 ### U-Bolts and U-Bolt Plates
 
-U-bolts I had made at a local spring shop for cheap, and I found spring plates at wrecking yards just by walking around until I found some with the right hole pattern. For the sway bar mounts on the front plates, I cut the heads off two 6" long 5/8" bolts and welded the stems (is that the right word?) onto the front spring plates. No problemo. 
+U-bolts I had made at a local spring shop for cheap, and I found spring plates at wrecking yards just by walking around until I found some with the right hole pattern. For the sway bar mounts on the front plates, I cut the heads off two 6" long 5/8" bolts and welded the stems (is that the right word?) onto the front spring plates. No problemo.
 
 ### Drive Shafts
 
-[![New (to me) Bronco shaft w/ Currie kit vs old POS YJ shaft](../../../img/axle/upgrades/fordeb/dshafts_.jpg)](../../../img/axle/upgrades/fordeb/dshafts.jpg) What about the rear driveshaft, I hear you saying? Well, the YJ's notoriously short rear driveshaft was a problem (especially with the low pinion on the Ford 9"). What I did to resolve the problem was purchase a used NP231 tailshaft shortening kit from Larry Soo. Larry didn't need the tail shaft shortening kit after he swapped a Dana 300 in his Wrangler YJ when he did a [Scout Axle Swap](/axle/upgrades/ihscout/). 
+[![New (to me) Bronco shaft w/ Currie kit vs old POS YJ shaft](../../../img/axle/upgrades/fordeb/dshafts_.jpg)](../../../img/axle/upgrades/fordeb/dshafts.jpg) What about the rear driveshaft, I hear you saying? Well, the YJ's notoriously short rear driveshaft was a problem (especially with the low pinion on the Ford 9"). What I did to resolve the problem was purchase a used NP231 tailshaft shortening kit from Larry Soo. Larry didn't need the tail shaft shortening kit after he swapped a Dana 300 in his Wrangler YJ when he did a [Scout Axle Swap](/axle/upgrades/ihscout/).
 
 For the rear shaft I used parts from a 80-something Monte Carlo and from a full size late 70s Bronco. This matched the hole pattern of the CV flange on the tailshaft kit. On the left is a CV joint shaft with the tailshaft eliminator kit on top and the original YJ drive shaft on the bottom.
 
@@ -47,7 +47,7 @@ Once the axles were in, I was able to measure the extended length of the shocks 
 
 [![The track bar and drag link turned out close to parallel](../../../img/axle/upgrades/fordeb/frtdark_.jpg)](../../../img/axle/upgrades/fordeb/frtdark.jpg) A dropped pitman arm was required with the drag link and tie rod configuration I used. I used a 4" drop pitman arm on the same trip. Even so the drag link is at a pretty severe angle, but it is parallel to the track bar which minimizes bump steer. The bump steer is real bad with no track bar up front. I've used a 7/16" clevis pin to connect the track bar to the axle bracket for a quick disconnect (thanks to Dave Gray for that idea).
 
-Even with the drop pitman arm, the drag link angle is steep enough that the ends in the drag link rotate every time you change the direction of the steering wheel. The drag link pulls upwards and downwards at the same time it pulls left and right, respectively. The only fix I can see is a Z-bent drag link, which will also improve clearance between it and the right-side spring. Not sure if I might lose too much strength to be worth the improved steering though. 
+Even with the drop pitman arm, the drag link angle is steep enough that the ends in the drag link rotate every time you change the direction of the steering wheel. The drag link pulls upwards and downwards at the same time it pulls left and right, respectively. The only fix I can see is a Z-bent drag link, which will also improve clearance between it and the right-side spring. Not sure if I might lose too much strength to be worth the improved steering though.
 
 ### Brakes Lines
 
@@ -57,7 +57,7 @@ For the the parking brake working using two long-side YJ cables and upgrading to
 
 ### Axle Wrap
 
-Surprisingly, axle wrap has not been a huge problem. It's there, and I do plan to fabricate and install a rear anti-wrap bar in the near future, but truth be told it's not as necessary as I thought it would be. Spring sag has also been very minimal; the progressive-rate OME springs have held up really well, but I'm careful not to bounce too hard on them, to avoid taking them into negative arch. Some extended bump stops are in my plans for the near future as well, probably just some pieces of rectangular tubing bolted to the ends of my u-bolts on each spring plate. 
+Surprisingly, axle wrap has not been a huge problem. It's there, and I do plan to fabricate and install a rear anti-wrap bar in the near future, but truth be told it's not as necessary as I thought it would be. Spring sag has also been very minimal; the progressive-rate OME springs have held up really well, but I'm careful not to bounce too hard on them, to avoid taking them into negative arch. Some extended bump stops are in my plans for the near future as well, probably just some pieces of rectangular tubing bolted to the ends of my u-bolts on each spring plate.
 
 ### Conclusion
 

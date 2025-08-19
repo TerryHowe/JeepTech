@@ -6,24 +6,24 @@ description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a 
 ---
 # Swapping Early Bronco Axles into a YJ
 
-[![Before](../../../img/axle/upgrades/fordeb/b4_.jpg)](../../../img/axle/upgrades/fordeb/b4.jpg)[![After](../../../img/axle/upgrades/fordeb/homesid_.jpg)](../../../img/axle/upgrades/fordeb/homesid.jpg)   
+[![Before](../../../img/axle/upgrades/fordeb/b4_.jpg)](../../../img/axle/upgrades/fordeb/b4.jpg)[![After](../../../img/axle/upgrades/fordeb/homesid_.jpg)](../../../img/axle/upgrades/fordeb/homesid.jpg)
 **by Chris Waterman**
 
-Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, rip out the entire undercarriage, and replace it with parts from a 25-year old Ford? Chances are if you're reading this then you understand already, but for those of you who don't... 
+Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, rip out the entire undercarriage, and replace it with parts from a 25-year old Ford? Chances are if you're reading this then you understand already, but for those of you who don't...
 
   * Stock YJ axles are a relatively weak link in an otherwise excellent vehicle. If you want to run tires over 31", especially with lockers, then the odds of breaking an axle shaft or u-joint, or even bending a housing, go way up under even moderate usage.
   * The early Broncos, on the other hand, were big, heavy, and thus very solidly built. The stock axles for a 1973 EB were a standard-cut Dana 44 up front and the much-praised Ford 9" in the back. In a YJ they make for a very stout combination and reduce the odds of breakage even with large tires and lockers.
   * The brakes are bigger all around (I've ended up with 11" discs and 11" drums). The axles are about four inches wider than on the YJ, which is nice for a little extra stability too.
   * It was a cool project. Early on in the game I discovered that I couldn't find anyone who had ever done this swap before, so from then on it became a personal challenge. Something about the risk involved appealed to the fool within me. That and I had no idea what I was really getting into. My most ambitious project before this was an on-board air system (not even in the same ballpark) and while I'm mechanically inclined this was way beyond anything I'd ever done before.
 
-[![Angle view](../../../img/axle/upgrades/fordeb/home45_.jpg)](../../../img/axle/upgrades/fordeb/home45.jpg) 
+[![Angle view](../../../img/axle/upgrades/fordeb/home45_.jpg)](../../../img/axle/upgrades/fordeb/home45.jpg)
 
 ### How did it start?
 
-Before the swap, My Jeep was a relatively stock 1989 YJ. It had 2.5" OME lift springs in it and 31" AT tires, and that was as far as I thought I wanted to go with lift. Then Larry Soo (aka lars) got involved. I remember one conversation: 
+Before the swap, My Jeep was a relatively stock 1989 YJ. It had 2.5" OME lift springs in it and 31" AT tires, and that was as far as I thought I wanted to go with lift. Then Larry Soo (aka lars) got involved. I remember one conversation:
 
-Larry : "You should do a spring-over. Hmm... spring-over with OME springs."   
-Me: "Uh, yeah, right. Heh heh." 
+Larry : "You should do a spring-over. Hmm... spring-over with OME springs."
+Me: "Uh, yeah, right. Heh heh."
 
 But the seed was planted. I'd wanted to get a rear locker for a while, but didn't like the idea of throwing $$ at the stock D30 and D35 axles after hearing them bashed so often on the Jeep-L and Jeeptech lists.
 

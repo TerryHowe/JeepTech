@@ -6,7 +6,7 @@ description: "How to swap Scout II Dana 44s into a Jeep Wrangler YJ.  Details on
 ---
 # Swapping Dana 44s and a Dana 300 into a YJ
 
-[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)   
+[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)
 **by Lars**
 
 One major concern with the Scout II axle swap is the transfer case. The Scout II uses a passenger drop transfer case, so the front differential is on the passenger side. All the Wranglers use a drivers drop transfer case, so the solution is to use a Dana 300 from a 80s CJ. This also means that the exhaust needs to be rerouted around to the other side. There are also other details to the swap, some of the details are related to doing a spring over axle conversion.
@@ -19,9 +19,9 @@ After removing the crossmember/skidplate and NP231 transfer case, I temporarily 
 
 I also marked out which part of the floor pan needed to be pounded out in order to make room for the transfer case shifter. An easy way to do this (thanks to Wil for this tip) was to jack up the entire vehicle and then lower it onto a tall jack stand which will then push against the part of the floor which needs to be pounded up.
 
-While I had the skidplate removed, I cut off the exhaust hanger hoop which is mounted on the passenger's side of the transmission mount. I then welded it onto the driver's side of the mount so it could be re-used when the exhaust gets re-routed. 
+While I had the skidplate removed, I cut off the exhaust hanger hoop which is mounted on the passenger's side of the transmission mount. I then welded it onto the driver's side of the mount so it could be re-used when the exhaust gets re-routed.
 
-I used a torch to put the necessary bends in the shifter so that it crossed over the transmission and came up in the same place that the factory shifter did. An alternative method I've heard of is to simply turn the transmission tunnel cover around so that the shifter plate/boot is on the passenger-side. 
+I used a torch to put the necessary bends in the shifter so that it crossed over the transmission and came up in the same place that the factory shifter did. An alternative method I've heard of is to simply turn the transmission tunnel cover around so that the shifter plate/boot is on the passenger-side.
 
 The speedometer cable and breather tube hooked up to the Dana 300 without problems. Well, that's not quite accurate. I did manage to break the nut which holds the speedo gear assembly in the transfer case. It's a cheap, cast metal part so be very careful when tightening it. Fortunately, I was able to obtain a replacement the very next day from Gary's Autowrecking.
 
@@ -75,7 +75,7 @@ The 3.55 gears which these axles came with were an improvement over the 3.07 rat
 
 ### Still To Do
 
-I still have to re-route the vent lines to the axle breather tubes. I found an NPT fitting that I could screw into the front D44 but the rear had a very coarse thread. I may have to drill a new hole back there and thread it to NPT specs. 
+I still have to re-route the vent lines to the axle breather tubes. I found an NPT fitting that I could screw into the front D44 but the rear had a very coarse thread. I may have to drill a new hole back there and thread it to NPT specs.
 
 To prevent the dreaded axle-wrap problem, I have to build some kind of anti-wrap bar. I'll probably make one which mounts firmly to the axle housing and is shackled to the xfer case crossmember.
 
@@ -83,38 +83,38 @@ To prevent the dreaded axle-wrap problem, I have to build some kind of anti-wrap
 
 After seeing [ Chris Waterman's Early Ford Bronco axle swap](/axle/upgrades/fordeb/), I think that would be the route I'd strongly consider it for future YJ axle upgrades. It requires less work and is much less intimidating than the Scout axle swap. However, I can take solace in the following benefits over the EB axle swap:
 
-  * Scout front D44s come with disc brakes and large u-joints. 
-  * The Scout front D44 allows a slightly sharper turning radius. 
-  * Rear D44 uses 30-spline axle shafts vs. the Bronco's 28-spline units. 
+  * Scout front D44s come with disc brakes and large u-joints.
+  * The Scout front D44 allows a slightly sharper turning radius.
+  * Rear D44 uses 30-spline axle shafts vs. the Bronco's 28-spline units.
   * Rear D44 has a higher pinion, requiring a less severe driveshaft angle.
 
 I'd be hard pressed to say which swap has the overall performance advantage. The point to keep in mind, though, is that there are at least two relatively easy and affordable ways to turn a Jeep YJ into a extremely reliable off-road machine, able to compete head-to-head with the best.
 
 ### Thanks
 
-I wouldn't have been able to do this swap without help from a lot of people. In particular, I'd like to thank: 
+I wouldn't have been able to do this swap without help from a lot of people. In particular, I'd like to thank:
 
-**John Barron  
-Louie Belt  
-Rick Boiros  
-Rob Bryce  
-John Edgar  
-Wayne Foster  
-Wil Girindra  
-Ron Gooch  
-Phil Gough  
-Herbert Leung  
-Grant Klavatalks  
-Ed Mah  
-John Nutter  
-Vern O'Connor  
-Brad Peden  
-Steve Prinz  
-Richard Reimer  
-Chris Waterman  
-Jim Weed  
-Paul Weitlauf  
-Alan Wicker  
-Jonathan Yim  
-** [![Jonathan paints the axle housing](../../../img/axle/upgrades/ihscout/ss12_.jpg)](../../../img/axle/upgrades/ihscout/ss12.jpg)   
+**John Barron
+Louie Belt
+Rick Boiros
+Rob Bryce
+John Edgar
+Wayne Foster
+Wil Girindra
+Ron Gooch
+Phil Gough
+Herbert Leung
+Grant Klavatalks
+Ed Mah
+John Nutter
+Vern O'Connor
+Brad Peden
+Steve Prinz
+Richard Reimer
+Chris Waterman
+Jim Weed
+Paul Weitlauf
+Alan Wicker
+Jonathan Yim
+** [![Jonathan paints the axle housing](../../../img/axle/upgrades/ihscout/ss12_.jpg)](../../../img/axle/upgrades/ihscout/ss12.jpg)
 Jonathan

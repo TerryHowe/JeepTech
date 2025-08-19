@@ -6,7 +6,7 @@ description: "How to swap a SM420 4 speed into your YJ."
 ---
 # Swapping a SM420 into a Wrangler
 
-**by David Moulton** [![Transfer case adapter, transmission, bell housing](../../../img/transmission/upgrades/sm420yj/trans20_.jpg)](../../../img/transmission/upgrades/sm420yj/trans20.jpg) 
+**by David Moulton** [![Transfer case adapter, transmission, bell housing](../../../img/transmission/upgrades/sm420yj/trans20_.jpg)](../../../img/transmission/upgrades/sm420yj/trans20.jpg)
 
 When my 4 cyl YJ's transmission started to grind going into 3rd gear I started to look for alternatives. The AX-5 that came in my Jeep and most 4 cyl YJ's is not a bad transmission for the stock Jeep, but when you swap on larger tires and start wheeling frequently, it is only a matter of time.
 
@@ -32,7 +32,7 @@ If you know anyone who has a truck with a truck transmission like this you might
 
 It is louder than the stock tranny, especially first thru third. Fourth is about the same as the original transmission.
 
-There is no provision for reverse lights on most SM420's so you will have to wire in a switch for this purpose. 
+There is no provision for reverse lights on most SM420's so you will have to wire in a switch for this purpose.
 
 Hard parts, like gears and shafts are no longer available from GM, but synchros, bearings and gaskets can be had from 4x4 shops such as Hicks 4x4, or Border Parts. However, the transmission themselves are cheap and if a gear or shaft is needed, a whole trans can be obtained for less than $100 US in most salvage yards.
 
@@ -50,15 +50,15 @@ The bell housing used for this swap is the bell housing from an 1986 Chevy S-10 
 
 [![Bell housing](../../../img/transmission/upgrades/sm420yj/trans28_.jpg)](../../../img/transmission/upgrades/sm420yj/trans28.jpg) Some of the original bell housing mounting bolts are too long and will have to be replaced. The bell housing has to have some modifications. The two lower transmission mounting holes have to be drilled out to fit the SM420 bolts, cap screws will have to be used because of the limited room inside the bell housing. I had to have the cap screws turned down to fit. It was suggested to have these holes spot faced in a milling machine for a flat contact surface with the screw, a good idea.
 
-[![Bell housing mods](../../../img/transmission/upgrades/sm420yj/trans35_.jpg)](../../../img/transmission/upgrades/sm420yj/trans35.jpg) The starter cone has to have a piece taken out to fit the Jeep starter. A new inspection cover will have to be made, or the S-10 or YJ cover must be modified to fit. 
+[![Bell housing mods](../../../img/transmission/upgrades/sm420yj/trans35_.jpg)](../../../img/transmission/upgrades/sm420yj/trans35.jpg) The starter cone has to have a piece taken out to fit the Jeep starter. A new inspection cover will have to be made, or the S-10 or YJ cover must be modified to fit.
 
 The clutch release fork, pivot ball stud has a thick washer under it, this has to be removed or the clutch fork will hit the pressure plate. I used Locktight on the ball pivot stud. I also ground off a small amount on the clutch fork at the top of the pivot ball divot for a little extra clearance.
 
 ### Crank sensor
 
-A bracket must be made to hold the crank position sensor, I had a local machine shop do this, and took them the old bell housing for a guide. Of course they screwed it up and I had to reposition the hole when I put it in on a Saturday with the shop closed. This is very important to get right, in too far and the flywheel will eat your sensor, not enough and your engine won't run. 
+A bracket must be made to hold the crank position sensor, I had a local machine shop do this, and took them the old bell housing for a guide. Of course they screwed it up and I had to reposition the hole when I put it in on a Saturday with the shop closed. This is very important to get right, in too far and the flywheel will eat your sensor, not enough and your engine won't run.
 
-[![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans25_.jpg)](../../../img/transmission/upgrades/sm420yj/trans25.jpg) [![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans30_.jpg)](../../../img/transmission/upgrades/sm420yj/trans30.jpg) [![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans34_.jpg)](../../../img/transmission/upgrades/sm420yj/trans34.jpg) 
+[![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans25_.jpg)](../../../img/transmission/upgrades/sm420yj/trans25.jpg) [![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans30_.jpg)](../../../img/transmission/upgrades/sm420yj/trans30.jpg) [![Crank position sensor](../../../img/transmission/upgrades/sm420yj/trans34_.jpg)](../../../img/transmission/upgrades/sm420yj/trans34.jpg)
 
 ### Clutch slave cylinder
 

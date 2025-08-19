@@ -6,12 +6,12 @@ description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a 
 ---
 # Swapping an Early Bronco Front Dana 44 into a YJ
 
-[![Front view](../../../img/axle/upgrades/fordeb/homefrt_.jpg)](../../../img/axle/upgrades/fordeb/homefrt.jpg)   
+[![Front view](../../../img/axle/upgrades/fordeb/homefrt_.jpg)](../../../img/axle/upgrades/fordeb/homefrt.jpg)
 **by Chris Waterman**
 
 I love it! It's a big-ass Jeep, and it performs like I've always wanted it to. I also learned a hell of a lot in the process. I can safely say that EB axles make for a good swap candidate for YJ or TJ, but I'll add one caveat: if you're going to do it, do a spring-over (YJ) or lift springs at the same time like I did.
 
-Don't like the spring-over thing? Then make some measurements and be REAL sure that there aren't any problems with the front diff and driveshaft touching anything. Otherwise, this really is a good swap. You can run the axles uncut, and with standard-offset wheels the width is perfect. Plus you can keep your NP231 or NP207 transfer case, since the front diff's on the same side as the D30. That's the major problem with the Scout axle swap.s 
+Don't like the spring-over thing? Then make some measurements and be REAL sure that there aren't any problems with the front diff and driveshaft touching anything. Otherwise, this really is a good swap. You can run the axles uncut, and with standard-offset wheels the width is perfect. Plus you can keep your NP231 or NP207 transfer case, since the front diff's on the same side as the D30. That's the major problem with the Scout axle swap.s
 
 Another advantage of the early Bronco axles over the Scout axles is there's no fancy welding, knuckle-turning, diff-housing grinding, or any other funky stuff required to make it work. On the other hand, the small u-joints in the front are a potential weakness, but the driver side shaft is easily upgraded, and the passenger side shaft can be upgraded with a little work.
 
@@ -33,10 +33,10 @@ The stock YJ master cylinder appears to be up to the task of stopping the Chevy 
 
 ### Conclusion
 
-The only thing I might have done differently would be to use axles from a '76 or '77 Bronco, since then you'd get the front disc brakes. 
+The only thing I might have done differently would be to use axles from a '76 or '77 Bronco, since then you'd get the front disc brakes.
 
-_Pearl of wisdom: Axle swaps are expensive._.   
----  
+_Pearl of wisdom: Axle swaps are expensive._.
+---
 Sure I saved a chunk of money doing it myself, but be aware that it isn't a cheap venture, and that it WILL cost you more than you think. No amount of planning will entirely prevent Murphy's Law and lots of little hidden costs from creeping up and biting you when you least expect them.
 
 [![Larry Soo lends a helping hand](../../../img/axle/upgrades/fordeb/larshlp_.jpg)](../../../img/axle/upgrades/fordeb/larshlp.jpg)

@@ -6,9 +6,9 @@ description: "Various lock-outs aka hubs used in Jeep CJs over the years.  This 
 ---
 # Jeep Lock Out Hubs
 
-[![hubs](../../img/axle/hubs_.jpg)](../../img/axle/hubs.jpg) 
+[![hubs](../../img/axle/hubs_.jpg)](../../img/axle/hubs.jpg)
 
-This article covers everything you could possibly want to know about hubs (aka lock-outs) and other axle disconnect systems for short wheel base Jeeps. The same principles apply to larger Jeeps as well and at some point this article will be expanded to cover the systems used in the larger Jeeps. 
+This article covers everything you could possibly want to know about hubs (aka lock-outs) and other axle disconnect systems for short wheel base Jeeps. The same principles apply to larger Jeeps as well and at some point this article will be expanded to cover the systems used in the larger Jeeps.
 
 ### Hub, Brake Hub, and Lock-out
 
@@ -20,7 +20,7 @@ The hub bolts onto the brake hub. Inside the hub is a splined sleeve that moves 
 
 ### What the Axle Disconnect System Does
 
-[![Data 30 vacuum](../../img/axle/d30vac_.jpg)](../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time. 
+[![Data 30 vacuum](../../img/axle/d30vac_.jpg)](../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time.
 
 ### What are Six Bolt Hubs?
 
@@ -34,17 +34,17 @@ CJ-7s built from '76-'79 with the automatic transmission and Quadra-Trac transfe
 
 ### What Kind of Hub do I Have?
 
-Over the years, CJs have used basically three styles of hubs 
+Over the years, CJs have used basically three styles of hubs
 
   1. 10 spline/six bolts for mounting used '71 and prior
-  2. 27 spline/six bolts for mounting used '72 - '80 
+  2. 27 spline/six bolts for mounting used '72 - '80
   3. 27 spline/five bolts for mounting used '81-'86
 
 The '87-'95 Wrangler YJ used an automatic vacuum operated axle disconnect system and the newer Wrangler TJ '97+ doesn't use any disconnect system whatsoever. There are many advantages to having a Jeep equipped with hubs or some sort of axle disconnect system, as long as the system is reliable.
 
 ### Can I Put Hubs on my Wrangler?
 
-There are kits being made today to make it possible to install hubs onto a Wrangler. Installing hubs onto the stock axle on a Wrangler is not necessarily a simple operation. Converting a Wrangler to hubs would not necessarily be practical. Wranglers use a small 5 on 4.5" wheel bolt pattern (CJs use 5 on 5.5"). The small wheel bolt pattern leaves little space for a hub and the small hubs tend to break. If you have ever wheeled with someone with a Ford Ranger, you have probably seen a hub break. The Ford ranger uses the 5 on 4.5" wheel bolt pattern and hubs, the hubs break all the time (but they are easy to place). 
+There are kits being made today to make it possible to install hubs onto a Wrangler. Installing hubs onto the stock axle on a Wrangler is not necessarily a simple operation. Converting a Wrangler to hubs would not necessarily be practical. Wranglers use a small 5 on 4.5" wheel bolt pattern (CJs use 5 on 5.5"). The small wheel bolt pattern leaves little space for a hub and the small hubs tend to break. If you have ever wheeled with someone with a Ford Ranger, you have probably seen a hub break. The Ford ranger uses the 5 on 4.5" wheel bolt pattern and hubs, the hubs break all the time (but they are easy to place).
 
 ### Increased Fuel Economy
 
@@ -56,11 +56,11 @@ Another advantage of hubs is the decreased wear and tear on the front axle. As m
 
 ### In Case of Breakage
 
-One of the best features of hubs is they allow you to stop your axle shafts, ring and pinion, and front drive shaft from spinning if you damage something. If you can disconnect these parts you can prevent further damage, and it might make an undrivable vehicle drivable. 
+One of the best features of hubs is they allow you to stop your axle shafts, ring and pinion, and front drive shaft from spinning if you damage something. If you can disconnect these parts you can prevent further damage, and it might make an undrivable vehicle drivable.
 
 ### Weak Link
 
-The hub should be the weak link in your front axle. Hubs are generally less expensive to buy than shafts, ring and pinion, or drive shafts. Hubs are also a lot easier to replace than an axle shaft or the ring and pinion. Spare hubs are also easy to pack. The 5-bolt hubs are a bit too weak, the 6-bolt hubs are a good balance of strength. 
+The hub should be the weak link in your front axle. Hubs are generally less expensive to buy than shafts, ring and pinion, or drive shafts. Hubs are also a lot easier to replace than an axle shaft or the ring and pinion. Spare hubs are also easy to pack. The 5-bolt hubs are a bit too weak, the 6-bolt hubs are a good balance of strength.
 
 ### Locker Up Front
 

@@ -6,8 +6,8 @@ description: "Jeep page for Terry Howe, The Jeeptech Editor."
 ---
 # Terry Howe's Jeep Page
 
-![Poison Spider](../img/terry/rand/mo980903_.jpg)   
-(Poison Spider Mesa, Utah)   
+![Poison Spider](../img/terry/rand/mo980903_.jpg)
+(Poison Spider Mesa, Utah)
 
 ![](../img/terry/cj6/cj601_.jpg)
 

@@ -12,7 +12,7 @@ After running the same spring under axle (SUA) setup with a shackle reversal for
 
 ## Spring Mounts
 
-[![fixed front spring hanger](../../img/suspension/custcj/mkcj2s.jpg)](../../img/suspension/custcj/mkcj2.jpg) 
+[![fixed front spring hanger](../../img/suspension/custcj/mkcj2s.jpg)](../../img/suspension/custcj/mkcj2.jpg)
 
 Mike wanted to keep his shackle reversal while doing the SOA. His original shackle reversal system was relocated and raised to give a better approach angle. Almost two inches were taken off between the spring eyes and the frame. The bracketry was moved forwards until the main spring eye was directly below the leading edge of the frame.
 
@@ -20,19 +20,19 @@ Mike wanted to keep his shackle reversal while doing the SOA. His original shack
 
 ## Springs:
 
-[![Spring packs](../../img/suspension/custcj/mkcj10s.jpg)](../../img/suspension/custcj/mkcj10.jpg) Mike originally tried using some stock CJ rear springs, but they didn't have enough arch for his needs. Next Mike ordered from JC Whitney some heavy duty CJ rear spring packs with military wrap. These springs are real nice springs for the cost. 
+[![Spring packs](../../img/suspension/custcj/mkcj10s.jpg)](../../img/suspension/custcj/mkcj10.jpg) Mike originally tried using some stock CJ rear springs, but they didn't have enough arch for his needs. Next Mike ordered from JC Whitney some heavy duty CJ rear spring packs with military wrap. These springs are real nice springs for the cost.
 
-[![Spring clamp](../../img/suspension/custcj/mkcj11s.jpg)](../../img/suspension/custcj/mkcj11.jpg) The only down side to these springs is they came with cheesy clamps that would get torn off quickly on rocks. To prevent his packs from fanning out Mike had some riveted on spring clamps added that are similar to what Jeep uses from the factory. While the packs were apart Mike painted them again. 
+[![Spring clamp](../../img/suspension/custcj/mkcj11s.jpg)](../../img/suspension/custcj/mkcj11.jpg) The only down side to these springs is they came with cheesy clamps that would get torn off quickly on rocks. To prevent his packs from fanning out Mike had some riveted on spring clamps added that are similar to what Jeep uses from the factory. While the packs were apart Mike painted them again.
 
 ## Steering:
 
-[![Tie rod and drag link bracket](../../img/suspension/custcj/mkcj12s.jpg)](../../img/suspension/custcj/mkcj12.jpg) Mike designed a custom high clearance steering setup and had a friend who is a machinist fabricate it. It uses mid '70s Wagoneer knuckles and flame cut arms for the drag link and tie rod. Mike used the same setup that I used in my [High Clearance Steering](/steer/soasteering/), except he used 3/4" heim joints with a 40,000 lb tensile strength rating instead of tie rod ends. Mike also used some thick walled DOM tubing for the tie rod and drag link. One end was tapped for right hand threads and one for left to make adjustments easier. The custom steering arms were designed with heim joints in mind, but the pitman arm had to be drilled to fit the bolt. 
+[![Tie rod and drag link bracket](../../img/suspension/custcj/mkcj12s.jpg)](../../img/suspension/custcj/mkcj12.jpg) Mike designed a custom high clearance steering setup and had a friend who is a machinist fabricate it. It uses mid '70s Wagoneer knuckles and flame cut arms for the drag link and tie rod. Mike used the same setup that I used in my [High Clearance Steering](/steer/soasteering/), except he used 3/4" heim joints with a 40,000 lb tensile strength rating instead of tie rod ends. Mike also used some thick walled DOM tubing for the tie rod and drag link. One end was tapped for right hand threads and one for left to make adjustments easier. The custom steering arms were designed with heim joints in mind, but the pitman arm had to be drilled to fit the bolt.
 
 ## Shock towers and shocks:
 
 Mike had Pat Hegleson at Custom Welding in Williston, ND build these shock towers and cross brace. The original front shock towers were cut off and the new setup was mocked up. With the new shock towers clamped in place jack stands and a floor jack were used to contort the Jeep and test the suspension flex. Opposite corners were raised until a tire came off the ground. Clearances were noted and the position of the shock towers were adjusted. When Mike was happy with the shock tower placement, the shock towers were welded in place. The cross brace uses polyurethane bushings to allow for flex and disassembly in case the motor needs to be removed.
 
-[![Shock tower](../../img/suspension/custcj/mkcj13s.jpg)](../../img/suspension/custcj/mkcj13.jpg) [![Shock tower](../../img/suspension/custcj/mkcj14s.jpg)](../../img/suspension/custcj/mkcj14.jpg)   
+[![Shock tower](../../img/suspension/custcj/mkcj13s.jpg)](../../img/suspension/custcj/mkcj13.jpg) [![Shock tower](../../img/suspension/custcj/mkcj14s.jpg)](../../img/suspension/custcj/mkcj14.jpg)
 
 ## Acknowledgments
 

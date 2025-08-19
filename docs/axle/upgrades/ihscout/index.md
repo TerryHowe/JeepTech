@@ -6,8 +6,8 @@ description: "How to swap Scout II Dana 44s into a Jeep Wrangler YJ.  Details on
 ---
 # Swapping Dana 44s and a Dana 300 into a YJ
 
-[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)  
-  
+[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)
+
 **by Lars**
 
 When evaluated as a hard-core off-road vehicle, the Jeep YJ is often praised for its excellent fuel-injected motor and panned for its weak axles and low, limited-articulation suspension. Dealing with the suspension is easy enough: there are many aftermarket kits available to lift the YJ and dramatically increase the suspension's articulation. Increasing the axle strength is another matter.
@@ -18,7 +18,7 @@ This write-up will summarize the process of installing Scout axles and a Dana 30
 
 ## My Setup and Why I Made These Choices
 
-After a lot of pondering, I decided to install a pair of Scout Dana 44 axles and a CJ Dana 300 transfer case. My decision was based on the following requirements: 
+After a lot of pondering, I decided to install a pair of Scout Dana 44 axles and a CJ Dana 300 transfer case. My decision was based on the following requirements:
 
   1. Whatever axles I chose had to be cheap. In this respect, I was extremely lucky that my good friend, Rob Bryce, located a complete set of Scout axles for me which only cost $65.
   2. The rear axle had to be compatible (same width, same bolt pattern) with a front axle which permitted me to use free wheeling hubs.

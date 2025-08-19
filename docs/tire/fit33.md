@@ -6,7 +6,7 @@ description: "How to fit the biggest tires possible under your Jeep with the lea
 ---
 # Big Tire, Little Lift
 
-[![After fender trimming](../img/fit33a_.jpg)](../img/fit33a.jpg) 
+[![After fender trimming](../img/fit33a_.jpg)](../img/fit33a.jpg)
 
 The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. The less lift you have, the lower your center of gravity and springs with less arc flex better than springs with more arc. Besides suspension lifts, body lifts and fender trimming can be used to fit big tires. My goal was to fit 33s so that I could do all the hard trails with the least amount of lift possible.
 

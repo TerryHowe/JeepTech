@@ -6,11 +6,11 @@ description: "Jeep transmission information covering upgrades, factory options, 
 ---
 # Transmissions
 
-This directory contains comprehensive information about Jeep transmissions, covering various models used throughout Jeep's history. 
+This directory contains comprehensive information about Jeep transmissions, covering various models used throughout Jeep's history.
 
 ## Factory Transmissions
 
-The [factory](factory/) subdirectory contains detailed information about original equipment manufacturer (OEM) transmissions used in Jeep vehicles, including: 
+The [factory](factory/) subdirectory contains detailed information about original equipment manufacturer (OEM) transmissions used in Jeep vehicles, including:
 
   * Manual transmissions (T-18, T-176, T-5, AX-5, AX-15, etc.)
   * Automatic transmissions (TF-904, TF-999, TH-400, etc.)
@@ -19,11 +19,11 @@ The [factory](factory/) subdirectory contains detailed information about origina
 
 ## Transmission Upgrades and Swaps
 
-For information about transmission upgrades, swaps, and conversions, visit the [upgrades section](upgrades/). 
+For information about transmission upgrades, swaps, and conversions, visit the [upgrades section](upgrades/).
 
 ### Contents
 
-Browse the factory transmission information to learn about: 
+Browse the factory transmission information to learn about:
 
   * Transmission identification and specifications
   * Gear ratios and performance characteristics

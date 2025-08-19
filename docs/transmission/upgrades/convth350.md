@@ -6,7 +6,7 @@ description: "How to swap a Turbo 350 into your Jeep.  The TH350 is a heavy duty
 ---
 # Swapping TH350 into your Jeep
 
-[![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)](../../img/transmission/upgrades/th350/th3503.jpg) 
+[![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)](../../img/transmission/upgrades/th350/th3503.jpg)
 
 The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best automatic transmission to swap in a short Jeep such as a flat fender or CJ-5.
 
@@ -18,10 +18,10 @@ Some people will argue that a TH400 is everything a TH350 is, but it is stronger
 
 ## TH350 Swap Stories
 
-|  [Pieces and Parts Transmission](https://www.4x4wire.com/jeep/projects/pieces/transmission/factory/): The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best transmission to swap in a short Jeep such as a flat fender.   
----|---  
-  
+|  [Pieces and Parts Transmission](https://www.4x4wire.com/jeep/projects/pieces/transmission/factory/): The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best transmission to swap in a short Jeep such as a flat fender.
+---|---
+
 ## TH350 Identification
 
-The TH350 has been used in many different GM cars and trucks. There are several variations of the TH350, the transmission you should look for depends on what engine you are using.   
+The TH350 has been used in many different GM cars and trucks. There are several variations of the TH350, the transmission you should look for depends on what engine you are using.
 ![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)[ Turbo 350 ](/transmission/upgrades/gm/gmth350id.md): Finding a Turbo 350 three speed automatic transmission.

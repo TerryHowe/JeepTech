@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Postal/Dispatch Jeep (DJ)
 
-The Postal/Dispatch Jeep was made in two basic models, the DJ-3A and the DJ-5. The DJ-3A was a flat fender postal Jeep similar to the CJ-3A except it was two wheel drive. It was produced from 1956 until 1965. The DJ-5 was introduced in 1965 which is the postal Jeep most people are familiar with today. They also produced a long version from 1965 until 1968, the DJ-6. The DJ-5 was made by Jeep into the early 70s and production continued under AM General. 
+The Postal/Dispatch Jeep was made in two basic models, the DJ-3A and the DJ-5. The DJ-3A was a flat fender postal Jeep similar to the CJ-3A except it was two wheel drive. It was produced from 1956 until 1965. The DJ-5 was introduced in 1965 which is the postal Jeep most people are familiar with today. They also produced a long version from 1965 until 1968, the DJ-6. The DJ-5 was made by Jeep into the early 70s and production continued under AM General.
 
 ## Drive Train
 
@@ -55,13 +55,13 @@ The Postal/Dispatch Jeep was made in two basic models, the DJ-3A and the DJ-5. T
 
 ### DJ-6
 
-Year | Serial Number Range  | Production  
----|---|---  
-1965 | xxx - xxx | ppp  
-1966 | xxx - xxx | ppp  
-1967 | xxx - xxx | ppp  
-1968 | xxx - xxx | ppp  
-  
+Year | Serial Number Range  | Production
+---|---|---
+1965 | xxx - xxx | ppp
+1966 | xxx - xxx | ppp
+1967 | xxx - xxx | ppp
+1968 | xxx - xxx | ppp
+
 ### Serial Number Locations
 
 Serial numbers are located on the . . .

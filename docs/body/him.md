@@ -8,7 +8,7 @@ description: "How to mount a Hi-Lift (aka Jack-all) jack in your Jeep Wrangler o
 
 **by Terry Morris**
 
-[![Hi-Lift jack mount, back view](../img/body/him2_.jpg)](../img/body/him2.jpg) 
+[![Hi-Lift jack mount, back view](../img/body/him2_.jpg)](../img/body/him2.jpg)
 
 Following is the procedure that I created to mount a 4 ft high lift jack directly behind the rear seat perched on the wheel wells. Most of this is common sense and you may wish to modify to your wishes...however this gives you the idea. The nice thing about this is that is "rollover proof" and it out of the elements and occupies space otherwise wasted.
 

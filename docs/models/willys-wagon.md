@@ -6,24 +6,24 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Willys Wagon
 
-[![Willys-Overland Wagon Drivers Side](../img/wwd_.jpg)](../img/wwd.jpg) 
+[![Willys-Overland Wagon Drivers Side](../img/wwd_.jpg)](../img/wwd.jpg)
 
 The Station and Delivery Wagons were produced from 1946 through 1965.
 
-[![Willys-Overland Wagon Passenger Side](../img/wwp_.jpg)](../img/wwp.jpg) 
+[![Willys-Overland Wagon Passenger Side](../img/wwp_.jpg)](../img/wwp.jpg)
 
 ### Variations
 
-Model| Basic Variations  
----|---  
-Jeep Station Wagon  
-2-Wheel Drive| None  
-Jeep 4x4 Utility Wagon | Utility Wagon, Cowl and Windshield,  
-and Flat Faced Cowl  
-Jeep Panel Delivery  
-2-Wheel Drive - 4-Wheel Drive | Panel Delivery 2wd, Flat Faced Cowl,  
-Cowl and Windshield, and Traveler  
-  
+Model| Basic Variations
+---|---
+Jeep Station Wagon
+2-Wheel Drive| None
+Jeep 4x4 Utility Wagon | Utility Wagon, Cowl and Windshield,
+and Flat Faced Cowl
+Jeep Panel Delivery
+2-Wheel Drive - 4-Wheel Drive | Panel Delivery 2wd, Flat Faced Cowl,
+Cowl and Windshield, and Traveler
+
 ### Specifications
 
 | Wheelbase    | 104"                           |
@@ -34,19 +34,19 @@ Cowl and Windshield, and Traveler
 | Front Tread  | 57"                            |
 | Rear Tread   | 57"                            |
 | Gross Weight | 4500 lbs (ex 4x2 SW 4300 lbs.) |
-| Year         | Model                          | Curb Weight | 1949| 4x2 SW| 2898 lbs.  
-| 1963         | 6-230 4x4 UW                   | 3345 lbs  
-| 1963         | 6-230 4x4 UD                   | 3147 lbs  
-| 1963         | F4-134 4x4 UW                  | 3228 lbs  
-| 1963         | F4-134 4x4 UD                  | 3030 lbs  
-| 1963         | 6-230 4x2 UW                   | 3106 lbs  
-| 1963         | 6-230 4x2 UD                   | 2998 lbs  
-| 1963         | F4-134 4x2 UW                  | 2993 lbs  
-| 1963         | F4-134 4x2 UD                  | 2881 lbs  
-  
+| Year         | Model                          | Curb Weight | 1949| 4x2 SW| 2898 lbs.
+| 1963         | 6-230 4x4 UW                   | 3345 lbs
+| 1963         | 6-230 4x4 UD                   | 3147 lbs
+| 1963         | F4-134 4x4 UW                  | 3228 lbs
+| 1963         | F4-134 4x4 UD                  | 3030 lbs
+| 1963         | 6-230 4x2 UW                   | 3106 lbs
+| 1963         | 6-230 4x2 UD                   | 2998 lbs
+| 1963         | F4-134 4x2 UW                  | 2993 lbs
+| 1963         | F4-134 4x2 UD                  | 2881 lbs
+
 ### Historical Notes & Items of Interest
 
-Willys do Brasil was producing 2wd and 4wd Station Wagons called the Rural in 1960. The Rural had a different front fenders, hood, grille, and taillights. Brooks Stevens contributed to their unique front end appearance. 
+Willys do Brasil was producing 2wd and 4wd Station Wagons called the Rural in 1960. The Rural had a different front fenders, hood, grille, and taillights. Brooks Stevens contributed to their unique front end appearance.
 
 ## Drive Train
 
@@ -246,26 +246,26 @@ Willys do Brasil was producing 2wd and 4wd Station Wagons called the Rural in 19
 
 ### Later Production Information
 
-1962  
--  
-1965 |  6-230 4x4 Station Wagon (Utility Wagon)  
-6-230 4x2 Sedan Delivery (Utility Delivery)  
-6-230 4x4 Sedan Delivery (Utility Delivery)  
-6-230 4x4 Flat Face Cowl  
-6-230 4x4Cowl and Windshield  
-6-230 4x4 Stripped Chassis  
-6-230 4x2 Station Wagon (Utility Wagon) |  54178-10001 and up  
-54277-10001 and up  
-54278-10001 and up  
-54478-10001 and up  
-54578-10001 and up  
-54678-10001 and up  
-58177-10001 and up  
-| ***  
----|---|---|---  
-* The VJ-2 is included in this serial number range.  
-** Serial numbers consecutive with 1955 production.  
-*** Production data not available.  
+1962
+-
+1965 |  6-230 4x4 Station Wagon (Utility Wagon)
+6-230 4x2 Sedan Delivery (Utility Delivery)
+6-230 4x4 Sedan Delivery (Utility Delivery)
+6-230 4x4 Flat Face Cowl
+6-230 4x4Cowl and Windshield
+6-230 4x4 Stripped Chassis
+6-230 4x2 Station Wagon (Utility Wagon) |  54178-10001 and up
+54277-10001 and up
+54278-10001 and up
+54478-10001 and up
+54578-10001 and up
+54678-10001 and up
+58177-10001 and up
+| ***
+---|---|---|---
+* The VJ-2 is included in this serial number range.
+** Serial numbers consecutive with 1955 production.
+*** Production data not available.
 
 ### Serial Number Locations
 

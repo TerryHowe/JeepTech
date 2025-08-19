@@ -8,7 +8,7 @@ description: "How to do a spring over axle conversion on your CJ.  Using YJ spri
 
 **by John Nutter**
 
-[![1000 RTI](../img/suspension/yjsp5_.jpg)](../img/suspension/yjsp5.jpg) 
+[![1000 RTI](../img/suspension/yjsp5_.jpg)](../img/suspension/yjsp5.jpg)
 
 The sage Jeeping guru Jefe once said "Eventually, every serious rock crawler will go spring over." The virtues and faults of SOA have been debated many times, but eventually all discussions come to the conclusion that going SOA is the only way to free up the very significant space under the axle tubes where the spring packs normally reside. The only real disadvantage of going SOA is the possibility of inducing wheel hop, but as I will explain later wheel hop is easily controlled. SOA has been used by many manufactures on both front and rear ends, and these OEM SOA setups prove that it works well.
 
@@ -22,7 +22,7 @@ With the flat arch springs on a SOA you can also angle your front shackles furth
 
 The rear springs used in CJs and YJs are the same width, so the rear springs bolt right in. The YJ front springs are a little longer and wider than CJ front springs. The fixed spring hanger for the CJs front spring is the correct width because the CJ front spring uses a wide bushing in the back. It is the shackle side of the CJ that is not compatible with the YJ front springs.
 
-[![Rivet replacement](../img/suspension/yjsp1_.jpg)](../img/suspension/yjsp1.jpg) For the shackle end of the front springs, CJ rear spring hangers are the right width and only cost about $14.99ea new. They need to be moved forward so that the rear hole in the spring hanger goes where the old front hole used to be. There is a rivet in the frame at the location where the new front hole needs to be. The rivet holds the cross member in place. I welded the cross member to the frame, ground the heads off the rivets and punched them out. The bolt holes lined up perfectly. The picture to the left shows where the front spring hanger needs to be modified. The red arrow points to the rivet to be removed and the blue area shows where to weld. Weld before removing the rivet so everything stays in place. The rivet hole will be used for the forward bolt on the spring hanger. 
+[![Rivet replacement](../img/suspension/yjsp1_.jpg)](../img/suspension/yjsp1.jpg) For the shackle end of the front springs, CJ rear spring hangers are the right width and only cost about $14.99ea new. They need to be moved forward so that the rear hole in the spring hanger goes where the old front hole used to be. There is a rivet in the frame at the location where the new front hole needs to be. The rivet holds the cross member in place. I welded the cross member to the frame, ground the heads off the rivets and punched them out. The bolt holes lined up perfectly. The picture to the left shows where the front spring hanger needs to be modified. The red arrow points to the rivet to be removed and the blue area shows where to weld. Weld before removing the rivet so everything stays in place. The rivet hole will be used for the forward bolt on the spring hanger.
 
 [![Steering box spacer](../img/suspension/yjsp2_.jpg)](../img/suspension/yjsp2.jpg) Moving the hanger forward leaves a space between the steering box bracket and frame where the back part of the spring hanger used to be. I cut off a piece of the old spring hanger and used it as a shim. The red arrow points to the spacer for the steering box made from the old front spring hanger.
 
@@ -42,7 +42,7 @@ If you have kept the stock Dana 30 you will probably need to fabricate some spri
 
 ### Brake Hoses
 
-If you want your CJ to ramp over 1000, you'll need to give some attention to brake hoses. If you use stock hose in their stock locations, it is very likely your hoses will limit travel. To complete the swap full size Jeep (FSJ) or Chevy Blazer brake lines relocated to mount off the bottom bolt of the shock tower work well. 
+If you want your CJ to ramp over 1000, you'll need to give some attention to brake hoses. If you use stock hose in their stock locations, it is very likely your hoses will limit travel. To complete the swap full size Jeep (FSJ) or Chevy Blazer brake lines relocated to mount off the bottom bolt of the shock tower work well.
 
 ### Drag Link and Tie Rod
 
@@ -68,5 +68,5 @@ A common complaint of CJ owners who have used YJ springs SOA is that they are to
 
 The end result with my CJ7 was RTI scores over 1000 by using springs that someone gave me for free and no expensive conversion kit. The SOA leaves plenty of room for tires, my 33s don't rub at all and it looks like there is plenty of room for 35s.
 
-[![SOA Clearance](../img/suspension/yjsp3_.jpg)](../img/suspension/yjsp3.jpg)   
+[![SOA Clearance](../img/suspension/yjsp3_.jpg)](../img/suspension/yjsp3.jpg)
 SOA, 1" body lift, and 33" Swampers.
