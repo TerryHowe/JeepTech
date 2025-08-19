@@ -10,16 +10,16 @@ The "Super Hurricane" 226 L-Head engine has a cast iron block and cylinder head 
 
 The 226 used between 1954-1958 has a slightly higher horse power rating than the later 226.
 
-| Attribute | Specification |
-|-------------------------------|---|
-| Bore x Stroke | 3.94" x 4.375" |
-| Displacement | 226.2 Cubic Inches |
-| Compression Ratio | 6.861:1 |
-| Horsepower (gross) | 115@3800rpm |
-| Torque (gross) | 190@1800 |
-| Main Bearings | 4 |
-| Valve Configuration | L-head |
-| Fuel | 1-bbl Carter |
+| Attribute           | Specification      |
+|---------------------|--------------------|
+| Bore x Stroke       | 3.94" x 4.375"     |
+| Displacement        | 226.2 Cubic Inches |
+| Compression Ratio   | 6.861:1            |
+| Horsepower (gross)  | 115@3800rpm        |
+| Torque (gross)      | 190@1800           |
+| Main Bearings       | 4                  |
+| Valve Configuration | L-head             |
+| Fuel                | 1-bbl Carter       |
 
 The 226 used from 1959-1962 has a slightly lower horsepower rating, but the torque peak comes at a lower RPM.
 
