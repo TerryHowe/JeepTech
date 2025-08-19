@@ -5,8 +5,7 @@ author: "Terry L. Howe"
 description: "Description, drive train specifications, and production information for the Willys Jeep MA and MB and Ford GPW"
 ---
 # MA, MB, and GPW
-
-![military jeeps](../img/military.gif)   
+ 
 [![Willys-Overland MB front view](../img/mbf_.jpg)](../img/mbf.jpg) 
 
 The MA was the prototype that won Willys the contract with the U.S. Government. Willys built approximately 1550 of them in 1941. From late 1941 until mid 1945, Willys built MBs and Ford built GPWs based on the Willys design. 

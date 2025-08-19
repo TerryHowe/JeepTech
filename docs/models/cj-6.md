@@ -7,11 +7,9 @@ description: "Description, drive train specifications, and production informatio
 
 # CJ-6
 
-[![CJ-6 front side](../img/cj6f_.jpg)](../img/cj6f.jpg) 
+![CJ-6](../img/models/cj6.jpg "CJ-6")
 
 The CJ-6 was produced from 1958 through 1975.
-
-[![CJ-6 back side](../img/cj6b.jpg)](../img/cj6b.jpg) 
 
 ## Drive Train
 
