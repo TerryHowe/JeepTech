@@ -6,7 +6,7 @@ description: "How to swap full size Wagoneer/Cherokee Dana 44s into a Jeep Wrang
 ---
 # Swapping an SJ Dana 44 into a Wrangler
 
-[![Christmas in Arizona with Dana 44s](../../../img/axle/upgrades/sjd44yj/jeepxmas0_.jpg)](../../../img/axle/upgrades/sjd44yj/jeepxmas0.jpg)
+[![Christmas in Arizona with Dana 44s](../../img/axle/upgrades/sjd44yj/jeepxmas0_.jpg)](../../img/axle/upgrades/sjd44yj/jeepxmas0.jpg)
 **by Michael Schwitzing**
 
 The benefits of swapping in axles for the Jeep YJ are definitely worth the effort. Although I did not do a spring over conversion at the time of my axle swap, incorporating one would be possible. If you are planning on an SOA set up in a YJ, swapping in larger axles is an excellent idea especially considering that most SOA Jeeps I've seen are running 35 inch tires. After seeing the size difference in components, as well as the "effectiveness" of C clip axles, I would make the removal of the Dana 35C a must in an SOA conversion.
@@ -19,7 +19,7 @@ Another advantage of swapping in a Dana 44 up front is it gives you something no
 
 The swap I did involved a Wagoneer/Cherokee (SJ) front end, and a Scout II rear end. The widths of both these axles are compatible and very similar to the dimensions of the stock YJ axles. There are 2 widths available in the SJs, the narrow track version is closer to the right width. The narrow track Wagoneer and Cherokee Jeeps lacked extensions on the fenders. You will find both right, and left hand drop differentials on these axles. The stock YJ has the diff on the driver's side. If you are keeping your original transfer case, a compatible front end must be found.
 
-When I performed my swap I opted to install the venerable Atlas II transfer case. If one wishes to incorporate a D300 transfer case into the swap, and get rid of the NP231, now is decision time. The CJs had diffs on the passenger side. Benefits include: longer drive shaft, GEARED Tcase, and IMO a better unit than the 231. As mentioned I did not install the D300. If you are interested in swapping in a Dana 300, check out Larry Soo's [ axle and transfer case conversion article](../ihscout/index.md).
+When I performed my swap I opted to install the venerable Atlas II transfer case. If one wishes to incorporate a D300 transfer case into the swap, and get rid of the NP231, now is decision time. The CJs had diffs on the passenger side. Benefits include: longer drive shaft, GEARED Tcase, and IMO a better unit than the 231. As mentioned I did not install the D300. If you are interested in swapping in a Dana 300, check out the [Scout Dana 300 conversion information](../../xfer/upgrades/scout300.md).
 
 It wasn't until 1974 when Cherokees and Wagoneers started using the open knuckle Dana 44 that makes good swap material. Open knuckle axles allow a vehicle to have a better turning radius. The Wagoneers had disk brakes standard, but they were optional on the Cherokees until 1976.
 
@@ -33,9 +33,9 @@ I sent the shafts to Mosier where they charged $50/pair to weld/redrill the axle
 
 ### Swapping The Front Axle
 
-![Drivers side front axle](../../../img/axle/upgrades/sjd44yj/d44-3.jpg) The spring perches on the SJ axle are 1 inch farther apart than the spring perches on the YJ. This means each spring perch needs to come 1/2 inch inboard. The drivers side is the tricker side sine the spring perch is integrated into the diff housing. Grind into the differential housing webbing 1/2 inch as shown in the blurry picture to the right. Fill in the gap with some steel and fill the king pin hole with weld. Grind the welds smooth and redrill the king pin hole 1/2" in from the original location.
+![Drivers side front axle](../../img/axle/upgrades/sjd44yj/d44-3.jpg) The spring perches on the SJ axle are 1 inch farther apart than the spring perches on the YJ. This means each spring perch needs to come 1/2 inch inboard. The drivers side is the tricker side sine the spring perch is integrated into the diff housing. Grind into the differential housing webbing 1/2 inch as shown in the blurry picture to the right. Fill in the gap with some steel and fill the king pin hole with weld. Grind the welds smooth and redrill the king pin hole 1/2" in from the original location.
 
-![Passenger side front axle](../../../img/axle/upgrades/sjd44yj/d44-1.jpg) The passenger side is easier since there is only a spring perch. I used some 1/2 inch thick steel plate and welded in next to the the inner part of the spring perch. The nice part about this swap is it is not necessary to cut off the spring perch and remount it. The king pin also gets redrilled 1/2" to the inside, measure twice and drill once.
+![Passenger side front axle](../../img/axle/upgrades/sjd44yj/d44-1.jpg) The passenger side is easier since there is only a spring perch. I used some 1/2 inch thick steel plate and welded in next to the the inner part of the spring perch. The nice part about this swap is it is not necessary to cut off the spring perch and remount it. The king pin also gets redrilled 1/2" to the inside, measure twice and drill once.
 
 #### U-Bolts
 
@@ -51,7 +51,7 @@ The stock YJ pitman arm is retained. The steering linkage will match up fine if 
 
 #### Front Drive Shaft
 
-[![Front drive shaft](../../../img/axle/upgrades/sjd44yj/d44-5_.jpg)](../../../img/axle/upgrades/sjd44yj/d44-5.jpg) Since I had a shackle reversal, I had a custom front drive shaft with extra up-travel built. Another guy, Kerry, who did this swap without doing the shackle reversal said that the front driveshaft from a 2.5L AX5 YJ is the perfect length - it's about an inch shorter than the 4.0L AX15 driveshaft. Depending on your suspension you may not need drive shaft modifications.
+[![Front drive shaft](../../img/axle/upgrades/sjd44yj/d44-5_.jpg)](../../img/axle/upgrades/sjd44yj/d44-5.jpg) Since I had a shackle reversal, I had a custom front drive shaft with extra up-travel built. Another guy, Kerry, who did this swap without doing the shackle reversal said that the front driveshaft from a 2.5L AX5 YJ is the perfect length - it's about an inch shorter than the 4.0L AX15 driveshaft. Depending on your suspension you may not need drive shaft modifications.
 
 #### Brakes
 
@@ -75,7 +75,7 @@ I used the YJ hard lines and brake hose on the Scout II axle. The side which the
 
 #### Rear Drive Shaft
 
-[![Rear drive shaft](../../../img/axle/upgrades/sjd44yj/atlas-12_.jpg)](../../../img/axle/upgrades/sjd44yj/atlas-12.jpg) Since I installed an Atlas transfer case at the same time, I had a rear CV type driveshaft custom made. If you were to keep the NP231 transfer case, it all depends on what year YJ you have. Some Wranglers use the same size U-joint as the Scout and some use a different size. I'm unsure when the change occurred.
+[![Rear drive shaft](../../img/axle/upgrades/sjd44yj/atlas-12_.jpg)](../../img/axle/upgrades/sjd44yj/atlas-12.jpg) Since I installed an Atlas transfer case at the same time, I had a rear CV type driveshaft custom made. If you were to keep the NP231 transfer case, it all depends on what year YJ you have. Some Wranglers use the same size U-joint as the Scout and some use a different size. I'm unsure when the change occurred.
 
 ### Conclusion
 

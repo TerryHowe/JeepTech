@@ -40,7 +40,7 @@ Speedometer cluster| 5-5/8"
 
 ## Fuel and Temperature Gauges
 
-[![Back of speedometer, fuel, and temp gauge](../../img/electrical/gauges/SpeedoPic_.jpg)](../../img/electrical/gauges/SpeedoPic.jpg)
+[![Back of speedometer, fuel, and temp gauge](../img/electrical/gauges/SpeedoPic_.jpg)](../img/electrical/gauges/SpeedoPic.jpg)
 
 From the passenger side which is left to right in the picture above.
 
@@ -102,7 +102,7 @@ If an appropriate resistor is connected to the S terminal of the temperature gau
 
 ## Oil Pressure Gauge
 
-[![Back of oil pressure gauge](../../img/electrical/gauges/OilPressGauge_.jpg)](../../img/electrical/gauges/OilPressGauge.jpg)
+[![Back of oil pressure gauge](../img/electrical/gauges/OilPressGauge_.jpg)](../img/electrical/gauges/OilPressGauge.jpg)
 
 From the passenger side, left to right in the picture..
 
@@ -128,7 +128,7 @@ Pressure (PSI)| Resistance (ohms)
 
 ## Volt Meter
 
-[![Back of volt meter](../../img/electrical/gauges/VoltMeter_.jpg)](../../img/electrical/gauges/VoltMeter.jpg)
+[![Back of volt meter](../img/electrical/gauges/VoltMeter_.jpg)](../img/electrical/gauges/VoltMeter.jpg)
 
 From the passenger side, left to right in the picture ...
 
