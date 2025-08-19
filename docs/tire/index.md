@@ -1,21 +1,24 @@
 ---
-title: "Tires"
+title: "What fits and what hits"
 keywords: "Jeep, tires, radial, bias ply, belted bias ply, metric tire sizes, all terrain, mud terrain, BFG"
 author: "Terry Howe"
 description: "Jeep tire information covering upgrades, factory options, and essential information."
 ---
-# Tires
 
-Jeep tire information covering upgrades, factory options, and essential information.
+# What Fits and What Hits
 
-## Upgrades
+## Wrangler (TJ)
 
-![](/toc/btll_100x64.jpg)[Big Tire, Little Lift](/tire/fit33.md): The best set up for your Jeep is to use the least amount of lift possible to fit your target tire size. Here's how to optimize.
+| Tire Size (Diameter) | Suspension Modifications                                                                                                                                   | Body Lifts                                                                                                                     | Fender Trimming                                                                                                                            |
+|----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 31"                  | No lift required - however small lifts will increase articulation greatly                                                                                  | No lift required - however a 1" or 2" body lift could be used to increase articulation                                         | No trimming required and none recommended                                                                                                  |
+| 32"                  | No lift required for street use but there may be some slight plastic fender rubbing. 2" to 3" lifts are recommended for trail use to increase articulation | No lift is required but a 1" or 2" body lift can be used in place of a suspension lift to gain clearance and eliminate rubbing | No trimming is required and none is recommended                                                                                            |
+| 33"                  | A 2" to 3" lift would be recommended, a 4" lift would provide greatly increased articulation without rubbing                                               | A 2" body lift combined with 1" lift extended shackles could be used to clear this size on an extreme budget.                  | With extended shackles or small suspension lifts there may be some rubbing at the corners of the plastic fenders under extreme conditions. |
+| 34"                  | A 4" suspension lift or spring over conversion is recommended.                                                                                             | A 1" or 2" body lift is recommended to increase clearance                                                                      | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful.                                         |
+| 36"                  | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well.                                         | A 2" body lift is recommended, a 3" lift can increase clearance.                                                               | With a 2" body lift trimming some fender edges as much as 1" or 2" may be needed.                                                          |
 
 
-### What Fits and What Hits*
-
-__Wrangler (YJ)*__ ______(____TJ's May use up to 1" larger tire__ ______on__ ______street__ __)__
+## Wrangler (YJ)
 
 | Tire Size (Diameter) | Suspension Modifications                                                                                                                                   | Body Lifts                                                                                                                     | Fender Trimming                                                                                                                            |
 |----------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
@@ -25,7 +28,7 @@ __Wrangler (YJ)*__ ______(____TJ's May use up to 1" larger tire__ ______on__ ___
 | 33"                  | A 4" suspension lift or spring over conversion is recommended.                                                                                             | A 1" or 2" body lift is recommended to increase clearance                                                                      | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful.                                         |
 | 35"                  | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well.                                         | A 2" body lift is recommended, a 3" lift can increase clearance.                                                               | With a 2" body lift trimming some fender edges as much as 1" or 2" may be needed.                                                          |
 
-_CJ*_
+## CJ
 
 | Tire Size (Diameter) | Suspension Modifications                                                                                                              | Body Lifts                                                                                  | Fender Trimming                                                                                    |
 |----------------------|---------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
@@ -35,7 +38,7 @@ _CJ*_
 | 33"                  | A 3" to 4" suspension lift or spring over conversion is recommended.                                                                  | A 1" or 2" body lift may be used to increase clearance                                      | Some rubbing may occur Some trimming of the bottom trailing edge of the rear fender may be useful. |
 | 35"                  | A 4" suspension lift or spring over conversion is necessary. Axle & brake upgrades are highly recommended as well.                    | A 2" body lift is recommended, a 3" lift can increase clearance.                            | Some trimming of fender edges may be needed to eliminate rubbing problems                          |
 
-_Cherokee (XJ & ZJ)*_
+## Cherokee (XJ & ZJ)
 
 | Tire Size (Diameter) | Suspension Modifications                                                      | Body Lifts are not available. | Fender Trimming                                                                     |
 |----------------------|-------------------------------------------------------------------------------|-------------------------------|-------------------------------------------------------------------------------------|
@@ -45,11 +48,9 @@ _Cherokee (XJ & ZJ)*_
 | 33"-35"              | A 6" or larger suspension lift is required                                    | N/A                           | Serious trimming may be required                                                    |
 
 * IMPORTANT NOTE:
-_The above tables are_ _only guidelines_ _reflecting popular trends or upgrade combinations. Other combinations are possible, for example: I know of a YJ owner who uses a 3" body lift and a set of 1.5" lift Con-Ferr extended shackles to clear 33" tires. This is not what I would run or recommend - but it works for him. Your mileage may vary and we do not claim that the above is the definitive word of god on the subject of tire clearance. Some other combinations may work fine or on some vehicles the guidelines shown above may not apply._
+_The above tables are only guidelines reflecting popular trends or upgrade combinations. Other combinations are possible, for example: I know of a YJ owner who uses a 3" body lift and a set of 1.5" lift Con-Ferr extended shackles to clear 33" tires. This is not what I would run or recommend - but it works for him. Your mileage may vary and we do not claim that the above is the definitive word of god on the subject of tire clearance. Some other combinations may work fine or on some vehicles the guidelines shown above may not apply._
 
-* * *
-
-### Tradeoffs - Tire Size (diameter)
+## Tradeoffs - Tire Size (diameter)
 
 As with anything in life there are tradeoffs when it comes to selecting tires for your vehicle. Increasing tires size can greatly increase the off-road capabilities of your vehicle. Larger tires provide increases in total ground clearance, an increased traction footprint & flotation, make climbing obstacles easier, can be easier on the environment and just plain look better on your Jeep. However all of these benefits have a price.
 
@@ -67,13 +68,11 @@ So - bigger tires have a price, the bigger the size change the more modification
 
 On my 1990 Jeep YJ I decided to switch from 31" tires to 35" tires while not wanting to risk breakage on the trial. The total price of those 4 35" tires was probably close to $7,000 dollars!. This included a 4" suspension lift, a 2" body lift, fender trimming, changing to heavy duty, custom modified, 1 ton truck axles, changing to 4.10 gears in both differentials (+ lockers and carrier changes), and adding rear disk brakes. In addition the lift and axles necessitated transfer case modifications and custom drive shafts in both ends. It was not a simple, cheap or fast project - but on the trail it sure is sweet!
 
-### Trade-Offs Tire Size (width)
+## Trade-Offs Tire Size (width)
 
 Tire diameter is not the only issue - tire width is important to. Wider tires increase footprint which can be important for traction or increased flotation. The tradeoff include that wider tires can also require extended fender coverage in many states and may require changes in wheel width & offset to work properly. On stock offset wheels the tires may be mostly covered by the stock fender flares but rub on suspension components when turning thus reducing effective turning radius. The incredibly tight turning radius of a jeep is one of it's important advantages on the trail. Wider wheels or wheels with increased offset move the tires outboard and can greatly reduce the rubbing when turning but make the vehicle wider. This increased width may be an advantage for stability if you drive a lifted vehicle or a disadvantage of you are squeezing down a trail better suited for a Samurai or a quad. Lastly narrower tires can sometimes be an advantage where the best traction is located just a few inches below the surface (such a shallow snow or mud) and the decreased footprint and increased pressure aids the tires in getting down to where it can get a bite.
 
-* * *
-
-### Tread Patterns
+## Tread Patterns
 
 The choice of tread pattern is important in your new tire decision making process. Tread pattern should be chosen based on the intended use of the Jeep. The most popular tread pattern for all around off-road use is a mud terrain pattern.
 
