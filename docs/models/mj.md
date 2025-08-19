@@ -28,11 +28,11 @@ The NP-207 and NP-231 are the Command-Trac transfer cases. The other transfer ca
 
 ### Front Axle
 
-The [Dana 30](../axle/factory/d30.md) was used as the front axle in the MJ.
+The [Dana 30](../axle/factory/04-d30.md) was used as the front axle in the MJ.
 
 ### Rear Axle
 
-The [Dana 35c](../axle/factory/d35c.md) is the axle most commonly found in the rear of the MJ. The [Dana 44](../axle/factory/d44.md) was optional in some models with the "metric ton" package.
+The [Dana 35c](../axle/factory/03-d35c.md) is the axle most commonly found in the rear of the MJ. The [Dana 44](../axle/factory/02-d44.md) was optional in some models with the "metric ton" package.
 
 ## Production Information
 

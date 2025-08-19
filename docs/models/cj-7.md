@@ -34,11 +34,11 @@ The [Dana 20](../xfer/factory/d20.md) was used from '76-'79 and the [Dana 300](.
 
 ### Front Axle
 
-The [Dana 30](../axle/factory/d30.md) was always used in the CJ-7.
+The [Dana 30](../axle/factory/04-d30.md) was always used in the CJ-7.
 
 ### Rear Axle
 
-Some odd models of the CJ-7 used the [Dana 44](../axle/factory/d44.md), but the normal axle was the [AMC 20](../axle/factory/amc20.md).
+Some odd models of the CJ-7 used the [Dana 44](../axle/factory/02-d44.md), but the normal axle was the [AMC 20](../axle/factory/05-amc20.md).
 
 ## Production Information
 

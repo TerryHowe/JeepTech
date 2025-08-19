@@ -25,11 +25,11 @@ The CJ-5 used the [Dana 18](../xfer/factory/d18.md) from '55 until '71. In '72 t
 
 ### Front Axle
 
-The CJ-5 was first offered with the [Dana 25](../axle/factory/d25.md) until 1965. The [Dana 27](../axle/factory/d27.md) replaced it and was used until 1971. From 1972-1983, the [Dana 30](../axle/factory/d30.md) was used in the CJ-5.
+The CJ-5 was first offered with the [Dana 25](../axle/factory/11-d25.md) until 1965. The [Dana 27](../axle/factory/08-d27.md) replaced it and was used until 1971. From 1972-1983, the [Dana 30](../axle/factory/04-d30.md) was used in the CJ-5.
 
 ### Rear Axle
 
-The [Dana 44](../axle/factory/d44.md) with two-piece shafts was used in the CJ-5 until mid-1970. A [Dana 44](../axle/factory/d44.md) with one piece shafts replaced it after that until 1975. After 1976 the [AMC 20](../axle/factory/amc20.md) was used.
+The [Dana 44](../axle/factory/02-d44.md) with two-piece shafts was used in the CJ-5 until mid-1970. A [Dana 44](../axle/factory/02-d44.md) with one piece shafts replaced it after that until 1975. After 1976 the [AMC 20](../axle/factory/05-amc20.md) was used.
 
 ## Production Information
 

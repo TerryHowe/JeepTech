@@ -17,7 +17,7 @@ Early versions of the CJ-2A (until 1946 serial number 38220) were produced with 
 
 ## Drive Train
 
-The CJ-2A used the ["Go Devil" L-Head 134 I4](../engine/factory/godevil134.md) engine. Early CJ-2As were equipped with a column shift [T-90](../transmission/factory/t90.md) 3 speed while later models used a floor shift version. The 26-tooth small hole [Dana/Spicer 18](../xfer/factory/d18.md) transfer case was used. The front axle was a [Dana/Spicer 25](../axle/factory/d25.md) with drum brakes. Early CJ-2As used the full-floating [Dana/Spicer 23-2](../axle/factory/s23.md) while later models used the semi-floating [Dana/Spicer 41](../axle/factory/d41.md).
+The CJ-2A used the ["Go Devil" L-Head 134 I4](../engine/factory/godevil134.md) engine. Early CJ-2As were equipped with a column shift [T-90](../transmission/factory/t90.md) 3 speed while later models used a floor shift version. The 26-tooth small hole [Dana/Spicer 18](../xfer/factory/d18.md) transfer case was used. The front axle was a [Dana/Spicer 25](../axle/factory/11-d25.md) with drum brakes. Early CJ-2As used the full-floating [Dana/Spicer 23-2](../axle/factory/14-s23.md) while later models used the semi-floating [Dana/Spicer 41](../axle/factory/12-d41.md).
 
 ## Production Information
 

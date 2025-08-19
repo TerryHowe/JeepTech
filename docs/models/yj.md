@@ -28,11 +28,11 @@ The [NP-207](../xfer/factory/np207.md) was used in 1987. After 1987, the [NP-231
 
 ### Front Axle
 
-A reverse cut [Dana 30](../axle/factory/d30.md) was used as the front axle in the YJ.
+A reverse cut [Dana 30](../axle/factory/04-d30.md) was used as the front axle in the YJ.
 
 ### Rear Axle
 
-The factory only used the [Dana 35c](../axle/factory/d35c.md) in the rear of the YJ.
+The factory only used the [Dana 35c](../axle/factory/03-d35c.md) in the rear of the YJ.
 
 ## Production Information
 

@@ -26,7 +26,7 @@ The 26 tooth small hole [Dana/Spicer 18](../xfer/factory/d18.md) transfer case w
 
 ### Axles
 
-The front axle used in Willys Pickups was the [Dana/Spicer 25](../axle/factory/d25.md) with drum brakes. The rear axle was the semi-floating [Timken 51510](../axle/factory/timken.md). The standard ratio with the I4s was 5.38 with 6.17 and 4.88 optional. The standard ratio with the I6s was 4.88 with 5.38 optional.
+The front axle used in Willys Pickups was the [Dana/Spicer 25](../axle/factory/11-d25.md) with drum brakes. The rear axle was the semi-floating [Timken 51510](../axle/factory/13-timken.md). The standard ratio with the I4s was 5.38 with 6.17 and 4.88 optional. The standard ratio with the I6s was 4.88 with 5.38 optional.
 
 ## Production Information
 

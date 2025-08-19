@@ -24,11 +24,11 @@ The [Dana 300](../xfer/factory/d300.md) was the transfer case used in the CJ-8.
 
 ### Front Axle
 
-The [Dana 30](../axle/factory/d30.md) was always used in the CJ-8.
+The [Dana 30](../axle/factory/04-d30.md) was always used in the CJ-8.
 
 ### Rear Axle
 
-The CJ-8 used the [AMC 20](../axle/factory/amc20.md) rear axle.
+The CJ-8 used the [AMC 20](../axle/factory/05-amc20.md) rear axle.
 
 ## Production Information
 

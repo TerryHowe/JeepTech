@@ -13,7 +13,7 @@ Derek Redmond maintains a great page dedicated to the [CJ-3B](https://www.film.q
 
 ## Drive Train
 
-The CJ-3B was available with the ["Hurricane" F-Head 134 I4](../engine/factory/hurricane134.md) engine, the [T-90](../transmission/factory/t90.md) 3 speed transmission, the [Dana 18](../xfer/factory/d18.md) transfer case, either the [Dana 25](../axle/factory/d25.md) or the [Dana 27](../axle/factory/d27.md) front axle, and the [Dana 44](../axle/factory/d44.md) rear axle.
+The CJ-3B was available with the ["Hurricane" F-Head 134 I4](../engine/factory/hurricane134.md) engine, the [T-90](../transmission/factory/t90.md) 3 speed transmission, the [Dana 18](../xfer/factory/d18.md) transfer case, either the [Dana 25](../axle/factory/11-d25.md) or the [Dana 27](../axle/factory/08-d27.md) front axle, and the [Dana 44](../axle/factory/02-d44.md) rear axle.
 
 ## Production Information
 

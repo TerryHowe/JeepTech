@@ -28,11 +28,11 @@ The [NP-231](../xfer/factory/np231.md) (or NV for New Venture) is the Command-Tr
 
 ### Front Axle
 
-The [Dana 30](../axle/factory/d30.md) is the front axle used in the ZJ.
+The [Dana 30](../axle/factory/04-d30.md) is the front axle used in the ZJ.
 
 ### Rear Axle
 
-The [Dana 35c](../axle/factory/d35c.md) is the axle most commonly found in the rear of the ZJ. The [Dana 44](../axle/factory/d44.md) is optional in some models.
+The [Dana 35c](../axle/factory/03-d35c.md) is the axle most commonly found in the rear of the ZJ. The [Dana 44](../axle/factory/02-d44.md) is optional in some models.
 
 ## Production Information
 
