@@ -80,7 +80,7 @@ Always reference these instructions first and fallback to search or bash command
 
 2. **Content Navigation Test**:
    ```bash
-   curl -s http://localhost:8000/axle/general/ | grep -q "Jeep Tech: Axles"
+   curl -s http://localhost:8000/axle/general/ | grep -q "Axles"
    curl -s http://localhost:8000/applications/speedometer.md | grep -q "Speedometer Gear Applet"
    curl -s http://localhost:8000/bibliography.md | grep -q "Bibliography"
    ```
@@ -139,8 +139,8 @@ curl -s http://localhost:8000/ | grep "Jeep Tech Pages"
 # Test Java applet page (should return "Speedometer Gear Applet")
 curl -s http://localhost:8000/applications/speedometer.md | grep "Speedometer Gear Applet"
 
-# Test technical content (should return "Jeep Tech: Axles")
-curl -s http://localhost:8000/axle/general/ | grep "Jeep Tech: Axles"
+# Test technical content (should return "Axles")
+curl -s http://localhost:8000/axle/general/ | grep "Axles"
 ```
 
 ### Key file counts for validation

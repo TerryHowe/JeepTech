@@ -1,10 +1,10 @@
 ---
-title: "Jeep Tech: Axles"
+title: "Axles"
 keywords: "Jeep Axle, Dana 30, Dana 44, AMC 20, Dana 35c, hubs"
 author: "Terry Howe"
 description: "The definitive Jeep axle page and general information about axles."
 ---
-# Jeep Tech: Axles
+# Axles
 
 ## General Information
 
