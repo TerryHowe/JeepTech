@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transfer Case: BW 13-39"
+title: "BW 13-39"
 keywords: "Jeep transfer case, BW 13-39, transfer case, Borg-Warner"
 author: "Terry Howe"
 description: "All about the Jeep Borg Warner Quadra-Trac 13-39 transfer case."
 ---
-# Jeep Transfer Case: BW 13-39
+# BW 13-39
 
 [![BW 13-39 front](../../img/xfer/bw13391_.jpg)](../../img/xfer/bw13391.jpg) [![BW 13-39 side](../../img/xfer/bw13392_.jpg)](../../img/xfer/bw13392.jpg) [![BW 13-39 back](../../img/xfer/bw13393_.jpg)](../../img/xfer/bw13393.jpg) [![BW 13-39 passenger side](../../img/xfer/bw13394_.jpg)](../../img/xfer/bw13394.jpg)
 

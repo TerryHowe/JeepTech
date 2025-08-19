@@ -1,10 +1,10 @@
 ---
-title: "Jeep Conversions: Atlas Transfer Case"
+title: "Atlas Transfer Case"
 keywords: "Jeep Conversions, Atlas, transfer case, transfer case, Advanced Adapters"
 author: "Terry Howe"
 description: "Installation information and specifications for the Atlas Transfer Case for Jeeps."
 ---
-# Jeep Conversions: Atlas Transfer Case
+# Atlas Transfer Case
 
 ![Atlas front](../../img/xfer/upgrades/atlas-front_.jpg) ![Atlas with shifter](../../img/xfer/upgrades/atlas-shifter_.jpg) ![Atlas side](../../img/xfer/upgrades/atlas-side_.jpg)
 
