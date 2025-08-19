@@ -1,10 +1,10 @@
 ---
-title: "Jeep Axle: AMC 20"
+title: "AMC 20"
 keywords: "Jeep Axle, AMC 20"
 author: "Terry Howe"
 description: "All about the Jeep AMC 20 axle."
 ---
-# Jeep Axle: AMC 20
+# AMC 20
 
 [![AMC 20 diff cover](../../img/axle/bwa20_.jpg)](../../img/axle/bwa20.jpg) 
 
