@@ -1,12 +1,12 @@
 ---
-title: "Go Devil 134"
+title: "Willys Go Devil 134"
 keywords: "Jeep, engine, Willys, Go Devil, 134, I4"
 author: "Terry Howe"
 description: "All about the Jeep Go Devil 134 I4 engine."
 ---
-# Go Devil 134
+# Willys Go Devil 134
 
-The power and torque of the L-Head engine is arguably the main reason Willys won the contract with the DOD to produce the MB used in WWII. It doesn't seem like much by today's standards, but it out performed the engines used in the Ford and Bantam prototypes. The MB used a different carburetor from the civilian models and currently I do not have the precise specs on it, but it is right in this same range.
+The power and torque of the L-Head "Go Devil" engine is arguably the main reason Willys won the contract with the DOD to produce the MB used in WWII. It doesn't seem like much by today's standards, but it out performed the engines used in the Ford and Bantam prototypes. The MB used a different carburetor from the civilian models and currently I do not have the precise specs on it, but it is right in this same range.
 
 The L-Head is known as the L-Head because the valves for the exhaust and intake are in the block. Most engines used in automobiles today have valves in the head. This design gave it the advantage of having a relatively low profile. Part of the DOD specifications required the vehicle to be able to drive under an object that was about 3 feet high.
 

@@ -6,7 +6,7 @@ description: "Production figures for Willys trucks from 1945 until 1961."
 ---
 # Willys Overland Production Figures
 
-![Willys-Overland Sign](wosign.jpg) **Edited by Terry Howe**
+[//]: # (![Willys-Overland Sign]&#40;wosign.jpg&#41;)
 
 You won't find more accurate Willys-Overland production information anywhere else. This production information was transcribed into electronic form by Charlie Weaver from a hand written a compilation Norton Young did between 1959 and 1961. Norton Young was an employee of Willys/Kaiser at the time and did the compilations so that executives at Kaiser would have yearly production information.
 
