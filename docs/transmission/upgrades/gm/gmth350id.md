@@ -6,7 +6,7 @@ description: "How to find a GM TH350 to swap into your Jeep.  The TH350 is a str
 ---
 # GM TH350
 
-[![Turbo 350 Chevy tail shaft](../../../img/transmission/updates/th350/th3503_.jpg)](../../../img/transmission/updates/th350/th3503.jpg) 
+[![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)](../../../img/transmission/upgrades/th350/th3503.jpg) 
 
 The TH350 is a strong 3 speed automatic transmission. One of the advantages of the TH350 is it is very short for a strong automatic. It is about the only automatic transmission that will fit in a CJ-5 or shorter Jeep since the case itself with no adapter only measures 21 3/4". If wheel base is not such an issue, the TH400 is significantly strong, but it does waste more power. The 700R4 is about the same length as the TH400 and it has an overdrive.
 
@@ -28,7 +28,7 @@ Another variation on the Turbo 350 is the clutch packs. Turbo 350s used with V8 
 
 #### Tailshaft
 
-[![Turbo 350 Chevy tail shaft](../../../img/transmission/updates/th350/th3503_.jpg)](../../../img/transmission/updates/th350/th3503.jpg) There are several variations on tailshafts. There are long and short tail shafts and the Chevy version uses a different opening for the speedometer output. This won't matter for your Jeep though, because the Advanced Adapters kit replaces the tailshaft. The case on the left has a recently replaced Chevy short tail shaft on it.
+[![Turbo 350 Chevy tail shaft](../../../img/transmission/upgrades/th350/th3503_.jpg)](../../../img/transmission/upgrades/th350/th3503.jpg) There are several variations on tailshafts. There are long and short tail shafts and the Chevy version uses a different opening for the speedometer output. This won't matter for your Jeep though, because the Advanced Adapters kit replaces the tailshaft. The case on the left has a recently replaced Chevy short tail shaft on it.
 
 #### 2WD vs. 4WD
 
@@ -36,7 +36,7 @@ It is best to get a 4WD version of the Turbo 350 because it will save you some m
 
 #### Bolt Pattern
 
-[![Turbo 350 dual pattern front](../../../img/transmission/updates/gm/pieces_trans1_.jpg)](../../../img/transmission/updates/gm/pieces_trans1.jpg) The Turbo 350 case commonly comes with three different bolt patterns. Some cases have a Chevy engine bolt pattern, some cases have the Buick, Olds, Pontiac, and Caddy bolt pattern, and some have both. It is well worth getting the dual pattern, or unicase, Turbo 350. If you ever think you might do an engine swap, you won't have to worry about the transmission. It will also help the resale of the transmission because it will work with more engine combinations.
+[![Turbo 350 dual pattern front](../../../img/transmission/upgrades/gm/pieces_trans1_.jpg)](../../../img/transmission/upgrades/gm/pieces_trans1.jpg) The Turbo 350 case commonly comes with three different bolt patterns. Some cases have a Chevy engine bolt pattern, some cases have the Buick, Olds, Pontiac, and Caddy bolt pattern, and some have both. It is well worth getting the dual pattern, or unicase, Turbo 350. If you ever think you might do an engine swap, you won't have to worry about the transmission. It will also help the resale of the transmission because it will work with more engine combinations.
 
 The Buick, Olds, Pontiac, and Caddy engine bolt pattern is easily identified by the valley at the top and the Chevy pattern is peaked on the top. The dual pattern transmission in the picture on the right has both patterns. You can see the valley and peak. Each set of bolts around the top is in a pair. The alignment pin and the lower bolt is the same.
 

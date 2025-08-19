@@ -8,7 +8,7 @@ description: "How to swap in an AX-15 in your Peugeot BA 10/5 equipped Jeep Wran
 
 **by John Nutter**
 
-[![Dana 44 Cut](../../img/axle/updates/sjd44front6.jpg)](../../img/axle/updates/sjd44front6_.jpg) 
+[![Dana 44 Cut](../../img/axle/upgrades/sjd44front6.jpg)](../../img/axle/upgrades/sjd44front6_.jpg) 
 
 I had a good day at the swap meet yesterday, I bought a 3-series True Trac for a Dana 44 with reverse rotations 3.50 gears attached for $50. I need to change the gears because I'm going to install it in a standard rotation front Dana 44. The front Dana 44 axle is from a '78 Cherokee that I shortened to CJ specifications. 
 
