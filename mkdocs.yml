@@ -8,6 +8,8 @@ edit_uri: edit/main/docs/
 
 theme:
   name: material
+  features:
+    - content.action.edit
 
 docs_dir: docs
 site_dir: site
