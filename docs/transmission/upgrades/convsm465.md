@@ -1,10 +1,10 @@
 ---
-title: "Jeep Transmissions Conversions"
-keywords: "Jeep, transmissions, conversions"
+title: "SM-465"
+keywords: "Jeep, transmissions, conversions, SM465, SM-465"
 author: "Terry Howe"
 description: "Transmission conversions for Jeep vehicles built from 1941 until the present including military, CJ, YJ, TJ, and other models."
 ---
-# Jeep Transmissions Conversions
+# SM-465
 
 [![Chevy SM465 front](../../img/transmission/upgrades/sm465f_.jpg)](../../img/transmission/upgrades/sm465f.jpg) [![Chevy SM465 side](../../img/transmission/upgrades/sm465s_.jpg)](../../img/transmission/upgrades/sm465s.jpg) [![Chevy SM465 back](../../img/transmission/upgrades/sm465b_.jpg)](../../img/transmission/upgrades/sm465b.jpg)
 (Chevy SM465 before conversion)
