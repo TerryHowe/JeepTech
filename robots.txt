@@ -1,5 +1,8 @@
 User-agent: *
-Disallow: /admin
-Disallow: /cgi-bin
-Disallow: /common
-Disallow: /albums
+
+# Disallow search functionality and assets
+Disallow: /search/
+Disallow: /assets/
+
+# Sitemap location
+Sitemap: https://terryhowe.github.io/JeepTech/sitemap.xml
