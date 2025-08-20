@@ -10,6 +10,8 @@ theme:
   name: material
   features:
     - content.action.edit
+  icon:
+    edit: material/pencil
 
 docs_dir: docs
 site_dir: site
