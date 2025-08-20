@@ -76,7 +76,6 @@ Place new content in the appropriate section:
 - **`electrical/`** - Electrical systems and upgrades
 - **`suspension/`** - Suspension modifications and maintenance
 - **`models/`** - Jeep model information and specifications
-- **`terry/`** - Personal projects and trail reports
 
 ## Formatting Guidelines
 
