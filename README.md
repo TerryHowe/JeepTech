@@ -66,10 +66,6 @@ When adding new content:
 3. Use relative links for internal references
 4. Test locally with `mkdocs serve` before committing
 
-## Legacy Content
-
-The `docs/original/` directory contains the original HTML content that has been converted to Markdown. These files are preserved for reference but are not included in the main navigation.
-
 ## Java Applets
 
 Some application pages reference Java applets (`.class` files) for technical calculations. These are legacy components from the original site and require Java browser plugin support which is deprecated in modern browsers. The accompanying Markdown documentation describes their functionality.
