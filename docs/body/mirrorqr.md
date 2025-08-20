@@ -6,7 +6,7 @@ description: "A simple, low buck mirror quick release for Jeep CJs."
 ---
 # Jeep CJ Mirror Quick Release
 
-[![Mirror Quick Release](../img/body/mirror1_.jpg)](../img/body/mirror1.jpg)
+![Mirror Quick Release](../img/body/mirror1.jpg)
 
 Ever jump in your Jeep after a trail ride, drive off, and remember you forgot to readjust your mirror before leaving? Ever whack your head on your mirror while working on your Jeep in the garage? I have and I finally did something about it. I used a solution that has been bouncing around Internet gear heads for a couple of years, I used a mountain bike seat post quick release. The cost was nothing since I had a box full of miscellaneous bike parts from wrecked bikes. If you don't have one lying around, a trip to your local bicycle shop and you can score a used seat post quick release for nothing or next to nothing.
 
@@ -14,6 +14,6 @@ The installation is simple, remove the bolt holding the mirror arm, install the 
 
 Now when I hit the trail, I flip the lever, push the mirror over the cowl, and lock the lever. I don't have to worry about ripping the mirror off on a rock or tree. I can easily move the mirror back and forth while I drive.
 
-[![Mirror Quick Release](../img/body/mirror2_.jpg)](../img/body/mirror2.jpg)
+![Mirror Quick Release](../img/body/mirror2.jpg)
 
 Mirror out of the way with quick release lever up.

@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Wrangler YJ
 
-[![Terry in deep with Diane's YJ](../img/yjmud_.jpg)](../img/yjmud.jpg)
+![Terry in deep with Diane's YJ](../img/yjmud.jpg)
 
 The Wrangler (YJ) was produced from 1987 until 1995.
 

@@ -6,7 +6,7 @@ description: "How to swap a T-18 into your Jeep.  The T-18 is a heavy duty, gran
 ---
 # Swapping T-18 into your Jeep
 
-[![Ford T-18 side](../../img/transmission/upgrades/ft18s_.jpg)](../../img/transmission/upgrades/ft18s.jpg)
+![Ford T-18 side](../../img/transmission/upgrades/ft18s.jpg)
 
 The T-18 is such a popular swap for Jeeps because, in many cases, it can be installed for less money than any other heavy duty granny low transmission. The reason for this is the input bearing retainer size and input shaft length are right for '76-'86 CJs for the Ford and Jeep version. There are many different versions of the T-18 though and many pros and cons to the use of the different versions. Your choice of T-18 will depend on first on what Jeep you have and second on what T-18 you can find at a reasonable price.
 

@@ -6,7 +6,7 @@ description: "A report from the 1998 Las Cruces Winter Meeting, aka 'Chile Chall
 ---
 # Las Cruces '98: The Chile Challenge
 
-[![Phil Collard on Tabasco Twister](../../img/terry/trail/lc98b_.jpg)](../../img/terry/trail/lc98b.jpg) Phil Collard on Tabasco Twister
+![Phil Collard on Tabasco Twister](../../img/terry/trail/lc98b.jpg) Phil Collard on Tabasco Twister
 
 There were a lot of changes at this years Southwest 4 Wheel Drive Associations Winter Meeting in Las Cruces, New Mexico. The association was told only a few months before the event that the BLM was shutting down hundreds of acres of land which meant the runs that were planned for the area would have to be moved. The closure put an end to the infamous "Wolf Run" and "Guardian". The clubs in the area worked hard to develop new trails that could match the difficulty of the trails that were closed. Without a doubt, they succeeded.
 
@@ -20,5 +20,5 @@ The [Tabasco Twister](lc98_tabasco.md) features a lot of good hard four wheeling
 
 The only way to stop [closures](lc98_closure.md) is by doing something about it. Please help keep the beautiful and challenging trails of Las Cruces open!
 
-[![Glenn Wakefield on Tabasco Twister](../../img/terry/trail/lc984_.jpg)](../../img/terry/trail/lc984.jpg)
+![Glenn Wakefield on Tabasco Twister](../../img/terry/trail/lc984.jpg)
 Glenn Wakefield on Tabasco Twister

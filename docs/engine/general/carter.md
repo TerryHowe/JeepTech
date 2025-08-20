@@ -24,7 +24,7 @@ After you have chosen the wise or foolish path, start your Jeep and open the cho
 
 While you are doing this, make sure you don't put your hand or anything else into rotating parts like the fan. Keep your tie away from that thing (some people just want to look good all the time.) Same goes if you are a "long hair, freaky" Tesla type. All joking aside, I've heard some bad stories.
 
-[![Carter BBD Apart](../../img/engine/cart2_.jpg)](../../img/engine/cart2.jpg)
+![Carter BBD Apart](../../img/engine/cart2.jpg)
 
 ## The Solution
 

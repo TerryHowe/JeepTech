@@ -6,15 +6,15 @@ description: "Winch information for Jeeps."
 ---
 # Jeep Winches: Dana 20 PTO Adapter
 
-[![PTO adapter](../img/winch/d20pto04_.jpg)](../img/winch/d20pto04.jpg)
+![PTO adapter](../img/winch/d20pto04.jpg)
 
 Joe's Dana 20 PTO adapter is off a late 60s or early 70s Jeep pickup with a Dana 20. He guesses that a shorter version might have been available for CJs because this version puts the PTO shaft very close to the frame rail and it appears that the shaft will hit the cross member.
 
-[![PTO adapter](../img/winch/d20pto06_.jpg)](../img/winch/d20pto06.jpg) The astute may notice that Joe's pictures depicting the the Dana 20 PTO adapter mounted to the transfer case actually show the adapter bolted to a Scout Dana 300. The adapter will NOT work on a Dana 300. The gear will not mesh properly and the casting of the case interferes with the operation. Joe bolted the adapter on the Dana 300 to illustrate how it attaches.
+![PTO adapter](../img/winch/d20pto06.jpg) The astute may notice that Joe's pictures depicting the the Dana 20 PTO adapter mounted to the transfer case actually show the adapter bolted to a Scout Dana 300. The adapter will NOT work on a Dana 300. The gear will not mesh properly and the casting of the case interferes with the operation. Joe bolted the adapter on the Dana 300 to illustrate how it attaches.
 
-[![PTO adapter](../img/winch/d20pto02_.jpg)](../img/winch/d20pto02.jpg)
-[![PTO adapter](../img/winch/d20pto03_.jpg)](../img/winch/d20pto03.jpg)
-[![PTO adapter](../img/winch/d20pto07_.jpg)](../img/winch/d20pto07.jpg)
+![PTO adapter](../img/winch/d20pto02.jpg)
+![PTO adapter](../img/winch/d20pto03.jpg)
+![PTO adapter](../img/winch/d20pto07.jpg)
 
 Matt O'Brien sent some pictures from his CJ-p5 that show his adapter bolted to a Dana 20.
 
@@ -29,4 +29,4 @@ Joe's |  |  Transfer case adaptor |  Ramsey Winch / STC-2 / 73001
 ---|---
 Chain drive housing |  STC-3 / 73002
 
-[![PTO adapter](../img/winch/d20pto05_.jpg)](../img/winch/d20pto05.jpg)
+![PTO adapter](../img/winch/d20pto05.jpg)

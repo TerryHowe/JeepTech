@@ -6,7 +6,7 @@ description: "Various lock-outs aka hubs used in Jeep CJs over the years.  This 
 ---
 # Jeep Lock Out Hubs
 
-[![hubs](../../img/axle/hubs_.jpg)](../../img/axle/hubs.jpg)
+![hubs](../../img/axle/hubs.jpg)
 
 This article covers everything you could possibly want to know about hubs (aka lock-outs) and other axle disconnect systems for short wheel base Jeeps. The same principles apply to larger Jeeps as well and at some point this article will be expanded to cover the systems used in the larger Jeeps.
 
@@ -20,7 +20,7 @@ The hub bolts onto the brake hub. Inside the hub is a splined sleeve that moves 
 
 ### What the Axle Disconnect System Does
 
-[![Data 30 vacuum](../../img/axle/d30vac_.jpg)](../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time.
+![Data 30 vacuum](../../img/axle/d30vac.jpg) The axle disconnect system used in Wrangler YJs has a vacuum motor that slides a little shift fork. The shift fork rides on a sleeve that ties the two pieces of the inner axle shaft together when it is engaged. The short side shaft spins all the time.
 
 ### What are Six Bolt Hubs?
 

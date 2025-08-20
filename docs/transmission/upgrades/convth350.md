@@ -6,7 +6,7 @@ description: "How to swap a Turbo 350 into your Jeep.  The TH350 is a heavy duty
 ---
 # Swapping TH350 into your Jeep
 
-[![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503_.jpg)](../../img/transmission/upgrades/th350/th3503.jpg)
+![Turbo 350 Chevy tail shaft](../../img/transmission/upgrades/th350/th3503.jpg)
 
 The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best automatic transmission to swap in a short Jeep such as a flat fender or CJ-5.
 

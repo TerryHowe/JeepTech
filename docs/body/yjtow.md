@@ -10,11 +10,11 @@ description: "Building a tow hook bracket for convenient tow hook mounting on CJ
 
 If you don't have tow hooks already, they are one of the first modifications you should make to your Jeep. A great way to become unpopular is to get stuck in a big mud pit without tow hooks. Many 4x4 events require that vehicles have tow hooks to participate in trail rides. If you drive a Jeep Wrangler YJ, you'll find the common $10 hooks won't bolt on and the hooks from the dealership retail for over $60 USD. Some suppliers have started selling a less expensive hook that fits the stock holes on a Wrangler, but these hooks are not available in all areas. The high cost of OEM tow hooks and the desire to have tow hooks as well as a winch inspired Dave Moulton and Kirk Beasley to come up with this inexpensive way to mount common tow hooks on Jeep Wranglers and CJs.
 
-[![Hook with winch mount](../img/body/yjtow5_.jpg)](../img/body/yjtow5.jpg)
+![Hook with winch mount](../img/body/yjtow5.jpg)
 
 The use of this tow hook bracket allows you to mount standard tow hooks without drilling your frame. It also allows you to easily have tow hooks even with a winch mounted up front. The angle iron can replace the 1/4" spacer that goes between the winch plate and frame brackets. The hooks can be mounted outboard, rather than inboard like Dave's hooks.
 
-[![Hook with winch mount](../img/body/yjtow3_.jpg)](../img/body/yjtow3.jpg) Here's a shot of the hook and the angle iron. The two washers are the spacers from the winch mount kit that the angle iron replaces. [![Hook with winch mount](../img/body/yjtow4_.jpg)](../img/body/yjtow4.jpg) From the front, you can see how the angle iron fits between the two brackets of the winch mount on Kirks's CJ.
+![Hook with winch mount](../img/body/yjtow3.jpg) Here's a shot of the hook and the angle iron. The two washers are the spacers from the winch mount kit that the angle iron replaces. ![Hook with winch mount](../img/body/yjtow4.jpg) From the front, you can see how the angle iron fits between the two brackets of the winch mount on Kirks's CJ.
 
 To add your own bracket-mounted tow hooks, you will need:
 

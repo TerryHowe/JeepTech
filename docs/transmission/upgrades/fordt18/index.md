@@ -6,7 +6,7 @@ description: "How to swap a Ford T-18 into your CJ.  A transmission swap may be 
 ---
 # Swapping a Ford T-18 into a CJ
 
-[![T-18 vs T-5](../../../img/transmission/upgrades/fordt18/fordt18t5_.jpg)](../../../img/transmission/upgrades/fordt18/fordt18t5.jpg)
+![T-18 vs T-5](../../../img/transmission/upgrades/fordt18/fordt18t5.jpg)
 
 Swapping a Ford T-18 into your CJ may be the best alternative, because in many cases it can be swapped in cheaper and easier than any other transmission. The improvement in performance and durability of your CJ will increase exponentially with this relatively simple transmission swap. Ford T-18s are easy to find and inexpensive to buy and the Ford T-18 is compatible to a large degree with '76-'86 CJs because in most cases the originally bell housing can be retained.
 
@@ -16,13 +16,13 @@ Steve's CJ-7 was originally equipped with a 258, T-176, and Dana 300, but the pr
 
 ### The Search
 
-[![Unconverted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/ford2wdt18_.jpg)](../../../img/transmission/upgrades/fordt18/ford2wdt18.jpg) A local guy that does bench rebuilds in town recommended that Steve find a good runner over a core even though the transmission would need to be rebuilt. The thinking is that if any major parts are damaged in a core, the cost of new parts will far exceed the cost of a good runner. Steve purchased a running T-18, but the shift lever was missing. It seems that the shift levers and the input bearing retainers are some of the most commonly damaged parts on Ford T-18s and this one was slightly canabilized.
+![Unconverted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/ford2wdt18.jpg) A local guy that does bench rebuilds in town recommended that Steve find a good runner over a core even though the transmission would need to be rebuilt. The thinking is that if any major parts are damaged in a core, the cost of new parts will far exceed the cost of a good runner. Steve purchased a running T-18, but the shift lever was missing. It seems that the shift levers and the input bearing retainers are some of the most commonly damaged parts on Ford T-18s and this one was slightly canabilized.
 
 Most Ford T-18 conversion kits I've seen replace the main shaft and the tail housing of the transmission, so when you searching for a Ford T-18 to swap into a CJ with a Dana 300, it is best to get the 2WD version. The 2WD versions are generally cheaper than the 4WD versions and the adapter kit bolts right on the 2WD version where the 4WD version may need to have holes tapped in the case.
 
 ### The Rebuild
 
-[![Converted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/fordt18d300_.jpg)](../../../img/transmission/upgrades/fordt18/fordt18d300.jpg) Steve dropped off his Ford T-18 and a conversion kit from Advanced Adapters at a for a bench rebuild. Bench rebuilds are fairly inexpensive, normally $150-$200 plus parts. New bearings were put in this transmission and a synchro was replaced. It is well worth to replace any questionable parts at this time.
+![Converted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/fordt18d300.jpg) Steve dropped off his Ford T-18 and a conversion kit from Advanced Adapters at a for a bench rebuild. Bench rebuilds are fairly inexpensive, normally $150-$200 plus parts. New bearings were put in this transmission and a synchro was replaced. It is well worth to replace any questionable parts at this time.
 
 ### Clutch and Pilot Bushing
 
@@ -34,15 +34,15 @@ The Jeep T-150, T-18, T-176, SR-4, T-4, and T-5 all use a 1 1/8" 10 spline input
 
 ### Bell Housing
 
-[![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f_.jpg)](../../../img/transmission/upgrades/ft18f.jpg) The bell housing bolt pattern for the Ford T-18 is exactly the same as the T-150 and the T-176 transmissions. The Jeep T-18 has one bolt hole different, the bolt near the clutch fork is higher on the Jeep version. The SR-4, T-4, and T-5 use a different bolt pattern.
+![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f.jpg) The bell housing bolt pattern for the Ford T-18 is exactly the same as the T-150 and the T-176 transmissions. The Jeep T-18 has one bolt hole different, the bolt near the clutch fork is higher on the Jeep version. The SR-4, T-4, and T-5 use a different bolt pattern.
 
 Steve's Jeep had the bell housing that went with the T-5, so the holes didn't line up quite right. If you drill carefully, a drill press would help here, you can drill out the bolt pattern for the Ford T-18 on one of these bell housings. The transmission can be tilted a bit to the left or right, alignment on that plane is not critical. We were trying to drill out the holes with a hand drill and messed up one of the holes, so Steve purchased a used bell housing for $30 with the proper bolt pattern. If you are going to drill the holes, make sure you have the right size bit for the tap you are going to use to thread them.
 
 ### Skid Plate and Transmission Mount
 
-[![CJ skid plate](../../../img/transmission/upgrades/fordt18/cjskidplate_.jpg)](../../../img/transmission/upgrades/fordt18/cjskidplate.jpg) Minor modifications are required to the skid plate to fit the larger T-18. A notch needs to be cut in the leading edge of the skid plate to allow room for the drain plug in the bottom of the T-18. The picture on the left shows the modified skid plate with notch cut out. The notch was cut with a regular circular hand saw with metal cutting blade.
+![CJ skid plate](../../../img/transmission/upgrades/fordt18/cjskidplate.jpg) Minor modifications are required to the skid plate to fit the larger T-18. A notch needs to be cut in the leading edge of the skid plate to allow room for the drain plug in the bottom of the T-18. The picture on the left shows the modified skid plate with notch cut out. The notch was cut with a regular circular hand saw with metal cutting blade.
 
-[![Transmission mount](../../../img/transmission/upgrades/tmount_.jpg)](../../../img/transmission/upgrades/tmount.jpg) On the transmission mount, Advanced Adapters supplies a aluminum spacer block to mate the bolt holes in the bottom of the transmission to transfer case adapter to the transmission mount. This spacer block forces the transmission very close to the tub and causes a minor drive shaft vibration with a 2 1/2" spring lift. Dropping the skid plate would resolve the problem, but at the cost of ground clearance.
+![Transmission mount](../../../img/transmission/upgrades/tmount.jpg) On the transmission mount, Advanced Adapters supplies a aluminum spacer block to mate the bolt holes in the bottom of the transmission to transfer case adapter to the transmission mount. This spacer block forces the transmission very close to the tub and causes a minor drive shaft vibration with a 2 1/2" spring lift. Dropping the skid plate would resolve the problem, but at the cost of ground clearance.
 
 In order to set up the transmission mount with out losing ground clearance, the transmission mount must be modified. It is easier to take care of this before you install the transmission.
 
@@ -59,7 +59,7 @@ If you are swapping in a Ford T-18 for a T-176 or T-150, the rear drive shaft ma
 
 ### Shift Lever
 
-[![Ford T-18 shift lever](../../../img/transmission/upgrades/fordt18/fordt18cj_.jpg)](../../../img/transmission/upgrades/fordt18/fordt18cj.jpg) The shift lever for the Ford T-18 is in the same place as the shift lever for the T-176 and T-150, but is several inches forward of the shift lever for the T-5, T-4, and SR-4. For these transmissions, a hole must be cut in the tunnel cover for the T-18 shift lever and the old hole should be covered with sheet metal. If you have carpeting over the tunnel, you'll end up with an extra hole in that as well. A new boot is necessary, especially if you have the integrated transmission and transfer case boot.
+![Ford T-18 shift lever](../../../img/transmission/upgrades/fordt18/fordt18cj.jpg) The shift lever for the Ford T-18 is in the same place as the shift lever for the T-176 and T-150, but is several inches forward of the shift lever for the T-5, T-4, and SR-4. For these transmissions, a hole must be cut in the tunnel cover for the T-18 shift lever and the old hole should be covered with sheet metal. If you have carpeting over the tunnel, you'll end up with an extra hole in that as well. A new boot is necessary, especially if you have the integrated transmission and transfer case boot.
 
 Depending on the source of you Ford T-18, you might need to heat and bend the shift lever so it clears your console and dash. The T-18 in Steve's Jeep is from a '83 Ford pickup and it did not need any bending. My Ford T-18 is also out of an '82 F-250 and the lever is snug on console. I've had my T-18 pop out of reverse a couple of times when there is a lot of flex, but it normally doesn't happen.
 
@@ -81,7 +81,7 @@ You'll find a significant difference between the weight of the Ford T-18 and you
 
 ### Converted Ford T-18
 
-[![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f_.jpg)](../../../img/transmission/upgrades/ft18f.jpg) [![Converted Ford T-18 side](../../../img/transmission/upgrades/ft18s_.jpg)](../../../img/transmission/upgrades/ft18s.jpg) [![Converted Ford T-18 back](../../../img/transmission/upgrades/ft18b_.jpg)](../../../img/transmission/upgrades/ft18b.jpg)
+![Ford T-18 bolt pattern](../../../img/transmission/upgrades/ft18f.jpg) ![Converted Ford T-18 side](../../../img/transmission/upgrades/ft18s.jpg) ![Converted Ford T-18 back](../../../img/transmission/upgrades/ft18b.jpg)
 
 ### Conclusion
 

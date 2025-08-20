@@ -6,7 +6,7 @@ description: "How to find IH transfer case to swap into your Jeep.  IH trucks us
 ---
 # International Havester Transfer Cases
 
-[![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)](../../../img/xfer/upgrades/ihd300b.jpg)
+![Scout 300 back](../../../img/xfer/upgrades/ihd300b.jpg)
 
 International Harvester truck fans are big into line setting tickets. A line setting ticket identifies all the parts that were used to build the original truck. The line setting ticket uses special IH codes to identify these parts and this table has been compiled to cross reference those codes with the manufactures model number. If you purchase an IH truck it may come with a line setting ticket or you could still purchase the line setting ticket for your truck. The line setting ticket may still be in the glove box or behind the glove box.
 
