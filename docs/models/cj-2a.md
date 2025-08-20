@@ -9,7 +9,7 @@ description: "Description, drive train specifications, and production informatio
 
 The CJ-2A was the first civilian Jeep. It was produced from July 17th 1945 through 1949. It looks similar to an M38, CJ-3A, or MB, but it has flush-mounted headlights and the windshield is made with round tubing. The windshield is split were as the CJ-3A uses a one-piece windshield (except for some export versions), is made with square tubing, and is taller above the glass. CJ-2A tubs are compatible with the M38, CJ-3A, and MB tubs, but there are cosmetic differences. All of them used the "Go Devil" L head 134 I4 engine.
 
-[![1948 CJ-2A passenger side](../img/cj2ap_.jpg)](../img/cj2ap.jpg)
+![1948 CJ-2A passenger side](../img/cj2ap.jpg)
 
 ### Variations
 

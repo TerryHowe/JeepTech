@@ -6,7 +6,7 @@ description: "How to swap Scout II Dana 44s into a Jeep Wrangler YJ.  Details on
 ---
 # Swapping Dana 44s and a Dana 300 into a YJ
 
-[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)
+![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18.jpg)
 
 **by Lars**
 

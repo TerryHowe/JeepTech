@@ -6,7 +6,7 @@ description: "Increase air flow with this simple heater motor upgrade for CJs an
 ---
 # Jeep Heater Blower Motor Upgrade
 
-[![Old and New Heater Motors](../img/body/heat5_.jpg)](../img/body/heat5.jpg)
+![Old and New Heater Motors](../img/body/heat5.jpg)
 
 The Chevy Blazer heater motor upgrade for Jeep CJs and Wranglers has been bouncing around the net for as long as I can remember. It is remarkably easy and it greatly increases the air flow through the heating system. When my heater core began leaking like a sieve, I figured it was a good time to do the upgrade.
 
@@ -26,17 +26,17 @@ The only thing tricky about doing the upgrade is you will have to enlarge the op
 
 Start by draining at least 1/4 of the coolant from your radiator. It might be a good time to put in some fresh coolant. If so, check with local laws on how to properly dispose of your coolant. Do not pour it in a storm sewer. For most animals, drinking coolant causes kidney failure, not a pleasant way to go. Be sure to "burp" the system when you refill the coolant.
 
-[![Fire wall with battery tray removed](../img/body/heat1_.jpg)](../img/body/heat1.jpg) I have a dual battery tray, so for me it was easier to remove the tray to get access to the hoses and wires going to the heater. If you have a stock tray, you might be able to leave it.
+![Fire wall with battery tray removed](../img/body/heat1.jpg) I have a dual battery tray, so for me it was easier to remove the tray to get access to the hoses and wires going to the heater. If you have a stock tray, you might be able to leave it.
 
 Disconnect the two hoses on the engine side of the fire wall that go into the heater core. There should be a wire nearby that plugs into your current heater motor, unplug it. Also remove the curved drain hose that drains the bottom of the heater. You may also need to remove the hose that drains the grill on the cowl.
 
-[![Dash pulled back](../img/body/heat3_.jpg)](../img/body/heat3.jpg) I removed all the bolts from my dash and pulled it out a bit to get easier access to my heater housing. It is possible to remove the heater without removing the dash, but it makes it easier to see what you are doing and you don't have to contort yourself under the dash to remove cables and wires.
+![Dash pulled back](../img/body/heat3.jpg) I removed all the bolts from my dash and pulled it out a bit to get easier access to my heater housing. It is possible to remove the heater without removing the dash, but it makes it easier to see what you are doing and you don't have to contort yourself under the dash to remove cables and wires.
 
 Next, you need to unhook all the ventilation control cables and wires that attach to the heater housing behind the dash. Also disconnect the defroster duct hose at the top of heater housing.
 
 Remove the four nuts that secure the heater housing on the engine side of the firewall. Three of them are pretty obvious near the heater hoses and heater motor, the other is near the middle of the fire wall behind the valve cover on my 258.
 
-After the nuts are removed, you are ready to wrestle your heater housing out. [![Heater housing](../img/body/heat4_.jpg)](../img/body/heat4.jpg) When you get the heater housing on the garage floor, remove the screws from the back of the housing that hold the housing together. There was caulking around the cover, so it took some gentle prying to pull it apart.
+After the nuts are removed, you are ready to wrestle your heater housing out. ![Heater housing](../img/body/heat4.jpg) When you get the heater housing on the garage floor, remove the screws from the back of the housing that hold the housing together. There was caulking around the cover, so it took some gentle prying to pull it apart.
 
 Remove the old motor and take the fan off of it and install the fan on your new motor. The new motor should be installed with no modifications on the heater housing. You might want to bench test the motor at this time to make sure it works and the fan is attached properly.
 
@@ -44,8 +44,8 @@ Now it is time to enlarge the hole in your fire wall to make room for the new mo
 
 Once the hole is enlarged, it is time to put everything back together. Before you get everything back together, you might want to test the motor, or at least bench test it. Don't start your Jeep without coolant.
 
-[![New heater motor installed](../img/body/heat6_.jpg)](../img/body/heat6.jpg) The seal from my original heater motor didn't go around the new motor, so I sealed it with some black silicon RTV. Some people report they have been able to reuse the seal.
+![New heater motor installed](../img/body/heat6.jpg) The seal from my original heater motor didn't go around the new motor, so I sealed it with some black silicon RTV. Some people report they have been able to reuse the seal.
 
 My heater motor had a large vent hole on the side that I covered with some duct tape to keep mud and water out. I have heard that not all the motors have this hole. Some motors come with a metal retaining clip to secure the motor from the outside, remove this clip.
 
-[![Battery tray with notch](../img/body/heat2_.jpg)](../img/body/heat2.jpg) The larger heater motor interfered with my dual battery tray, so I had to cut a notch out of the tray to give the motor clearance. It may hang a little lower than the stock battery tray. I cut the notch with a circular hand saw with a metal cutting blade.
+![Battery tray with notch](../img/body/heat2.jpg) The larger heater motor interfered with my dual battery tray, so I had to cut a notch out of the tray to give the motor clearance. It may hang a little lower than the stock battery tray. I cut the notch with a circular hand saw with a metal cutting blade.

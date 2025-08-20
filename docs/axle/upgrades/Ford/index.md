@@ -6,7 +6,7 @@ description: "How to swap a Dana 44 and Ford 9 inch from an early Bronco into a 
 ---
 # Swapping Early Bronco Axles into a YJ
 
-[![Before](../../../img/axle/upgrades/fordeb/b4_.jpg)](../../../img/axle/upgrades/fordeb/b4.jpg)[![After](../../../img/axle/upgrades/fordeb/homesid_.jpg)](../../../img/axle/upgrades/fordeb/homesid.jpg)
+![Before](../../../img/axle/upgrades/fordeb/b4.jpg)![After](../../../img/axle/upgrades/fordeb/homesid.jpg)
 **by Chris Waterman**
 
 Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, rip out the entire undercarriage, and replace it with parts from a 25-year old Ford? Chances are if you're reading this then you understand already, but for those of you who don't...
@@ -16,7 +16,7 @@ Who in their right mind would take a perfectly functional 9-year-old Jeep YJ, ri
   * The brakes are bigger all around (I've ended up with 11" discs and 11" drums). The axles are about four inches wider than on the YJ, which is nice for a little extra stability too.
   * It was a cool project. Early on in the game I discovered that I couldn't find anyone who had ever done this swap before, so from then on it became a personal challenge. Something about the risk involved appealed to the fool within me. That and I had no idea what I was really getting into. My most ambitious project before this was an on-board air system (not even in the same ballpark) and while I'm mechanically inclined this was way beyond anything I'd ever done before.
 
-[![Angle view](../../../img/axle/upgrades/fordeb/home45_.jpg)](../../../img/axle/upgrades/fordeb/home45.jpg)
+![Angle view](../../../img/axle/upgrades/fordeb/home45.jpg)
 
 ### How did it start?
 

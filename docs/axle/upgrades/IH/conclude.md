@@ -6,7 +6,7 @@ description: "How to swap Scout II Dana 44s into a Jeep Wrangler YJ.  Details on
 ---
 # Swapping Dana 44s and a Dana 300 into a YJ
 
-[![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18_.jpg)](../../../img/axle/upgrades/ihscout/ss18.jpg)
+![Side view of Jeep](../../../img/axle/upgrades/ihscout/ss18.jpg)
 **by Lars**
 
 One major concern with the Scout II axle swap is the transfer case. The Scout II uses a passenger drop transfer case, so the front differential is on the passenger side. All the Wranglers use a drivers drop transfer case, so the solution is to use a Dana 300 from a 80s CJ. This also means that the exhaust needs to be rerouted around to the other side. There are also other details to the swap, some of the details are related to doing a spring over axle conversion.
@@ -15,7 +15,7 @@ One major concern with the Scout II axle swap is the transfer case. The Scout II
 
 After removing the crossmember/skidplate and NP231 transfer case, I temporarily bolted the D300 to the automatic tranny. It fit perfectly although the front output end of the case hung down quite a bit. Not much I could do there. Re-indexing the way the case mounted to the tranny was not an option.
 
-[![My skid plate](../../../img/axle/upgrades/ihscout/ss8_.jpg)](../../../img/axle/upgrades/ihscout/ss8.jpg) With the case in place, I was able to take measurements which I needed to fabricate a new crossmember/skidplate out of square tubing. In retrospect, I think it would be easier and save space if I just hacked up a stock crossmember/skidplate. I'll probably do that later this year.
+![My skid plate](../../../img/axle/upgrades/ihscout/ss8.jpg) With the case in place, I was able to take measurements which I needed to fabricate a new crossmember/skidplate out of square tubing. In retrospect, I think it would be easier and save space if I just hacked up a stock crossmember/skidplate. I'll probably do that later this year.
 
 I also marked out which part of the floor pan needed to be pounded out in order to make room for the transfer case shifter. An easy way to do this (thanks to Wil for this tip) was to jack up the entire vehicle and then lower it onto a tall jack stand which will then push against the part of the floor which needs to be pounded up.
 
@@ -45,7 +45,7 @@ By the way, if you haven't already guessed, the Scout axles use the 5 on 5.5" bo
 
 ### Exhaust
 
-[![Rear under carriage view](../../../img/axle/upgrades/ihscout/ss13_.jpg)](../../../img/axle/upgrades/ihscout/ss13.jpg) I cut my original exhaust off from the header back because it needed to be rerouted straight down the driver side. I took the back roads to get to the local muffler shop where they re-routed the exhaust so that it stayed on the driver's side until it got close to the gas tank where it then bent up and over the driveshaft and exited in the standard location.
+![Rear under carriage view](../../../img/axle/upgrades/ihscout/ss13.jpg) I cut my original exhaust off from the header back because it needed to be rerouted straight down the driver side. I took the back roads to get to the local muffler shop where they re-routed the exhaust so that it stayed on the driver's side until it got close to the gas tank where it then bent up and over the driveshaft and exited in the standard location.
 
 ### Brakes
 
@@ -116,5 +116,5 @@ Jim Weed
 Paul Weitlauf
 Alan Wicker
 Jonathan Yim
-** [![Jonathan paints the axle housing](../../../img/axle/upgrades/ihscout/ss12_.jpg)](../../../img/axle/upgrades/ihscout/ss12.jpg)
+** ![Jonathan paints the axle housing](../../../img/axle/upgrades/ihscout/ss12.jpg)
 Jonathan

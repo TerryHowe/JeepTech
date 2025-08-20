@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # J-Series Pickups
 
-[![J-200 Pickup](../img/j200_.jpg)](../img/j200.jpg)
+![J-200 Pickup](../img/j200.jpg)
 
 The J-Series Pickups was produced from 1963 until 1987. J-Series pickups have used various model designation schemes over the years. These models are what we would consider a full-size pickup today. Early models were known as Gladiator pickups.
 

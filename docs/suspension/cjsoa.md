@@ -8,7 +8,7 @@ description: "How to do a spring over axle conversion on your CJ.  Using YJ spri
 
 **by John Nutter**
 
-[![1000 RTI](../img/suspension/yjsp5_.jpg)](../img/suspension/yjsp5.jpg)
+![1000 RTI](../img/suspension/yjsp5.jpg)
 
 The sage Jeeping guru Jefe once said "Eventually, every serious rock crawler will go spring over." The virtues and faults of SOA have been debated many times, but eventually all discussions come to the conclusion that going SOA is the only way to free up the very significant space under the axle tubes where the spring packs normally reside. The only real disadvantage of going SOA is the possibility of inducing wheel hop, but as I will explain later wheel hop is easily controlled. SOA has been used by many manufactures on both front and rear ends, and these OEM SOA setups prove that it works well.
 
@@ -22,9 +22,9 @@ With the flat arch springs on a SOA you can also angle your front shackles furth
 
 The rear springs used in CJs and YJs are the same width, so the rear springs bolt right in. The YJ front springs are a little longer and wider than CJ front springs. The fixed spring hanger for the CJs front spring is the correct width because the CJ front spring uses a wide bushing in the back. It is the shackle side of the CJ that is not compatible with the YJ front springs.
 
-[![Rivet replacement](../img/suspension/yjsp1_.jpg)](../img/suspension/yjsp1.jpg) For the shackle end of the front springs, CJ rear spring hangers are the right width and only cost about $14.99ea new. They need to be moved forward so that the rear hole in the spring hanger goes where the old front hole used to be. There is a rivet in the frame at the location where the new front hole needs to be. The rivet holds the cross member in place. I welded the cross member to the frame, ground the heads off the rivets and punched them out. The bolt holes lined up perfectly. The picture to the left shows where the front spring hanger needs to be modified. The red arrow points to the rivet to be removed and the blue area shows where to weld. Weld before removing the rivet so everything stays in place. The rivet hole will be used for the forward bolt on the spring hanger.
+![Rivet replacement](../img/suspension/yjsp1.jpg) For the shackle end of the front springs, CJ rear spring hangers are the right width and only cost about $14.99ea new. They need to be moved forward so that the rear hole in the spring hanger goes where the old front hole used to be. There is a rivet in the frame at the location where the new front hole needs to be. The rivet holds the cross member in place. I welded the cross member to the frame, ground the heads off the rivets and punched them out. The bolt holes lined up perfectly. The picture to the left shows where the front spring hanger needs to be modified. The red arrow points to the rivet to be removed and the blue area shows where to weld. Weld before removing the rivet so everything stays in place. The rivet hole will be used for the forward bolt on the spring hanger.
 
-[![Steering box spacer](../img/suspension/yjsp2_.jpg)](../img/suspension/yjsp2.jpg) Moving the hanger forward leaves a space between the steering box bracket and frame where the back part of the spring hanger used to be. I cut off a piece of the old spring hanger and used it as a shim. The red arrow points to the spacer for the steering box made from the old front spring hanger.
+![Steering box spacer](../img/suspension/yjsp2.jpg) Moving the hanger forward leaves a space between the steering box bracket and frame where the back part of the spring hanger used to be. I cut off a piece of the old spring hanger and used it as a shim. The red arrow points to the spacer for the steering box made from the old front spring hanger.
 
 The rear hangers do not have an extra hole to clear the rivet that you knocked out, so they are much stronger than the stock front spring hangers. This swap makes expensive after market hangers unnecessary.
 
@@ -46,7 +46,7 @@ If you want your CJ to ramp over 1000, you'll need to give some attention to bra
 
 ### Drag Link and Tie Rod
 
-[![Drag link and tie rod](../img/suspension/yjsp4_.jpg)](../img/suspension/yjsp4.jpg) Since The CJ drag link attaches to the knuckle and the lift will cause it to run at an angle, it will most like hit the spring if left in stock form. There are several potential solutions to this problem. One is to convert to a custom "Y" style tie rod and drag link similar to what is used in the Wrangler YJ and other vehicles. Another solution is fabricate a bracket to move the drag link over the spring.
+![Drag link and tie rod](../img/suspension/yjsp4.jpg) Since The CJ drag link attaches to the knuckle and the lift will cause it to run at an angle, it will most like hit the spring if left in stock form. There are several potential solutions to this problem. One is to convert to a custom "Y" style tie rod and drag link similar to what is used in the Wrangler YJ and other vehicles. Another solution is fabricate a bracket to move the drag link over the spring.
 
 For my personal project I converted to spring over steering. Because of the serious nature of steering work I'm going to say "If you have to ask how you shouldn't try to build it yourself." Although I designed the arms myself I enlisted the help of a fellow 4 wheeler who is also an expert machinist to do the actual work. Many of the companies that make custom width front ends are selling similar spring over steering kits. The kits consist of steering knuckles from a '74-76 FSJ or Chevy and some custom steering arms that bolt to the flat area on top of the knuckle. These kits put the tie rod about as high as the top of the diff cover, which works out perfectly for SOA with YJ springs.
 
@@ -56,7 +56,7 @@ By custom designing my steering arms I was able to retain the use of stock wide 
 
 The biggest problem with a spring over conversion is spring wrap and the resulting wheel hop. The problem is accentuated with soft, flat springs that articulate well. You will need some kind of spring wrap control or you will break u-joints, drive shafts, and even yokes. When the spring wrap unloads, it causes wheel hop which can cause a roll in an off-camber situation. Some sort of anti-spring wrap measures must be taken.
 
-[![Ladder bar](../img/suspension/yjsp6_.jpg)](../img/suspension/yjsp6.jpg) I used a ladder bar with a shackle and threaded section on the leading side and a fixed mount to the axle tube on the trailing side. It controls axle wrap and wheel hop completely while still allowing full articulation. My ladder bar does this by controlling the pinion angle while still allowing every other type of movement including twisting. If the pinion angle can't change the springs will not wind up and wheel hop is prevented. I bent my ladder bar and broken the axle tube mount by testing on pavement and rocks, but even in this half functional state it still worked fine. I've been driving with this setup for a whole season already and so far I've experienced no wheel hop.
+![Ladder bar](../img/suspension/yjsp6.jpg) I used a ladder bar with a shackle and threaded section on the leading side and a fixed mount to the axle tube on the trailing side. It controls axle wrap and wheel hop completely while still allowing full articulation. My ladder bar does this by controlling the pinion angle while still allowing every other type of movement including twisting. If the pinion angle can't change the springs will not wind up and wheel hop is prevented. I bent my ladder bar and broken the axle tube mount by testing on pavement and rocks, but even in this half functional state it still worked fine. I've been driving with this setup for a whole season already and so far I've experienced no wheel hop.
 
 I fabricated the axle end mount for the ladder bar to put the bottom bar only an inch or so below the axle tube and the top bar about 8 inches above. The front end of the bar mounts to a frame cross member I built, but many people mount them to their skid plate. All three points of the ladder bar and the other end of the shackle have polyurethane bushings to somewhat absorb shocks. The bottom tube of the bar runs parallel to the rear driveshaft but about 1" below to protect it from logs and rocks.
 
@@ -68,5 +68,5 @@ A common complaint of CJ owners who have used YJ springs SOA is that they are to
 
 The end result with my CJ7 was RTI scores over 1000 by using springs that someone gave me for free and no expensive conversion kit. The SOA leaves plenty of room for tires, my 33s don't rub at all and it looks like there is plenty of room for 35s.
 
-[![SOA Clearance](../img/suspension/yjsp3_.jpg)](../img/suspension/yjsp3.jpg)
+![SOA Clearance](../img/suspension/yjsp3.jpg)
 SOA, 1" body lift, and 33" Swampers.

@@ -6,7 +6,7 @@ description: "How to swap full size Wagoneer/Cherokee Dana 44s into a Jeep Wrang
 ---
 # Swapping an SJ Dana 44 into a Wrangler
 
-[![Christmas in Arizona with Dana 44s](../../img/axle/upgrades/sjd44yj/jeepxmas0_.jpg)](../../img/axle/upgrades/sjd44yj/jeepxmas0.jpg)
+![Christmas in Arizona with Dana 44s](../../img/axle/upgrades/sjd44yj/jeepxmas0.jpg)
 **by Michael Schwitzing**
 
 The benefits of swapping in axles for the Jeep YJ are definitely worth the effort. Although I did not do a spring over conversion at the time of my axle swap, incorporating one would be possible. If you are planning on an SOA set up in a YJ, swapping in larger axles is an excellent idea especially considering that most SOA Jeeps I've seen are running 35 inch tires. After seeing the size difference in components, as well as the "effectiveness" of C clip axles, I would make the removal of the Dana 35C a must in an SOA conversion.
@@ -51,7 +51,7 @@ The stock YJ pitman arm is retained. The steering linkage will match up fine if 
 
 #### Front Drive Shaft
 
-[![Front drive shaft](../../img/axle/upgrades/sjd44yj/d44-5_.jpg)](../../img/axle/upgrades/sjd44yj/d44-5.jpg) Since I had a shackle reversal, I had a custom front drive shaft with extra up-travel built. Another guy, Kerry, who did this swap without doing the shackle reversal said that the front driveshaft from a 2.5L AX5 YJ is the perfect length - it's about an inch shorter than the 4.0L AX15 driveshaft. Depending on your suspension you may not need drive shaft modifications.
+![Front drive shaft](../../img/axle/upgrades/sjd44yj/d44-5.jpg) Since I had a shackle reversal, I had a custom front drive shaft with extra up-travel built. Another guy, Kerry, who did this swap without doing the shackle reversal said that the front driveshaft from a 2.5L AX5 YJ is the perfect length - it's about an inch shorter than the 4.0L AX15 driveshaft. Depending on your suspension you may not need drive shaft modifications.
 
 #### Brakes
 
@@ -75,7 +75,7 @@ I used the YJ hard lines and brake hose on the Scout II axle. The side which the
 
 #### Rear Drive Shaft
 
-[![Rear drive shaft](../../img/axle/upgrades/sjd44yj/atlas-12_.jpg)](../../img/axle/upgrades/sjd44yj/atlas-12.jpg) Since I installed an Atlas transfer case at the same time, I had a rear CV type driveshaft custom made. If you were to keep the NP231 transfer case, it all depends on what year YJ you have. Some Wranglers use the same size U-joint as the Scout and some use a different size. I'm unsure when the change occurred.
+![Rear drive shaft](../../img/axle/upgrades/sjd44yj/atlas-12.jpg) Since I installed an Atlas transfer case at the same time, I had a rear CV type driveshaft custom made. If you were to keep the NP231 transfer case, it all depends on what year YJ you have. Some Wranglers use the same size U-joint as the Scout and some use a different size. I'm unsure when the change occurred.
 
 ### Conclusion
 

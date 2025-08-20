@@ -16,4 +16,4 @@ The wheels are real nice, but the tires are very bald 33s with no lift. I'll pro
 
 This jeep will serve as my commuter vehicle until I get my flat fender on the road. After that serious modifications are in order.
 
-[!['75 CJ-6](../../img/terry/cj6/cj602_.jpg)](../../img/terry/cj6/cj602.jpg)
+!['75 CJ-6](../../img/terry/cj6/cj602.jpg)
