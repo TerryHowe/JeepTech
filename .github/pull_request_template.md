@@ -1,8 +1,6 @@
-# Pull Request
-
 ## Description
 
-Please provide a brief description of the changes you're making.
+Provide a brief description of the changes you're making here.
 
 ## Copyright Verification
 
