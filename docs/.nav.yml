@@ -2,7 +2,21 @@ ignore:
   - terry/*
   - everetthowe
 nav:
-  - "*"
+  - applications
+  - axle
+  - Bell Housing: bell
+  - body
+  - electrical
+  - engine
+  - history
+  - models
+  - steer
+  - suspension
+  - tire
+  - transmission
+  - wheel
+  - winch
+  - Transfer Case: xfer
   - faqs.md
   - terry.md
   - bibliography.md
