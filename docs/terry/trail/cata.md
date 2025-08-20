@@ -11,7 +11,7 @@ The first trail we hit was very narrow, but not too rough. A recent shower had s
 
 Thanks to my 32" BFG MTs, I was able to pick my way up this trail if I took it slow, but it proved very challenging for a stock Wrangler. Our first obstacle was a wash out that crossed up you axles. Since Bill still had his sway bars connected, he just didn't have the articulation to maintain traction and speed up the incline. He managed to make it up after carefully picking his line and placing a few rocks in key areas.
 
-![](../../img/terry/trail/bill.jpg)
+![](../../img/terry/trail/bill.jpg "")
 
 After the wash out we came to an intersection. In every direction was a mud hole, so we continued the climb straight. Well one mud hole leads to another and another, but we were able motor through them. After several mud holes we came to another trail crossing near a large pond.
 
@@ -21,6 +21,6 @@ The first obstacle on the easy out was a mud hole on a sharp turn. I had to go b
 
 From here the trail just got muddier and rockier. It wasn't long before Bills Wrangler was stuck axle deep in mud with his tail pipe gurgling in the water. Bill remarked that his Wrangler was a little more difficult to drive than the Hummer he used to drive when he was in the Marines stationed in California. This time I was able to get the strap on him and pull him out. Much to my amazement, Bill was able to pick his way through the next section of trail without getting stuck again. From here the trail ended on an much easier trail we took all the way back near to where we started.
 
-![](../../img/terry/trail/cata.jpg)
+![](../../img/terry/trail/cata.jpg "")
 
 We all had a blast out there and no damage except a broken tail pipe hanger on Bills YJ. The trails were *very* tough for a stock vehicle, but Bill just picked his lines carefully and made it. We may also have convinced Bill's wife why he "needs" to do some of the mods he has been thinking about.

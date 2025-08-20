@@ -6,7 +6,7 @@ description: "How to remove the Saturn/Warn Overdrive from your Jeep or Scout 80
 ---
 # Removing The Saturn/Warn Overdrive
 
-![Warn Overdrive front](../../img/transmission/upgrades/WODf_.jpg)
+![Warn Overdrive front](../../img/transmission/upgrades/WODf_.jpg "Warn Overdrive front")
 
 I get confused everytime I remove a Warn (aka Saturn) over drive from a Dana 18 transfer case that was in a Jeep or Scout 80. Looking at the exploded view from Advanced Adapters helps, but sometimes I still get it wrong and I have to figure it out all over again. I figured if I wrote up the procedure, I wouldn't forget again and at least I'd have something to look up.
 

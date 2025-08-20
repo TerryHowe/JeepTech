@@ -6,7 +6,7 @@ description: "How to find a Ford transmission to swap into your Jeep.  Ford truc
 ---
 # Ford Transmissions
 
-![Unconverted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/ford2wdt18.jpg)
+![Unconverted 2WD Ford T-18](../../../img/transmission/upgrades/fordt18/ford2wdt18.jpg "Unconverted 2WD Ford T-18")
 
 Many Ford transmissions are suitable for swaps into Jeep vehicles because many Jeeps used Borg-Warner and Tremec transmissions. Many Ford manual transmissions are compatible with the bell housings used on Jeep trucks.
 

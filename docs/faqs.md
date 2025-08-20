@@ -6,7 +6,7 @@ description: "Tips on how to become one with your Jeep."
 ---
 # FAQs
 
-![Phil Collard on Tabasco Twister](./img/terry/trail/lc98b_.jpg)
+![Phil Collard on Tabasco Twister](./img/terry/trail/lc98b_.jpg "Phil Collard on Tabasco Twister")
 
 ## 4.0L Cranks, but Doesn't Fire
 Sometimes the 4.0L engine will crank fine, but it will not fire. I'm not sure what the real problem is, but the engine seems to have no spark and it acts as if it is flooded. It is counter intuitive for a fuel injected engine, but what solves the problem is holding the accelerator to the floor and cranking. I've had this problem half a dozen times, and holding the accelerator to the floor always resolves the problem. I assume the computer goes into a different mode when the accelerator is held to the floor.

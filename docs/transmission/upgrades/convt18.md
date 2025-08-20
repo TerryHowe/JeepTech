@@ -6,7 +6,7 @@ description: "How to swap a T-18 into your Jeep.  The T-18 is a heavy duty, gran
 ---
 # Swapping T-18 into your Jeep
 
-![Ford T-18 side](../../img/transmission/upgrades/ft18s.jpg)
+![Ford T-18 side](../../img/transmission/upgrades/ft18s.jpg "Ford T-18 side")
 
 The T-18 is such a popular swap for Jeeps because, in many cases, it can be installed for less money than any other heavy duty granny low transmission. The reason for this is the input bearing retainer size and input shaft length are right for '76-'86 CJs for the Ford and Jeep version. There are many different versions of the T-18 though and many pros and cons to the use of the different versions. Your choice of T-18 will depend on first on what Jeep you have and second on what T-18 you can find at a reasonable price.
 
@@ -35,9 +35,9 @@ The ultimate low buck, junk yard, bolt in swap is the Jeep T-18 and [Scout Dana 
 ## T-18 Swap Stories
 
 It seems there are an infinite number of ways you can get a T-18 in your Jeep. Here are some articles on common T-18 swaps:
-![](../../img/transmission/upgrades/ft18s_.jpg)[ Ford T-18 Swap ](fordt18/index.md): Steve Smith swaps a Ford T-18 into his '83 CJ-7. Swapping a Ford T-18 into your 80s CJ will give you a tremendous improvement in reliability and peformance.
+![](../../img/transmission/upgrades/ft18s_.jpg "")[ Ford T-18 Swap ](fordt18/index.md): Steve Smith swaps a Ford T-18 into his '83 CJ-7. Swapping a Ford T-18 into your 80s CJ will give you a tremendous improvement in reliability and peformance.
 
 ## T-18 Identification
 
 The T-18 has been used in Jeeps, Fords, and International Harvesters. Since T-18s were used in so many different trucks, it can be a bit daunting to go out and find one. The following articles cover some things to look for to find the T-18 you need.
-![T-18 side](../../img/transmission/factory/t18s_.jpg)[ Jeep T-18 ](../factory/t18.md): The T-18 was used in '72-'79 CJs and full size Jeeps until 1981\. ![Ford T-18](../../img/transmission/upgrades/fordt18/ford2wdt18_.jpg)[ Ford T-18 ](ford/fordt18id.md): Ford used the T-18 in trucks from the mid 60s until the mid 80s.
+![T-18 side](../../img/transmission/factory/t18s_.jpg "T-18 side")[ Jeep T-18 ](../factory/t18.md): The T-18 was used in '72-'79 CJs and full size Jeeps until 1981\. ![Ford T-18](../../img/transmission/upgrades/fordt18/ford2wdt18_.jpg "Ford T-18")[ Ford T-18 ](ford/fordt18id.md): Ford used the T-18 in trucks from the mid 60s until the mid 80s.

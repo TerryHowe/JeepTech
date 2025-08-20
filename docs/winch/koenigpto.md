@@ -6,4 +6,4 @@ description: "Koenig PTO Winch information for Jeeps."
 ---
 # Jeep Winches: Koenig PTO Winch
 
-![Koenig PTO Winch left side](../img/winch/koel.jpg) From the left side of the winch, you can see the brake mechanism. The original brake handle broke off this winch and a replacement has been welded on. ![Koenig PTO Winch right side](../img/winch/koer.jpg) From the right side of the winch, you can see the PTO input for the winch. The PTO shaft comes in below and to the right of the winch. This winch is bolted to a CJ mount which is slightly bent.
+![Koenig PTO Winch left side](../img/winch/koel.jpg "Koenig PTO Winch left side") From the left side of the winch, you can see the brake mechanism. The original brake handle broke off this winch and a replacement has been welded on. ![Koenig PTO Winch right side](../img/winch/koer.jpg "Koenig PTO Winch right side") From the right side of the winch, you can see the PTO input for the winch. The PTO shaft comes in below and to the right of the winch. This winch is bolted to a CJ mount which is slightly bent.

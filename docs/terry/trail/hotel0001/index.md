@@ -6,14 +6,14 @@ description: "Trail report Hotel Gulch trail Colorado."
 ---
 # Hotel Gulch Trail 7/98
 
-![Paul in his Toyota](../../../img/terry/trail/hotel0001/hotel0001.jpg)
-![Dave and Kelly](../../../img/terry/trail/hotel0001/hotel0004.jpg)
-![Curtis, Connie, and Brook](../../../img/terry/trail/hotel0001/hotel0005.jpg)
-![Zach driving my CJ-2A](../../../img/terry/trail/hotel0001/hotel0007.jpg)
+![Paul in his Toyota](../../../img/terry/trail/hotel0001/hotel0001.jpg "Paul in his Toyota")
+![Dave and Kelly](../../../img/terry/trail/hotel0001/hotel0004.jpg "Dave and Kelly")
+![Curtis, Connie, and Brook](../../../img/terry/trail/hotel0001/hotel0005.jpg "Curtis, Connie, and Brook")
+![Zach driving my CJ-2A](../../../img/terry/trail/hotel0001/hotel0007.jpg "Zach driving my CJ-2A")
 January 9, 2000
 by Terry Howe
 
-![Hotel Gulch](../../../img/terry/trail/hotel0001/hotel0002.jpg)
+![Hotel Gulch](../../../img/terry/trail/hotel0001/hotel0002.jpg "Hotel Gulch")
 
 It was a typical cold day in January when we met at 8am at the Red Rocks Shopping Center. Dave and Kelly arrived in their Jeep Cherokee, Paul showed up in his Toyota pickup instead of his flat fender, Curtis, Connie, and Brooke were in their Bronco, and I was "leading" in my CJ-2A. We headed up to Hotel Gulch which runs from rt 67 to Rampart Range Road.
 

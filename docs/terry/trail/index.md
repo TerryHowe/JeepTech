@@ -6,7 +6,7 @@ description: "Trail Reports page of Terry Howe."
 ---
 # Terry Howe's Trail Reports Page
 
-![Eagle Rock](../../img/terry/trail/er180x128.jpg)
+![Eagle Rock](../../img/terry/trail/er180x128.jpg "Eagle Rock")
 (Eagle Rock, Colorado)
 
 I am a member of Bighorn Four Wheel Drive Club and The Colorado Rock Hoppers as well as a member of the Colorado Association of Four Wheel Drive Clubs and United Four Wheel Drive Association. I wheel with Bighorn and The Rock Hoppers frequently and with people from the internet Jeep mailing lists. I also have some older trail reports from the East Coast when I wheeled with Long Island Off Road and Old Colony.

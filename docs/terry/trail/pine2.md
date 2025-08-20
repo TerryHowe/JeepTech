@@ -19,4 +19,4 @@ Because of this big mound of dirt we decide we won't be coming back this way and
 
 I jump in and cruise down the trail to the mound. Fortunately Don had flattened the mound pretty well with his stuck so I am able to motor right over it. We keep going and soon find the end of the trail. As luck would have it, the trail ends in a parking area that was closed and we were on the wrong side of the fence, so back down the trail we went. This time we made it through with out incident and headed home at last. I can't wait until next weekend when I'll be hitting the trails again.
 
-![](../../img/terry/trail/donyj.jpg) Here is an "after" picture of Don's YJ. He reattached the top tube and dumped the mangled bottom tube. The top tube remained attached until the next trip down to the pine barrens . . .
+![](../../img/terry/trail/donyj.jpg "") Here is an "after" picture of Don's YJ. He reattached the top tube and dumped the mangled bottom tube. The top tube remained attached until the next trip down to the pine barrens . . .
