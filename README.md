@@ -59,7 +59,15 @@ The documentation follows MkDocs conventions:
 
 ## Contributing
 
-When adding new content:
+We welcome contributions from the Jeep community! Please read our [Contributing Guide](CONTRIBUTING.md) for detailed information on how to contribute content.
+
+**Quick Start for Contributors:**
+- Use the edit button (✏️) on any page to suggest changes
+- Ensure you own the copyright to any content you submit  
+- Keep content safe-for-work and Jeep-focused
+- A GitHub account is required to contribute
+
+For technical details on local development:
 
 1. Place Markdown files in the appropriate subdirectory under `docs/`
 2. Add the file to the navigation structure in `mkdocs.yml`
