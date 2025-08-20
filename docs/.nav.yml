@@ -1,7 +1,5 @@
-ignore:
-  - terry/*
-  - everetthowe
 nav:
+  - index.md
   - applications
   - axle
   - Bell Housing: bell
