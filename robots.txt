@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cgi-bin
+Disallow: /common
+Disallow: /albums
