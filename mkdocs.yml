@@ -12,6 +12,8 @@ theme:
     - content.action.edit
   icon:
     edit: material/pencil
+  logo: jeep-logo.png
+  favicon: favicon.ico
 
 docs_dir: docs
 site_dir: site
