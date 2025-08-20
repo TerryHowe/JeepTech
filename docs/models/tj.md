@@ -6,7 +6,7 @@ description: "Description, drive train specifications, and production informatio
 ---
 # Wrangler TJ
 
-[![Scott Parker's TJ on the Spring Creek Trail](../img/parkerst.gif)](../img/parkers.gif)
+[![Scott Parker's TJ on the Spring Creek Trail](../img/parkerst.gif "Scott Parker's TJ on the Spring Creek Trail")](../img/parkers.gif)
 
 The Wrangler (TJ) was introduced in mid 1996 as a 1997 model.
 

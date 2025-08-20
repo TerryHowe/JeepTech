@@ -19,11 +19,11 @@ That was about the only mishap for the day that slowed us down. I also discovere
 
 Rain continued through the night, so I slept in the front of my Jeep again. The next day I was feeling a bit lazy, so I opted to ride shotgun with Eric. Eric's CJ-7 is built with 360, T-18, D300, Detroits f&r, 35s, basically the desired future state for my Jeep. The clouds broke and the sun came out which made I nice change from the constant rain.
 
-![Rick in the Moss Bog](../../img/terry/trail/new-22.jpg)
+![Rick in the Moss Bog](../../img/terry/trail/new-22.jpg "Rick in the Moss Bog")
 
 Life got interesting quick when we hit the Moss Bog. It's a very rare thing when someone gets through the Moss Bog without winching. It has also been known to take engines from those who try to hard. No one blew an engine, but no one made it through without throwing a cable. It's the first time I've ever seen Rick have to use his winch.
 
-![Eric in deep](../../img/terry/trail/new-23.jpg)
+![Eric in deep](../../img/terry/trail/new-23.jpg "Eric in deep")
 
 We finished up the trails a bit early, so on the way home it was decided to run Old Florida Road. Rather than save the bottomless pit for last, we came in from the back side and hit it first. The Jeep Jamboree paved road on the right is the preferred route for anyone with any common sense and without 40+" tires, but what fun is common sense. With some goading, I convinced Eric to give the pit a try. The picture shows about as far as he got into it. He managed to go back and forth in the pit a few times before stalling out and not being able to restart. We winched him out and Eric had the pleasure of crawling under his dripping wet muddy Jeep to change out to a spare starter. I volunteered to do it, but he was too kind and I just had to hand him wrenches.
 

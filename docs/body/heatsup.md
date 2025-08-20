@@ -6,7 +6,7 @@ description: "A supplement to the CJ heater motor upgrade for CJs.  How to enlar
 ---
 # Heater Motor Upgrade Supplement
 
-![](../img/body/heatsup01.jpg)
+![](../img/body/heatsup01.jpg "")
 **by Rod Gramlich**
 
 Rather than chopping and hacking at my firewall to upgrade the heater motor in my CJ, I used a hole saw to cut the proper size hole. This technique saved me from removing my battery tray, but I did remove the passenger seat to make the work easier. Removing the passenger seat is relatively painless. The rest of the procedure is documented in Terry Howe's [ Heater Motor Swap](heater.md) article.

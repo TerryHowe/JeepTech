@@ -6,13 +6,13 @@ description: "All about the Jeep AMC 20 axle."
 ---
 # AMC 20
 
-![AMC 20 diff cover](../../img/axle/bwa20.jpg)
+![AMC 20 diff cover](../../img/axle/bwa20.jpg "AMC 20 diff cover")
 
 All AMC 20s have an 8 7/8" R&P and use 29 spline shafts. The AMC 20 R&P is 3/8" bigger than the Dana 44, but it uses smaller shafts, smaller axle tubes, and the CJ version comes with weaker two-piece shafts. The AMC20 uses a 29-spline shaft, where as the later Dana 44 uses a 30-spline shaft. The AMC 20 housing tends to flex a lot, which can cause breakage. This can be remedied by welding the tubes and/or adding gussets. The reason the AMC 20 flexes more than the Dana 44 is the shorter differential housing and smaller axle tubes. Its other flaw is the CJ version uses the two-piece axle made up of a hub and a shaft. The hub end tends to break off under load which has created the market for one piece AMC 20 axle shafts. Unfortunately, the shafts are expensive ($350+ USD) and in some cases a special bearing must be used.
 
-![AMC 20 rear axle](../../img/axle/amc20.jpg) Identifying the gear ratio of an AMC 20 is a bit tricky. Dana axles normally have a tag on the left of the diff cover with the gear ratio at the time of build. The AMC axles have a code that has to be looked up in a table. The code is stamped on the housing boss to the left of the diff cover right near the axle tube. The good part about the stamp is it tends to stay readable longer than the tag, but you have to know the code. Since there are conflicts between what a code means for a narrow track and what it means for a wide track, don't count solely on the code to identify an axle. Bring a tape measure or know the source of the part.
+![AMC 20 rear axle](../../img/axle/amc20.jpg "AMC 20 rear axle") Identifying the gear ratio of an AMC 20 is a bit tricky. Dana axles normally have a tag on the left of the diff cover with the gear ratio at the time of build. The AMC axles have a code that has to be looked up in a table. The code is stamped on the housing boss to the left of the diff cover right near the axle tube. The good part about the stamp is it tends to stay readable longer than the tag, but you have to know the code. Since there are conflicts between what a code means for a narrow track and what it means for a wide track, don't count solely on the code to identify an axle. Bring a tape measure or know the source of the part.
 
-[![amc cover](../../img/axle/amc20co_.gif)](../../img/axle/amc20co.gif)
+[![amc cover](../../img/axle/amc20co_.gif "amc cover")](../../img/axle/amc20co.gif)
 
 ### Specs
 

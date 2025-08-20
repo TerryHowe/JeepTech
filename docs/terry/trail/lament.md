@@ -9,10 +9,10 @@ Around 8:30 we moved out. It was a short ride to the trail head where we stopped
 
 We regrouped with the full sized trucks and started climbing to the top of Lamentation Mt. on a trail that had some fun rock steps. The "Cigarette Lighter" was the first step to give us any trouble. A guy in a CJ-7 had trouble getting over it, finally realizing one of his hubs wasn't engaging properly and he had an open front. He go over on momentum in 2WD and pulled aside to fix his hub. A full sized Chevy pickup managed to hit one of his cross members on the small protruding rock at the top of the step and give spectators a view of the shower of sparks that give this obstacle its name.
 
-After the "Cigarette Lighter" we continued easily up some dried out mud holes that are normally quite difficult. We stopped around 1 for lunch at the top of Lamentation Mt. Nice view up there. ![](../../img/terry/trail/jlamen_.jpg) Jim's '95 Dodge going down "The Squeeze"
+After the "Cigarette Lighter" we continued easily up some dried out mud holes that are normally quite difficult. We stopped around 1 for lunch at the top of Lamentation Mt. Nice view up there. ![](../../img/terry/trail/jlamen_.jpg "") Jim's '95 Dodge going down "The Squeeze"
 
 After lunch we headed down mostly on the same trail, but we also took a spur to "The Squeeze". The Squeeze is formed by two rock out cropping that create an interesting off camber situation. Since the out cropping have steep sides you have to go down with one tire on top of the out cropping and one in the middle. I watched Mark go through since his CJ is similar to mine and he caught a lot of air with his left rear tire. I went through next and it felt like I caught a lot of air. I steered into the potential roll and the rear dropped down. Jim did catch a bit of air, but his long wheelbase Dodge made it look easy.
 
-Even though the dry weather made the trail a bit easier than normal the trip was a lot of fun. I met a lot of great people and got to wheel for the first time with Mark and Jim. Hopefully, I'll be wheeling with them and the rest of Long Island Off-road again soon. ![](../../img/terry/trail/mlamen_.jpg)
+Even though the dry weather made the trail a bit easier than normal the trip was a lot of fun. I met a lot of great people and got to wheel for the first time with Mark and Jim. Hopefully, I'll be wheeling with them and the rest of Long Island Off-road again soon. ![](../../img/terry/trail/mlamen_.jpg "")
 
 Mark's '86 CJ-7 going up "The Squeeze"

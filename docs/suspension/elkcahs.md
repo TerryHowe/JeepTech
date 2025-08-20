@@ -20,19 +20,19 @@ The purpose of a shackle reversal is to allow the tire move backwards easily whe
 
 When measuring spring length, one normally measures spring eye to spring eye. Obviously, springs do not shrink and grow, but the distance between the eyes changes when they flex. Flat springs are at their maximum length at rest and any flex decreases the distance between the eyes.
 
-[![Shackle forward flat springs](../img/suspension/elkcahs/nonr2s.jpg)](../img/suspension/elkcahs/nonr2.jpg)
+[![Shackle forward flat springs](../img/suspension/elkcahs/nonr2s.jpg "Shackle forward flat springs")](../img/suspension/elkcahs/nonr2.jpg)
 With flat arch springs on a CJ or YJ with the conventional setup the tire already goes backwards as it goes up, in fact it also goes backwards as it goes down. This is because the spring is it's longest when it is flat and curving it either way shortens the spring and draws the tire towards the fixed end. This can be demonstrated on any stock YJ by noting the angle of the shackle relative to the frame when it is sitting on flat ground, and then again when one tire has been run up a ramp. On the ramp the bottom end of both front shackles will be more towards the rear than when on flat ground because one spring will be arched positively and one negatively.
 
-[![Shackle reversed flat springs](../img/suspension/elkcahs/rev3s.jpg)](../img/suspension/elkcahs/rev3.jpg)
+[![Shackle reversed flat springs](../img/suspension/elkcahs/rev3s.jpg "Shackle reversed flat springs")](../img/suspension/elkcahs/rev3.jpg)
 
 #### Axle Movement With Arched Springs
 
 With heavily arched springs such as used in normal 4" spring under axle lift kits and the conventional fixed spring hanger at the rear the front tire will come forwards when it rises to go over a bump. This is because the spring is moving towards being flat, rather than away from being flat.
 
-[![Shackle forward arched springs](../img/suspension/elkcahs/narch1s.jpg)](../img/suspension/elkcahs/narch1.jpg)
+[![Shackle forward arched springs](../img/suspension/elkcahs/narch1s.jpg "Shackle forward arched springs")](../img/suspension/elkcahs/narch1.jpg)
 As the spring moves towards being flat the arch decreases and the length of the spring increases, pushing the tire slightly forwards.
 
-[![Shackle reversed arched springs](../img/suspension/elkcahs/rarch2s.jpg)](../img/suspension/elkcahs/rarch2.jpg)
+[![Shackle reversed arched springs](../img/suspension/elkcahs/rarch2s.jpg "Shackle reversed arched springs")](../img/suspension/elkcahs/rarch2.jpg)
 A shackle reversal puts the fixed end of the spring at the front, which makes the tire go rearwards on compression instead of forwards. This is very desirable for handling reasons. This is why shackle reversals are popular with after market lift springs on YJs and CJs.
 
 #### Bump Steer

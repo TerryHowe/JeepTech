@@ -6,7 +6,7 @@ description: "How to find IH transfer case to swap into your Jeep.  IH trucks us
 ---
 # International Havester Transfer Cases
 
-![Scout 300 back](../../../img/xfer/upgrades/ihd300b.jpg)
+![Scout 300 back](../../../img/xfer/upgrades/ihd300b.jpg "Scout 300 back")
 
 International Harvester truck fans are big into line setting tickets. A line setting ticket identifies all the parts that were used to build the original truck. The line setting ticket uses special IH codes to identify these parts and this table has been compiled to cross reference those codes with the manufactures model number. If you purchase an IH truck it may come with a line setting ticket or you could still purchase the line setting ticket for your truck. The line setting ticket may still be in the glove box or behind the glove box.
 
@@ -23,4 +23,4 @@ Disclaimer from Howard Pletcher: Years and Models are from memory, may not be 10
 
 ## Identification
 
-![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg)[IH Dana 300](ihd300id.md): The IH Scout II Dana 300 was only used in 1980 and it can be used to replace Jeep Dana 20 transfer cases. It has a much better low range than the Jeep Dana 20. [![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)](ihd20id.md)The IH Dana 20 can be used to replace most Jeep Dana 20s. ![Scout Spicer 18](../../../img/xfer/d1801f_.jpg)[IH Dana 18](ihd18id.md): The IH Dana 18 can be used to replace most Jeep Dana 18s.
+![Scout 300 back](../../../img/xfer/upgrades/ihd300b_.jpg "Scout 300 back")[IH Dana 300](ihd300id.md): The IH Scout II Dana 300 was only used in 1980 and it can be used to replace Jeep Dana 20 transfer cases. It has a much better low range than the Jeep Dana 20. [![Scout Spicer 18](../../../img/xfer/d1801f_.jpg "Scout Spicer 18")](ihd20id.md)The IH Dana 20 can be used to replace most Jeep Dana 20s. ![Scout Spicer 18](../../../img/xfer/d1801f_.jpg "Scout Spicer 18")[IH Dana 18](ihd18id.md): The IH Dana 18 can be used to replace most Jeep Dana 18s.

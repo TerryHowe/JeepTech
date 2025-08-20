@@ -6,13 +6,13 @@ description: "Description, drive train specifications, and production informatio
 ---
 # MA, MB, and GPW
 
-![Willys-Overland MB front view](../img/mbf.jpg)
+![Willys-Overland MB front view](../img/mbf.jpg "Willys-Overland MB front view")
 
 The MA was the prototype that won Willys the contract with the U.S. Government. Willys built approximately 1550 of them in 1941. From late 1941 until mid 1945, Willys built MBs and Ford built GPWs based on the Willys design.
 
 The first 25,808 MBs produced by Willys used a "slat grill". This grill was welded together rather than the stamped grill most people are familiar with. Very few "slat grill" MBs remain in existence.
 
-![Willys-Overland MB back view](../img/mbb.jpg)
+![Willys-Overland MB back view](../img/mbb.jpg "Willys-Overland MB back view")
 
 ## Drive Train
 

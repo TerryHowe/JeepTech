@@ -8,11 +8,11 @@ description: "Description, drive train specifications, and production informatio
 
 ## Grand Wagoneer Limo
 
-![Grand Wagoneer Limo Front View](../img/sjlimo.jpg)
+![Grand Wagoneer Limo Front View](../img/sjlimo.jpg "Grand Wagoneer Limo Front View")
 
 The Grand Wagoneer Limo.
 
-![Grand Wagoneer Limo Back View](../img/sjlimob.jpg) ![Grand Wagoneer Limo Interior](../img/sjlimoi.jpg)
+![Grand Wagoneer Limo Back View](../img/sjlimob.jpg "Grand Wagoneer Limo Back View") ![Grand Wagoneer Limo Interior](../img/sjlimoi.jpg "Grand Wagoneer Limo Interior")
 
 ## Drive Train
 
@@ -38,7 +38,7 @@ Serial numbers are located on the ...
 
 ## MBT Trailer
 
-![MBT 1/4 ton trailer](../img/mbt.jpg)
+![MBT 1/4 ton trailer](../img/mbt.jpg "MBT 1/4 ton trailer")
 
 The MBT trailer. Willys-Overland built some of these trailers as did other manufactures. The post war model is the M100, which looks almost identical. The M416 looks very similar to, but it has squared off fenders. They are all 1/4 ton trailers.
 

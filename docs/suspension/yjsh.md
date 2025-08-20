@@ -6,7 +6,7 @@ description: "How to increase the suspension travel of your Jeep Wrangler YJ wit
 ---
 # Wrangler YJ Travel Trick
 
-![Travel before trimming](../img/suspension/yjshb.jpg)Before ![Travel after trimming](../img/suspension/yjsha.jpg)After
+![Travel before trimming](../img/suspension/yjshb.jpg "Travel before trimming")Before ![Travel after trimming](../img/suspension/yjsha.jpg "Travel after trimming")After
 
 I was helping Eric Resko install a Dana 44 rear end in his '87 Wrangler when he showed me a neat trick to increase travel of the rear axle. The rear cross member restricts movement of the rear shackle and some minor trimming of the cross member can greatly increase the movement of the shackle. The before and after pictures above show the dramatic increase in range of motion of the shackle.
 

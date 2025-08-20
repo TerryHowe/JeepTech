@@ -3,7 +3,7 @@ title: "Diane and Terry's Odyssey"
 ---
 # Diane and Terry's Odyssey
 
-![Bike](../../img/terry/bike/dt18.jpg)
+![Bike](../../img/terry/bike/dt18.jpg "Bike")
 
 Diane and I left Yorktown, Virginia May 7th on our 4,586 mile ride to Astoria, Oregon. We arrived in Astoria, appropriately, on the 4th of July. Over 59 days we averaged about 78 miles a day. Our biggest day was 115 miles through Missouri and Kansas. Our shortest day was 36 miles (high winds in Wyoming). We did five centuries (days over 100 miles) during the trip. My top speed was 50.9 mph on the steep hills of Missouri, Diane's top speed was a few mph less since she doesn't have my weight.
 
@@ -11,7 +11,7 @@ The tour we did is the original Bike Centennial tour, which is famous in the bic
 
 ### Day 1
 
-![Bike](../../img/terry/bike/dt01.jpg) On our first day out of Yorktown, Virginia we got a late start, but still got in 70 miles. This was 10 miles more than we expected to do, due to a detour. Camping was free behind a Methodist Church. There weren't any showers, but there were restrooms with running water.
+![Bike](../../img/terry/bike/dt01.jpg "Bike") On our first day out of Yorktown, Virginia we got a late start, but still got in 70 miles. This was 10 miles more than we expected to do, due to a detour. Camping was free behind a Methodist Church. There weren't any showers, but there were restrooms with running water.
 
 ### Day 2
 
@@ -31,7 +31,7 @@ We rode 70 miles of pleasant rolling hills to Camp Bethel. We were just a day or
 
 ### Day 6
 
-![Bike](../../img/terry/bike/dt03.jpg) We started off in the morning riding with Bryan and Brian, but after a while we split up and we hammered out another 79 miles. The campground we found was just off Interstate 81 and it is a dump compared to Camp Bethel. We never did find the owner so we ended up staying for free. Finished the first of 12 maps in the tour.
+![Bike](../../img/terry/bike/dt03.jpg "Bike") We started off in the morning riding with Bryan and Brian, but after a while we split up and we hammered out another 79 miles. The campground we found was just off Interstate 81 and it is a dump compared to Camp Bethel. We never did find the owner so we ended up staying for free. Finished the first of 12 maps in the tour.
 
 ### Day 7
 
@@ -41,7 +41,7 @@ Diane's knee was really bothering her today, so we stopped to do laundry in Whyt
 
 Opened the door of the motel in the morning just in time to see Bryan and Brian riding past on the road. I yelled, but they didn't hear me. We got moving a bit late and stopped in Rural Retreat for breakfast. We met a women there that offered us a place to stay. She said to let any west bound people we ran into to stop by. We did a total of 65 rough miles with a climb past Mt Rogers over 3500 ft above sea level. After the climb we started a 15 mile descent. We free camped in past Damascus near a river. Late at night some people parked on the road above us and were hanging out (drinking beer I guess). They must have seen us, but thank God they didn't come down and hassle us. It wasn't a very restful sleep.
 
-![Bike](../../img/terry/bike/dt15.jpg)
+![Bike](../../img/terry/bike/dt15.jpg "Bike")
 
 ### Day 9
 
@@ -49,9 +49,9 @@ Didn't get started until pretty late and stopped and a grocery store to "cook" b
 
 ### Day 10
 
-![Bike](../../img/terry/bike/dt13.jpg) We still didn't have any fuel, so we used hot tap water to "cook" the instant grits and tea. Soon we were on the road and to the Kentucky border. A few miles over the border there was a turtle in the road. I turned around to move it when a pickup came down the road and ran it over. The rough start to the morning turned better when we found stove fuel in Elkhorn City. We did 68 miles and stayed in a nice youth hostel in Pippa Passes. I had just finished Asimov's "I Robot" and the women that ran the hostel was kind enough to give me Grisham's "The Firm". Pop fiction isn't my first choice, I prefer pop science fiction, but it has proved to be impossible to buy books in this area unless you like romance novels. It seems that only the women read in this area. Eastern Kentucky is beautiful, but coal mining is the main industry and the people are rough. The coal trucks are gigantic and unnerving as the fly past you with chunks of coal falling off the back.
+![Bike](../../img/terry/bike/dt13.jpg "Bike") We still didn't have any fuel, so we used hot tap water to "cook" the instant grits and tea. Soon we were on the road and to the Kentucky border. A few miles over the border there was a turtle in the road. I turned around to move it when a pickup came down the road and ran it over. The rough start to the morning turned better when we found stove fuel in Elkhorn City. We did 68 miles and stayed in a nice youth hostel in Pippa Passes. I had just finished Asimov's "I Robot" and the women that ran the hostel was kind enough to give me Grisham's "The Firm". Pop fiction isn't my first choice, I prefer pop science fiction, but it has proved to be impossible to buy books in this area unless you like romance novels. It seems that only the women read in this area. Eastern Kentucky is beautiful, but coal mining is the main industry and the people are rough. The coal trucks are gigantic and unnerving as the fly past you with chunks of coal falling off the back.
 
-![Bike](../../img/terry/bike/dt02.jpg)
+![Bike](../../img/terry/bike/dt02.jpg "Bike")
 
 ### Day 11
 
@@ -95,7 +95,7 @@ We rode hard out of Simpson stopping for lunch in Carbondale which turned out to
 
 ### Day 19
 
-![Bike](../../img/terry/bike/dt14.jpg) In the morning out of Chester we stopped at the statue of Popeye the sailer man. Chester is the home of the creator of Popeye and some of the characters in the strip are modeled after people that lived in the town. We crossed the Mississippi into Missouri and immediately noticed damage from last years floods. Not much was open near the river on the Missouri side, but we soon were climbing out of the flood plains.
+![Bike](../../img/terry/bike/dt14.jpg "Bike") In the morning out of Chester we stopped at the statue of Popeye the sailer man. Chester is the home of the creator of Popeye and some of the characters in the strip are modeled after people that lived in the town. We crossed the Mississippi into Missouri and immediately noticed damage from last years floods. Not much was open near the river on the Missouri side, but we soon were climbing out of the flood plains.
 
 Ran into some interesting cyclist going cross country West to East. The first people we have run into going the other way. We ran into a couple that were moteling it all the way and riding extremely light. They had a small pack on the back and that is it. No sleeping bag or tent. In fact I don't think they had more than 2 sets of clothes and maybe just one jacket. Interesting way to travel of course you can hammer out the miles if you are not carrying 40 pounds of equipment. They had been forced to hitch rides a couple of times to find shelter.
 
@@ -115,7 +115,7 @@ We camped at Alley Springs, another nice state campground.
 
 We took time in the morning to check out Alley Springs Park. There is a mill house there that his bright red and converted into an interesting museum. After checking out the mill house we decided to check out the springs. Well it turns out the springs are right there. 81 million gallons of water a day just wells up out of the ground and they built the mill house right next to it. We took the short 1/3 mile hike around the spring, it was amazing. In Summersville, a town near by, a barber told us how divers recently discovered bottles of moonshine and a boat deep in the spring.
 
-![Bike](../../img/terry/bike/dt10.jpg) As we rode away from Alley Springs, the Ozarks slowly mellowed making our ride easier. We made it to Hartville around 7:30 in the evening with plans to camp in the city park. The first thing we noticed about the city park when we got there was there were pickup trucks parked up and down the street. Looked like a party was going on at a house near by. We tried not to make it obvious that we were planning on camping in the park, but we were hungry so we started cooking some chili. Finally a guy walked over to our table and explained that they were having a coon hunt tonight, so the trucks would all be gone by around 9\. Some would return between 12 and 3 in the morning to check their standings. He said no one would give us any trouble. The guy we spoke to was pleasant enough, but beer and firearms make me nervous, so we tried to set up our tent out of view. As promised, they all moved out around 10. Except for one of the hunting dogs rummaging through our dirty dishes late at night, we barely heard them return.
+![Bike](../../img/terry/bike/dt10.jpg "Bike") As we rode away from Alley Springs, the Ozarks slowly mellowed making our ride easier. We made it to Hartville around 7:30 in the evening with plans to camp in the city park. The first thing we noticed about the city park when we got there was there were pickup trucks parked up and down the street. Looked like a party was going on at a house near by. We tried not to make it obvious that we were planning on camping in the park, but we were hungry so we started cooking some chili. Finally a guy walked over to our table and explained that they were having a coon hunt tonight, so the trucks would all be gone by around 9\. Some would return between 12 and 3 in the morning to check their standings. He said no one would give us any trouble. The guy we spoke to was pleasant enough, but beer and firearms make me nervous, so we tried to set up our tent out of view. As promised, they all moved out around 10. Except for one of the hunting dogs rummaging through our dirty dishes late at night, we barely heard them return.
 
 ### Day 22
 
@@ -125,7 +125,7 @@ We ate at restaurants and stayed at a motel to make up for our restless sleep ne
 
 We were planning on doing big miles this day, but the morning did not look good. All morning there was a light rain. We stopped in Golden City, MO. at Cooky's Diner since it was highly recommend by people we had run into. There was a bit of a wait, but it was raining anyway. Since it was so crowded we ended up sharing a table with Frank and Hellen. Frank was a retired feed store owner and Hellen was a chatty house wife. They had children living all over the country and they made interesting lunch chat. The wait was worth it, because the food was excellent and the pie was delicious.
 
-![Bike](../../img/terry/bike/dt19.jpg) By the time we finished lunch, the rain had stopped, but it soon started up again. It was still raining when we hit the Kansas border, but soon after that it stopped for good. Surprisingly, Kansas had the best sign at the border of any of the states we rode through. We camped at the Girard City Park.
+![Bike](../../img/terry/bike/dt19.jpg "Bike") By the time we finished lunch, the rain had stopped, but it soon started up again. It was still raining when we hit the Kansas border, but soon after that it stopped for good. Surprisingly, Kansas had the best sign at the border of any of the states we rode through. We camped at the Girard City Park.
 
 ### Day 24
 
@@ -157,7 +157,7 @@ We woke up early hoping to catch breakfast in town. Turned out there weren't any
 
 We weren't 15 miles out of town when I flatted thanks to a "Texas Tack" which is a cactus thorn. It took me almost an hour to fix it, very frustrating. We rode hard the rest of the day to make up for our slow start.
 
-![Bike](../../img/terry/bike/dt09.jpg) Since it was summer when the days are long, we were able to ride until late in the day. We made the Colorado state line and kept going in through the desert. One thing we often failed to keep track of was the day of the week. This particular evening was a Saturday night. People go out, have a few beers, and drive around. I see a GM stepside pickup flying down the road toward me doing well over 80. Apparently, the driver threw a handful of change at me since I was hit with a few coins. At that velocity, coins hurt. This put me in a real swell mood, but we shouldn't be riding late on Friday and Saturday nights.
+![Bike](../../img/terry/bike/dt09.jpg "Bike") Since it was summer when the days are long, we were able to ride until late in the day. We made the Colorado state line and kept going in through the desert. One thing we often failed to keep track of was the day of the week. This particular evening was a Saturday night. People go out, have a few beers, and drive around. I see a GM stepside pickup flying down the road toward me doing well over 80. Apparently, the driver threw a handful of change at me since I was hit with a few coins. At that velocity, coins hurt. This put me in a real swell mood, but we shouldn't be riding late on Friday and Saturday nights.
 
 We arrived at Haswell at about 8:30 and camped at the city park. I nice guy who worked at the local Coop and was also a fireman stopped by and chatted with us as we set up our tent and ate dinner. He seemed unphased by the vicious mosquitos of the area.
 
@@ -173,7 +173,7 @@ After Dink's we rode on to Peublo and got a room at a Motel. Peublo is about the
 
 We spent all morning in Peublo repairing our bikes and getting fresh supplies. The 2000 or so miles had put some wear and tear on our bikes. My rear tire was shot and Diane needed some gear adjustments. We rode out of Peublo in the early afternoon for Florence. We had Mexican food at the "Prickly Pear" and camped in the city park. Hitting some hills was a bit of a shock after so many days in the flats. Suddenly, I had to shift gears.
 
-![Bike](../../img/terry/bike/dt12.jpg)
+![Bike](../../img/terry/bike/dt12.jpg "Bike")
 
 ### Day 32
 
@@ -181,13 +181,13 @@ We rode out of Florence to Hartsel, population 44. We free camped by the river.
 
 ### Day 33
 
-Camping at 9,000 feet proved to be very cold at night. We knocked the frost off our tent and went to the bar/cafe in Hartsel for breakfast. After breakfast, we started our final ascent of Hoosier Pass. ![Bike](../../img/terry/bike/dt17.jpg) We paused for lunch in Fairplay and then continued the big climb. We made the top in the early afternoon on a beautiful sunny day. Hoosier was the highest point on the transamerica trail, 11,542', so it was a great feeling to be on top.
+Camping at 9,000 feet proved to be very cold at night. We knocked the frost off our tent and went to the bar/cafe in Hartsel for breakfast. After breakfast, we started our final ascent of Hoosier Pass. ![Bike](../../img/terry/bike/dt17.jpg "Bike") We paused for lunch in Fairplay and then continued the big climb. We made the top in the early afternoon on a beautiful sunny day. Hoosier was the highest point on the transamerica trail, 11,542', so it was a great feeling to be on top.
 
 There were two women, Ann and Karen, who were also cycle touring at the top of the pass and oddly enough one of the women went to my high school. She was about 8 years older than me, so we didn't go at the same time, but my high school was very small. They both currently live in Colorado and were out on a five day tour.
 
 After a pleasant rest at the top, we bundled up and started the descent. Descents in Colorado aren't as steep as they are in Missouri, but they are a lot longer. We flew down hill to Brekenridge where we jumped on a bike trail. We took the bike trail to Frisco and then to Silverthorn. About half of this 59 mile descent was on the along the bike trail. In Silverthorn we stopped for dinner at the "Sunshine Cafe" and stayed at the youth hostel.
 
-![Bike](../../img/terry/bike/dt11.jpg)
+![Bike](../../img/terry/bike/dt11.jpg "Bike")
 
 ### Day 34
 
@@ -205,7 +205,7 @@ By the time we hit Walden, we were very hungry and dehydrated. Neither of us wan
 
 After lunch we pulled into a supermarket to stock up and we ran into another east bound cycle tourist. He was in much better humor than the other one we ran into and he joked about the Wyoming state motto "Like no place on Earth". He said it really wasn't, it was more like you were on another planet.
 
-![Bike](../../img/terry/bike/dt20.jpg)
+![Bike](../../img/terry/bike/dt20.jpg "Bike")
 
 We made the Wyoming border and hammered out miles to Encampment where we ironically decided to motel it. Made soup for dinner in the laundry mat. Strange place, the motel owner was missing an arm and his poor wife had a cast on her leg. The main industry seems to be kiln drying wood, so the place smelled like burning wood.
 
@@ -231,7 +231,7 @@ From Sweetwater we rode 40 miles to Lander where we had to decide whether we sho
 
 High winds and rain tormented us through the night. I woke lying in a pool of water. The rains had stopped, but the winds were still strong. As we were packing up, the wind caught our tent and carried it across a field. My sleeping bag fell out in a mud puddle before the tent got caught on a fence. We packed up our soggy equipment and headed out. Despite the rough weather, we couldn't help notice the beautiful valley we were in as we cycled away.
 
-![Bike](../../img/terry/bike/dt07.jpg) Strong winds continued all morning, so we took a long lunch in Dubois, hoping the winds would die down. They didn't so we continued on. Finally, we gave up and pulled into the Pinnacle Motel. I was hoping to catch the finally game of the Stanley Cup, but it turned out this motel didn't have a TV in the room. The owner was all uptight and very annoying. This was our shortest day by far, we only rode about 36 miles and it took us about 6 hours to do that. Stayed up late doing bike maintenance.
+![Bike](../../img/terry/bike/dt07.jpg "Bike") Strong winds continued all morning, so we took a long lunch in Dubois, hoping the winds would die down. They didn't so we continued on. Finally, we gave up and pulled into the Pinnacle Motel. I was hoping to catch the finally game of the Stanley Cup, but it turned out this motel didn't have a TV in the room. The owner was all uptight and very annoying. This was our shortest day by far, we only rode about 36 miles and it took us about 6 hours to do that. Stayed up late doing bike maintenance.
 
 ### Day 40
 
@@ -245,7 +245,7 @@ The biker/hiker rate in Yellowstone is a way low $2 and there were a lot of bike
 
 ### Day 42
 
-![Bike](../../img/terry/bike/dt05.jpg) We rode out in the morning with the Steven. Communication was difficult, but he was interesting company. We parted ways when we reached West Yellowstone in Montana. We stocked up on "Montana Monster Cookies" and rode 89 miles to Ennis, Montana where we moteled it. It was good to get a hot shower since I hadn't had one in a couple days.
+![Bike](../../img/terry/bike/dt05.jpg "Bike") We rode out in the morning with the Steven. Communication was difficult, but he was interesting company. We parted ways when we reached West Yellowstone in Montana. We stocked up on "Montana Monster Cookies" and rode 89 miles to Ennis, Montana where we moteled it. It was good to get a hot shower since I hadn't had one in a couple days.
 
 ### Day 43
 
@@ -259,7 +259,7 @@ Climbed Badger Pass and Big Hole Pass, but we didn't enjoy much of a descent. We
 
 We manage to ignore the hooting owls and howling Coyotes lurking around May Creek and get some sleep. After a long day of riding, nothing will disturb your sleep. From May Creek we continued our ascent of Chief Joseph Pass. The road is under repair and closed to cyclist, so we have to finish the climb up a narrow USFS gravel road. The gravel made our work harder, but it is nice to be away from passing cars.
 
-![Bike](../../img/terry/bike/dt08.jpg) At the top we are at about 7,000 feet with a 13 mile descent ahead of us that will take us down to about 4,500 feet. The descent proves to be tricky on the gravel road with occasional wash outs. The hard braking necessary to slow our heavily loaded bikes forces us to stop and rest our arms once in a while. On the way down we run into some cycle tourist heading up the pass. We stop and chat with them and it turns out they are from Thialand. We chat for a while and continue on our way.
+![Bike](../../img/terry/bike/dt08.jpg "Bike") At the top we are at about 7,000 feet with a 13 mile descent ahead of us that will take us down to about 4,500 feet. The descent proves to be tricky on the gravel road with occasional wash outs. The hard braking necessary to slow our heavily loaded bikes forces us to stop and rest our arms once in a while. On the way down we run into some cycle tourist heading up the pass. We stop and chat with them and it turns out they are from Thialand. We chat for a while and continue on our way.
 
 The gravel road took us quite a while to cover so we only ended up riding 56 miles for the day to Anglers Campground in Hamilton. We saw a moose, the first one we have seen during our ride. We have seen lots of prong horn antelope, elk, and mule deer through Colorado, Wyoming, and Montana.
 
@@ -271,7 +271,7 @@ We also stopped and had some excellent Middle Eastern food thanks to a tip from 
 
 ### Day 47
 
-![Bike](../../img/terry/bike/dt06.jpg) In the morning we climbed Lolo Pass which brought us into Idaho. Looking at the map, we noticed that we would be losing 4000 feet of vertical for the next 86 miles, probably the biggest and longest descent of the trip so far. On our way down we stopped at Weir Creek Hot Springs. We left our bikes in the weeds and hiked the mile in to the springs. There was and older couple and a younger couple with children all butt naked. There were also three guys there with their shorts on, drinking beer. We decided to join the guys in the pool where the water from the hot spring collected. From the pool the water ran over the edge of a cliff into a stream bellow. The water was real hot and took a bit of getting used to, but it was relaxing. After the hot springs, we rode on to Wilderness Gateway USFS Campground.
+![Bike](../../img/terry/bike/dt06.jpg "Bike") In the morning we climbed Lolo Pass which brought us into Idaho. Looking at the map, we noticed that we would be losing 4000 feet of vertical for the next 86 miles, probably the biggest and longest descent of the trip so far. On our way down we stopped at Weir Creek Hot Springs. We left our bikes in the weeds and hiked the mile in to the springs. There was and older couple and a younger couple with children all butt naked. There were also three guys there with their shorts on, drinking beer. We decided to join the guys in the pool where the water from the hot spring collected. From the pool the water ran over the edge of a cliff into a stream bellow. The water was real hot and took a bit of getting used to, but it was relaxing. After the hot springs, we rode on to Wilderness Gateway USFS Campground.
 
 ### Day 48
 
@@ -293,7 +293,7 @@ We rode out of McCommick to Baker City in Eastern Oregon. The desert of eastern 
 
 ### Day 52
 
-![Bike](../../img/terry/bike/dt16.jpg) We rode over three passes all over 5000 feet a total of 84 miles for the day. Found a cheap motel with a tiny room in John Day. It had a tiny bathroom and the shower was in the bedroom area.
+![Bike](../../img/terry/bike/dt16.jpg "Bike") We rode over three passes all over 5000 feet a total of 84 miles for the day. Found a cheap motel with a tiny room in John Day. It had a tiny bathroom and the shower was in the bedroom area.
 
 We didn't get out of Baker City until about 11:30 and didn't arrive in John Day until around 9:30. Out of Baker City we had a stretch of 70 miles with no services. The climbs were fairly tough, but through some beautiful forest areas.
 
@@ -333,4 +333,4 @@ We rode 75 miles to Cannon Beach. I had a flat right outside of a tunnel we went
 
 ### Day 59
 
-![Bike](../../img/terry/bike/dt04.jpg) It was raining, but we didn't care. We only had 31 miles to do to get to Astoria. By the time we made it to the Maritime Museum, the rain stopped. We checked into a motel, cleaned up and went to a local bike shop to get some bike boxes. We spent the afternoon packing our bikes up and went to dinner at a nice sea food restaurant. The next day we rented a car, drove to Portland, and jumped on a plane home.
+![Bike](../../img/terry/bike/dt04.jpg "Bike") It was raining, but we didn't care. We only had 31 miles to do to get to Astoria. By the time we made it to the Maritime Museum, the rain stopped. We checked into a motel, cleaned up and went to a local bike shop to get some bike boxes. We spent the afternoon packing our bikes up and went to dinner at a nice sea food restaurant. The next day we rented a car, drove to Portland, and jumped on a plane home.
