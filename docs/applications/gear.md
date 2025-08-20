@@ -1,7 +1,196 @@
 ---
 title: "Gear and Tire Applet"
+keywords: "Gear and Tire Calculator, JavaScript transmission calculator"
+author: "Terry Howe"
+description: "Calculate gear ratios and vehicle speeds for different tire sizes, transmission ratios, transfer cases, and ring and pinion configurations."
 ---
+
 # Gear and Tire Applet
+
+<div class="gear-calculator">
+  <div class="input-row">
+    <div class="input-group">
+      <label for="tireSize">Tire Size</label>
+      <input id="tireSize" type="text" placeholder="e.g. P215/75R15 or 33" aria-describedby="tireHelp">
+      <div id="tireHelp" class="muted">Enter metric (e.g., P215/75R15) or English (e.g., 33") tire size</div>
+    </div>
+    <div class="input-group">
+      <label for="ringPinion">Ring and Pinion Ratio</label>
+      <input id="ringPinion" type="text" value="3.54" placeholder="e.g. 4.10 or 4.10:1" aria-describedby="ratioHelp">
+      <div id="ratioHelp" class="muted">Enter gear ratio (e.g., 4.10 or 4.10:1)</div>
+    </div>
+  </div>
+
+  <div class="transmission-section">
+    <h4>Transmission Ratios</h4>
+    <div class="transmission-grid">
+      <div class="gear-input">
+        <label for="gear1st">1st Gear</label>
+        <input id="gear1st" type="text" value="6.32" placeholder="6.32">
+      </div>
+      <div class="gear-input">
+        <label for="gear2nd">2nd Gear</label>
+        <input id="gear2nd" type="text" value="3.50" placeholder="3.50">
+      </div>
+      <div class="gear-input">
+        <label for="gear3rd">3rd Gear</label>
+        <input id="gear3rd" type="text" value="2.50" placeholder="2.50">
+      </div>
+      <div class="gear-input">
+        <label for="gear4th">4th Gear</label>
+        <input id="gear4th" type="text" value="1.00" placeholder="1.00">
+      </div>
+      <div class="gear-input">
+        <label for="gear5th">5th Gear</label>
+        <input id="gear5th" type="text" value="0.75" placeholder="0.75">
+      </div>
+      <div class="gear-input">
+        <label for="gearReverse">Reverse</label>
+        <input id="gearReverse" type="text" value="7.32" placeholder="7.32">
+      </div>
+    </div>
+  </div>
+
+  <div class="input-row">
+    <div class="input-group">
+      <label for="transferCase">Transfer Case Low Range</label>
+      <input id="transferCase" type="text" value="2.62" placeholder="e.g. 2.62" aria-describedby="tcHelp">
+      <div id="tcHelp" class="muted">Enter low range ratio (high range assumed to be 1.0:1)</div>
+    </div>
+    <div class="input-group">
+      <label for="units">Speed Units</label>
+      <select id="units" aria-describedby="unitsHelp">
+        <option value="mph">Miles per hour</option>
+        <option value="kph">Kilometers per hour</option>
+      </select>
+      <div id="unitsHelp" class="muted">Choose speed output units</div>
+    </div>
+  </div>
+
+  <div class="input-row">
+    <div class="input-group">
+      <label for="rpm">Engine RPM</label>
+      <input id="rpm" type="text" value="2500" placeholder="2500" aria-describedby="rpmHelp">
+      <div id="rpmHelp" class="muted">Engine RPM for speed calculations</div>
+    </div>
+    <div class="input-group" style="display: flex; align-items: end;">
+      <button id="calcBtn" type="button">Calculate</button>
+    </div>
+  </div>
+  
+  <div id="msg" class="error" role="alert" style="display:none"></div>
+  <div id="results" class="results" style="display:none">
+    <h4>Speed Table</h4>
+    <div id="speedTable"></div>
+    <div class="crawl-ratio">
+      <strong>Crawl Ratio: <span id="crawlRatio"></span></strong>
+    </div>
+  </div>
+</div>
+
+<style>
+.gear-calculator { 
+  max-width: 800px; 
+  padding: 20px; 
+  border: 1px solid #ccc; 
+  border-radius: 8px; 
+  background: #f9f9f9; 
+  margin: 20px 0; 
+}
+.gear-calculator label { 
+  display: block; 
+  font-weight: 600; 
+  margin-top: 8px; 
+}
+.gear-calculator input[type=text], .gear-calculator select { 
+  width: 100%; 
+  padding: 8px; 
+  font-size: 16px; 
+  box-sizing: border-box; 
+}
+.input-row { 
+  display: flex; 
+  gap: 20px; 
+  margin-bottom: 16px; 
+  flex-wrap: wrap; 
+}
+.input-group { 
+  flex: 1; 
+  min-width: 200px; 
+}
+.transmission-section {
+  margin: 16px 0;
+}
+.transmission-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 12px;
+  margin-top: 8px;
+}
+.gear-input label {
+  margin-top: 4px;
+  font-size: 14px;
+}
+.gear-input input {
+  padding: 6px;
+  font-size: 14px;
+}
+.muted { 
+  color: #555; 
+  font-size: 14px; 
+  margin-top: 4px; 
+}
+.error { 
+  color: #b00020; 
+  font-weight: 600; 
+  margin-top: 10px; 
+}
+.results { 
+  margin-top: 20px; 
+  padding: 15px; 
+  background: #fff; 
+  border: 1px solid #ddd; 
+  border-radius: 6px; 
+}
+.crawl-ratio {
+  margin-top: 15px;
+  padding: 10px;
+  background: #e8f4f8;
+  border-radius: 4px;
+  text-align: center;
+}
+button { 
+  padding: 10px 16px; 
+  font-size: 16px; 
+  border: 2px solid #ddd; 
+  background: #fff;
+  border-radius: 4px;
+  cursor: pointer;
+}
+button:hover {
+  background: #f0f0f0;
+}
+.speed-table {
+  overflow-x: auto;
+}
+.speed-table table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+.speed-table th, .speed-table td {
+  padding: 8px 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+.speed-table th {
+  background: #f5f5f5;
+  font-weight: 600;
+}
+.speed-table tr:nth-child(even) {
+  background: #f9f9f9;
+}
+</style>
 
 # User Guide
 
@@ -90,5 +279,246 @@ An easier, but not as accurate method of determining your ratio is to jack one w
 One final note on ring and pinion, if you know the ratio of one axle the other should be the same give or take a few hundredths. So if you find a tag on the front, but nothing on the rear, go with the tag you found.
 
 May 2, 1997
+
+<script>
+(function(){
+  const $ = (id) => document.getElementById(id);
+  const mmPerInch = 25.4;
+  const inchToMile = 1.578283E-5;
+  const minToHour = 60.0;
+
+  // Parse tire size - supports both metric (e.g., P215/75R15) and English (e.g., 33)
+  function parseTireSize(input) {
+    const s = (input || '').trim().toUpperCase();
+    
+    // Try metric format first
+    if (s.length > 8 && s.includes('/')) {
+      return parseMetricTire(s);
+    }
+    
+    // Try English format (simple diameter)
+    return parseEnglishTire(s);
+  }
+
+  function parseMetricTire(input) {
+    // Remove common prefixes and whitespace
+    let cleaned = input.replace(/^\s*(P|LT)\s*/, '').replace(/\s+/g, '');
+    
+    // Accept forms like 235/75R15, 235/75-15, or 235\75R15
+    const m = cleaned.match(/^(\d{3})[\\/\-](\d{2})[R\-]?(\d{1,2})$/);
+    if (!m) {
+      return null;
+    }
+    
+    const widthMm = parseInt(m[1], 10);
+    const aspect = parseInt(m[2], 10);
+    const wheelIn = parseInt(m[3], 10);
+    
+    // Basic sanity checks
+    if (widthMm < 100 || widthMm > 455) return null;
+    if (aspect < 20 || aspect > 95) return null;
+    if (wheelIn < 10 || wheelIn > 26) return null;
+    
+    // Calculate diameter: wheel + 2 * sidewall height
+    const sidewallMm = widthMm * (aspect / 100);
+    const sidewallIn = sidewallMm / mmPerInch;
+    const diameterIn = wheelIn + 2 * sidewallIn;
+    
+    return {
+      diameter: diameterIn,
+      displayName: `${widthMm}/${aspect}R${wheelIn}`
+    };
+  }
+
+  function parseEnglishTire(input) {
+    // Look for diameter at start of string - handle formats like "33", "31x10.50R15", "32x11.50"
+    let cleaned = input;
+    
+    // First extract just the diameter part before any 'x' or other separators
+    const diameterMatch = cleaned.match(/^(\d+(?:\.\d+)?)/);
+    if (!diameterMatch) return null;
+    
+    const diameter = parseFloat(diameterMatch[1]);
+    if (isNaN(diameter) || diameter < 20 || diameter > 50) return null;
+    
+    return {
+      diameter: diameter,
+      displayName: `${diameter}"`
+    };
+  }
+
+  // Parse ratio input - handles formats like "4.10", "4.10:1"
+  function parseRatio(input) {
+    if (!input || input.trim() === '') return null;
+    
+    let cleaned = input.trim();
+    // Remove ":1" suffix if present
+    if (cleaned.includes(':')) {
+      cleaned = cleaned.substring(0, cleaned.indexOf(':'));
+    }
+    
+    const ratio = parseFloat(cleaned);
+    if (isNaN(ratio) || ratio <= 0 || ratio > 15) return null;
+    
+    return ratio;
+  }
+
+  // Format ratio for display
+  function formatRatio(ratio) {
+    return (Math.round((ratio + 0.0001) * 100) / 100).toString();
+  }
+
+  function calculate() {
+    const msg = $('msg');
+    const results = $('results');
+    msg.style.display = 'none';
+    results.style.display = 'none';
+
+    // Get inputs
+    const tireInput = $('tireSize').value;
+    const ringPinionInput = $('ringPinion').value;
+    const transferCaseInput = $('transferCase').value;
+    const rpmInput = $('rpm').value;
+    const unitsValue = $('units').value;
+
+    // Parse tire size
+    const tire = parseTireSize(tireInput);
+    if (!tire) {
+      msg.textContent = 'Please enter a valid tire size (e.g., P215/75R15, 33, or 31x10.50).';
+      msg.style.display = 'block';
+      return;
+    }
+
+    // Parse ring and pinion ratio
+    const ringPinion = parseRatio(ringPinionInput);
+    if (!ringPinion) {
+      msg.textContent = 'Please enter a valid ring and pinion ratio (e.g., 4.10 or 3.73:1).';
+      msg.style.display = 'block';
+      return;
+    }
+
+    // Parse transfer case ratio
+    const transferCase = parseRatio(transferCaseInput);
+    if (!transferCase) {
+      msg.textContent = 'Please enter a valid transfer case low range ratio (e.g., 2.62).';
+      msg.style.display = 'block';
+      return;
+    }
+
+    // Parse RPM
+    const rpm = parseFloat(rpmInput);
+    if (isNaN(rpm) || rpm <= 0 || rpm > 8000) {
+      msg.textContent = 'Please enter a valid RPM value (e.g., 2500).';
+      msg.style.display = 'block';
+      return;
+    }
+
+    // Parse transmission ratios
+    const gearIds = ['gear1st', 'gear2nd', 'gear3rd', 'gear4th', 'gear5th', 'gearReverse'];
+    const gearNames = ['1st', '2nd', '3rd', '4th', '5th', 'Reverse'];
+    const transmissionRatios = [];
+    
+    for (let i = 0; i < gearIds.length; i++) {
+      const value = $(gearIds[i]).value.trim();
+      if (value === '') {
+        // Allow empty values for 5th gear (optional)
+        if (i === 4) {
+          transmissionRatios.push(null);
+          continue;
+        }
+        msg.textContent = `Please enter a valid ${gearNames[i]} gear ratio.`;
+        msg.style.display = 'block';
+        return;
+      }
+      
+      const ratio = parseRatio(value);
+      if (!ratio) {
+        msg.textContent = `Please enter a valid ${gearNames[i]} gear ratio (e.g., 3.50).`;
+        msg.style.display = 'block';
+        return;
+      }
+      transmissionRatios.push(ratio);
+    }
+
+    // Calculate speeds
+    const unitMultiplier = unitsValue === 'kph' ? 1.609344 : 1.0;
+    const unitLabel = unitsValue === 'kph' ? 'KPH' : 'MPH';
+    
+    // Base calculation: speed = (tireDiameter * π * rpm * 60 * units) / (transmission_ratio * transfer_case_ratio * ring_pinion_ratio)
+    const baseCalc = tire.diameter * Math.PI * inchToMile * unitMultiplier * rpm * minToHour;
+    const highRangeCalc = baseCalc / ringPinion; // High range (1.0:1 transfer case)
+    const lowRangeCalc = baseCalc / (transferCase * ringPinion); // Low range
+
+    // Build results table
+    let tableHTML = `
+      <div class="speed-table">
+        <table>
+          <thead>
+            <tr>
+              <th>Gear</th>
+              <th>Ratio</th>
+              <th>High Range (${unitLabel})</th>
+              <th>Low Range (${unitLabel})</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+
+    for (let i = 0; i < transmissionRatios.length; i++) {
+      const ratio = transmissionRatios[i];
+      if (ratio === null) continue; // Skip empty 5th gear
+      
+      const highSpeed = Math.round(highRangeCalc / ratio);
+      const lowSpeed = Math.round(lowRangeCalc / ratio);
+      
+      tableHTML += `
+        <tr>
+          <td>${gearNames[i]}</td>
+          <td>${formatRatio(ratio)}</td>
+          <td>${highSpeed}</td>
+          <td>${lowSpeed}</td>
+        </tr>
+      `;
+    }
+
+    // Add transfer case ratios row
+    tableHTML += `
+      <tr style="border-top: 2px solid #666;">
+        <td><strong>Transfer Case</strong></td>
+        <td></td>
+        <td><strong>1.0:1</strong></td>
+        <td><strong>${formatRatio(transferCase)}:1</strong></td>
+      </tr>
+    `;
+
+    tableHTML += `
+          </tbody>
+        </table>
+      </div>
+    `;
+
+    // Calculate crawl ratio (1st gear * transfer case low * ring and pinion)
+    const crawlRatio = Math.round(transmissionRatios[0] * transferCase * ringPinion);
+
+    // Display results
+    $('speedTable').innerHTML = tableHTML;
+    $('crawlRatio').textContent = `${crawlRatio}:1`;
+    results.style.display = 'block';
+  }
+
+  // Event listeners
+  $('calcBtn').addEventListener('click', calculate);
+  
+  // Allow Enter key to trigger calculation from any input
+  ['tireSize', 'ringPinion', 'transferCase', 'rpm', 'gear1st', 'gear2nd', 'gear3rd', 'gear4th', 'gear5th', 'gearReverse'].forEach(id => {
+    $(id).addEventListener('keyup', function(e) {
+      if (e.key === 'Enter') calculate();
+    });
+  });
+
+  // Set default tire size to demonstrate functionality
+  $('tireSize').value = 'P215/75R15';
+})();
+</script>
 
 * * *
