@@ -12,7 +12,7 @@ theme:
     - content.action.edit
   icon:
     edit: material/pencil
-  logo: jeep-logo.png
+  logo: img/military.gif
   favicon: favicon.ico
 
 docs_dir: docs
