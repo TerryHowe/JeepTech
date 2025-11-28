@@ -24,11 +24,13 @@ Successfully downloaded the QuickShifter01 transmission tech article page from t
    - `tn_img21.jpg` (5.0 KB) - Completed installation thumbnail
 
 3. **Full-size Images:**
-   - `img17.jpg` (11 KB) - Quick shifter installation
-   - `img19.jpg` (11 KB) - Shifter detail
-   - `img21.jpg` (11 KB) - Completed installation
+   - `img17.jpg` (39 KB, 640x426) - Quick shifter installation
+   - `img19.jpg` (40 KB, 640x426) - Shifter detail
+   - `img21.jpg` (40 KB, 640x426) - Completed installation
 
-**Total:** 7 images, ~240 KB
+**Total:** 7 images, ~329 KB
+
+**Note:** Initial download had HTML files instead of images for the full-size versions. Fixed by using correct Wayback Machine format with `im_` suffix (e.g., `/web/TIMESTAMPim_/URL` instead of `/web/TIMESTAMP/URL`).
 
 ### Link Fixes
 
