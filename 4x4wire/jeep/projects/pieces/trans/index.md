@@ -36,7 +36,7 @@ The lock up version can be easily identified by the plug it has on the drivers s
 
 **V8 vs. V6: ** Another variation on the Turbo 350 is the clutch packs. Turbo 350s used with V8 engines use much larger clutch packs than the versions used with six cylinder engines. Since four wheeling tends to be very hard on transmissions, I made sure I got the V8 version with the big clutch packs.
 
-![Turbo 350 Chevy tail shaft](./jeep/tech/trans/conv/th350/th3503.jpg)
+![Turbo 350 Chevy tail shaft](./jeep/tech/transmission/conv/th350/th3503.jpg)
 Turbo 350 Chevy tail shaft
 
 **Tailshaft: ** There are several variations on tailshafts. There are long and short tail shafts and the Chevy version uses a different opening for the speedometer output. This won't matter for your Jeep though, because the Advanced Adapters kit replaces the tailshaft. The case on the left has a recently replaced Chevy short tail shaft on it.

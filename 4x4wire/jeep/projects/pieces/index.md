@@ -50,6 +50,6 @@ The reason for the change in direction was the slow death my '81 CJ-7. I'd been 
 ![Dana 44](../../tech/axle/d44nut01/img08.jpg)
 
 ## [Quick Jeep Dana 44 Spindle Nut](/jeep/tech/axle/d44nut01/)If your Jeep has half ton internal hubs, chances are you have the three piece spindle nuts. The inner nut sets the tension on the bearing, the lock washer slides down the slot on the spindle and a pin on the inner nut goes in a hole in the lock washer, and the outer nut holds it all in place. Sometimes, you get lucky and that lock washer slides right down and the pin in the nut goes right in a hole in the lock washer, sometimes it doesn't. Some Ford Dana 44s use a self locking spindle nut that does not require aligning the pin and makes installation much easier. *
-![Shifter](../../tech/trans/QuickShifter01/img21.jpg)
+![Shifter](../../tech/transmission/QuickShifter01/img21.jpg)
 
-## [Slamming Gears](/jeep/tech/trans/QuickShifter01/)An easy modification to the Art Carr cable shifter can make it a quick gear slamming shifter for any automatic transmission. Sometimes, the ability to get into reverse fast can save a roll over. *
+## [Slamming Gears](/jeep/tech/transmission/QuickShifter01/)An easy modification to the Art Carr cable shifter can make it a quick gear slamming shifter for any automatic transmission. Sometimes, the ability to get into reverse fast can save a roll over. *
