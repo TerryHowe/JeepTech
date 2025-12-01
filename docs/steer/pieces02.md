@@ -1,0 +1,31 @@
+# Pieces & Parts Steering II: Borgeson*
+By: Terry L. Howe - 9/2001
+
+![parts.jpg](../img/parts.jpg)
+Borgeson sent out three u-joints, one heim joint, two splined shafts, and one slip D shaft.
+![bracket.jpg](../img/bracket.jpg)
+The two different steering column to dash brackets. The top bracket is the slightly larger bracket from a CJ-7 that does not work on the Willys. The lower bracket is the Cherokee bracket that does work.
+![secondShaft02.jpg](../img/secondShaft02.jpg)
+The fixed part of the intermediate shaft with the heim joint that I attached to a piece of 2"x2" square tubing.
+![secondShaft01.jpg](../img/secondShaft01.jpg)
+The Borgeson intermediate shaft as seen from below. It clears the exhaust manifold and engine mount. The u-joint angles are good and it operates with no binding.
+
+When I swapped a 4.3L Chevy V6 in to replace the 3.8L Buick V6, I had to rework the intermediate shaft. The Chevy engine mounts are in the middle where as the Buick mounts are in the front of the engine. The only way I could clear the engine mount was with a three u-joint intermediate shaft from Borgeson.
+
+## Column
+
+The steering column I originally used in my CJ-2A was from a late 70s full size Cherokee. When I did the engine swap, I realized the column was too long and there was no way to move it up. CJ steering columns are at least an inch shorter than the full size Jeep steering column I was using, so I decided to install a CJ steering column. When I tried to bolt it in, I noticed that the dash bracket used on the CJ was wider than the bracket on the Cherokee. Fortunately, the Cherokee bracket bolted right on the CJ column so I was able to use the shorter column. The CJ column was not a tilt column, but it was in good shape and I had the key.
+
+The real comedy of the operation was when I went to repair the turn signal on the CJ steering column. It had a Grant steering wheel on it, so I removed the steering wheel and decided to try to remove the adapter with two screw drivers rather than use a puller. The adapter came right off, but with enough force to give me a Harry Potter style cut on my forehead. I always remember to use a puller to get those adapters off anymore.
+
+## Intermediate Shaft
+
+I called up Borgeson and let them know what I was trying to do. They sent me out a bunch of parts and they sent me two splined shafts because I couldn't tell which one I would need. The parts needed for a 3 u-joint intermediate shaft are the heim joint for the fixed shaft. The round shaft slides through the heim joint. A collapsible shaft is also needed to absorb flex between the body and frame. The collapsable shaft is the free shaft. Three u-joints connect the two shafts.
+
+As it turned out, one of the u-joints was not correct. I ran out to my local hot rod shop that stocks Borgeson parts, but all they had was a u-joint that was correct on one side. I bought it anyway, because the Borgeson u-joints can be disassembled. I took apart the two u-joints and put them back together with the two ends that had the proper spline counts.
+
+To set up the fixed half of the intermediate shaft, I cut a short piece of 2"x2" square tubing and drilled it out for the heim joint. I set it up so the shaft had plenty of room to clear the exhaust manifold and the engine mount. I just clamped the square tubing to the frame and welded it on.
+
+## Conclusion
+
+It really took less than one night to assemble the shaft which is a good thing because I had to go wheeling. The Borgeson u-joints are so much nicer moving than the stock bell coupling and cheap-o stock u-joint. Setting up any three u-joint intermediate shaft is real easy using the Borgeson parts, I just need to make sure I order the right spline counts next time!
