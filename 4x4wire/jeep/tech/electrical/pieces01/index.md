@@ -1,0 +1,46 @@
+# Electrifying Pieces & Parts*
+By: Terry L. Howe - 8/2001
+
+![dash.jpg](./jeep/tech/electrical/pieces01/dash.jpg)
+A view of the dash with many gauges that are not hooked up.
+
+![engineharness02.jpg](./jeep/tech/electrical/pieces01/engineharness02.jpg)
+The firewall side of the wiring harness. The engine harness comes out on the drivers side corner.
+
+Wiring up a Willys CJ-2A is no simple matter. I had two stock wiring harnesses and both were beyond recovery. The cloth insulation on the wires just doesn't last 50 years or more. I recently parted out a rolled '77 CJ-7, so I decided to use the wiring harness from the CJ-7 on the Willys. It worked pretty well and saved lots of time and money.
+
+## Engine
+
+The most difficult part of the wiring was placing the fuse block. For everything to lay out right, it had to be on the drivers side, but there is a lot less room on a flat fender than there is on a CJ-7. I managed to squeeze it in on the far lower corner of the fire wall. There was just enough room to be able to unplug the engine side of the harness and I used the stock CJ-7 screws to attach the fuse block.
+
+The wiring of the Buick 231 V6 could not be easier. The harness I had was from a 258 equipped CJ-7 that did not have a computer controlled carburetor, so it was pretty simple as well. Most of the wires in the harness, I didn't use. The two big red wires were hooked up to the hot to provide juice for the interior. The starter wire was hooked directly to the starter. Later, I hooked the starter wire to a relay that provided better power to the starter and this helped hot starts quite a bit. A hot on run wire was hooked up to another relay that went to the big cap HEI. That was all that was required to get rolling. There were a bunch of other wires for gauges, but I never bothered to hook them up. It would have best if I took all the various sending units off the 258 and put them on the 231, but I didn't do that, so that discouraged me from hooking up the gauges.
+
+On the passenger side of the engine compartment, I don't have a battery, the battery is in the back. I wanted a little power center where all the power would be sourced from, so I put that on the passenger side. I bought a heavy duty switch and terminal from Wrangler Power Products. The wires come up from the batteries and everything sources power from this point. I can turn off all the power using the switch that is accessible from behind the dash. The winch, I wired on the always hot side of the switch so that the winch didn't have to pull power through the switch. Technically, the winch can draw more than the switch can handle although I've run winches through wimpier looking switches.
+
+![firewall01.jpg](./jeep/tech/electrical/pieces01/firewall01.jpg)
+
+![fusebox.jpg](./jeep/tech/electrical/pieces01/fusebox.jpg)
+
+![taillights01.jpg](./jeep/tech/electrical/pieces01/taillights01.jpg)
+A power center lives on the passenger side of the fire wall with a heavy duty cut off switch.  The fuse box is located near the floor on the drivers side. The high beams switch is just below it.  Inset tail and backup lights where mounted where mounted in the diamond plate corners. They are well protected and much more functional than the stock configuration.
+## Interior
+
+My original dash was all hacked up by the previous owner, there were holes everywhere and holes over holes. I patched what I could and built a dash that I could remove easily to diagnose problems. I installed in it all the gauges from the '77 CJ-7. Speedometer, volt meter, oil pressure gauge, vacuum gauge, and transmission temperature gauge. I extended the harness to provide lights for the vacuum and transmission temperature gauges.
+
+The volt meter and the vacuum gauge work great! The rest, well it didn't seem so important once I was driving. The fuel sending unit from the flat fender did not seem to work with the CJ-7 gauge. I never wired up the oil pressure, transmission temperature, or engine temperature gauges, they look cool though. I always figured if the engine oil pressure was low, I would hear the lifters. If the engine was hot, steam would come out. The transmission never got that hot, I have always been able to touch the transmission coolers with no discomfort.
+
+The CJ-7 had convenience lights under the dash which I wired up and they work. I also put a big dome light on the roll bar which is much better. The CB also lives on the roll bar. The switches for the lights and the wipers were put on the left of the steering column for space reasons. A steering column from a '77 Cherokee was used and the CJ-7 harness plugged right into it. That provides the ignition switch and blinkers. The cranking sound system from the CJ-7 was also real nice, later I removed the radio and I kind of miss it on boring trails.
+
+## Lights
+
+Most of the wiring is for lights of various sorts. I have head lights, tail lights, backup lights, parking lights in the front, and rock lights underneath. The stock CJ-2A headlights and buckets worked fine with the CJ-7 wiring harness. The front parking lights I wired up as turn signal indicators only. They were originally parking lights only, but I felt it would be more useful to have turn signals up front. Most CJ-2As came from the factor with a single brake light and a reflector. I wired up two inset lights for brake and turn in the back using the stock CJ-7 harness. My transmission didn't have a switch for backup lights, so I just wired up a switch for backup lights that I put under the dash.
+
+![markerlight02.jpg](./jeep/tech/electrical/pieces01/markerlight02.jpg)
+
+![markerlight01.jpg](./jeep/tech/electrical/pieces01/markerlight01.jpg)
+
+![rocklight.jpg](./jeep/tech/electrical/pieces01/rocklight.jpg)
+The parking lights on the grill were converted to turn singals for safety.  The OEM parking lights are mounted on a CJ-3A grill that I modified to look like an early CJ-2A grill.  Rock lights where mounted on both sides just in front of the body mount that is below the seats. They are fairly well protected here, but I did crush one once.
+## Conclusion
+
+The price for the harness was right. I used all sorts of parts off the rolled CJ-7 and sold some, so the harness was basically free. It was convenient and not much harder to use than an after-market harness. It also had many more features that were not supported by a stock CJ-2A harness light turn signals. The down side to it really is that there are extra wires that I do not use and it is not super neat.
