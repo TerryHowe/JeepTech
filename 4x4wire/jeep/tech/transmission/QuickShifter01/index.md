@@ -1,11 +1,11 @@
 # Slamming Gears*
 By: Terry L. Howe - 1/2002
 
-![img17.jpg](img17.jpg)
+![/img/img17.jpg](/img/img17.jpg)
 The Art Carr shifter installed with all the gates intact.
-![img19.jpg](img19.jpg)
+![/img/img19.jpg](/img/img19.jpg)
 The shift linkage on the Art Carr shifter. This cable operated shifter hangs down by the transmission pan.
-![img21.jpg](img21.jpg)
+![/img/img21.jpg](/img/img21.jpg)
 The shifter with one gate cut out.
 
 If you've seen the latest Big Rock video from the ARCA finals in Farmington New Mexico, you've seen a lot of roll overs. There are also some amazing saves in there. In several of the roll overs, the drivers attempt to shift into reverse when the front tires come off the ground, but they miss shift or shift too late. Some of the rolls probably could not have been saved, but some could of been saved if the driver was able to shift correctly and shift quicker.

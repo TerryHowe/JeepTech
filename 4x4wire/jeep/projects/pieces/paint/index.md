@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Paint*
 by: Terry L. Howe
 
-![Painting the flat fender](pieces_paint01.jpg)
+![Painting the flat fender](/img/pieces_paint01.jpg)
 The finished product
 
 Anyone will tell you that the key to a good paint job is the prep work. Body work on a Jeep is something you need to strike a delicate balance between looking good and not wasting a lot of time. I wasn't building this Jeep to be a show truck and I knew I'd be scratching and denting the body before too long anyway. I probably ended up spending too much time on the prep work. It is hard not to get carried away, but the results were excellent.
@@ -15,7 +15,7 @@ A solution to the maintainability was to chose a color I could easy get touch up
 From past experience, I knew I wasn't the neatest painter in the world. I tend to lay it on too heavy which causes sagging, etc. I enrolled the help of Roger Wild, a friend of mine who has done a lot of painting in the past. Since Roger was going to shoot it, I asked him to choose the type of paint and he chose Dupont Centari.
 The Dupont Centari is a bit of an old school paint, it is a one step process, not like newer paints where you shoot color and then clear coat. A good paint just the same and not cheap. Since the flat fender had such a small body and I was only planning on shooting the exterior, I only had two quarts mixed up. The paint with a hardener and some reducer ran me over $140. The primer was extra.
 
-![Painting the flat fender](pieces_paint02.jpg)
+![Painting the flat fender](/img/pieces_paint02.jpg)
 Roger Wild shooting primer in the garage
 
 I wasn't going to shoot the interior since I had already Durabaked the inside and the underside I had already rattle canned black. I rattle canned the underside black to make it more maintainable if I decide to go with a different color in the future.

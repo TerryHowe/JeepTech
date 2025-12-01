@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Shift Linkage*
 by: Terry L. Howe
 
-![Tunnel cover](./jeep/projects/pieces/tunnel/pieces_tunnel02.jpg)
+![Tunnel cover](/img/pieces_tunnel02.jpg)
 Tunnel cover
 
 Fabricating the shift linkage bracket and tunnel cover was an entire weekend of careful cutting, bending, welding, and drilling. The work was worth it, I got the clean look I wanted and I maximized floor space. The key to the success of the project was borrowing a small brake from my neighbor.
@@ -20,5 +20,5 @@ The transmission shifter came with its own shift boot that worked well. When I b
 
 The Transfer case shift linkage is kind of intrusive on the passenger side floor, but with some bending of the shift levers, they are pretty much out of the way. The passenger side still has more floor room than the drivers side. A coat of Durabak on top of the tunnel cover gives it a nice finish.
 
-![Tunnel cover](pieces_tunnel03.jpg)
+![Tunnel cover](/img/pieces_tunnel03.jpg)
 Tunnel cover

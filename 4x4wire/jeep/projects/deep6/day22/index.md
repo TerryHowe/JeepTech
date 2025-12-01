@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Twenty-two Low Buck Rocker Guards*Short Cuts
 By: Terry L. Howe - 8/2003
 
-![DCP_0375.jpg](./jeep/projects/deep6/day22/DCP_0375.jpg)
+![DCP_0375.jpg](/img/DCP_0375.jpg)
 It is possible to get a nice even bolt pattern and clear sheet metal on the inside of the tub.
-![DCP_0376.jpg](./jeep/projects/deep6/day22/DCP_0376.jpg)
+![DCP_0376.jpg](/img/DCP_0376.jpg)
 The finished product, painted, and bolted on.
 
 I wanted to have some beefy rocker protection without spending a lot of cash and I found it was not too difficult to do. I managed to build some nice rocker protection for less than $45.

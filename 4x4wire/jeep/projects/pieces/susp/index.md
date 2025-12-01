@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Suspension*
 by: Terry L. Howe
 
-![Frame ans suspension](./jeep/projects/pieces/susp/pieces_frame6.jpg)
+![Frame ans suspension](/img/pieces_frame6.jpg)
 Frame and suspension
 
 Since this project is called "Pieces and Parts", you can't expect anything to be normal and this is true for the suspension. The suspension is not radical, but it is practical and should perform well.
@@ -10,7 +10,7 @@ The first thing I wanted to do was convert from the U shaped shackles used on fl
 
 Since the narrowed rear shackle hanger was now the same width as the front, so I ordered two sets of bushings and two sets of heavy duty shackles for the front of an '81 CJ-7. The bushings fit perfectly in the shackle hangers, but they too big in diameter for the springs. Someone on the Jeep Tech list suggested I machine them down a bit with a bench grinder. My buddy Sean Lazzelle was over helping me out, so he ground them all down so they would fit in the springs. The springs I am using are 2" lift springs I bought used from Top Truck Challenge contender Tim Welden. They look virtually brand new.
 
-![Rear shock welded on](pieces_shock1.jpg)
+![Rear shock welded on](/img/pieces_shock1.jpg)
 Rear shock mount welded on
 
 The fixed spring hangers also had to be modified. The flat fender had greasable bolts on the fixed spring hangers and one of them was badly damaged. Rather than finding replacements, I drilled out the spring hangers and spring bushings for a 5/8" bolt. The springs had some poly bushings in them which I opted to keep.

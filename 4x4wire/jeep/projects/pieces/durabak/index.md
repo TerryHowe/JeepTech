@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Durabak*
 by: Terry L. Howe
 
-![Durabak](pieces_durabak01.jpg)
+![Durabak](/img/pieces_durabak01.jpg)
 Applying the Durabak
 
 Once the metal work and Bondo was complete, I decided it was time to apply the Durabak bed liner. The reason I applied the Durabak before painting was I figured it would be easier to touch up the Durabak than the paint. I also figured the Durabak would stick better to bare metal rather than paint that hadn't had a chance to cure yet.
@@ -10,7 +10,7 @@ The reason I wanted to use the Durabak was obviously for it's skid resistant and
 
 ## Prep Work
 
-![Durabak](pieces_durabak03.jpg)
+![Durabak](/img/pieces_durabak03.jpg)
 A respirator and disposable clothing are a good idea
 
 It is much more pleasant to apply the Durabak with the right protective gear. Durabak is very sticky and if you get some on your skin, it will be several days before you get it off. Latex gloves and throw away clothes are an excellent idea. Respirators are also an excellent idea, especially if you are working in a garage without much ventilation.
@@ -28,5 +28,5 @@ We applied the Durabak to the inside of the tub, on the inside of tailgate, unde
 
 The finish is excellent, it really covers up some of the uglies from the tub repair. When it is applied with a brush it is a bit more like the spay on liners. It is still non skid, but it is not super coarse.
 
-![The author admires the work](pieces_durabak02.jpg)
+![The author admires the work](/img/pieces_durabak02.jpg)
 The author admires the work

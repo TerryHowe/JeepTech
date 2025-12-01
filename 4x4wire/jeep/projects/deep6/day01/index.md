@@ -1,9 +1,9 @@
 # Deep CJ-6: Day One on Body Work*Short Cuts
 By: Terry L. Howe - 4/2003
 
-![DCP_0247.jpg](./jeep/projects/deep6/day01/DCP_0247.jpg)
+![DCP_0247.jpg](/img/DCP_0247.jpg)
 The badk of the Jeep. Both rear quarters were smashed up pretty bad and rusted, so I cut out the old material and welded in some 3/16" diamond plate corners.
-![DCP_0248.jpg](./jeep/projects/deep6/day01/DCP_0248.jpg)
+![DCP_0248.jpg](/img/DCP_0248.jpg)
 From the side, you can see I've been busy with the wire wheel.. All day busy. I was going to get it sand blasted, but I have a lot of time and little money right now.
 
 Yet again, I've been working for a start up company that ran out of money. This puts me on unemployment and with lots of spare time when I'm not looking for work. It seemed like a good idea to do some work on the old CJ-6.

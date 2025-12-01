@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Transmission*
 by: Terry L. Howe
 
-![Turbo 350 side view](./jeep/projects/pieces/trans/pieces_trans2.jpg)
+![Turbo 350 side view](/img/pieces_trans2.jpg)
 Turbo 350 side view
 
 The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best automatic transmission to swap in a short Jeep such as a flat fender.
@@ -36,14 +36,14 @@ The lock up version can be easily identified by the plug it has on the drivers s
 
 **V8 vs. V6: ** Another variation on the Turbo 350 is the clutch packs. Turbo 350s used with V8 engines use much larger clutch packs than the versions used with six cylinder engines. Since four wheeling tends to be very hard on transmissions, I made sure I got the V8 version with the big clutch packs.
 
-![Turbo 350 Chevy tail shaft](./jeep/tech/transmission/conv/th350/th3503.jpg)
+![Turbo 350 Chevy tail shaft](/img/th3503.jpg)
 Turbo 350 Chevy tail shaft
 
 **Tailshaft: ** There are several variations on tailshafts. There are long and short tail shafts and the Chevy version uses a different opening for the speedometer output. This won't matter for your Jeep though, because the Advanced Adapters kit replaces the tailshaft. The case on the left has a recently replaced Chevy short tail shaft on it.
 
 **2WD vs. 4WD: ** It is best to get a 4WD version of the Turbo 350 because it will save you some money on the adapter. If you get the 2WD version you will have to pay a couple extra bucks for the right output shaft. The Turbo 350 was used in some full size Blazers and similar trucks. Sometimes people get dual pattern cases built for these trucks so they can drop in Caddy engines.
 
-![Turbo 350 dual pattern front](./jeep/projects/pieces/trans/pieces_trans1.jpg)
+![Turbo 350 dual pattern front](/img/pieces_trans1.jpg)
 Turbo 350 dual pattern front
 
 **Bolt Pattern: ** The Turbo 350 case commonly comes with three different bolt patterns. Some cases have a Chevy engine bolt pattern, some cases have the Buick, Olds, Pontiac, and Caddy bolt pattern, and some have both. It is well worth getting the dual pattern, or unicase, Turbo 350. If you ever think you might do an engine swap, you won't have to worry about the transmission. It will also help the resale of the transmission because it will work with more engine combinations.
@@ -54,7 +54,7 @@ The Buick, Olds, Pontiac, and Caddy engine bolt pattern is easily identified by 
 
 What I ended up buying was a 2WD, V8 version, dual pattern Turbo 350 that did not have a lock-up torque converter. There is no sense in trying to convert a lock-up transmission to a non-locking version or visa-versa because too many parts are different. If you run try to run a lock-up version without hooking up the lock-up, the transmission life will be shortened.
 
-![Adapter kit](./jeep/projects/pieces/trans/pieces_trans5.jpg)
+![Adapter kit](/img/pieces_trans5.jpg)
 Adapter kit
 
 Since the transmission had to be torn all apart to install the Spicer 18 adapter from Advanced Adapters, I had Dave, my transmission guy, install new clutches and replace any other parts that were worn. The kit includes a new output shaft, a spud shaft with the 6 spline output for the Spicer 18, some bearings, a rear output bearing retainer, assorted o-rings, snap rings, and seals, and a machined plate to bolt the Spicer 18 to the Turbo 350.
@@ -68,11 +68,11 @@ I had to purchase a new torque converter since the transmission I bought didn't 
 Installation was a breeze. I just bolted the torque converter in place, slid on the transmission, and bolted it up.
 **Transmission Mount: ** The kit from Advanced Adapters includes a transmission mount and a little adapter for the transmission mount. This worked great with my Commando frame and stock Commando cross member. I drilled new holes in the cross member to work with the new engine and transmission combination.
 
-![Transmission mount](./jeep/projects/pieces/trans/pieces_trans11.jpg)
+![Transmission mount](/img/pieces_trans11.jpg)
 Transmission mount
-![Transmission coolers](./jeep/projects/pieces/trans/pieces_trans4.jpg)
+![Transmission coolers](/img/pieces_trans4.jpg)
 Transmission coolers
-![Turbo 350 installed](pieces_trans3.jpg)
+![Turbo 350 installed](/img/pieces_trans3.jpg)
 Turbo 350 installed
 
 The cross member used in the '73 Commando is almost identical to the cross member used in the '50 CJ-3A frame that was originally under my Jeep. The Commando one had some bends in it that gave better clearance for the transfer case, so I decided to use it.

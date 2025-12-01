@@ -1,13 +1,13 @@
 # Deep CJ-6: Day Fifteen Headlights and Tail Lights*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0319.jpg](./jeep/projects/deep6/day15/DCP_0319.jpg)
+![DCP_0319.jpg](/img/DCP_0319.jpg)
 The headlights and parking lights on the grill.
-![DCP_0320.jpg](./jeep/projects/deep6/day15/DCP_0320.jpg)
+![DCP_0320.jpg](/img/DCP_0320.jpg)
 The washer tank mounted down below the master cylinder.
-![DCP_0321.jpg](./jeep/projects/deep6/day15/DCP_0321.jpg)
+![DCP_0321.jpg](/img/DCP_0321.jpg)
 The horn was moved up to bolt to the grill and the relay for the horn was mounted on the fender.
-![DCP_0323.jpg](./jeep/projects/deep6/day15/DCP_0323.jpg)
+![DCP_0323.jpg](/img/DCP_0323.jpg)
 Round tail lights and backup lights flush mounted to keep them from being broken.
 
 There hasn't been much time to work on the old CJ-6 lately since I've had to prepare and go to a UROC and a RCAA competition, but a day was finally free. It was time to get some more wiring done, the headlights and the tail lights to be exact.

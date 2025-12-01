@@ -1,11 +1,11 @@
 # Deep CJ-6: Day Thirteen Power Brake Conversion*
 By: Terry L. Howe - 5/2003
 
-![DCP_0305.jpg](./jeep/projects/deep6/day13/DCP_0305.jpg)
+![DCP_0305.jpg](/img/DCP_0305.jpg)
 The original swing arm pedal for the CJ with the clutch pedal removed. I welded a piece of diamon plate on the pedal to make it a bit wider.
-![DCP_0306.jpg](./jeep/projects/deep6/day13/DCP_0306.jpg)
+![DCP_0306.jpg](/img/DCP_0306.jpg)
 The master cylinder and booster from the '90 S-10. The booster and master cylinder clear the hood nicely.
-![DCP_0309.jpg](./jeep/projects/deep6/day13/DCP_0309.jpg)
+![DCP_0309.jpg](/img/DCP_0309.jpg)
 The gas filler from a '77 CJ-7 fit on the side TJ style.
 
 This old CJ-6 original came with manual brakes and drums all around. Even with a manual transmission, it was a lot of work to drive around town with those brakes. Since I was putting in a automatic transmission and it had to have some power brakes.

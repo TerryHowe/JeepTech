@@ -1,11 +1,11 @@
 # Deep CJ-6: Day Twenty-three Custom Roll Cage*Short Cuts
 By: Terry L. Howe - 8/2003
 
-![DCP_0377.jpg](./jeep/projects/deep6/day23/DCP_0377.jpg)
+![DCP_0377.jpg](/img/DCP_0377.jpg)
 The main tube bend was the only tricky part to building the cage.
-![DCP_0386.jpg](./jeep/projects/deep6/day23/DCP_0386.jpg)
+![DCP_0386.jpg](/img/DCP_0386.jpg)
 View from the front.
-![DCP_0387.jpg](./jeep/projects/deep6/day23/DCP_0387.jpg)
+![DCP_0387.jpg](/img/DCP_0387.jpg)
 From the back, you can see the dash bar and the small gussets under the main bars.
 
 I wanted a roll cage that would maximize interior room and provide better than stock protection. It is hard to do that with factory cages and weld in kits, so I bent my own.

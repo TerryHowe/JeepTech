@@ -1,7 +1,7 @@
 # Deep CJ-6: Day Seven Bondo*Short Cuts
 By: Terry L. Howe - 4/2003
 
-![DCP_0262.jpg](./jeep/projects/deep6/day07/DCP_0262.jpg)
+![DCP_0262.jpg](/img/DCP_0262.jpg)
 The Herculiner coats the inside of the tub and the rear fender wells.
 
 I spent most of the morning and afternoon doing some more Bondo work and lots and lots of sanding. I also ran out to the paint store and looked at colors and picked up some etching primer and regular primer. The regular primer allows some build up and will cover small scratches. The etching primer is for bare metal which I have a fair amount of. It is very close to being ready to spray the primer, but my buddy with the HVLP is busy working and not able to get out at night. Paint will probably happen this weekend.

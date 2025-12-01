@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Six Bondo*Short Cuts
 By: Terry L. Howe - 4/2003
 
-![DCP_0259.jpg](./jeep/projects/deep6/day06/DCP_0259.jpg)
+![DCP_0259.jpg](/img/DCP_0259.jpg)
 A layer of Bondo dust covers the entire floor.
-![DCP_0260.jpg](./jeep/projects/deep6/day06/DCP_0260.jpg)
+![DCP_0260.jpg](/img/DCP_0260.jpg)
 The windshield has been cleaned all up and sprayed with rust converter.
 
 The morning was spent working on the windshield. The top of it was rusted pretty bad between the metal. Earlier, I'd cleaned out as much as possible and sprayed it with rust converter. To prevent future problems, I welded it all up today. After grinding, a little Bondo will smooth it all out.

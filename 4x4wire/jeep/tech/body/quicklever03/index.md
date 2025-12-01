@@ -1,11 +1,11 @@
 # QuickLever Mirror Release*
 By: Terry L. Howe - 10/2003
 
-![DCP_0412.jpg](./jeep/tech/body/quicklever03/DCP_0412.jpg)
+![DCP_0412.jpg](/img/DCP_0412.jpg)
 The mirror folded out of the way.
-![DCP_0413.jpg](./jeep/tech/body/quicklever03/DCP_0413.jpg)
+![DCP_0413.jpg](/img/DCP_0413.jpg)
 The mirror adjusted for use.
-![DCP_0416.jpg](./jeep/tech/body/quicklever03/DCP_0416.jpg)
+![DCP_0416.jpg](/img/DCP_0416.jpg)
 Drivers side.
 
 Adjusting the mirrors on your Jeep and moving them out of the way is always been a compromise. If you leave your mirrors loose enough to move them out of the way, they get bumped out of adjustment all the time. If you tighten them up so they don't get bumped, you cannot move them out of the way. The QuickLever mirror release allows you to keep the mirrors tight and still move them out of the way with no tools.

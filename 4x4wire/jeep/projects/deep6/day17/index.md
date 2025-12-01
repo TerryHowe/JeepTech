@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Seventeen Radiator*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0325.jpg](./jeep/projects/deep6/day17/DCP_0325.jpg)
+![DCP_0325.jpg](/img/DCP_0325.jpg)
 The Jeep CJ radiator with the hoses switched. You can see the upper, lower, and heater return hose.
-![DCP_0326.jpg](./jeep/projects/deep6/day17/DCP_0326.jpg)
+![DCP_0326.jpg](/img/DCP_0326.jpg)
 The transmission coolers in front of the radiator.
 
 The original radiator in my CJ-6 was a two core radiator and it just wouldn't be enough radiator for the Chevy 350. The other problem with the radiator is the AMC engines have the hoses on the opposite sides from Chevy engines. A long time ago, I happened to buy a radiator from Tim Weldon that had the hoses reversed and it was time to use this radiator.

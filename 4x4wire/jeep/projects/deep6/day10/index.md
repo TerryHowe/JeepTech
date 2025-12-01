@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Ten Color and Clear*
 By: Terry L. Howe - 5/2003
 
-![DCP_0277.jpg](./jeep/projects/deep6/day10/DCP_0277.jpg)
+![DCP_0277.jpg](/img/DCP_0277.jpg)
 Finally, no more masking!
-![DCP_0278.jpg](./jeep/projects/deep6/day10/DCP_0278.jpg)
+![DCP_0278.jpg](/img/DCP_0278.jpg)
 From the front
 
 Sunday, the day of rest, Sean and I went wheeling. So, day ten is Monday. I did do a little sanding on Sunday and shot a little color to see how it would sand out. I needed to sand all the way down to the primer or bare metal to make the color stop lifting. A good section of the hood, half of the cowl, and one fender were having problems as well as a part of the dash and grill.
