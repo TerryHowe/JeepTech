@@ -11,21 +11,21 @@ The '50 CJ-3A used a Dana 25 front end and Dana 41 rear end. The Dana 25 use sma
 
 It looked like the front springs had been replaced at some time, but the rears were probably original. The leaves on the rear springs were all rounded off from rust and an add-a-leaf suspension lift had been installed. The add-a-leaf style suspension lift doesn't give too much lift and just tends to stiffen the ride. One of the newer front springs also suffered from a broken main leaf. I ended up just giving them away.
 
-![frame rust hole](/img/pieces_hole.jpg)
+![frame rust hole](../../img/pieces_hole.jpg)
 The frame was rusted all the way through in a few spots.
 
 ## Frame
 
-![bent frame](/img/pieces_frame.jpg)
+![bent frame](../../img/pieces_frame.jpg)
 The passenger side frame rail had a noticable bend in it.  My neighbor Gary, who also is a flat fender enthusist, stopped by to see how I was making out with my project. He said that most likely, the frame matches the 1950 CJ-3A as well since '2As used a narrower channel frame. He also pointed out this wicked bend along the passenger side frame rail. A large kink was visible just behind the spring hanger. Numerous sloppy welds were visible on the frame horns and on the front cross member.
 
-![Welded frame horn](/img/pieces_horn.jpg)
+![Welded frame horn](../../img/pieces_horn.jpg)
 The frame horns were weled up with all sorts of unusual pieces of scrap  The rear of the frame was paper thin and a large rust hole could be seen right in front of the rear spring hanger. The rear cross member was damaged from sloppy use of a torch. I can't figure out why the torch was run along the edge of it. It also looked like someone had wrapped a chain around the rear cross member to extract someone. It was bent pretty badly from the pull. Getting this frame back in shape, and converting it to power steering, would be a lot of work. I decided it would be best to scrap it and find another frame.
 
 ## Transmission and Transfer Case
 The '50 CJ-3A also used a Dana 18 transfer case and T-90 three speed. The T-90 had a Chevy adapter on it to mate with the Buick 231 that was installed in the flat fender. The transmission, transfer case, and overdrive were all sold to finance purchases of other parts more to my liking. The T-90 is a fairly light duty unit, not really strong enough or geared low enough for rock crawling. The transfer case is the small hole version with the 1 1/8" intermediate shaft, I wanted to use the stronger big hole Dana 18 with 1 1/4" intermediate shaft. Since the overdrive was 26 tooth and only for a small hole transfer case, it too was sold.
 
-![Tired 225](/img/pieces_225.jpg)
+![Tired 225](../../img/pieces_225.jpg)
 A very tired Buick 225.
 ## Engine
 
@@ -33,12 +33,12 @@ The engine was pulled and set on the garage floor. It will be stripped of usable
 
 ## Tub
 
-![CJ-2A tub from the bottom](/img/pieces_tub.jpg)
+![CJ-2A tub from the bottom](../../img/pieces_tub.jpg)
 The bttom of the tub was worse than moldy swiss cheese  The tub of the Jeep has seen lots of body work over the years and several coats of paint. The original color appears to be "Harvest Tan", some is still visible behind the dash and on the firewall. Coats of yellow, black, blue, and red are visible as well as layers of Bondo. The rear floor had been entirely replaced with a piece of galvanized sheet metal. The drivers and passenger seat floors were coverered with sheet metal. The tool box door was welded shut for some reason, maybe because the tool box no longer had a bottom to it.
 
-![Serial number plate and hole in fire wall](/img/pieces_plate.jpg)
+![Serial number plate and hole in fire wall](../../img/pieces_plate.jpg)
 Serial number plate and hole in fire wall  The fire wall had a big hole cut in it to make room for the V6 and maybe to provide a little heat for the passengers, it was not covered up. The front fenders were chopped out, probably to provide cooling for the V6 and the hood featured a hood scoop with a Buick "Special" logo on it. The grill was cut out to fit ugly square lights rather than the original bullet style lights. The wind shield frame has an extreme rust problem with the top tube and the sheet metal is rusted through.
-![CJ-2A from the side](/img/pieces_hood.jpg)
+![CJ-2A from the side](../../img/pieces_hood.jpg)
 The hood was cut up and filled with rust holes
 
 The entire body was attached to the frame with 5 bolts. Two of them were on the grill and three of them on the tub. A three inch wood block body lift was installed, a few of the blocks were split or missing.
@@ -51,7 +51,7 @@ The two seats that were installed in the flat fender were mismatched and badly d
 
 ## Steering
 
-![Stock Ross steering box, column, and linkage](/img/pieces_ross.jpg)
+![Stock Ross steering box, column, and linkage](../../img/pieces_ross.jpg)
 Stock Ross steering box, column, and linkage  The steering column, Ross steering box, and assorted linkage seemed to have a lot of slop in them. Actually, slop in the stock steering linkage is normal since there are so many parts involved. I gave the column, box, and linkage to my neighbor Reg who has a couple military and other assorted flat fender projects. I'm hoping to go with Saginaw power steering and a GM type tilt steering column.
 
 ## Brakes/Clutch
@@ -66,5 +66,5 @@ I was lucky enough to give away the tires to the guy that bought my transfer cas
 
 I ended up selling about everything I didn't want for about $750, nearly twice what I paid for the Jeep. All that and more will probably go into buying parts more suitable to my needs.
 
-![Damage around cross member](/img/pieces_tail.jpg)
+![Damage around cross member](../../img/pieces_tail.jpg)
 Someone with a torch had done a lot of damage around the rear of the body and the cross member

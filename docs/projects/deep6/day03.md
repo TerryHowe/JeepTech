@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Three on Body Work*Short Cuts
 By: Terry L. Howe - 4/2003
 
-![DCP_0252.jpg](/img/DCP_0252.jpg)
+![DCP_0252.jpg](../../img/DCP_0252.jpg)
 The underside of the tub painted black so the ugliness is less visible.
-![DCP_0253.jpg](/img/DCP_0253.jpg)
+![DCP_0253.jpg](../../img/DCP_0253.jpg)
 The hood came out real nice. I had it louvered years ago for this project. It was originally the hood for my '81 CJ-7, my second Jeep.
 
 First thing in the morning, I hit the battery tray and part of the bottom of the tub with rattle can black. The rust converter needs time to set up, so you cannot paint it right away.

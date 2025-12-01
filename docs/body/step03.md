@@ -1,9 +1,9 @@
 # The Cowboy StirrUP Step®*
 By: Terry L. Howe - 9/2003
 
-![DCP_0394.jpg](/img/DCP_0394.jpg)
+![DCP_0394.jpg](../img/DCP_0394.jpg)
 Is that a new yoga position? Ouch!
-![DCP_0404.jpg](/img/DCP_0404.jpg)
+![DCP_0404.jpg](../img/DCP_0404.jpg)
 The step.
 
 Is your Jeep awkward to get in? When you start putting bigger tires and a lift kit on your rig, it can be pretty hard to get in and out. Sure, you could put steps on the rig, but they generally hurt your break over angle and they often get damaged four wheeling. Redneck Concepts has come up with a solution to this problem, the The Cowboy StirrUP Step®.
@@ -14,11 +14,11 @@ Looking at the step, my first thought was I was going to bang my shin on the sid
 
 We've been using the step for a month now and it has been great. I'd highly recommend them for anyone that does not want to compromise for comfort or for performance. You just don't need to compromise at all with the The Cowboy Stirrup Step®.
 
-![DCP_0395.jpg](/img/DCP_0395.jpg)
+![DCP_0395.jpg](../img/DCP_0395.jpg)
 
-![DCP_0396.jpg](/img/DCP_0396.jpg)
+![DCP_0396.jpg](../img/DCP_0396.jpg)
 
-![DCP_0397.jpg](/img/DCP_0397.jpg)
+![DCP_0397.jpg](../img/DCP_0397.jpg)
 
-![DCP_0399.jpg](/img/DCP_0399.jpg)
+![DCP_0399.jpg](../img/DCP_0399.jpg)
 With the step it starts like this.  Up.  Step.  In.

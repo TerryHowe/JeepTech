@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Eleven This and That*
 By: Terry L. Howe - 5/2003
 
-![DCP_0301.jpg](/img/DCP_0301.jpg)
+![DCP_0301.jpg](../../img/DCP_0301.jpg)
 Transfer case linkage from the donor '91 Suburaban. Looks stock!
-![DCP_0302.jpg](/img/DCP_0302.jpg)
+![DCP_0302.jpg](../../img/DCP_0302.jpg)
 The battery tray mounted up.
 
 I spent most of Monday catching up on all the things I was supposed to be doing while I was working on painting the rig. I only clocked about two hours on the rig today, but I got a couple things done.

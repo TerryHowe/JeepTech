@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Twenty-one Getting it Running*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0343.jpg](/img/DCP_0343.jpg)
+![DCP_0343.jpg](../../img/DCP_0343.jpg)
 The license plate on the tailgate.
-![DCP_0344.jpg](/img/DCP_0344.jpg)
+![DCP_0344.jpg](../../img/DCP_0344.jpg)
 The license plate on the front.
 
 With the fuel tank done, I finally filled the tank with some gas and sarched for fuel leaks. After trying to get the engine fired up for a while, I finally realized the fuel pump was not putting out enough pressure and so I swapped it out. The timing was all messed up, but I finally got the engine fired up, running, but running very poorly.

@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Front Axle*
 by: Terry L. Howe
 
-![Dana 30 converted to disks](/img/pieces_d30.jpg)
+![Dana 30 converted to disks](../../img/pieces_d30.jpg)
 A '72 CJ-5 Dana 30 converted to disk brakes
 
 I decided right from the start to sell off the Dana 25 and Dana 41 that came with my flat fender and replace them with more modern and stronger units. I had heard stories of breakage with the old axles since they use smaller shafts and low spline counts compared to the stronger axles used in the 70s and 80s.
@@ -19,13 +19,13 @@ The disk conversion for the drum Dana 30 is quite simple, no fabrication is requ
 
 Once everything is apart, you are ready to put things back together. I did some mixing a matching to get the strongest combination possible. For me, the process for reassembly was slightly complicated for various reasons. The steps follow:
 
-![Dana 30 shaft gets a new u-joint](/img/pieces_shaft.jpg)
+![Dana 30 shaft gets a new u-joint](../../img/pieces_shaft.jpg)
 Dana 30 shaft gets a new u-joint
-![Dana 30 spindles](/img/d30spin.jpg)
+![Dana 30 spindles](../../img/d30spin.jpg)
 Dana 30 spindles
-![Disk lubs vs drum lugs](/img/pieces_lugs.jpg)
+![Disk lubs vs drum lugs](../../img/pieces_lugs.jpg)
 Drum brake lugs vs. disk brake lugs
-![Installing new inner bearing seal](/img/pieces_race.jpg)
+![Installing new inner bearing seal](../../img/pieces_race.jpg)
 Installing new inner bearing seal
 
 **Install Disk Brake Knuckles: ** The first step was to install the knuckles with the caliper bracket. Simply slide the ball joints in place and torque to spec.
@@ -46,7 +46,7 @@ The reason I had to switch bearings is because I had installed the spindles from
 Last Four Digits of Dana 30 Bearings OuterInnerTypeBearingRaceBearingRaceDrum1349131013491310Disk1349131029492910*
 My bearings were in good shape, so I just removed them from the disk brake hub, repacked them, and installed them in the drum brake hub. The bearings can be driven out and installed with a screw driver and hammer. There is a channel on the side that should be used to do this so you don't damage the bearing or race. Removing the inner bearing seal almost always destroys it, so I installed new inner bearing seals all around.
 
-![Packing the bearings](/img/pieces_pack.jpg)
+![Packing the bearings](../../img/pieces_pack.jpg)
 Packing the bearings
 After the bearings and races were installed, I put the rotor on the older brake hub and set the disk brake lugs in place with a hammer to hold the rotor in place.
 
@@ -54,6 +54,6 @@ Once the rotor and bearings are in place, installing the brake hub is a matter o
 
 **Install Hub/Lock-out: ** Installing the hub/lock-out is a piece of cake, especially with snap ring pliers. With the Warn Premium hubs, slide the hub body over the shaft and put the snap ring on the end o the shaft. Sometimes, prying the shaft behind the knuckle will help get the shaft in place to get the snap ring on. After the snap ring is seated, bolt on the outer piece of the hub/lock-out. After the hubs/lock-outs are installed, you should be done.
 
-![Disk brake with new rotor](/img/pieces_disk.jpg)
+![Disk brake with new rotor](../../img/pieces_disk.jpg)
 Disk brake with new rotor
 If you are considering a disk brake upgrade for your 70s CJ with drum brake, I've heard from a few people that the stock master cylinder and proportioning valve work with out modification. I've never tried it myself, but a few people have said it works. I'm planning on using a master cylinder and and swing arm pedal from a '77 CJ-7 with disk brakes and a proportioning valve from a '73 Scout II, but that will come later. I've selected these parts only because I happen to have them. I need to repair the tub before I can plumb the brakes up.

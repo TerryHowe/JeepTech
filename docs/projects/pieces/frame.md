@@ -1,15 +1,15 @@
 # Project Pieces and Parts - Frame I*
 by: Terry L. Howe
 
-![Tub, hood, and grill test fit](/img/pieces_frame5.jpg)
+![Tub, hood, and grill test fit](../../img/pieces_frame5.jpg)
 Test fitting the tub, hood, and grill
-![Cutting off back of frame](/img/pieces_frame4.jpg)
+![Cutting off back of frame](../../img/pieces_frame4.jpg)
 Cutting off back of frame
-![Old cross member cut off](/img/pieces_frame3.jpg)
+![Old cross member cut off](../../img/pieces_frame3.jpg)
 Cross member cut off
-![Frame welded together outside view](/img/pieces_frame2.jpg)
+![Frame welded together outside view](../../img/pieces_frame2.jpg)
 Frame welded together outside view
-![Bumper picture](/img/pieces_bumper3.jpg)
+![Bumper picture](../../img/pieces_bumper3.jpg)
 The bumper
 
 The frame on Project Pieces and Parts is probably the most radical work so far. The original frame I got with this Willys was from a '50 CJ-3A and it was badly bent and had numerous welds on it. The rear section was rusted clear through in places. I decided there was no saving it, but kept it just in case.

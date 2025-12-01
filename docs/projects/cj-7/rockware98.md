@@ -1,5 +1,5 @@
 # Rock Ware Bumper Review*
-![Rock Ware bumper in action](/img/rockware2.jpg)
+![Rock Ware bumper in action](../../img/rockware2.jpg)
 
 Rock Ware has recently introduced a stout new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance. The short and sturdy design is everything a hard core four wheeler would want.
 
@@ -7,7 +7,7 @@ Rock Ware has recently introduced a stout new bumper for CJs and Wranglers. The 
 
 The bumper winch mount is made of quarter inch steel and there is a version that fits the regular Warn and Ramsey winches and a version that fits the Warn 8274. The pictured version is obviously the version for the Warn 8274. The winch mount plate for the 8274 version also made of quarter inch steel. The steel is bent to reinforce the face and neatly welded to the base.
 
-![Rock Ware Bumper](/img/rockware1.jpg)
+![Rock Ware Bumper](../../img/rockware1.jpg)
 The bumper tube is made of a 3 1/2" square tubing with the ends bobbed off. The tubing is rather large, but it does not hurt appoach angle. A tube comes up to protect the roller fairlead and another tube reinforces the gaurd.
 
 Since the base plate for the winch is a one piece design, the winch sits a little lower than it would with the Warn winch mount. This will allow a bit more air to flow though to the radiator. The 8274 plate mounts the winch sufficiently high so that the cable will clear the base plate even if it gets bunched up a bit.
@@ -18,9 +18,9 @@ This version of the bumper does not have a receiver, but they will build it with
 
 The general rule of thumb for calculating maximum bumper length is with the wheel turned to full lock, the bumper length should not exceed an imaginary line from the outside edge of a tire. The Rock Ware bumper easily passes this test with the 33s on my CJ-7. Stubby bumpers maximize turning radius this way, because if there is a large rock that is about tire high, you can make a turn as close the to rock as possible without climbing the rock.
 
-![Maximum turning radius measurement](/img/rockware5.jpg)
+![Maximum turning radius measurement](../../img/rockware5.jpg)
 **=**
-![Maximum turning radius](/img/rockware3.jpg)
+![Maximum turning radius](../../img/rockware3.jpg)
 
 A short bumper also helps your effective approach angle. Sometimes you want to climb something that exceeeds your approach angle. If you come at it at a slight angle and get a tire on it, you will be able to easily climb an obstacle tire high. If your bumper is long, it will hit before the tire makes contact.
 
@@ -34,5 +34,5 @@ The four winch mount bolts secure the bumper in place and the single unit looks 
 
 The bumper performs exceptionally well. It is small enough to stay out of the way. The first day out I tried all sorts of crazy lines on a trail called Chinamen's Gulch and didn't scratch it all day. I tried my winch out and the mount survived some hard pulls with no complaints.
 
-![Rock Ware bumper turning](/img/rockware4.jpg)
+![Rock Ware bumper turning](../../img/rockware4.jpg)
 The finish is a a simple gloss black paint that should be easy to maintain. I'd rather not have a powder coat that is more difficult to maintain and more likely to scratch. The bumper is available in a powder coat if requested.

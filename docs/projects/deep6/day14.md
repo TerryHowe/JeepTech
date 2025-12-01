@@ -1,11 +1,11 @@
 # Deep CJ-6: Day Fourteen Dash Wiring*
 By: Terry L. Howe - 5/2003
 
-![DCP_0307.jpg](/img/DCP_0307.jpg)
+![DCP_0307.jpg](../../img/DCP_0307.jpg)
 The back of the dash
-![DCP_0308.jpg](/img/DCP_0308.jpg)
+![DCP_0308.jpg](../../img/DCP_0308.jpg)
 The front of the dash
-![DCP_0311.jpg](/img/DCP_0311.jpg)
+![DCP_0311.jpg](../../img/DCP_0311.jpg)
 The dash installed
 
 I like the simple CJ dash layout and had no plans to alter it, but I did need to fix the wiring. The light switch plug was badly melted as were some of the wires to the light switch. I happened to have the plug for that switch from some other truck I parted out. I soldered and shirk wrapped the plug in and replaced the badly melted wire.

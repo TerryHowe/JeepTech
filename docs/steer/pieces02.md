@@ -1,13 +1,13 @@
 # Pieces & Parts Steering II: Borgeson*
 By: Terry L. Howe - 9/2001
 
-![parts.jpg](/img/parts.jpg)
+![parts.jpg](../img/parts.jpg)
 Borgeson sent out three u-joints, one heim joint, two splined shafts, and one slip D shaft.
-![bracket.jpg](/img/bracket.jpg)
+![bracket.jpg](../img/bracket.jpg)
 The two different steering column to dash brackets. The top bracket is the slightly larger bracket from a CJ-7 that does not work on the Willys. The lower bracket is the Cherokee bracket that does work.
-![secondShaft02.jpg](/img/secondShaft02.jpg)
+![secondShaft02.jpg](../img/secondShaft02.jpg)
 The fixed part of the intermediate shaft with the heim joint that I attached to a piece of 2"x2" square tubing.
-![secondShaft01.jpg](/img/secondShaft01.jpg)
+![secondShaft01.jpg](../img/secondShaft01.jpg)
 The Borgeson intermediate shaft as seen from below. It clears the exhaust manifold and engine mount. The u-joint angles are good and it operates with no binding.
 
 When I swapped a 4.3L Chevy V6 in to replace the 3.8L Buick V6, I had to rework the intermediate shaft. The Chevy engine mounts are in the middle where as the Buick mounts are in the front of the engine. The only way I could clear the engine mount was with a three u-joint intermediate shaft from Borgeson.

@@ -1,13 +1,13 @@
 # Project Pieces and Parts - Off-Your Rockers Corner Guards*
 by: Terry L. Howe
 
-![Off-Your Rockers](/img/pieces_corner.jpg)
+![Off-Your Rockers](../../img/pieces_corner.jpg)
 The corner guards
-![img05.jpg](/img/img05.jpg)
+![img05.jpg](../../img/img05.jpg)
 The corner guards
-![img10.jpg](/img/img10.jpg)
+![img10.jpg](../../img/img10.jpg)
 The corner guards
-![Durabak](/img/pieces_durabak01.jpg)
+![Durabak](../../img/pieces_durabak01.jpg)
 Tub with the corners chopped out
 
 You may have noticed in the pictures taken when the tub was being Durabaked that the corners were completely cut out of the body. Both corners were badly damaged by the previous owner from accidents and cutting with a torch. Rust had also taken some chunks out of the corners. Rather than try to fix the corners, I decided to just cut them out and replace them with some heavy duty corner protection from Off-Your Rockers.

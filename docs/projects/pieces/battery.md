@@ -1,11 +1,11 @@
 # Project Pieces & Parts: Batteries*
 By: Terry L. Howe - 2/2000
 
-![Battery tray](/img/pieces_battery03.jpg)
+![Battery tray](../../img/pieces_battery03.jpg)
 From the back, you can see the 2"x2" angle that secures the leading edge.
-![Battery tray](/img/pieces_battery04.jpg)
+![Battery tray](../../img/pieces_battery04.jpg)
 The battery tray from above. You can see the holes that attach the leading edge and the angle iron around the bottom of the batteries.
-![Battery tray](/img/pieces_battery02.jpg)
+![Battery tray](../../img/pieces_battery02.jpg)
 Dual optimas securely fastened down in the new battery tray. Some flat black paint is the finishing touch.
 
 It is always a challenge fitting things into a flat fender; fitting a dual battery system into Project Pieces & Parts was no exception. The original location for the battery on CJ-2As is on the passenger side fender. This works fine with the 134 I4 "Go Devil" engine, but it gets pretty tight with a V8 or V6 engine. I also wanted to cut out the fenders as much as possible to keep the engine cool, so I didn't want to mount the battery or batteries on the fenders. The military Willys' have an extra battery under the cowl (behind the passenger side dash), but I wanted to put a heater in this area. I finally decided behind the rear axle would be the best place for the batteries.

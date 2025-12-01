@@ -1,19 +1,19 @@
 # Tube It Out!*
 By: Terry L. Howe - 7/2001
 
-![rockGarden01.jpg](/img/tn_rockGarden01.jpg)
+![rockGarden01.jpg](../../img/tn_rockGarden01.jpg)
 Sean Lazelle's '76 Bronco with tubed front end has much better approach angles and tire clearance compared to stock.
 *photo by Steve George*
-![rockGarden02.jpg](/img/tn_rockGarden02.jpg)
+![rockGarden02.jpg](../../img/tn_rockGarden02.jpg)
 With the tube front end, the inner fender wells can be left out. This allows the engine to run cooler and it is easier to service. In this picture, Sean is running Butt Scratcher backwards during the "Just For Fun" Rock Garden Four Wheelers competition.
 *photo by Steve George*
-![moab02.jpg](/img/tn_moab02.jpg)
+![moab02.jpg](../../img/tn_moab02.jpg)
 From behind, you can see where the body was cut with a plasma cutter. A piece of sheet metal was just welded over the area to strengthen the body. A low buck 15 gallon Triangle Engineering fuel cell was mounted out back. No more leaky under seat tanks!
 *photo by Eric Denning*
-![moab03.jpg](/img/tn_moab03.jpg)
+![moab03.jpg](../../img/tn_moab03.jpg)
 With the low center of gravity, heavy front end, and big tires, climbs that are normally reserved for long wheel base are possible. My flat fender with 83" of wheel base has an easy time going up White Knuckle Hill.
 *photo by Eric Denning*
-![bedside1.jpg](/img/bedside1_s.jpg)
+![bedside1.jpg](../../img/bedside1_s.jpg)
 The tube on Jay Kopycinski's Toyota replaces the original bed and at the same time, adds clearance for larger tires, without losing a wheel well.
 *photo by Jay Kopycinski*
 

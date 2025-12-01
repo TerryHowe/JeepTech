@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Body Work*
 by: Terry L. Howe
 
-![Replacing the floors](/img/pieces_body1.jpg)
+![Replacing the floors](../../img/pieces_body1.jpg)
 Replacing the floors
 
 The body work was by far the most complicated and time consuming part of this project to date. The tub was damaged beyond repair by most peoples standards, but I decided to fix it mostly because it was original. I wanted to maintain a original look to the vehicle, but I did not duplicate factory techniques as one would in a restoration. The work was time consuming enough as it was.
@@ -17,7 +17,7 @@ There were a couple modifications I did to the tub since I was replacing a lot o
 
 Another modification I did was move the front of the rear fender back about 1". This isn't much, but it doesn't take away from tire clearance and allows the seats to be moved back an 1". Flat fenders have very little leg room as it is and every little bit helps.
 
-![Replacing the floors](/img/pieces_body2.jpg)
+![Replacing the floors](../../img/pieces_body2.jpg)
 Replacing the floors
 
 ## Hood

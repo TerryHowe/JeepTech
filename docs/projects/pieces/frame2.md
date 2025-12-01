@@ -1,7 +1,7 @@
 # Project Pieces and Parts - Frame II*
 by: Terry L. Howe
 
-![New body mounts](/img/pieces_framea.jpg)
+![New body mounts](../../img/pieces_framea.jpg)
 New body mounts
 
 Frame work wasn't done after simply chopping up and splicing together the '73 Commando frame to flat fender specifications. There was still a large frame crack to fix near the front spring mount, the splices to reinforce, body mounts to build, and some frame boxing to do.
@@ -11,7 +11,7 @@ Frame work wasn't done after simply chopping up and splicing together the '73 Co
 Someone must of caught so big air with that Commando because it had a large frame crack just behind the front fixed spring hanger. This is a fairly common places for these frames to crack. I welded up the crack, but to stop future cracks, I wanted to reinforce the area.
 I was also concerned about have a straight verticle weld on the frame since it was likely to cause stress cracks around the weld. I had a similar situation where I had spliced the frame together. The common solution is to weld a fish mouthed gusset over the weld so that the stresses are distributed over a wider area.
 
-![Inverse fish mouth](/img/pieces_frameb.jpg)
+![Inverse fish mouth](../../img/pieces_frameb.jpg)
 Inverse fish mouth
 
 Near the back, the frame curved up where I was going to be putting this fish mouth, so I decided to try an inverse fish mouth. I cut a piece of 3"x3/16" steel so the ends were pointed and ran the piece all the way on the outside of the frame rail from one spring to the other. I stitch welded it every 6" or so. The 3/16" is probably overkill, a 1/8" piece should be more than enough, but the material was handy.
@@ -26,7 +26,7 @@ I used the same 2"x2" square tubing to build new body mounts for the grill. I re
 
 ## Frame Boxing
 
-![frame boxing](/img/pieces_framec.jpg)
+![frame boxing](../../img/pieces_framec.jpg)
 Frame boxing
 
 I was pretty tired of doing frame work when my friend Roger Wild stopped by to see how I was doing. He drives an early 70s CJ-5, so his framee was very similar. He said I should box the unboxed rear section of the frame or I will most likely get cracks. I was disappointed to hear this, but took his advice.

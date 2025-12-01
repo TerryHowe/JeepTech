@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Four on Body Work*Short Cuts
 By: Terry L. Howe - 4/2003
 
-![DCP_0254.jpg](/img/DCP_0254.jpg)
+![DCP_0254.jpg](../../img/DCP_0254.jpg)
 The inside of the tub clean and with the rust converter sprayed on.
-![DCP_0255.jpg](/img/DCP_0255.jpg)
+![DCP_0255.jpg](../../img/DCP_0255.jpg)
 The tub back on the frame
 
 I wasn't particularlly in the mood to work on the old Jeep today, but I got some things done anyway. I painted the firewall black for one thing. After that was dry, I managed to get my friend Sean over for a bit and one of my neighbors to help me put the tub back on the frame.

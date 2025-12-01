@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Eight Engine Wiring and Paint Prep*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0263.jpg](/img/DCP_0263.jpg)
+![DCP_0263.jpg](../../img/DCP_0263.jpg)
 Dash and grill prepared for paint
-![DCP_0264.jpg](/img/DCP_0264.jpg)
+![DCP_0264.jpg](../../img/DCP_0264.jpg)
 A couple engine management computers for the project.
 
 Rather than spend all day in the garage, I decided to make some calls and get my engine wiring straightened out. I had the original wiring harness from the '89 Firebird, but there were a couple problems with it. The Fireturd harness was slightly damaged from a leaky exhaust and it was a MAF (mass air flow) engine and I didn't really have room to run the MAF sensor. I wanted to run a speed density engine with the MAP (manifold absolute pressure). The MAP engine is just a neater package, you can just slap a cone filter on the air intake.

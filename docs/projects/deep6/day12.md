@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Twelve Reassemble*
 By: Terry L. Howe - 5/2003
 
-![DCP_0303.jpg](/img/DCP_0303.jpg)
+![DCP_0303.jpg](../../img/DCP_0303.jpg)
 The front clip assembled.
-![DCP_0304.jpg](/img/DCP_0304.jpg)
+![DCP_0304.jpg](../../img/DCP_0304.jpg)
 The tailgate attached, the heater in, and the windshield partially assembled.
 
 This Jeep has been torn down for two years, so I spent most of the day sorting through the boxes and trying to find things. Luckly, I'd labeled many things, but not everything. Some of the "obvious" things are not so obvious anymore.

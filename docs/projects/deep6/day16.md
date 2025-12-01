@@ -1,11 +1,11 @@
 # Deep CJ-6: Day Sixteen Seats*
 By: Terry L. Howe - 5/2003
 
-![DCP_0316.jpg](/img/DCP_0316.jpg)
+![DCP_0316.jpg](../../img/DCP_0316.jpg)
 Passenger side seat bracket with the catch welded on it.
-![DCP_0317.jpg](/img/DCP_0317.jpg)
+![DCP_0317.jpg](../../img/DCP_0317.jpg)
 The passenger side seat bracket bolted on the seat with some pieces of 3/16" flat stock to adapt the seat to the bracket. The front lever for the catch is screwed to the seat.
-![DCP_0322.jpg](/img/DCP_0322.jpg)
+![DCP_0322.jpg](../../img/DCP_0322.jpg)
 The seats bolted in ready to go.
 
 If you want to upgrade seats on an early CJ, you would think the seats would bolt right to the brackets. The drivers side is easy, but the passenger side is difficult.

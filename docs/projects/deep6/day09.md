@@ -1,9 +1,9 @@
 # Deep CJ-6: Day Nine Prime and Color*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0276.jpg](/img/DCP_0276.jpg)
+![DCP_0276.jpg](../../img/DCP_0276.jpg)
 Dash, grill, and wind shield with color.
-![DCP_0275.jpg](/img/DCP_0275.jpg)
+![DCP_0275.jpg](../../img/DCP_0275.jpg)
 The body bagged off and shot with color.
 
 Well, Saturday was supposed to be primer day, but it went better than that and worse. Sean was coming over at 10am and by the time he got over, I had almost everything bagged off and ready for primer. Since the rig was most down to bare metal, I wanted to shoot a coat of etching primer. I'd had problems with paint on bare metal in the past and I wanted this job to come out nice.

@@ -1,15 +1,15 @@
 # Deep CJ-6: Day Eighteen Engine Wiring*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0327.jpg](/img/DCP_0327.jpg)
+![DCP_0327.jpg](../../img/DCP_0327.jpg)
 The engine compartment from the passenger side.
-![DCP_0328.jpg](/img/DCP_0328.jpg)
+![DCP_0328.jpg](../../img/DCP_0328.jpg)
 The engine compartment from the drivers side.
-![DCP_0331.jpg](/img/DCP_0331.jpg)
+![DCP_0331.jpg](../../img/DCP_0331.jpg)
 Clockwise from bottom left: knock sensor, O2 sensor, and oil pressure sending unit.
-![DCP_0332.jpg](/img/DCP_0332.jpg)
+![DCP_0332.jpg](../../img/DCP_0332.jpg)
 Clockwise from top left is the TPS, alternator wires, temperature sender, barely visible is the coolant temperature sensor for the computer, and the IAC just under the TPS.
-![DCP_0333.jpg](/img/DCP_0333.jpg)
+![DCP_0333.jpg](../../img/DCP_0333.jpg)
 The MAP sensor with the green plug.
 
 While I was away for the weekend wheeling in Moab, the engine wiring harness came in. As soon as I got back, I was setting it up. The engine needed to be wired for the gauges and the fuel injection. I had to splice in the original CJ harness with the new engine harness.

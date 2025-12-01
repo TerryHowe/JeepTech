@@ -1,11 +1,11 @@
 # Deep CJ-6: Day Twenty Fuel Tank*Short Cuts
 By: Terry L. Howe - 5/2003
 
-![DCP_0336.jpg](/img/DCP_0336.jpg)
+![DCP_0336.jpg](../../img/DCP_0336.jpg)
 Inside the fuel tank is the sending unit and some baffles. You can see the hose for fuel input and the two lines for to the engine and a return.
-![DCP_0337.jpg](/img/DCP_0337.jpg)
+![DCP_0337.jpg](../../img/DCP_0337.jpg)
 One the bottom of the fuel tank is a skid plate made of 14g diamone plate.
-![DCP_0338.jpg](/img/DCP_0338.jpg)
+![DCP_0338.jpg](../../img/DCP_0338.jpg)
 With the top welded on, there is just a small access hole to get to the fuel pump and the sending unit.
 
 It is hard to find a 20 gallon fuel tank for an early CJ. The frame rails are close together, so you cannot use later gas tanks, you cannot even use the later 15 gallon tanks. The 15 gallon tank that came with my Jeep leaked, so I needed to do something. I decided to make my own tank and my advice to anyone that comes to this same conclusion would be don't do it! The reason I would advise against making your own fuel tank is it is hard to make it leak proof, it is very time consuming, and it is potentially dangerous.

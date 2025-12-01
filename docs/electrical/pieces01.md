@@ -1,10 +1,10 @@
 # Electrifying Pieces & Parts*
 By: Terry L. Howe - 8/2001
 
-![dash.jpg](/img/dash.jpg)
+![dash.jpg](../img/dash.jpg)
 A view of the dash with many gauges that are not hooked up.
 
-![engineharness02.jpg](/img/engineharness02.jpg)
+![engineharness02.jpg](../img/engineharness02.jpg)
 The firewall side of the wiring harness. The engine harness comes out on the drivers side corner.
 
 Wiring up a Willys CJ-2A is no simple matter. I had two stock wiring harnesses and both were beyond recovery. The cloth insulation on the wires just doesn't last 50 years or more. I recently parted out a rolled '77 CJ-7, so I decided to use the wiring harness from the CJ-7 on the Willys. It worked pretty well and saved lots of time and money.
@@ -17,11 +17,11 @@ The wiring of the Buick 231 V6 could not be easier. The harness I had was from a
 
 On the passenger side of the engine compartment, I don't have a battery, the battery is in the back. I wanted a little power center where all the power would be sourced from, so I put that on the passenger side. I bought a heavy duty switch and terminal from Wrangler Power Products. The wires come up from the batteries and everything sources power from this point. I can turn off all the power using the switch that is accessible from behind the dash. The winch, I wired on the always hot side of the switch so that the winch didn't have to pull power through the switch. Technically, the winch can draw more than the switch can handle although I've run winches through wimpier looking switches.
 
-![firewall01.jpg](/img/firewall01.jpg)
+![firewall01.jpg](../img/firewall01.jpg)
 
-![fusebox.jpg](/img/fusebox.jpg)
+![fusebox.jpg](../img/fusebox.jpg)
 
-![taillights01.jpg](/img/taillights01.jpg)
+![taillights01.jpg](../img/taillights01.jpg)
 A power center lives on the passenger side of the fire wall with a heavy duty cut off switch.  The fuse box is located near the floor on the drivers side. The high beams switch is just below it.  Inset tail and backup lights where mounted where mounted in the diamond plate corners. They are well protected and much more functional than the stock configuration.
 ## Interior
 
@@ -35,11 +35,11 @@ The CJ-7 had convenience lights under the dash which I wired up and they work. I
 
 Most of the wiring is for lights of various sorts. I have head lights, tail lights, backup lights, parking lights in the front, and rock lights underneath. The stock CJ-2A headlights and buckets worked fine with the CJ-7 wiring harness. The front parking lights I wired up as turn signal indicators only. They were originally parking lights only, but I felt it would be more useful to have turn signals up front. Most CJ-2As came from the factor with a single brake light and a reflector. I wired up two inset lights for brake and turn in the back using the stock CJ-7 harness. My transmission didn't have a switch for backup lights, so I just wired up a switch for backup lights that I put under the dash.
 
-![markerlight02.jpg](/img/markerlight02.jpg)
+![markerlight02.jpg](../img/markerlight02.jpg)
 
-![markerlight01.jpg](/img/markerlight01.jpg)
+![markerlight01.jpg](../img/markerlight01.jpg)
 
-![rocklight.jpg](/img/rocklight.jpg)
+![rocklight.jpg](../img/rocklight.jpg)
 The parking lights on the grill were converted to turn singals for safety.  The OEM parking lights are mounted on a CJ-3A grill that I modified to look like an early CJ-2A grill.  Rock lights where mounted on both sides just in front of the body mount that is below the seats. They are fairly well protected here, but I did crush one once.
 ## Conclusion
 
