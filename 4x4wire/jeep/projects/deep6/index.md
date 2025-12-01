@@ -25,9 +25,9 @@ It is real nice as it stands, I drive to work in it every day and wheel it occas
 ![Step pic](./jeep/tech/body/step03/crop.jpg)
 
 ## [The Ultimate Jeep Step](/jeep/tech/body/step03/)Is your Jeep awkward to get in? When you start putting bigger tires and a lift kit on your rig, it can be pretty hard to get in and out. Sure, you could put steps on the rig, but they generally hurt your break over angle and they often get damaged four wheeling. Redneck Concepts has come up with a solution to this problem, the The Cowboy StirrUP Step ®. *
-![console](./jeep/tech/interior/tuffy03/DCP_0403.jpg)
+![console](./jeep/tech/body/tuffy03/DCP_0403.jpg)
 
-## [Tuffy Deluxe Stereo Security Console](/jeep/tech/interior/tuffy03/)I've had a lot of Jeeps over the years and a lot of radios in those Jeeps. Locking up your valuables and keeping a radio working in the Jeep has always been a challenge. Tuffy Stereo Center Console provides the security for the radio, a secure place for valuables, protection from the elements, and an arm rest! *
+## [Tuffy Deluxe Stereo Security Console](/jeep/tech/body/tuffy03/)I've had a lot of Jeeps over the years and a lot of radios in those Jeeps. Locking up your valuables and keeping a radio working in the Jeep has always been a challenge. Tuffy Stereo Center Console provides the security for the radio, a secure place for valuables, protection from the elements, and an arm rest! *
 ![DCP_0414.jpg](./jeep/tech/body/quicklever03/DCP_0414.jpg)
 
 ## [QuickLever Mirror Release](/jeep/tech/body/quicklever03/)Adjusting the mirrors on your Jeep and moving them out of the way is always been a compromise. If you leave your mirrors loose enough to move them out of the way, they get bumped out of adjustment all the time. If you tighten them up so they don't get bumped, you cannot move them out of the way. The QuickLever mirror release allows you to keep the mirrors tight and still move them out of the way with no tools. *

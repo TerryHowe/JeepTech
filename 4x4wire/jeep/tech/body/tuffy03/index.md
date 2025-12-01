@@ -1,15 +1,15 @@
 # Stereo Security Center Console*
 By: Terry L. Howe - 9/2003
 
-![DCP_0388.jpg](./jeep/tech/interior/tuffy03/DCP_0388.jpg)
+![DCP_0388.jpg](DCP_0388.jpg)
 The console on the floor.
-![DCP_0392.jpg](./jeep/tech/interior/tuffy03/DCP_0392.jpg)
+![DCP_0392.jpg](DCP_0392.jpg)
 Nice fit.
-![DCP_0403.jpg](./jeep/tech/interior/tuffy03/DCP_0403.jpg)
+![DCP_0403.jpg](DCP_0403.jpg)
 From further out.
-![DCP_0393.jpg](./jeep/tech/interior/tuffy03/DCP_0393.jpg)
+![DCP_0393.jpg](DCP_0393.jpg)
 Temporary POS brand radio.
-![DCP_0402.jpg](./jeep/tech/interior/tuffy03/DCP_0402.jpg)
+![DCP_0402.jpg](DCP_0402.jpg)
 From the back between the seats.
 
 I've had a lot of Jeeps over the years and a lot of radios in those Jeeps. Locking up your valuables and keeping a radio working in the Jeep has always been a challenge. Tuffy Stereo Center Console provides the security for the radio, a secure place for valuables, protection from the elements, and an arm rest. The Tuffy Deluxe Stereo Security Console offers a lot in a well built and finished product. There are some cool new features to the console, but the assembly and installation is just as easy as it has ever been.
@@ -46,7 +46,7 @@ Wiring the stereo was fairly easy because I'd already run a wire for hot all the
 
 ## Fitment in a Pre '75 CJ
 
-![DCP_0389.jpg](./jeep/tech/interior/tuffy03/DCP_0389.jpg)
+![DCP_0389.jpg](DCP_0389.jpg)
 The modification to the seat bracket. A piece of angle welded to the round tube and some flat stock for a foot. Not pretty, but simple.
 Installing a Tuffy console in a pre '75 Jeep is a little trickier than later Jeeps, but I'd planned for this. The tricky part is that the drivers side seat bracket goes all the way across the front to the passenger side. I'd modified the transmission tunnel making the surface under the console all flat. I'd also cut down the drivers side seat bracket and made it drop down and end as short as possible. This gave me a nice flat mounting surface and no seat bracket in the way for the console.
 It would be tough to mount the console in there without at least modifying the seat bracket. You could do it if you mounted the console on top of the seat belt bolts, but that didn't seem to be a good idea to me. I had enough room after the seat bracket was modified for the 8" wide console. A wider console would require also modifying the passenger side seat bracket.
