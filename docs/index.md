@@ -6,7 +6,9 @@ description: "Jeep guide to maintenance, modifications, and performance covering
 ---
 # Jeep Tech Pages
 
-![Moab](./img/20230405_090701.jpg "Moab")
+<!-- ![Moab](./img/20230405_090701.jpg "Moab") */ -->
+
+![Ophir Pass](./img/20250829_172026.jpg "Ophir Pass")
 
 ## Features
 
