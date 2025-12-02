@@ -18,7 +18,7 @@ Some people will argue that a TH400 is everything a TH350 is, but it is stronger
 
 ## TH350 Swap Stories
 
-|  [Pieces and Parts Transmission](https://www.4x4wire.com/jeep/projects/pieces/transmission/factory/): The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best transmission to swap in a short Jeep such as a flat fender.
+|  [Pieces and Parts Transmission](../../projects/pieces/trans.md): The Turbo 350, aka TH350, automatic transmission is a stout 3 speed automatic transmission. It has been used in various GM cars and trucks over the years. Because it is a reliable, common, and short transmission, it is probably the best transmission to swap in a short Jeep such as a flat fender.
 ---|---
 
 ## TH350 Identification
