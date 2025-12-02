@@ -1,8 +1,9 @@
-# Project Deep Six - Main Page*
+# Project Deep Six
 by: Terry L. Howe
 
 ![CJ-6 basically stock](../img/deep6_intro.jpg)
 Deep Six - The starting point
+
 ![After Deep Six](../img/DCP_0386.jpg)
 Current state, everything rebuilt, but a Jeep is never done.
 
@@ -18,16 +19,32 @@ It is real nice as it stands, I drive to work in it every day and wheel it occas
 
 ![Deep Six 8274](../img/img20.jpg)
 
-## [Deep Six Gets an 8274](../winch/deep6_8274.md)Predator Four Wheel Drive was running a special on some brand new, old style Warn 8274 winches. The price was only $699 for this amazing winch and I couldn't pass it up. *
+## [Deep Six Gets an 8274](../winch/deep6_8274.md)
+
+Predator Four Wheel Drive was running a special on some brand new, old style Warn 8274 winches. The price was only $699 for this amazing winch and I couldn't pass it up.
+
 ![Deep Six](../img/DCP_0303.jpg)
 
-## [Project Deep CJ-6: Daily Reports](deep6/day01.md)[Project Deep CJ-6 has shifted into high gear. The company I was working for has run out of money, so when I'm not looking for a new job, I'm working on the Jeep. Every day that I work on it, there will be a short progress report to get this rig on the street at last! Currently, there are reports for: Day One](deep6/day01.md)[, Day Two](deep6/day02.md)[, Day Three](deep6/day03.md)[, Day Four](deep6/day04.md)[, Day Five](deep6/day05.md)[, Day Six](deep6/day06.md)[, Day Seven](deep6/day07.md)[, Day Eight](deep6/day08.md)[, Day Nine](deep6/day09.md)[, Day Ten](deep6/day10.md)[, Day Eleven](deep6/day11.md)[, Day Twelve](deep6/day12.md)[, Day Thirteen](deep6/day13.md)[, Day Fourteen](deep6/day14.md)[, Day Fifteen](deep6/day15.md)[, Day Sixteen](deep6/day16.md)[, Day Seventeen](deep6/day17.md)[, Day Eighteen](deep6/day18.md)[, Day Nineteen](deep6/day19.md)[, Day Twenty](deep6/day20.md)[, Day Twenty-one](deep6/day21.md)[, Day Twenty-two](deep6/day22.md)[, and Day Twenty-three](deep6/day23.md)
+## [Project Deep CJ-6: Daily Reports](deep6/day01.md)
+
+Project Deep CJ-6 has shifted into high gear. The company I was working for has run out of money, so when I'm not looking for a new job, I'm working on the Jeep. Every day that I work on it, there will be a short progress report to get this rig on the street at last!
+
+Daily Reports: [Day One](deep6/day01.md), [Day Two](deep6/day02.md), [Day Three](deep6/day03.md), [Day Four](deep6/day04.md), [Day Five](deep6/day05.md), [Day Six](deep6/day06.md), [Day Seven](deep6/day07.md), [Day Eight](deep6/day08.md), [Day Nine](deep6/day09.md), [Day Ten](deep6/day10.md), [Day Eleven](deep6/day11.md), [Day Twelve](deep6/day12.md), [Day Thirteen](deep6/day13.md), [Day Fourteen](deep6/day14.md), [Day Fifteen](deep6/day15.md), [Day Sixteen](deep6/day16.md), [Day Seventeen](deep6/day17.md), [Day Eighteen](deep6/day18.md), [Day Nineteen](deep6/day19.md), [Day Twenty](deep6/day20.md), [Day Twenty-one](deep6/day21.md), [Day Twenty-two](deep6/day22.md), [Day Twenty-three](deep6/day23.md)
+
 ![Step pic](../img/crop.jpg)
 
-## [The Ultimate Jeep Step](../body/step03.md)Is your Jeep awkward to get in? When you start putting bigger tires and a lift kit on your rig, it can be pretty hard to get in and out. Sure, you could put steps on the rig, but they generally hurt your break over angle and they often get damaged four wheeling. Redneck Concepts has come up with a solution to this problem, the The Cowboy StirrUP Step ®. *
+## [The Ultimate Jeep Step](../body/step03.md)
+
+Is your Jeep awkward to get in? When you start putting bigger tires and a lift kit on your rig, it can be pretty hard to get in and out. Sure, you could put steps on the rig, but they generally hurt your break over angle and they often get damaged four wheeling. Redneck Concepts has come up with a solution to this problem, the The Cowboy StirrUP Step ®.
+
 ![console](../img/DCP_0403.jpg)
 
-## [Tuffy Deluxe Stereo Security Console](../body/tuffy03.md)I've had a lot of Jeeps over the years and a lot of radios in those Jeeps. Locking up your valuables and keeping a radio working in the Jeep has always been a challenge. Tuffy Stereo Center Console provides the security for the radio, a secure place for valuables, protection from the elements, and an arm rest! *
+## [Tuffy Deluxe Stereo Security Console](../body/tuffy03.md)
+
+I've had a lot of Jeeps over the years and a lot of radios in those Jeeps. Locking up your valuables and keeping a radio working in the Jeep has always been a challenge. Tuffy Stereo Center Console provides the security for the radio, a secure place for valuables, protection from the elements, and an arm rest!
+
 ![DCP_0414.jpg](../img/DCP_0414.jpg)
 
-## [QuickLever Mirror Release](../body/quicklever03.md)Adjusting the mirrors on your Jeep and moving them out of the way is always been a compromise. If you leave your mirrors loose enough to move them out of the way, they get bumped out of adjustment all the time. If you tighten them up so they don't get bumped, you cannot move them out of the way. The QuickLever mirror release allows you to keep the mirrors tight and still move them out of the way with no tools. *
+## [QuickLever Mirror Release](../body/quicklever03.md)
+
+Adjusting the mirrors on your Jeep and moving them out of the way is always been a compromise. If you leave your mirrors loose enough to move them out of the way, they get bumped out of adjustment all the time. If you tighten them up so they don't get bumped, you cannot move them out of the way. The QuickLever mirror release allows you to keep the mirrors tight and still move them out of the way with no tools.
