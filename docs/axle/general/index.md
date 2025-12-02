@@ -72,9 +72,6 @@ All of the new Jeep models use one piece flanged shafts and many of the older Je
 
 The two piece shafts are weaker at the end than one piece shafts. The hub of the two piece shaft is normally splined and held on with a single nut. Often times the hub will spin on the end of the shaft ruining the outer splines of the shaft and allowing the shaft to spin freely in the hub. This is a common problem with the AMC 20 used in '76-'86 CJs. The solution is normally to upgrade to after market one piece shafts. Some people have reported that torquing the shaft not way beyond specification will help prevent the hub from spinning on the shaft.
 
-### Differentials: Open, Limited Slip & Locking
-
-  * [ Open, Limited Slip, and Locking Differentials](http://www.off-road.com/4x4web/faqs/diffs.md): General information about the different types of differentials.
 
 ### How do I Determine if I have a Locker?
 

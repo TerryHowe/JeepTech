@@ -10,8 +10,6 @@ description: "Description, drive train specifications, and production informatio
 
 The Wrangler (YJ) was produced from 1987 until 1995.
 
-Larry Soo's most excellent [Wrangler (YJ)](https://www.bc4x4.com/faqs/yj.asp) FAQ.
-
 ## Drive Train
 
 ### Engine

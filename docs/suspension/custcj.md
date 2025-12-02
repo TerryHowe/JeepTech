@@ -26,7 +26,7 @@ Mike wanted to keep his shackle reversal while doing the SOA. His original shack
 
 ## Steering:
 
-[![Tie rod and drag link bracket](../img/suspension/custcj/mkcj12s.jpg "Tie rod and drag link bracket")](../img/suspension/custcj/mkcj12.jpg) Mike designed a custom high clearance steering setup and had a friend who is a machinist fabricate it. It uses mid '70s Wagoneer knuckles and flame cut arms for the drag link and tie rod. Mike used the same setup that I used in my [High Clearance Steering](../steer/soasteering.md), except he used 3/4" heim joints with a 40,000 lb tensile strength rating instead of tie rod ends. Mike also used some thick walled DOM tubing for the tie rod and drag link. One end was tapped for right hand threads and one for left to make adjustments easier. The custom steering arms were designed with heim joints in mind, but the pitman arm had to be drilled to fit the bolt.
+[![Tie rod and drag link bracket](../img/suspension/custcj/mkcj12s.jpg "Tie rod and drag link bracket")](../img/suspension/custcj/mkcj12.jpg) Mike designed a custom high clearance steering setup and had a friend who is a machinist fabricate it. It uses mid '70s Wagoneer knuckles and flame cut arms for the drag link and tie rod. Mike used the same setup that I used in my "High Clearance Steering", except he used 3/4" heim joints with a 40,000 lb tensile strength rating instead of tie rod ends. Mike also used some thick walled DOM tubing for the tie rod and drag link. One end was tapped for right hand threads and one for left to make adjustments easier. The custom steering arms were designed with heim joints in mind, but the pitman arm had to be drilled to fit the bolt.
 
 ## Shock towers and shocks:
 

@@ -93,10 +93,6 @@ The DrivenGear turns the speedometer cable. It is driven by the DriveGear inside
 
 If all this seems too complex, get yourself to a speedometer shop. A good speedo shop can recalibrate your speedometer quickly and inexpensively. I know hard core gear heads that don't bother recalibrating their speedometers since it is so cheap and easy to go to the speedometer shop.
 
-## Sources
-
-Some of the information to put together this page was obtained from Dan Barbieri and others on the Jeep mailing list. I also referred to Bruce Bowling's speedometer page [ https://devserve.cebaf.gov/~bowling/speedo1.md ](https://devserve.cebaf.gov/~bowling/speedo1.md)
-
 ## Caveats
 
 The information for '45-'71 CJs is solely based on a transfer case I have from a '49 CJ-3A. It is a dual lever Dana 18 and it looks to me like the parts in the speedometer area are the same for all the early civilian and military Jeeps. The program might not work for later single lever Dana 18 equipped CJs. Also, I have no data on the speedometer gears used with the Quadra-Trac CJs in the late 70s and early Wranglers equipt with the NP207. I assume they are the same, but it is likely, particularly with the Quadra-Trac, that the drive gear may have a different tooth count.
