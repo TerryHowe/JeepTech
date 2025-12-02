@@ -6,10 +6,10 @@ description: "Production figures for Willys trucks from 1945 until 1961."
 ---
 # Willys Overland Production Figures
 
-    From: owner-classicjeep@unix.off-road.com
+    From: owner-classicjeep@unix.example.com
     Orig-From: cwgen@ols.net
     Date: Sat, 07 Mar 1998 20:45:52 -0500
-    To: classicjeep@off-road.com
+    To: classicjeep@example.com
     Subject: W-O Production Figures #1
 
                    YEAR   START    END      UNITS   PER YEAR
@@ -39,10 +39,10 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed to E-Mail, 1998, by:
        Charlie Weaver, Winston-Salem, NC
 
-    From: owner-classicjeep@unix.off-road.com
+    From: owner-classicjeep@unix.example.com
     Orig-From: cwgen@ols.net
     Date: Sat, 07 Mar 1998 21:54:32 -0500
-    To: classicjeep@off-road.com
+    To: classicjeep@example.com
     Subject: W-O Productions Figures #2
 
                       YEAR    START    END     UNITS    PER YEAR
@@ -65,10 +65,10 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed to E-Mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    From: owner-classicjeep@unix.off-road.com
+    From: owner-classicjeep@unix.example.com
     Orig-From: cwgen@ols.net
     Date: Sun, 08 Mar 1998 20:18:35 -0500
-    To: classicjeep@off-road.com
+    To: classicjeep@example.com
     Subject: W-O Production Figures #3
 
                    1951        START     END      UNITS
@@ -120,8 +120,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed to E-Mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Wed Mar 11 13:16:46 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Wed Mar 11 13:16:46 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #4
 
                           1953     START     END      UNITS
@@ -161,9 +161,9 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Thu Mar 12 06:39:02 1998
+    >From owner-classicjeep@unix.example.com Thu Mar 12 06:39:02 1998
     Date: Wed, 11 Mar 1998 17:37:52 -0500
-    To: classicjeep@off-road.com
+    To: classicjeep@example.com
     Subject: W-O Production Figures #5
 
                          1954     START     END      UNITS
@@ -209,8 +209,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Thu Mar 12 22:59:17 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Thu Mar 12 22:59:17 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #6
 
                             1955    START    END      UNITS
@@ -265,8 +265,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Fri Mar 13 23:20:26 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Fri Mar 13 23:20:26 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #7
 
                            1956      START     END     UNITS
@@ -323,8 +323,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Mon Mar 16 12:27:31 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Mon Mar 16 12:27:31 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #8
 
                           1957     START     END      UNITS
@@ -388,8 +388,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Mon Mar 16 21:34:33 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Mon Mar 16 21:34:33 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #9
 
                          1958      START     END      UNITS
@@ -448,8 +448,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     ERRATA; Production List #7 (1957) shows FC 170 Model #
             as 6_51_68 SHOULD BE 6_15_68.
 
-    >From owner-classicjeep@unix.off-road.com Tue Mar 17 21:23:04 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Tue Mar 17 21:23:04 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #10
 
                             1959    START     END      UNITS
@@ -516,8 +516,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Tue Mar 17 23:28:18 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Tue Mar 17 23:28:18 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #11
 
                           1960      START      END        UNITS
@@ -579,8 +579,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Wed Mar 18 21:51:37 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Wed Mar 18 21:51:37 1998
+    To: classicjeep@example.com
     Subject: W-O Production Figures #12 (FINAL)
 
                             1961     START     END       UNITS
@@ -643,8 +643,8 @@ description: "Production figures for Willys trucks from 1945 until 1961."
     Transcribed for E-mail, 1998, by
     Charlie Weaver, Winston-Salem, NC
 
-    >From owner-classicjeep@unix.off-road.com Wed Mar 18 23:07:07 1998
-    To: classicjeep@off-road.com
+    >From owner-classicjeep@unix.example.com Wed Mar 18 23:07:07 1998
+    To: classicjeep@example.com
     Subject: Lists
 
     List #12, and Final one, has been sent. I am now legally
