@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Engine*
+# Project Pieces and Parts - Engine
 by: Terry L. Howe
 
 ![Buick 231 V6](../../img/pieces_engine2.jpg)

@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Twelve Reassemble*
+# Deep CJ-6: Day Twelve Reassemble
 By: Terry L. Howe - 5/2003
 
 ![DCP_0303.jpg](../../img/DCP_0303.jpg)

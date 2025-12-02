@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Ten Color and Clear*
+# Deep CJ-6: Day Ten Color and Clear
 By: Terry L. Howe - 5/2003
 
 ![DCP_0277.jpg](../../img/DCP_0277.jpg)

@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Rear Axle*
+# Project Pieces and Parts - Rear Axle
 by: Terry L. Howe
 
 ![CJ-3A Dana 41](../../img/d41.jpg)

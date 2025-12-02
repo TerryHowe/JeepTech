@@ -1,4 +1,4 @@
-# Tube It Out!*
+# Tube It Out!
 By: Terry L. Howe - 7/2001
 
 ![rockGarden01.jpg](../../img/tn_rockGarden01.jpg)

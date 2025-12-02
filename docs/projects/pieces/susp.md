@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Suspension*
+# Project Pieces and Parts - Suspension
 by: Terry L. Howe
 
 ![Frame ans suspension](../../img/pieces_frame6.jpg)

@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Frame I*
+# Project Pieces and Parts - Frame I
 by: Terry L. Howe
 
 ![Tub, hood, and grill test fit](../../img/pieces_frame5.jpg)

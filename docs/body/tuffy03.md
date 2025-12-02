@@ -1,4 +1,4 @@
-# Stereo Security Center Console*
+# Stereo Security Center Console
 By: Terry L. Howe - 9/2003
 
 ![/img/DCP_0388.jpg](../img/DCP_0388.jpg)

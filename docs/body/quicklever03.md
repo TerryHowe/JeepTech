@@ -1,4 +1,4 @@
-# QuickLever Mirror Release*
+# QuickLever Mirror Release
 By: Terry L. Howe - 10/2003
 
 ![DCP_0412.jpg](../img/DCP_0412.jpg)

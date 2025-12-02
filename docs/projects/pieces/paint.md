@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Paint*
+# Project Pieces and Parts - Paint
 by: Terry L. Howe
 
 ![Painting the flat fender](../../img/pieces_paint01.jpg)

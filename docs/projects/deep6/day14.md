@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Fourteen Dash Wiring*
+# Deep CJ-6: Day Fourteen Dash Wiring
 By: Terry L. Howe - 5/2003
 
 ![DCP_0307.jpg](../../img/DCP_0307.jpg)

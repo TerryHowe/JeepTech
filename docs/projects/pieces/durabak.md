@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Durabak*
+# Project Pieces and Parts - Durabak
 by: Terry L. Howe
 
 ![Durabak](../../img/pieces_durabak01.jpg)

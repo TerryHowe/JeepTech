@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Shift Linkage*
+# Project Pieces and Parts - Shift Linkage
 by: Terry L. Howe
 
 ![Tunnel cover](../../img/pieces_tunnel02.jpg)

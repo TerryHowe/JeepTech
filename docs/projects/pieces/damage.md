@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Damage Report*
+# Project Pieces and Parts - Damage Report
 by: Terry L. Howe
 
 A complete disassembly of this flat fender revealed several problems that were not immediately apparent. The biggest problems are with the tub and the frame. It was quite obvious that the engine was toast from the beginning.

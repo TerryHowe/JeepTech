@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Transmission*
+# Project Pieces and Parts - Transmission
 by: Terry L. Howe
 
 ![Turbo 350 side view](../../img/pieces_trans2.jpg)

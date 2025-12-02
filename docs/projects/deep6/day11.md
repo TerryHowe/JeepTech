@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Eleven This and That*
+# Deep CJ-6: Day Eleven This and That
 By: Terry L. Howe - 5/2003
 
 ![DCP_0301.jpg](../../img/DCP_0301.jpg)

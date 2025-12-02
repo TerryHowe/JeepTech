@@ -1,4 +1,4 @@
-# Project Pieces & Parts: Batteries*
+# Project Pieces & Parts: Batteries
 By: Terry L. Howe - 2/2000
 
 ![Battery tray](../../img/pieces_battery03.jpg)

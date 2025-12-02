@@ -1,4 +1,4 @@
-# The Cowboy StirrUP Step®*
+# The Cowboy StirrUP Step®
 By: Terry L. Howe - 9/2003
 
 ![DCP_0394.jpg](../img/DCP_0394.jpg)

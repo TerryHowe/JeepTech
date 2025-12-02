@@ -1,4 +1,4 @@
-# Electrifying Pieces & Parts*
+# Electrifying Pieces & Parts
 By: Terry L. Howe - 8/2001
 
 ![dash.jpg](../img/dash.jpg)

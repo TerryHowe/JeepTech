@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Off-Your Rockers Corner Guards*
+# Project Pieces and Parts - Off-Your Rockers Corner Guards
 by: Terry L. Howe
 
 ![Off-Your Rockers](../../img/pieces_corner.jpg)

@@ -1,4 +1,4 @@
-# Slamming Gears*
+# Slamming Gears
 By: Terry L. Howe - 1/2002
 
 ![/img/img17.jpg](../../img/img17.jpg)

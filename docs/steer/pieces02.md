@@ -1,4 +1,4 @@
-# Pieces & Parts Steering II: Borgeson*
+# Pieces & Parts Steering II: Borgeson
 By: Terry L. Howe - 9/2001
 
 ![parts.jpg](../img/parts.jpg)

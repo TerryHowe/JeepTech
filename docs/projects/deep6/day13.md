@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Thirteen Power Brake Conversion*
+# Deep CJ-6: Day Thirteen Power Brake Conversion
 By: Terry L. Howe - 5/2003
 
 ![DCP_0305.jpg](../../img/DCP_0305.jpg)

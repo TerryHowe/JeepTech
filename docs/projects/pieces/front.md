@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Front Axle*
+# Project Pieces and Parts - Front Axle
 by: Terry L. Howe
 
 ![Dana 30 converted to disks](../../img/pieces_d30.jpg)

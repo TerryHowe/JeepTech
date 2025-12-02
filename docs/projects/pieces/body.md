@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Body Work*
+# Project Pieces and Parts - Body Work
 by: Terry L. Howe
 
 ![Replacing the floors](../../img/pieces_body1.jpg)

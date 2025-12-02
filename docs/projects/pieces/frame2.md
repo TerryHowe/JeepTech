@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Frame II*
+# Project Pieces and Parts - Frame II
 by: Terry L. Howe
 
 ![New body mounts](../../img/pieces_framea.jpg)

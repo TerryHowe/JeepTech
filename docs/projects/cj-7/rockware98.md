@@ -1,4 +1,4 @@
-# Rock Ware Bumper Review*
+# Rock Ware Bumper Review
 ![Rock Ware bumper in action](../../img/rockware2.jpg)
 
 Rock Ware has recently introduced a stout new bumper for CJs and Wranglers. The bumper integrates a winch mount into the bumper which gives the bumper a very clean appearance. The short and sturdy design is everything a hard core four wheeler would want.

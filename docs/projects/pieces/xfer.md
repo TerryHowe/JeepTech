@@ -1,4 +1,4 @@
-# Project Pieces and Parts - Transfer Case*
+# Project Pieces and Parts - Transfer Case
 by: Terry L. Howe
 
 ![Scout 80 Dana 18](../../img/d1801f.jpg)

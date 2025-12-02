@@ -1,4 +1,4 @@
-# Deep CJ-6: Day Sixteen Seats*
+# Deep CJ-6: Day Sixteen Seats
 By: Terry L. Howe - 5/2003
 
 ![DCP_0316.jpg](../../img/DCP_0316.jpg)
